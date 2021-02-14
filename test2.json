@@ -1,0 +1,91 @@
+{
+    "id": "60275adca4f8a4001b5efde3",
+    "field_16": "02/12/2021",
+    "field_16_raw": {
+        "date": "02/12/2021",
+        "date_formatted": "02/12/2021",
+        "hours": "12",
+        "minutes": "00",
+        "am_pm": "AM",
+        "unix_timestamp": 1613116800000,
+        "iso_timestamp": "2021-02-12T00:00:00.000Z",
+        "timestamp": "02/12/2021 12:00 am",
+        "time": 720
+    },
+    "field_13": "<span class=\"5fbd66ff48c393067a40badd\">Giscome Elementary</span>",
+    "field_13_raw": [
+        {
+            "id": "5fbd66ff48c393067a40badd",
+            "identifier": "Giscome Elementary"
+        }
+    ],
+    "field_13.field_19_raw": {
+        "street": "PO Box 40",
+        "street2": "",
+        "city": "Willow River",
+        "state": "BC",
+        "zip": "V0J 3C0",
+        "country": "",
+        "latitude": 54.0701,
+        "longitude": -122.46647
+    },
+    "field_19_raw": {
+        "street": "PO Box 40",
+        "street2": "",
+        "city": "Willow River",
+        "state": "BC",
+        "zip": "V0J 3C0",
+        "country": "",
+        "latitude": 54.0701,
+        "longitude": -122.46647
+    },
+    "field_13.field_19": "<span id=\"5fbd66ff48c393067a40badd\">PO Box 40<br />Willow River, BC V0J 3C0</span>",
+    "field_19": "<span id=\"5fbd66ff48c393067a40badd\">PO Box 40<br />Willow River, BC V0J 3C0</span>",
+    "field_7": null,
+    "field_13.field_18_raw": [
+        {
+            "id": "5fbd3ea7b091f0067db25557",
+            "identifier": "57"
+        }
+    ],
+    "field_18_raw": [
+        {
+            "id": "5fbd3ea7b091f0067db25557",
+            "identifier": "57"
+        }
+    ],
+    "field_13.field_18": "<span id=\"5fbd66ff48c393067a40badd\"><span class=\"5fbd3ea7b091f0067db25557\">57</span></span>",
+    "field_18": "<span id=\"5fbd66ff48c393067a40badd\"><span class=\"5fbd3ea7b091f0067db25557\">57</span></span>",
+    "field_26": "<span class=\"5fbd562bfc7594001e0f5f29\">Northern Health</span>",
+    "field_26_raw": [
+        {
+            "id": "5fbd562bfc7594001e0f5f29",
+            "identifier": "Northern Health"
+        }
+    ],
+    "field_14": "<span class=\"5fb18efabb91240018d84fc8\">BCCDC Website</span>",
+    "field_14_raw": [
+        {
+            "id": "5fb18efabb91240018d84fc8",
+            "identifier": "BCCDC Website"
+        }
+    ],
+    "field_15": "<p>Feb 4</p>",
+    "field_15_raw": "<p>Feb 4</p>",
+    "field_25": "<p>Exposure 1</p>",
+    "field_25_raw": "<p>Exposure 1</p>",
+    "field_28": "<a class=\"kn-view-asset\" data-field-key=\"field_28\" data-asset-id=\"60275ad6e09154001b09f400\" data-file-name=\"20210212giscomeelementary1bccdc.jpg\" href=\"https://api.knack.com/v1/applications/5faae3b10442ac00165da195/download/asset/60275ad6e09154001b09f400/20210212giscomeelementary1bccdc.jpg\">20210212giscomeelementary1bccdc.jpg</a>",
+    "field_28_raw": {
+        "id": "60275ad6e09154001b09f400",
+        "application_id": "5faae3b10442ac00165da195",
+        "s3": true,
+        "type": "file",
+        "filename": "20210212giscomeelementary1bccdc.jpg",
+        "url": "https://api.knack.com/v1/applications/5faae3b10442ac00165da195/download/asset/60275ad6e09154001b09f400/20210212giscomeelementary1bccdc.jpg",
+        "thumb_url": "",
+        "size": 146705,
+        "field_key": "field_28"
+    },
+    "field_30": "Current",
+    "field_30_raw": "Current"
+}
