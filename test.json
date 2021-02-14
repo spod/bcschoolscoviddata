@@ -1,0 +1,104 @@
+{
+    "id": "602845984f05c4001b3ededd",
+    "field_16": "02/13/2021",
+    "field_16_raw": {
+        "date": "02/13/2021",
+        "date_formatted": "02/13/2021",
+        "hours": "12",
+        "minutes": "00",
+        "am_pm": "AM",
+        "unix_timestamp": 1613203200000,
+        "iso_timestamp": "2021-02-13T00:00:00.000Z",
+        "timestamp": "02/13/2021 12:00 am",
+        "time": 720
+    },
+    "field_13": "<span class=\"5fbd67d248c393067a40bf2d\">Mountain Meadows Elementary</span>",
+    "field_13_raw": [
+        {
+            "id": "5fbd67d248c393067a40bf2d",
+            "identifier": "Mountain Meadows Elementary"
+        }
+    ],
+    "field_13.field_19_raw": {
+        "street": "999 Noons Creek Dr",
+        "street2": "",
+        "city": "Port Moody",
+        "state": "BC",
+        "zip": "V3H 4N3",
+        "country": "",
+        "latitude": 49.2901,
+        "longitude": -122.82289
+    },
+    "field_19_raw": {
+        "street": "999 Noons Creek Dr",
+        "street2": "",
+        "city": "Port Moody",
+        "state": "BC",
+        "zip": "V3H 4N3",
+        "country": "",
+        "latitude": 49.2901,
+        "longitude": -122.82289
+    },
+    "field_13.field_19": "<span id=\"5fbd67d248c393067a40bf2d\">999 Noons Creek Dr<br />Port Moody, BC V3H 4N3</span>",
+    "field_19": "<span id=\"5fbd67d248c393067a40bf2d\">999 Noons Creek Dr<br />Port Moody, BC V3H 4N3</span>",
+    "field_13.field_7_raw": [
+        {
+            "id": "5fbd541ddb9db8067aa8a694",
+            "identifier": "Port Moody"
+        }
+    ],
+    "field_7_raw": [
+        {
+            "id": "5fbd541ddb9db8067aa8a694",
+            "identifier": "Port Moody"
+        }
+    ],
+    "field_13.field_7": "<span id=\"5fbd67d248c393067a40bf2d\"><span class=\"5fbd541ddb9db8067aa8a694\">Port Moody</span></span>",
+    "field_7": "<span id=\"5fbd67d248c393067a40bf2d\"><span class=\"5fbd541ddb9db8067aa8a694\">Port Moody</span></span>",
+    "field_13.field_18_raw": [
+        {
+            "id": "5fb1a04f5b6432001536a0dd",
+            "identifier": "43"
+        }
+    ],
+    "field_18_raw": [
+        {
+            "id": "5fb1a04f5b6432001536a0dd",
+            "identifier": "43"
+        }
+    ],
+    "field_13.field_18": "<span id=\"5fbd67d248c393067a40bf2d\"><span class=\"5fb1a04f5b6432001536a0dd\">43</span></span>",
+    "field_18": "<span id=\"5fbd67d248c393067a40bf2d\"><span class=\"5fb1a04f5b6432001536a0dd\">43</span></span>",
+    "field_26": "<span class=\"5fae0778dea39d0015ddcf76\">Fraser Health Authority</span>",
+    "field_26_raw": [
+        {
+            "id": "5fae0778dea39d0015ddcf76",
+            "identifier": "Fraser Health Authority"
+        }
+    ],
+    "field_14": "<span class=\"5fae0813cf20a20015134160\">Letter to family</span>",
+    "field_14_raw": [
+        {
+            "id": "5fae0813cf20a20015134160",
+            "identifier": "Letter to family"
+        }
+    ],
+    "field_15": "<p>Feb 10, 11</p><p><br /></p>",
+    "field_15_raw": "<p>Feb 10, 11</p><p><br /></p>",
+    "field_25": "<p>Exposure 4</p>",
+    "field_25_raw": "<p>Exposure 4</p>",
+    "field_28": "<a class=\"kn-view-asset\" data-field-key=\"field_28\" data-asset-id=\"60284589bc3817001bf307df\" data-file-name=\"ceccb763ae294700bd3a671dba138ca6.jpeg\" href=\"https: //api.knack.com/v1/applications/5faae3b10442ac00165da195/download/asset/60284589bc3817001bf307df/ceccb763ae294700bd3a671dba138ca6.jpeg\">ceccb763ae294700bd3a671dba138ca6.jpeg</a>",
+    "field_28_raw": {
+        "id": "60284589bc3817001bf307df",
+        "application_id": "5faae3b10442ac00165da195",
+        "s3": true,
+        "type": "file",
+        "filename": "ceccb763ae294700bd3a671dba138ca6.jpeg",
+        "url": "https://api.knack.com/v1/applications/5faae3b10442ac00165da195/download/asset/60284589bc3817001bf307df/ceccb763ae294700bd3a671dba138ca6.jpeg",
+        "thumb_url": "",
+        "size": 694170,
+        "field_key": "field_28"
+    },
+    "field_30": "Current",
+    "field_30_raw": "Current"
+}
