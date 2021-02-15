@@ -89,8 +89,9 @@ class SimpleHTMLDataParser(html.parser.HTMLParser, object):
         return self.data_stack.pop()
 
 
-def esc(field):
-    """Escape csv field, if field contains ',' return '"field"'."""
+def clean(field):
+    """Return stripped and escaped version of field."""
+    field = field.strip()
     if "," in field:
         return f'"{field}"'
     return field
@@ -103,20 +104,20 @@ class CovidEventRecord:
     def _ident(self, field_raw):
         """Extract identifier value for raw field in self.data."""
         if field_raw in self.data and self.data[field_raw] is not None:
-            return esc(self.data.get(field_raw)[0].get("identifier").strip())
+            return clean(self.data.get(field_raw)[0].get("identifier"))
         return ""
 
     def _html(self, field_raw):
         """Extract text from html raw field in self.data."""
         if field_raw in self.data and self.data[field_raw] is not None:
             self.shtmlparser.feed(self.data.get(field_raw))
-            return esc(self.shtmlparser.get_data().strip())
+            return clean(self.shtmlparser.get_data())
         return ""
 
     def __init__(self, data, shtmlparser):
         self.data = data
         self.shtmlparser = shtmlparser
-        self.notification_date = esc(self.data.get("field_16").strip())
+        self.notification_date = clean(self.data.get("field_16"))
         self.school = self._ident("field_13_raw")
         self.city = self._ident("field_7_raw")
         self.school_district = self._ident("field_18_raw")
