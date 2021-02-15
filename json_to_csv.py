@@ -89,45 +89,41 @@ class SimpleHTMLDataParser(html.parser.HTMLParser, object):
         return self.data_stack.pop()
 
 
+def esc(field):
+    """Escape csv field, if field contains ',' return '"field"'."""
+    if "," in field:
+        return f'"{field}"'
+    return field
+
+
 class CovidEventRecord:
 
     """CovidEventRecord - parse a raw json record for an event, __str__ is csv version of record."""
 
+    def _ident(self, field_raw):
+        """Extract identifier value for raw field in self.data."""
+        if field_raw in self.data and self.data[field_raw] is not None:
+            return esc(self.data.get(field_raw)[0].get("identifier").strip())
+        return ""
+
+    def _html(self, field_raw):
+        """Extract text from html raw field in self.data."""
+        if field_raw in self.data and self.data[field_raw] is not None:
+            self.shtmlparser.feed(self.data.get(field_raw))
+            return esc(self.shtmlparser.get_data().strip())
+        return ""
+
     def __init__(self, data, shtmlparser):
         self.data = data
-        self.id = self.data.get("id")
-        self.notification_date = self.data.get("field_16")
-        self.notification_timestamp = self.data.get("field_16_raw", {}).get(
-            "unix_timestamp"
-        )
-        self.school = self.data.get("field_13_raw", [{}])[0].get("identifier")
-        # some records have no city ...
-        self.city = ""
-        if "field_7_raw" in self.data and self.data["field_7_raw"] is not None:
-            self.city = self.data.get("field_7_raw", [{}])[0].get("identifier")
-        self.school_district = self.data.get("field_18_raw", [{}])[0].get("identifier")
-        # some records have no health region ... !
-        self.health_region = ""
-        if "field_26_raw" in self.data and self.data["field_26_raw"] is not None:
-            self.health_region = self.data.get("field_26_raw", [{}])[0].get(
-                "identifier"
-            )
-        # Both exposure dates and extra info have raw html like: <p>Feb 10, 11</p><p><br /></p>
-        # We parse the data out with shtmlparser and if the data contains commas we " quote it
-        # some records have no exposure_dates ...
-        self.exposure_dates = ""
-        if "field_15_raw" in self.data and self.data["field_15_raw"] is not None:
-            shtmlparser.feed(self.data.get("field_15_raw", ""))
-            self.exposure_dates = shtmlparser.get_data()
-            if "," in self.exposure_dates:
-                self.exposure_dates = f'"{self.exposure_dates}"'
-        # some records have no extra info ...
-        self.extra_info = ""
-        if "field_25_raw" in self.data and self.data["field_25_raw"] is not None:
-            shtmlparser.feed(self.data.get("field_25_raw", ""))
-            self.extra_info = shtmlparser.get_data()
-            if "," in self.extra_info:
-                self.extra_info = f'"{self.extra_info}"'
+        self.shtmlparser = shtmlparser
+        self.notification_date = esc(self.data.get("field_16").strip())
+        self.school = self._ident("field_13_raw")
+        self.city = self._ident("field_7_raw")
+        self.school_district = self._ident("field_18_raw")
+        self.health_region = self._ident("field_26_raw")
+        # Both exposure dates and extra info fields may have raw html like: <p>Feb 10, 11</p><p><br /></p>
+        self.exposure_dates = self._html("field_15_raw")
+        self.extra_info = self._html("field_25_raw")
 
     def __str__(self):
         return ", ".join(
