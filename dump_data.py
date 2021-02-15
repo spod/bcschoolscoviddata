@@ -8,6 +8,8 @@
 import json
 import sys
 
+DATA_FILE = "data/bc_school_covid_events_raw_data.json"
+
 # pip install knackpy
 try:
     import knackpy
@@ -33,8 +35,8 @@ raw = []
 for e in events_records:
     raw.append(e.raw)
 
-print("Saving to 'raw_data.json' ...")
-with open("raw_data.json", "w") as f:
+print(f"Saving to '{DATA_FILE}' ...")
+with open(DATA_FILE, "w") as f:
     json.dump(raw, f, indent=2, separators=(",", ": "))
 
 print("Done!")

@@ -22,3 +22,4 @@ Python experiments with the [BC School Covid Tracker](https://bcschoolcovidtrack
 * [facebook.com/BCSchoolCovidTracker](https://www.facebook.com/BCSchoolCovidTracker)
 * [Knack Developer API Docs](https://docs.knack.com/docs/introduction-to-the-api)
 * [Knackpy](https://github.com/cityofaustin/knackpy) & [Knackpy User Guide](https://cityofaustin.github.io/knackpy/docs/user-guide/)
+* [BC OpenData -  Education Analytics BC Schools - Class Size Class Size 2006-07 to 2020-21](https://catalogue.data.gov.bc.ca/dataset/bc-schools-class-size/resource/63e52d04-9431-44ea-93d4-5251e04a239c)
