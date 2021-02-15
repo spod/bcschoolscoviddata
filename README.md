@@ -5,11 +5,11 @@ Python experiments with the [BC School Covid Tracker](https://bcschoolcovidtrack
 * Clone the repo & set up a python virtual env
 * `$ pip install knackpy`
 * `$ python dump_data.py`
-* `$ python json_to_csv.py raw_data.json raw_data.csv`
-* Explore `raw_data.csv` ...
+* `$ python json_to_csv.py data/bc_school_covid_events_raw_data.json data/bc_school_covid_events_raw_data.csv`
+* Explore `data/bc_school_covid_events_raw_data.csv` ...
 
 ## Scripts
-* `dump_data.py` - retrieve all exposure events and save them to `raw_data.json` - note this isn't incremental etc and takes a few seconds to run so don't run it repeatedly or even more than daily!
+* `dump_data.py` - retrieve all exposure events and save them to `data/bc_school_covid_events_raw_data.json` - note this isn't incremental etc and takes a few seconds to run so don't run it repeatedly or even more than daily!
 
 * `json_to_csv.py` - script which parses json output from `dump_data.py` and generate a .csv file for import to excel or other analysis tools
 
