@@ -1,0 +1,6 @@
+black
+numpy
+pandas
+jupyter-core
+jupyter-client
+runipy
