@@ -1,6 +1,7 @@
 #! /usr/bin/env python3
 
 import argparse
+import csv
 import html.parser
 import json
 import sys
@@ -44,27 +45,33 @@ def main():
 
     raw_data = json.load(config.injson)
 
-    # write header
-    config.outcsv.write(
-        ", ".join(
-            [
-                "Notification Date",
-                "School",
-                "City",
-                "School District",
-                "Health Region",
-                "Exposure Dates",
-                "Extra Info",
-            ]
+    writer = csv.writer(config.outcsv)
+    writer.writerow(
+        (
+            "Notification Date",
+            "School",
+            "City",
+            "School District",
+            "Health Region",
+            "Exposure Dates",
+            "Extra Info",
         )
     )
-    config.outcsv.write("\n")
 
     # parse and write out each record
     for record in raw_data:
         pr = CovidEventRecord(record, shtmlparser)
-        config.outcsv.write(str(pr))
-        config.outcsv.write("\n")
+        writer.writerow(
+            (
+                pr.notification_date,
+                pr.school,
+                pr.city,
+                pr.school_district,
+                pr.health_region,
+                pr.exposure_dates,
+                pr.extra_info,
+            )
+        )
 
 
 class SimpleHTMLDataParser(html.parser.HTMLParser, object):
