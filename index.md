@@ -6,4 +6,6 @@ Data from [BC School Covid Tracker](https://bcschoolcovidtracker.knack.com/bc-sc
 * [BC School Covid Exposures Leaderboard (CSV/Excel)](./data/leaderboard.csv) - [Github Table view - searchable](https://github.com/spod/bcschoolscoviddata/blob/gh-pages/data/leaderboard.csv)
 
 
-These files should update automatically every 2 hours.
+These files should update automatically every ~2 hours.
+
+[@ook_ebooks](https://twitter.com/ook_ebooks/)
