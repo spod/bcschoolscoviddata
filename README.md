@@ -1,5 +1,14 @@
 # bcschoolscoviddata
-Python experiments with the [BC School Covid Tracker](https://bcschoolcovidtracker.knack.com/bc-school-covid-tracker#home/)
+
+# [CSV Data files published here](https://spod.github.io/bcschoolscoviddata/)
+
+
+## About
+
+This repository contains python scripts to download and perform some analysis on the BC School Covid Exposure events published to the [BC School Covid Tracker](https://bcschoolcovidtracker.knack.com/bc-school-covid-tracker#home/) by [facebook.com/BCSchoolCovidTracker](https://www.facebook.com/BCSchoolCovidTracker) / [@BCschoolCovid](https://twitter.com/BCschoolCovid).
+
+To support their awesome work [buy a coffee for BC School Covid Tracker](https://ko-fi.com/bcschoolcovidtracker).
+
 
 ## Quick Start
 * Clone the repo & set up a python virtual env
