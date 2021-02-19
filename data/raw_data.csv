@@ -4,6 +4,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/18/2021,Castle Park Elementary,Port Coquitlam,43,Fraser Health Authority,Feb 11,Exposure 2
 02/18/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,"""Feb 10, 12""",Exposure 3
 02/18/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,"""Feb 9, 10, 11, 12""",Exposure 5
+02/18/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 5
 02/18/2021,Cedars Christian School,Prince George,Independent Schools in Northern Health,Northern Health,"""Feb 10, 11, 12""",Exposure 4
 02/18/2021,Prince George Secondary,Prince George,57,Northern Health,"""Feb 11, 12""",Exposure 7
 02/18/2021,Dr Kearney Middle School,,60,Northern Health,Feb 12,Exposure 1
@@ -23,7 +24,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/18/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,"""Feb 10, 11""",Exposure 5
 02/18/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,Feb 17,Exposure 4
 02/18/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,Feb 16,Exposure 3
-02/18/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 5
 02/17/2021,R M Grauer Elementary,Richmond,38,Vancouver Coastal Health,"""Feb 9, 10, and 11""",Exposure 1
 02/17/2021,Walton Elementary,Coquitlam,43,Fraser Health Authority,Feb 11,Exposure 4
 02/17/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 12
