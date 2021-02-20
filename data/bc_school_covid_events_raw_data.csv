@@ -3,7 +3,14 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/19/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,Feb 16,Exposure 7
 02/19/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""Feb 9, 10, and 11""",Exposure 10
 02/19/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,Feb 11,Exposure 15
-02/19/2021,Richard McBride Elementary,New Westminster,40,Vancouver Coastal Health,"""Feb 9, 10, 11, 16, and 17""",Exposure 3
+02/19/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""Feb 9, 10, 11""",Exposure 7
+02/19/2021,Cypress Park Primary,West Vancouver,45,Vancouver Coastal Health,"""Feb 9, 10, 11""",Exposure 1
+02/19/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,Not Provided,Exposure 9
+02/19/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 16
+02/19/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 2
+02/19/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,Feb 16,Exposure 5
+02/19/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17""",Exposure 8
+02/19/2021,Sir Richard McBride Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 9, 10, 11""",Exposure 3
 02/18/2021,Castle Park Elementary,Port Coquitlam,43,Fraser Health Authority,Feb 11,Exposure 2
 02/18/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,"""Feb 10, 12""",Exposure 3
 02/18/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,"""Feb 9, 10, 11, 12""",Exposure 5
@@ -314,7 +321,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/10/2021,R C Macdonald Elementary,Coquitlam,43,Fraser Health Authority,"""Feb 3, 4, 5, and 8""",Exposure 1
 02/10/2021,Ladysmith Secondary School,Ladysmith,68,Vancouver Island Health Authority,Feb 5,Exposure 2
 02/10/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,Feb 8,Exposure 5
-02/10/2021,Mountain Meadows Elementary,Port Moody,43,Fraser Health Authority,Feb 8,Exposure 2
 02/10/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,Feb 8,One full class has been asked to self-isolate
 02/10/2021,Pinetree Secondary,Coquitlam,43,Fraser Health Authority,Feb 5,Exposure 5
 02/10/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,"""Feb 8, 9""",Exposure 13
@@ -330,6 +336,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/10/2021,St Helen's,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""Feb 3, 4, and 5""",Exposure 2
 02/10/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,Feb 3,Exposure 11
 02/10/2021,Timothy Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,Feb 3 and 4,https://bc.ctvnews.ca/mobile/covid-19-outbreaks-declared-at-school-and-child-care-centre-in-fraser-health-region-1.5312418
+02/10/2021,Mountain Meadows Elementary,Port Moody,43,Fraser Health Authority,Feb 8,A full class has been asked to self-isolate (letter is on file)
 02/09/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,Feb 4 and 5,Exposure 18
 02/09/2021,Alouette Elementary,Maple Ridge,42,Fraser Health Authority,Feb 4 and 5,Exposure 3
 02/09/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 1, 2, 3, 4, and 5""",Exposure 11
