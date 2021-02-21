@@ -15,8 +15,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/20/2021,Cougar Canyon Elementary,Delta,37,Fraser Health Authority,Feb 12,We have been informed from a reliable source that this is a different exposure then exposure 2
 02/20/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 3
 02/20/2021,Carson Graham Secondary,North Vancouver,44,Vancouver Coastal Health,Feb 17,Exposure 12
+02/20/2021,Prince Rupert Middle,Prince Rupert,52,Northern Health,Not provided,Exposure 4
 02/20/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,Feb 12,Exposure 5
+02/20/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,Feb 8,Exposure 1
 02/20/2021,Hawthorne Elementary,Delta,37,Fraser Health Authority,Feb 16,Exposure 4
+02/20/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 9, 10, 11, and 16""",Exposure 4
 02/19/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 3
 02/19/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,Feb 16,Exposure 7
 02/19/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""Feb 9, 10, and 11""",Exposure 10
@@ -360,13 +363,13 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/10/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Feb 8,Exposure 31
 02/10/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,Feb 3,Exposure 19
 02/10/2021,North Delta Secondary,Delta,37,Fraser Health Authority,Feb 5,Exposure 14
-02/10/2021,Hellings Elementary,Delta,37,Fraser Health Authority,Feb 4,Exposure 10
 02/10/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,"""Feb 4, 5""",Exposure 9
 02/10/2021,Sherwood Park Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 2, 3, 4, 5""",Exposure 1
 02/10/2021,St Helen's,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""Feb 3, 4, and 5""",Exposure 2
 02/10/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,Feb 3,Exposure 11
 02/10/2021,Timothy Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,Feb 3 and 4,https://bc.ctvnews.ca/mobile/covid-19-outbreaks-declared-at-school-and-child-care-centre-in-fraser-health-region-1.5312418
 02/10/2021,Mountain Meadows Elementary,Port Moody,43,Fraser Health Authority,Feb 8,A full class has been asked to self-isolate (letter is on file)
+02/10/2021,Hellings Elementary,Delta,37,Fraser Health Authority,"""Feb 2, 3, and 4""",This case was confirmed to be a Variant. One close contact has been asked to self isolate and get tested.
 02/09/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,Feb 4 and 5,Exposure 18
 02/09/2021,Alouette Elementary,Maple Ridge,42,Fraser Health Authority,Feb 4 and 5,Exposure 3
 02/09/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 1, 2, 3, 4, and 5""",Exposure 11
