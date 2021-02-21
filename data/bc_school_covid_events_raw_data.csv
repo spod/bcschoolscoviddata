@@ -1,12 +1,13 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 02/21/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 29
 02/21/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,Feb 12 and 16,Exposure 30
+02/21/2021,Timberline Secondary School,Campbell River,72,Vancouver Island Health Authority,"""Feb 16, 17, 18""",Exposure 1
+02/21/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,Feb 16,Exposure 8
+02/21/2021,Heritage Mountain Elementary,Port Moody,43,Fraser Health Authority,Feb 12,Exposure 1
 02/20/2021,Quilchena Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 1, 2, 5, 8, 9, 10, 11""",Exposure 3
 02/20/2021,Stratford Hall,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 16,Different grade to Exposure 2 and we have been informed the case is separate as well.
 02/20/2021,Stratford Hall,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 16,Exposure 2
 02/20/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 9, 10, 11, and 16""",Exposure 4
-02/20/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,Feb 17,Exposure 1
-02/20/2021,Hawthorne Elementary,Delta,37,Fraser Health Authority,Feb 16,Exposure 4
 02/20/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,"""Feb 9, 10, 11, 12, and 16""",Exposure 7
 02/20/2021,Georges P Vanier Secondary,Courtenay,71,Vancouver Island Health Authority,Feb 16 and 17,Exposure 1
 02/20/2021,Windermere Community Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, and 18""",Exposure 4
@@ -22,6 +23,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/20/2021,Prince Rupert Middle,Prince Rupert,52,Northern Health,Not provided,Exposure 4
 02/20/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,Feb 12,Exposure 5
 02/20/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,Feb 8,Exposure 1
+02/20/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,Feb 17,Exposure 1
+02/20/2021,Hawthorne Elementary,Delta,37,Fraser Health Authority,Feb 16,Exposure 4
 02/19/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 3
 02/19/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,Feb 16,Exposure 7
 02/19/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""Feb 9, 10, and 11""",Exposure 10
