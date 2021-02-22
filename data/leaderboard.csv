@@ -65,6 +65,7 @@ Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Au
 Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,9
 École KLO Middle School,23,Interior Health Authority,8
 Chief Dan George Middle,34,Fraser Health Authority,8
+Yale Secondary,34,Fraser Health Authority,8
 Aldergrove Community Secondary,35,Fraser Health Authority,8
 D W Poppy Secondary,35,Fraser Health Authority,8
 Cambridge Elementary,36,Fraser Health Authority,8
@@ -87,7 +88,6 @@ Sardis Elementary,33,Fraser Health Authority,7
 Vedder Middle School,33,Fraser Health Authority,7
 Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,7
 Eugene Reimer Middle School,34,Fraser Health Authority,7
-Yale Secondary,34,Fraser Health Authority,7
 H D Stafford Middle,35,Fraser Health Authority,7
 Langley Secondary,35,Fraser Health Authority,7
 Brookside Elementary,36,Fraser Health Authority,7
@@ -109,6 +109,7 @@ Sentinel Secondary,45,Vancouver Coastal Health,7
 Prince George Secondary,57,Northern Health,7
 Nanaimo District Secondary,68,Vancouver Island Health Authority,7
 Caledonia Secondary,82,Northern Health,7
+Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 Aberdeen Hall Preparatory School (Junior School),23,Interior Health Authority,6
 Dave Kandal Elementary School,34,Fraser Health Authority,6
@@ -139,7 +140,6 @@ Whistler Secondary,48,Vancouver Coastal Health,6
 Charles Hays Secondary,52,Northern Health,6
 Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
-Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,6
 Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -896,6 +896,7 @@ South Broadview Elementary,83,Interior Health Authority,1
 Zeballos Elementary,84,Vancouver Island Health Authority,1
 Fraser Lake Elem-Secondary,91,Northern Health,1
 Nisga'a Elementary Secondary,92,Northern Health,1
+Andre-Piolat,93,Vancouver Coastal Health,1
 La Verendrye,93,Fraser Health Authority,1
 de l'Anse-au-sable,93,Interior Health Authority,1
 des Glaciers,93,Interior Health Authority,1
