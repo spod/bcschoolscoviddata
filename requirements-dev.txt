@@ -4,3 +4,4 @@ pandas
 jupyter-core
 jupyter-client
 runipy
+beautifulsoup4
