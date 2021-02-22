@@ -10,7 +10,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/21/2021,Kerrisdale Annex,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17""",Exposure 1
 02/21/2021,David Oppenheimer Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 17, 18, 19""",Exposure 9
 02/21/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,Feb 17,Exposure 6
-02/21/2021,Glacier View Secondary Centre,Courtenay,71,Vancouver Island Health Authority,"""Feb 17, 18""",Exposure 1
 02/21/2021,Boundary Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 17, 18, 19""",Exposure 1
 02/21/2021,Langley Secondary,Langley,35,Fraser Health Authority,Feb 17,Exposure 8
 02/21/2021,Ladysmith Secondary School,Ladysmith,68,Vancouver Island Health Authority,"""Feb 16, 17, 18""",https://www.cheknews.ca/additional-covid-19-exposures-reported-at-ladysmith-secondary-school-745793/
@@ -18,19 +17,26 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/21/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""Feb 11, 12""",2 classes have been asked to self isolate. We have the letter on file.
 02/21/2021,Chemainus Secondary,Chemainus,79,Vancouver Island Health Authority,"""Feb 8, 16, 17, 18""",Exposure 3
 02/21/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Feb 16,Exposure 2
+02/21/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 10
 02/21/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 18, 19""",Exposure 1
+02/21/2021,Brookswood Secondary,Langley,35,Fraser Health Authority,Feb 8,Exposure 11
+02/21/2021,North Ridge Elementary (Surrey),Surrey,36,Fraser Health Authority,Feb 16,Exposure 10
+02/21/2021,McLeod Road Traditional,Surrey,36,Fraser Health Authority,Feb 12,Exposure 3
+02/21/2021,Dr Kearney Middle School,,60,Northern Health,Feb 11 and 12,Exposure 2
+02/21/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,Feb 16,Exposure 5
+02/21/2021,Arrow Heights Elementary,Revelstoke,19,Interior Health Authority,Feb 12,Exposure 3
+02/21/2021,Glacier View Secondary Centre,Courtenay,71,Vancouver Island Health Authority,"""Feb 17, 18""",2 individuals have been asked to self-isolate (document on file)
+02/21/2021,Delta Christian School,Delta,37,Fraser Health Authority,Not provided,Exposure 1
 02/20/2021,Quilchena Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 1, 2, 5, 8, 9, 10, 11""",Exposure 3
 02/20/2021,Stratford Hall,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 16,Different grade to Exposure 2 and we have been informed the case is separate as well.
 02/20/2021,Stratford Hall,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 16,Exposure 2
 02/20/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 9, 10, 11, and 16""",Exposure 4
 02/20/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,"""Feb 9, 10, 11, 12, and 16""",Exposure 7
-02/20/2021,Georges P Vanier Secondary,Courtenay,71,Vancouver Island Health Authority,Feb 16 and 17,Exposure 1
 02/20/2021,Windermere Community Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, and 18""",Exposure 4
 02/20/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""Jan 26, 27, 28, 29, Feb 1, 2, 3, 4, 5, and 8""",This case was confirmed to be the UK Variant B117. Three school community members have been asked to self isolate and get tested.
 02/20/2021,Queen Mary Community Elementary,North Vancouver,44,Vancouver Coastal Health,Feb 17,Exposure 3
 02/20/2021,Glanford Middle School,Victoria,61,Vancouver Island Health Authority,"""Feb 8, 9, 10, 11 & 17""",Exposure 1
 02/20/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,Feb 16,Exposure 9
-02/20/2021,Ecole Glenayre Elementary,Port Moody,43,Fraser Health Authority,Not provided,Exposure 4
 02/20/2021,John Norquay Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 2
 02/20/2021,Cougar Canyon Elementary,Delta,37,Fraser Health Authority,Feb 12,We have been informed from a reliable source that this is a different exposure then exposure 2
 02/20/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 3
@@ -38,15 +44,16 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/20/2021,Prince Rupert Middle,Prince Rupert,52,Northern Health,Not provided,Exposure 4
 02/20/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,Feb 12,Exposure 5
 02/20/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,Feb 8,Exposure 1
-02/20/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,Feb 17,Exposure 1
 02/20/2021,Hawthorne Elementary,Delta,37,Fraser Health Authority,Feb 16,Exposure 4
+02/20/2021,Ecole Glenayre Elementary,Port Moody,43,Fraser Health Authority,Feb 16,Exposure 4
+02/20/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,Feb 17,21 Individuals have been asked to self-isolate (document on file)
+02/20/2021,Georges P Vanier Secondary,Courtenay,71,Vancouver Island Health Authority,Feb 16 and 17,61 individuals have been asked to self-isolate for 2 weeks (document on file)
 02/19/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 3
 02/19/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,Feb 16,Exposure 7
 02/19/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""Feb 9, 10, and 11""",Exposure 10
 02/19/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,Feb 11,Exposure 15
 02/19/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""Feb 9, 10, 11""",Exposure 7
 02/19/2021,Cypress Park Primary,West Vancouver,45,Vancouver Coastal Health,"""Feb 9, 10, 11""",Exposure 1
-02/19/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,Not Provided,Exposure 9
 02/19/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 16
 02/19/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,"""Feb 16, 17, 18""",Exposure 2
 02/19/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,Feb 16,Exposure 5
@@ -64,6 +71,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/19/2021,Crescent Park Elementary (Dawson Creek),Dawson Creek,59,Northern Health,Feb 10,Exposure 2
 02/19/2021,Spectrum Program,Vancouver,39,Vancouver Coastal Health,"""Feb 9, 10""",Exposure 1
 02/19/2021,Surrey Muslim School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Feb 9, 10, and 11""",Exposure 4
+02/19/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,Feb 11 and 12 (Dated on the BCCDC webpage),Exposure 9
 02/18/2021,Castle Park Elementary,Port Coquitlam,43,Fraser Health Authority,Feb 11,Exposure 2
 02/18/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,"""Feb 10, 12""",Exposure 3
 02/18/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,"""Feb 9, 10, 11, 12""",Exposure 5
@@ -83,10 +91,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/18/2021,Carisbrooke Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 10, 11""",Exposure 3
 02/18/2021,John MacLure Community School,Abbotsford,34,Fraser Health Authority,Feb 5,Exposure 2
 02/18/2021,Arrow Heights Elementary,Revelstoke,19,Interior Health Authority,"""Feb 9, 10, 11, and 16""",Exposure 2
-02/18/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,"""Feb 10, 11""",Exposure 5
 02/18/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,Feb 17,Exposure 4
 02/18/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,Feb 16,Exposure 3
 02/18/2021,Carihi Secondary,Campbell River,72,Vancouver Island Health Authority,"""Feb 10, 11 and/or 16""",One class has been asked to self-isolate (Documentation on file) A news article posted to our FB page indicates it is a PE class.
+02/18/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,"""Feb 10, 11""",Variant case detected.
 02/17/2021,R M Grauer Elementary,Richmond,38,Vancouver Coastal Health,"""Feb 9, 10, and 11""",Exposure 1
 02/17/2021,Walton Elementary,Coquitlam,43,Fraser Health Authority,Feb 11,Exposure 4
 02/17/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,Feb 11 and 12,Exposure 12
@@ -242,7 +250,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/13/2021,Twelfth Avenue Elementary,Burnaby,41,Fraser Health Authority,"""Feb 8, 9, and 10""",Exposure 2
 02/13/2021,Mountain Meadows Elementary,Port Moody,43,Fraser Health Authority,"""Feb 10, 11""",Exposure 4
 02/13/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,Feb 8 and 10,Exposure 3
-02/13/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,Feb 8,Exposure 4
 02/13/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,"""Feb 8, 9, and 10""",Exposure 27
 02/13/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,Feb 8,Exposure 21
 02/13/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""Feb 10, 11""",Exposure 8
@@ -270,6 +277,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/13/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""Feb 8, 9, 10""",One full class has been asked to self-isolate (Documentation on file)
 02/13/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,Feb 9,Exposure 3
 02/13/2021,Handsworth Secondary,North Vancouver,44,Vancouver Coastal Health,"""Feb 8, 10""",Exposure 9
+02/13/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,Feb 8,Variant case detected.
 02/12/2021,Bayview Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Feb 4, 5, 8, and 9""",Exposure 5
 02/12/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,"""Feb 8, 9""",Exposure 14
 02/12/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Feb 8,Exposure 11
@@ -277,7 +285,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/12/2021,Ecole Seaforth Elementary,Burnaby,41,Fraser Health Authority,"""Feb 8, 9, 10""",Exposure 2
 02/12/2021,Arrow Heights Elementary,Revelstoke,19,Interior Health Authority,"""Feb 8, 9""",Exposure 1
 02/12/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,"""Feb 8, 9, 10""",Exposure 4
-02/12/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,Feb 8,Exposure 7
 02/12/2021,Douglas Road Elementary,Burnaby,41,Fraser Health Authority,"""Feb 8, 9""",Exposure 1
 02/12/2021,Sullivan Elementary,Surrey,36,Fraser Health Authority,Feb 8 and 9,Exposure 1
 02/12/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,"""Feb 8, 9, and 10""",Exposure 15
@@ -307,6 +314,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/12/2021,Ecole Glenayre Elementary,Port Moody,43,Fraser Health Authority,Feb 9 and 10,Exposure 2
 02/12/2021,Langley Secondary,Langley,35,Fraser Health Authority,"""Feb 1, 3, 4, 5 & 8""",Exposure 7
 02/12/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,"""Feb 3, 4, 5, 8, and 9""",This case was confirmed to be the UK Variant B117. 2 Classes are self-isolating and have been instructed to get tested. (Letter on File)
+02/12/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,Feb 8,Variant of concern has been detected.
 02/11/2021,Elsie Roy Elementary,Vancouver,39,Vancouver Coastal Health,Feb 8 and 9,Exposure 3
 02/11/2021,St Edmund's,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 8,Exposure 2
 02/11/2021,Capitol Hill Elementary,Burnaby,41,Fraser Health Authority,Feb 8,Exposure 2
@@ -323,7 +331,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/11/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Feb 8,Exposure 10
 02/11/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,Feb 4,Exposure 11
 02/11/2021,Laity View Elementary,Maple Ridge,42,Fraser Health Authority,Feb 5,Exposure 2
-02/11/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""Feb 4, 5""",Exposure 6
 02/11/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,Feb 5,Exposure 2
 02/11/2021,Yorkson Creek Middle School,Langley,35,Fraser Health Authority,Feb 8,Exposure 3
 02/11/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""Feb 8, 9""",Exposure 7
@@ -367,6 +374,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/11/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,Feb 5,Exposure 12
 02/11/2021,Fraser Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Feb 8 and 9 (On the BCCDC webpage),Exposure 2
 02/11/2021,Thornhill Elementary,Terrace,82,Northern Health,"""Feb 2, 3""",Exposure 1
+02/11/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""Feb 4, 5""",Variant of concern has been detected.
 02/10/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Feb 5,Exposure 38
 02/10/2021,Brooke Elementary,Delta,37,Fraser Health Authority,"""Feb 1, 2, and 3""",Exposure 4
 02/10/2021,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,"""Feb 3, 4, and 5""",Exposure 4
