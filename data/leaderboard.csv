@@ -140,6 +140,7 @@ Argyle Secondary,44,Vancouver Coastal Health,6
 Whistler Secondary,48,Vancouver Coastal Health,6
 Charles Hays Secondary,52,Northern Health,6
 Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
+Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -190,7 +191,6 @@ Dawson Creek Secondary,59,Northern Health,5
 Bayview Elementary,68,Vancouver Island Health Authority,5
 Valleyview Secondary,73,Interior Health Authority,5
 des Pionniers-de-Maillardville,93,Fraser Health Authority,5
-Notre Dame Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 Diamond School,Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -278,6 +278,7 @@ Fort St James Secondary,91,Northern Health,4
 Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,4
+Stratford Hall,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,4
 British Columbia Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
@@ -398,7 +399,6 @@ Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal He
 Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,3
-Stratford Hall,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Holy Cross Regional High School,Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian Secondary,Independent Schools in Fraser Health,Fraser Health Authority,3
@@ -604,7 +604,7 @@ White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health 
 Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,2
 St Mary's Catholic Independent,Independent Schools in Interior Health,Interior Health Authority,2
 Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
-Notre Dame,Independent Schools in Northern Health,Northern Health,2
+Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,2
 Sacred Heart,Independent Schools in Northern Health,Northern Health,2
 Rossland Summit School,20,Interior Health Authority,1
 Stanley Humphries Secondary,20,Interior Health Authority,1
