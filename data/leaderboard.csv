@@ -40,11 +40,11 @@ David Brankin Elementary,36,Fraser Health Authority,11
 Semiahmoo Secondary,36,Fraser Health Authority,11
 Woodward Hill Elementary,36,Fraser Health Authority,11
 Killarney Secondary,39,Vancouver Coastal Health,11
+Ecole Glenbrook Middle School,40,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
 North Ridge Elementary (Surrey),36,Fraser Health Authority,10
 Westerman Elementary,36,Fraser Health Authority,10
 Hellings Elementary,37,Fraser Health Authority,10
-Ecole Glenbrook Middle School,40,Fraser Health Authority,10
 Centennial Secondary School,43,Fraser Health Authority,10
 Handsworth Secondary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
@@ -275,6 +275,7 @@ Thornhill Primary,82,Northern Health,4
 Uplands Elementary,82,Northern Health,4
 South Canoe Outdoor learning school,83,Interior Health Authority,4
 Fort St James Secondary,91,Northern Health,4
+Secondaire Jules-Verne,93,Vancouver Coastal Health,4
 Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,4
@@ -393,7 +394,6 @@ David Hoy Elementary,91,Northern Health,3
 Decker Lake Elementary,91,Northern Health,3
 William Konkin Elementary,91,Northern Health,3
 Gabrielle-Roy,93,Fraser Health Authority,3
-Secondaire Jules-Verne,93,Vancouver Coastal Health,3
 Collingwood School (Wentworth Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,3
@@ -941,6 +941,7 @@ Sk'elep School of Excellence,Independent Schools in Interior Health,Interior Hea
 St Ann's Academy,Independent Schools in Interior Health,Interior Health Authority,1
 Sxoxomic Community School,Independent Schools in Interior Health,Interior Health Authority,1
 The Fernie Academy,Independent Schools in Interior Health,Interior Health Authority,1
+Aspengrove School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Shawnigan Lake,Independent Schools in Island Health,Vancouver Island Health Authority,1
