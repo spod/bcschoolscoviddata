@@ -27,11 +27,11 @@ Cougar Creek Elementary,36,Fraser Health Authority,14
 Burnaby North Secondary,41,Fraser Health Authority,14
 Byrne Creek Community Secondary,41,Fraser Health Authority,14
 Rutland Senior Secondary,23,Interior Health Authority,13
+North Surrey Secondary,36,Fraser Health Authority,13
 Delview Secondary,37,Fraser Health Authority,13
 Sa-hali Secondary,73,Interior Health Authority,13
 W J Mouat Secondary,34,Fraser Health Authority,12
 Kwantlen Park Secondary,36,Fraser Health Authority,12
-North Surrey Secondary,36,Fraser Health Authority,12
 T E Scott Elementary,36,Fraser Health Authority,12
 Chalmers Elementary,37,Fraser Health Authority,12
 Carson Graham Secondary,44,Vancouver Coastal Health,12
@@ -43,6 +43,7 @@ Killarney Secondary,39,Vancouver Coastal Health,11
 Ecole Glenbrook Middle School,40,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
 North Ridge Elementary (Surrey),36,Fraser Health Authority,10
+Rosemary Heights Elementary,36,Fraser Health Authority,10
 Westerman Elementary,36,Fraser Health Authority,10
 Hellings Elementary,37,Fraser Health Authority,10
 Centennial Secondary School,43,Fraser Health Authority,10
@@ -54,7 +55,6 @@ GW Graham Secondary,33,Fraser Health Authority,9
 Promontory Heights Community Elementary,33,Fraser Health Authority,9
 Sardis Secondary,33,Fraser Health Authority,9
 Georges Vanier Elementary,36,Fraser Health Authority,9
-Rosemary Heights Elementary,36,Fraser Health Authority,9
 Sunrise Ridge Elementary,36,Fraser Health Authority,9
 McCloskey Elementary,37,Fraser Health Authority,9
 Sands Secondary,37,Fraser Health Authority,9
@@ -107,6 +107,7 @@ Gleneagle Secondary,43,Fraser Health Authority,7
 Minnekhada Middle School,43,Fraser Health Authority,7
 Summit Middle School,43,Fraser Health Authority,7
 Sentinel Secondary,45,Vancouver Coastal Health,7
+Charles Hays Secondary,52,Northern Health,7
 Prince George Secondary,57,Northern Health,7
 Nanaimo District Secondary,68,Vancouver Island Health Authority,7
 Caledonia Secondary,82,Northern Health,7
@@ -138,7 +139,6 @@ Pinetree Secondary,43,Fraser Health Authority,6
 Terry Fox Secondary,43,Fraser Health Authority,6
 Argyle Secondary,44,Vancouver Coastal Health,6
 Whistler Secondary,48,Vancouver Coastal Health,6
-Charles Hays Secondary,52,Northern Health,6
 Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
@@ -221,6 +221,7 @@ K B Woodward Elementary,36,Fraser Health Authority,4
 M B Sanford Elementary,36,Fraser Health Authority,4
 Surrey Centre Elementary,36,Fraser Health Authority,4
 Brooke Elementary,37,Fraser Health Authority,4
+Cougar Canyon Elementary,37,Fraser Health Authority,4
 Hawthorne Elementary,37,Fraser Health Authority,4
 A.R. MacNeill Secondary,38,Vancouver Coastal Health,4
 H.J. Cambie Secondary School,38,Vancouver Coastal Health,4
@@ -237,6 +238,7 @@ Windermere Community Secondary,39,Vancouver Coastal Health,4
 Fraser River Middle,40,Fraser Health Authority,4
 Queensborough Middle School,40,Fraser Health Authority,4
 Armstrong Elementary (Burnaby),41,Fraser Health Authority,4
+Douglas Road Elementary,41,Fraser Health Authority,4
 Glenwood Elementary (Burnaby),41,Fraser Health Authority,4
 Twelfth Avenue Elementary,41,Fraser Health Authority,4
 Maple Ridge Secondary,42,Fraser Health Authority,4
@@ -333,7 +335,6 @@ Prince Charles Elementary (Surrey),36,Fraser Health Authority,3
 Senator Reid Elementary,36,Fraser Health Authority,3
 Serpentine Heights Elementary,36,Fraser Health Authority,3
 White Rock Elementary,36,Fraser Health Authority,3
-Cougar Canyon Elementary,37,Fraser Health Authority,3
 Donald E McKay Elementary (Richmond),38,Vancouver Coastal Health,3
 Hamilton Elementary,38,Vancouver Coastal Health,3
 Kingswood Elementary,38,Vancouver Coastal Health,3
@@ -351,7 +352,6 @@ St John's School,39,Vancouver Coastal Health,3
 University Hill Secondary,39,Vancouver Coastal Health,3
 Queen Elizabeth Elementary,40,Fraser Health Authority,3
 Cameron Elementary,41,Fraser Health Authority,3
-Douglas Road Elementary,41,Fraser Health Authority,3
 Lakeview Elementary,41,Fraser Health Authority,3
 Westridge Elementary,41,Fraser Health Authority,3
 Windsor Elementary,41,Fraser Health Authority,3
@@ -687,6 +687,7 @@ TREES - Teen Recreation and Educational School,36,Fraser Health Authority,1
 Tamanawis Secondary,36,Vancouver Coastal Health,1
 Woodland Park Elementary,36,Fraser Health Authority,1
 Burnsview Secondary,37,Fraser Health Authority,1
+Cliff Drive Elementary,37,Fraser Health Authority,1
 Delta Christian School,37,Fraser Health Authority,1
 Pinewood Elementary (Delta),37,Fraser Health Authority,1
 Garden City Elementary,38,Vancouver Coastal Health,1
