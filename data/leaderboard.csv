@@ -2,8 +2,8 @@ School,School District,Health Region,Exposures
 Panorama Ridge Secondary,36,Fraser Health Authority,38
 Tamanawis Secondary,36,Fraser Health Authority,34
 Frank Hurt Secondary,36,Fraser Health Authority,32
+Queen Elizabeth Secondary,36,Fraser Health Authority,30
 Sullivan Heights Secondary,36,Fraser Health Authority,30
-Queen Elizabeth Secondary,36,Fraser Health Authority,29
 Enver Creek Secondary,36,Fraser Health Authority,28
 Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,25
 L A Matheson Secondary,36,Fraser Health Authority,21
@@ -111,6 +111,7 @@ Charles Hays Secondary,52,Northern Health,7
 Prince George Secondary,57,Northern Health,7
 Nanaimo District Secondary,68,Vancouver Island Health Authority,7
 Caledonia Secondary,82,Northern Health,7
+Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,7
 Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 Aberdeen Hall Preparatory School (Junior School),23,Interior Health Authority,6
@@ -140,7 +141,6 @@ Terry Fox Secondary,43,Fraser Health Authority,6
 Argyle Secondary,44,Vancouver Coastal Health,6
 Whistler Secondary,48,Vancouver Coastal Health,6
 Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
-Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -175,6 +175,7 @@ Heath Traditional Elementary,37,Fraser Health Authority,5
 Hugh McRoberts Secondary,38,Vancouver Coastal Health,5
 Britannia Community Secondary,39,Vancouver Coastal Health,5
 Lord Roberts Elementary,39,Vancouver Coastal Health,5
+Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
 Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
 Burnaby South Secondary,41,Fraser Health Authority,5
 Ecole Alpha Secondary,41,Fraser Health Authority,5
@@ -231,7 +232,6 @@ Admiral Seymour Elementary,39,Vancouver Coastal Health,4
 Elsie Roy Elementary,39,Vancouver Coastal Health,4
 Lord Tennyson Elementary,39,Vancouver Coastal Health,4
 Magee Secondary,39,Vancouver Coastal Health,4
-Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,4
 Sir Winston Churchill Secondary,39,Vancouver Coastal Health,4
 Templeton Secondary,39,Vancouver Coastal Health,4
 Windermere Community Secondary,39,Vancouver Coastal Health,4
@@ -455,6 +455,7 @@ Sullivan Elementary,36,Fraser Health Authority,2
 Sunnyside Elementary,36,Fraser Health Authority,2
 William F. Davidson Elementary,36,Fraser Health Authority,2
 William Watson Elementary,36,Fraser Health Authority,2
+Cliff Drive Elementary,37,Fraser Health Authority,2
 Devon Gardens Elementary,37,Fraser Health Authority,2
 Gibson Elementary (Delta),37,Fraser Health Authority,2
 Gray Elementary,37,Fraser Health Authority,2
@@ -687,7 +688,6 @@ TREES - Teen Recreation and Educational School,36,Fraser Health Authority,1
 Tamanawis Secondary,36,Vancouver Coastal Health,1
 Woodland Park Elementary,36,Fraser Health Authority,1
 Burnsview Secondary,37,Fraser Health Authority,1
-Cliff Drive Elementary,37,Fraser Health Authority,1
 Delta Christian School,37,Fraser Health Authority,1
 Pinewood Elementary (Delta),37,Fraser Health Authority,1
 Garden City Elementary,38,Vancouver Coastal Health,1
