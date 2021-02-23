@@ -27,18 +27,18 @@ Cougar Creek Elementary,36,Fraser Health Authority,14
 Burnaby North Secondary,41,Fraser Health Authority,14
 Byrne Creek Community Secondary,41,Fraser Health Authority,14
 Rutland Senior Secondary,23,Interior Health Authority,13
+Kwantlen Park Secondary,36,Fraser Health Authority,13
 North Surrey Secondary,36,Fraser Health Authority,13
 Delview Secondary,37,Fraser Health Authority,13
 Sa-hali Secondary,73,Interior Health Authority,13
 W J Mouat Secondary,34,Fraser Health Authority,12
-Kwantlen Park Secondary,36,Fraser Health Authority,12
 T E Scott Elementary,36,Fraser Health Authority,12
+Woodward Hill Elementary,36,Fraser Health Authority,12
 Chalmers Elementary,37,Fraser Health Authority,12
 Carson Graham Secondary,44,Vancouver Coastal Health,12
 Brookswood Secondary,35,Fraser Health Authority,11
 David Brankin Elementary,36,Fraser Health Authority,11
 Semiahmoo Secondary,36,Fraser Health Authority,11
-Woodward Hill Elementary,36,Fraser Health Authority,11
 Killarney Secondary,39,Vancouver Coastal Health,11
 Ecole Glenbrook Middle School,40,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
@@ -46,6 +46,7 @@ North Ridge Elementary (Surrey),36,Fraser Health Authority,10
 Rosemary Heights Elementary,36,Fraser Health Authority,10
 Westerman Elementary,36,Fraser Health Authority,10
 Hellings Elementary,37,Fraser Health Authority,10
+Gladstone Secondary,39,Vancouver Coastal Health,10
 Centennial Secondary School,43,Fraser Health Authority,10
 Handsworth Secondary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
@@ -60,8 +61,8 @@ Sunrise Ridge Elementary,36,Fraser Health Authority,9
 McCloskey Elementary,37,Fraser Health Authority,9
 Sands Secondary,37,Fraser Health Authority,9
 Seaquam Secondary,37,Fraser Health Authority,9
-Gladstone Secondary,39,Vancouver Coastal Health,9
 Heritage Woods Secondary,43,Fraser Health Authority,9
+Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,9
 Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,9
 Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,9
 École KLO Middle School,23,Interior Health Authority,8
@@ -111,7 +112,6 @@ Charles Hays Secondary,52,Northern Health,7
 Prince George Secondary,57,Northern Health,7
 Nanaimo District Secondary,68,Vancouver Island Health Authority,7
 Caledonia Secondary,82,Northern Health,7
-Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,7
 Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 Aberdeen Hall Preparatory School (Junior School),23,Interior Health Authority,6
@@ -141,6 +141,7 @@ Scott Creek Middle School,43,Fraser Health Authority,6
 Terry Fox Secondary,43,Fraser Health Authority,6
 Argyle Secondary,44,Vancouver Coastal Health,6
 Whistler Secondary,48,Vancouver Coastal Health,6
+Margaret Ma Murray Community School,60,Northern Health,6
 Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
@@ -189,12 +190,12 @@ Ecole Pauline Johnson Elementary,45,Vancouver Coastal Health,5
 Conrad Street Elementary,52,Northern Health,5
 Heather Park Elementary,57,Northern Health,5
 Dawson Creek Secondary,59,Northern Health,5
-Margaret Ma Murray Community School,60,Northern Health,5
 Bayview Elementary,68,Vancouver Island Health Authority,5
 Valleyview Secondary,73,Interior Health Authority,5
 des Pionniers-de-Maillardville,93,Fraser Health Authority,5
 St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,5
+Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,5
 Diamond School,Independent Schools in Fraser Health,Fraser Health Authority,5
 Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,5
 Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -284,7 +285,6 @@ Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coast
 St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 Stratford Hall,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
-Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,4
 British Columbia Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 Cornerstone Montessori School,Independent Schools in Fraser Health,Fraser Health Authority,4
 Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,4
@@ -346,6 +346,7 @@ William Cook Elementary,38,Vancouver Coastal Health,3
 Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,3
 False Creek Elementary,39,Vancouver Coastal Health,3
 John Henderson Elementary,39,Vancouver Coastal Health,3
+John Norquay Elementary,39,Vancouver Coastal Health,3
 King George Secondary,39,Vancouver Coastal Health,3
 Quilchena Elementary,39,Vancouver Coastal Health,3
 Sir Charles Kingsford-Smith,39,Vancouver Coastal Health,3
@@ -401,6 +402,8 @@ Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Holy Cross Regional High School,Independent Schools in Fraser Health,Fraser Health Authority,3
+Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
+St Helen's,Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian Secondary,Independent Schools in Fraser Health,Fraser Health Authority,3
 St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,3
@@ -485,7 +488,6 @@ Edith Cavell Elementary,39,Vancouver Coastal Health,2
 General Gordon Elementary,39,Vancouver Coastal Health,2
 Hastings Community Elementary,39,Vancouver Coastal Health,2
 J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,2
-John Norquay Elementary,39,Vancouver Coastal Health,2
 L'Ecole Billingue Elementary,39,Vancouver Coastal Health,2
 Lord Byng Secondary,39,Vancouver Coastal Health,2
 Lord Kitchener Elementary,39,Vancouver Coastal Health,2
@@ -498,6 +500,7 @@ Shaughnessy Elementary,39,Vancouver Coastal Health,2
 Sir Alexander Mackenzie Elementary,39,Vancouver Coastal Health,2
 Sir James Douglas Annex,39,Vancouver Coastal Health,2
 Sir Sandford Fleming Elementary,39,Vancouver Coastal Health,2
+Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,2
 Thunderbird Elementary,39,Vancouver Coastal Health,2
 Tyee Elementary,39,Vancouver Coastal Health,2
 Walter Moberly Elementary,39,Vancouver Coastal Health,2
@@ -595,11 +598,9 @@ Global Montessori,Independent Schools in Fraser Health,Fraser Health Authority,2
 Holy Cross Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,2
 Khalsa Elementary School Old Yale Road,Independent Schools in Fraser Health,Fraser Health Authority,2
 Langley Christian (Middle and High),Independent Schools in Fraser Health,Fraser Health Authority,2
-Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,2
 Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,2
 Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,2
 Squiala Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
-St Helen's,Independent Schools in Fraser Health,Fraser Health Authority,2
 St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,2
 White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,2
 Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,2
@@ -728,7 +729,6 @@ Renfrew Community Elementary,39,Vancouver Coastal Health,1
 Shalhevet Girls High School,39,Vancouver Coastal Health,1
 Simon Fraser Elementary,39,Vancouver Coastal Health,1
 Sir Matthew Begbie Elementary,39,Vancouver Coastal Health,1
-Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,1
 Spectrum Program,39,Vancouver Coastal Health,1
 St George's School,39,Vancouver Coastal Health,1
 Total Education,39,Vancouver Coastal Health,1
@@ -909,6 +909,7 @@ La Verendrye,93,Fraser Health Authority,1
 de l'Anse-au-sable,93,Interior Health Authority,1
 des Glaciers,93,Interior Health Authority,1
 des Navigateurs,93,Vancouver Coastal Health,1
+Brainboost Education,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 Family Montessori School Society - Sitka Square,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 Holy Trinity School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 Little Flower Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,1
