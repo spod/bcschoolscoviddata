@@ -62,6 +62,7 @@ McCloskey Elementary,37,Fraser Health Authority,9
 Sands Secondary,37,Fraser Health Authority,9
 Seaquam Secondary,37,Fraser Health Authority,9
 Heritage Woods Secondary,43,Fraser Health Authority,9
+North Peace Secondary,60,Northern Health,9
 Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,9
 Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,9
 Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,9
@@ -82,7 +83,6 @@ David Oppenheimer Elementary,39,Vancouver Coastal Health,8
 Kitsilano Secondary,39,Vancouver Coastal Health,8
 Upper Lynn Elementary,44,Vancouver Coastal Health,8
 West Vancouver Secondary,45,Vancouver Coastal Health,8
-North Peace Secondary,60,Northern Health,8
 Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,8
 Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,8
 Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
@@ -553,6 +553,7 @@ Heritage Elementary,57,Northern Health,2
 Spruceland Traditional,57,Northern Health,2
 Westwood Elementary (Prince George),57,Northern Health,2
 Crescent Park Elementary (Dawson Creek),59,Northern Health,2
+Ecole Frank Ross Elementary,59,Northern Health,2
 Dr Kearney Middle School,60,Northern Health,2
 Energetic Learning Campus,60,Northern Health,2
 Giant's Head Elementary,67,Interior Health Authority,2
@@ -817,6 +818,7 @@ Southern Okanagan Secondary,53,Interior Health Authority,1
 Beaverly Elementary,57,Northern Health,1
 College Heights Elementary,57,Northern Health,1
 Duchess Park Secondary,57,Northern Health,1
+Ecole Lac des Bois,57,Northern Health,1
 Foothills Elementary,57,Northern Health,1
 Giscome Elementary,57,Northern Health,1
 Pinewood Elementary (Prince George),57,Northern Health,1
@@ -828,7 +830,6 @@ Merritt Bench Elementary,58,Interior Health Authority,1
 Merritt Central Elementary,58,Interior Health Authority,1
 Nicola Canford Elementary,58,Interior Health Authority,1
 Chetwynd Secondary,59,Northern Health,1
-Ecole Frank Ross Elementary,59,Northern Health,1
 Tremblay Elementary,59,Northern Health,1
 Golden Alternate School,6,Interior Health Authority,1
 J Alfred Laird Elementary,6,Interior Health Authority,1
@@ -954,5 +955,6 @@ St Michaels University School - Junior,Independent Schools in Island Health,Vanc
 Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Chief Matthews School,Independent Schools in Northern Health,Northern Health,1
 Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
+Kispiox Community School,Independent Schools in Northern Health,Northern Health,1
 Mountain Christian School,Independent Schools in Northern Health,Northern Health,1
 Veritas Catholic,Independent Schools in Northern Health,Northern Health,1
