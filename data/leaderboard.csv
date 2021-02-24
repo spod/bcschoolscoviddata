@@ -184,6 +184,7 @@ Hugh McRoberts Secondary,38,Vancouver Coastal Health,5
 Britannia Community Secondary,39,Vancouver Coastal Health,5
 Lord Roberts Elementary,39,Vancouver Coastal Health,5
 Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
+Sir Winston Churchill Secondary,39,Vancouver Coastal Health,5
 Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
 Burnaby South Secondary,41,Fraser Health Authority,5
 Garibaldi Secondary,42,Fraser Health Authority,5
@@ -238,7 +239,6 @@ Admiral Seymour Elementary,39,Vancouver Coastal Health,4
 Elsie Roy Elementary,39,Vancouver Coastal Health,4
 Lord Tennyson Elementary,39,Vancouver Coastal Health,4
 Magee Secondary,39,Vancouver Coastal Health,4
-Sir Winston Churchill Secondary,39,Vancouver Coastal Health,4
 Templeton Secondary,39,Vancouver Coastal Health,4
 Windermere Community Secondary,39,Vancouver Coastal Health,4
 Fraser River Middle,40,Fraser Health Authority,4
@@ -413,6 +413,7 @@ St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Aut
 Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian Secondary,Independent Schools in Fraser Health,Fraser Health Authority,3
 St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,3
+Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,3
 Hillview Elementary,22,Interior Health Authority,2
 Kalamalka Secondary,22,Interior Health Authority,2
 Vernon Secondary,22,Interior Health Authority,2
@@ -616,7 +617,6 @@ White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health 
 Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,2
 St Mary's Catholic Independent,Independent Schools in Interior Health,Interior Health Authority,2
 Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
-Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,2
 Sacred Heart,Independent Schools in Northern Health,Northern Health,2
 Rossland Summit School,20,Interior Health Authority,1
 Stanley Humphries Secondary,20,Interior Health Authority,1
