@@ -52,6 +52,7 @@ Centennial Secondary School,43,Fraser Health Authority,10
 Handsworth Secondary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
 Hatzic Middle School,75,Fraser Health Authority,10
+Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,10
 Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,10
 GW Graham Secondary,33,Fraser Health Authority,9
 Promontory Heights Community Elementary,33,Fraser Health Authority,9
@@ -64,7 +65,6 @@ McCloskey Elementary,37,Fraser Health Authority,9
 Sands Secondary,37,Fraser Health Authority,9
 Heritage Woods Secondary,43,Fraser Health Authority,9
 North Peace Secondary,60,Northern Health,9
-Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,9
 Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,9
 Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,9
 École KLO Middle School,23,Interior Health Authority,8
@@ -299,6 +299,7 @@ Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health A
 Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,4
 Regent Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 Southridge School,Independent Schools in Fraser Health,Fraser Health Authority,4
+St Helen's,Independent Schools in Fraser Health,Fraser Health Authority,4
 Immaculata Regional High School,Independent Schools in Interior Health,Interior Health Authority,4
 Cedars Christian School,Independent Schools in Northern Health,Northern Health,4
 St Mary's Catholic School (Prince George),Independent Schools in Northern Health,Northern Health,4
@@ -408,7 +409,6 @@ King David High School,Independent Schools in Coastal Health,Vancouver Coastal H
 Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 Holy Cross Regional High School,Independent Schools in Fraser Health,Fraser Health Authority,3
 Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
-St Helen's,Independent Schools in Fraser Health,Fraser Health Authority,3
 St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 Surrey Christian Secondary,Independent Schools in Fraser Health,Fraser Health Authority,3
