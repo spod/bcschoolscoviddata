@@ -18,6 +18,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23""",Exposure
 02/25/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,Feb 16 and 17,Exposure 5
 02/25/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 12
+02/25/2021,Mountview Elementary,Williams Lake,27,Interior Health Authority,"""Feb 22, 23""",Exposure 3
 02/25/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,Feb 18,Exposure 8
 02/25/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,Feb 16,Exposure 10
 02/25/2021,Cougar Canyon Elementary,Delta,37,Fraser Health Authority,Feb 19 and 19,Exposure 6
@@ -40,7 +41,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/25/2021,Centennial Park Elementary,Abbotsford,34,Fraser Health Authority,"""Feb 16, 17, 18, and 19""",Exposure 2
 02/25/2021,Hellings Elementary,Delta,37,Fraser Health Authority,"""Feb 17, 18, and 19""",Exposure 11
 02/25/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,Feb 18,Exposure 1
-02/25/2021,Mountview Elementary,Williams Lake,27,Interior Health Authority,"""Feb 22, 23""",Exposure 3
 02/24/2021,Pacific Academy Intermediate,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,Exposure 2
 02/24/2021,Harry Sayers Elementary,Abbotsford,34,Fraser Health Authority,Feb 16 and 17,Exposure 7
 02/24/2021,A H P Matthew Elementary,Surrey,36,Fraser Health Authority,Feb 16,Exposure 5
