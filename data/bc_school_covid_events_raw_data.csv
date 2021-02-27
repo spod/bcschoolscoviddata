@@ -20,6 +20,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/26/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18, 19, 22, and 23""",Exposure 6
 02/26/2021,Sands Secondary,Delta,37,Fraser Health Authority,Feb 18 and 19,Exposure 10
 02/26/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,Feb 22 and 23,Exposure 2
+02/26/2021,Laura Secord Elementary,Vancouver,39,Vancouver Coastal Health,Feb 23,Exposure 2
 02/26/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,Feb 22,Letter on file indicated a full class has been asked to self-isolate.
 02/26/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Feb 22,Exposure 37
 02/26/2021,Chemainus Elementary Community School,,79,Vancouver Island Health Authority,"""Feb 22, 23""",Exposure 1
@@ -32,7 +33,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/26/2021,Cedar Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,Feb 22 and 23,Exposure 1
 02/26/2021,Edith Cavell Elementary,Vancouver,39,Vancouver Coastal Health,Feb 18,Exposure 3
 02/26/2021,St Michael’s Elementary (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,Feb 18 and 19,Exposure 3
-02/26/2021,Laura Secord Elementary,Vancouver,39,Vancouver Coastal Health,Feb 23,Exposure 2
 02/25/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,Feb 19,Exposure 3
 02/25/2021,Dover Bay Secondary,Nanaimo,68,Vancouver Island Health Authority,Feb 22,Exposure 3
 02/25/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 17, 18, 19, 22, 23""",Exposure 3
