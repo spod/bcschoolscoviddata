@@ -10,7 +10,16 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/27/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,Feb 23,We have a letter on file from the district indicating a full class has been asked to isolate.
 02/27/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 30
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 17, 18, 19""",Expsoure 6
+02/27/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,Not provided,Exposure 10
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, 24""",Expsoure 7
+02/27/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,Feb 25,Exposure 1
+02/27/2021,Cindrich Elementary,Surrey,36,Fraser Health Authority,Feb 22 and 23,Exposure 9
+02/27/2021,Centennial Park Elementary,Abbotsford,34,Fraser Health Authority,Feb 22,Exposure 3
+02/27/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,"""Feb 16, 17, and 18""",Exposure 4
+02/27/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 5
+02/27/2021,Khalsa Elementary School Old Yale Road,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Feb 16 and 17,Exposure 4
+02/27/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,Feb 15,Exposure 8
+02/27/2021,Hatzic Elementary,Mission,75,Fraser Health Authority,Feb 19,Exposure 3
 02/26/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 17, 18""",Exposure 17
 02/26/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 18, 19, 22""",Exposure 6
 02/26/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,"""Feb 17, 18""",Exposure 3
@@ -22,7 +31,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/26/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,"""Feb 17, 18, 19""",Exposure 6
 02/26/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,"""Feb 10, 11, 12, 15, 16, 17, 18""",Expousre 3
 02/26/2021,Aberdeen Elementary,Kamloops,73,Interior Health Authority,Not provided,Exposure 3
-02/26/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,Not provided,Exposure 2
 02/26/2021,Westsyde Secondary,Kamloops,73,Interior Health Authority,Not provided,Exposure 3
 02/26/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""Feb 18, 19""",Exposure 7
 02/26/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,"""Feb 11, 12""",Exposure 6
@@ -45,6 +53,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/26/2021,St Michael’s Elementary (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,Feb 18 and 19,Exposure 3
 02/26/2021,Sands Secondary,Delta,37,Fraser Health Authority,Feb 18 and 19,Exposure 10
 02/26/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,Feb 22 and 23,Exposure 2
+02/26/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""Feb 22, 23, 24""",Exposure 2
 02/25/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,Feb 19,Exposure 3
 02/25/2021,Dover Bay Secondary,Nanaimo,68,Vancouver Island Health Authority,Feb 22,Exposure 3
 02/25/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,"""Feb 17, 18, 19, 22, 23""",Exposure 3
@@ -60,8 +69,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/25/2021,Beairsto Elementary,Vernon,22,Interior Health Authority,"""Feb 19, 22""",Exposure 1
 02/25/2021,Alexander Robinson Elementary,Maple Ridge,42,Fraser Health Authority,"""Feb 11, 12, 16, 17, 18, 19, 22""",Letter attached explains that this is a cluster which is at least 2 or more individuals who have tested positive so we have added another exposure here to reflect that.
 02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,Feb 11,Exposure 5
-02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18, 19""",Exposure 6
-02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23""",Exposure
 02/25/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,Feb 16 and 17,Exposure 5
 02/25/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 12
 02/25/2021,Mountview Elementary,Williams Lake,27,Interior Health Authority,"""Feb 22, 23""",Exposure 3
@@ -87,7 +94,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/25/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,Feb 18,This case was confirmed to be a Variant.
 02/25/2021,North Delta Secondary,Delta,37,Fraser Health Authority,"""Feb 17, 18, 19""",Exposure 16
 02/25/2021,Cougar Canyon Elementary,Delta,37,Fraser Health Authority,Feb 18 and 19,Exposure 6
-02/24/2021,Pacific Academy Intermediate,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,Exposure 2
+02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 17, 18, 19, 22 and 23""",Exposure 6
+02/25/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 16, 17, 18, and 23""",Exposure 7
 02/24/2021,Harry Sayers Elementary,Abbotsford,34,Fraser Health Authority,Feb 16 and 17,Exposure 7
 02/24/2021,A H P Matthew Elementary,Surrey,36,Fraser Health Authority,Feb 16,Exposure 5
 02/24/2021,Gobind Sarvar School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Feb 10, 11, and 12""",Exposure 5
@@ -114,6 +122,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/24/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,Feb 19,Exposure 5
 02/24/2021,Steveston-London Secondary School,Richmond,38,Vancouver Coastal Health,"""Feb 18, 19, 22""",Exposure 9
 02/24/2021,École Anne-Hèbert Elementary School,Vancouver,93,Vancouver Coastal Health,Feb 22 (On the BCCDC webpage),Exposure 3
+02/24/2021,Pacific Academy Intermediate,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Feb 17, 18, and 19 (On the BCCDC webpage)""",Exposure 2
 02/23/2021,Kispiox Community School,,Independent Schools in Northern Health,Northern Health,Feb 16 and 17,Exposure 1
 02/23/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,Feb 16,Exposure 2
 02/23/2021,Ecole Lac des Bois,Prince George,57,Northern Health,Feb 16 and 17,Exposure 1
