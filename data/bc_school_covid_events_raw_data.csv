@@ -1,9 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+02/28/2021,Richmond Secondary School,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 5
+02/28/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 16, 17, and 18""",Exposure 9
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 17, 18, 19""",Expsoure 6
 02/27/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,Not provided,Exposure 10
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, 24""",Expsoure 7
 02/27/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,Feb 25,Exposure 1
-02/27/2021,Aspen Park Elementary,Comox,71,Vancouver Island Health Authority,Feb 22,https://www.comoxvalleyrecord.com/news/fifth-comox-valley-school-reports-covid-19-exposure
 02/27/2021,David Cameron Elementary,Victoria,62,Vancouver Island Health Authority,"""Feb 22, 23, 24""",Exposure 1
 02/27/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""Feb 18, 19""",Exposure 10
 02/27/2021,Hastings Community Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, and 24""",Exposure 3
@@ -15,6 +16,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/27/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 30
 02/27/2021,Khalsa Elementary School Old Yale Road,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Feb 16 and 17,Exposure 4
 02/27/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,Feb 15,Exposure 8
+02/27/2021,Aspen Park Elementary,Comox,71,Vancouver Island Health Authority,Feb 22,https://www.comoxvalleyrecord.com/news/fifth-comox-valley-school-reports-covid-19-exposure
 02/27/2021,Cindrich Elementary,Surrey,36,Fraser Health Authority,Feb 22 and 23,Exposure 9
 02/27/2021,Centennial Park Elementary,Abbotsford,34,Fraser Health Authority,Feb 22,Exposure 3
 02/27/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,"""Feb 16, 17, and 18""",Exposure 4
