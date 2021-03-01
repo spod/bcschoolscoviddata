@@ -11,8 +11,8 @@ L A Matheson Secondary,36,Fraser Health Authority,22
 Kelowna Secondary School,23,Interior Health Authority,19
 Guildford Park Secondary,36,Fraser Health Authority,19
 Lena Shaw Elementary,36,Fraser Health Authority,19
+Lord Tweedsmuir Secondary,36,Fraser Health Authority,19
 Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,19
-Lord Tweedsmuir Secondary,36,Fraser Health Authority,18
 Chilliwack Secondary,33,Fraser Health Authority,17
 Rick Hansen Secondary,34,Fraser Health Authority,17
 R E Mountain Secondary,35,Fraser Health Authority,17
@@ -43,6 +43,7 @@ Brookswood Secondary,35,Fraser Health Authority,11
 Hellings Elementary,37,Fraser Health Authority,11
 Seaquam Secondary,37,Fraser Health Authority,11
 Killarney Secondary,39,Vancouver Coastal Health,11
+Heritage Woods Secondary,43,Fraser Health Authority,11
 Hatzic Middle School,75,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
 H D Stafford Middle,35,Fraser Health Authority,10
@@ -53,7 +54,6 @@ Westerman Elementary,36,Fraser Health Authority,10
 Sands Secondary,37,Fraser Health Authority,10
 Gladstone Secondary,39,Vancouver Coastal Health,10
 Centennial Secondary School,43,Fraser Health Authority,10
-Heritage Woods Secondary,43,Fraser Health Authority,10
 Handsworth Secondary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
 Charles Hays Secondary,52,Northern Health,10
@@ -132,9 +132,11 @@ Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,6
 R C Garnett Demonstration Elementary,35,Fraser Health Authority,6
 Richard Bulpitt Elementary,35,Fraser Health Authority,6
 Walnut Grove Secondary,35,Fraser Health Authority,6
+Bear Creek Elementary,36,Fraser Health Authority,6
 Beaver Creek Elementary,36,Fraser Health Authority,6
 Colebrook Elementary,36,Fraser Health Authority,6
 Ecole Salish Secondary,36,Fraser Health Authority,6
+Elgin Park Secondary,36,Fraser Health Authority,6
 Hyland Elementary,36,Fraser Health Authority,6
 Newton Elementary,36,Fraser Health Authority,6
 Simon Cunningham Elementary,36,Fraser Health Authority,6
@@ -184,9 +186,7 @@ Vedder Elementary,33,Fraser Health Authority,5
 Blue Jay Elementary,34,Fraser Health Authority,5
 Belmont Elementary,35,Fraser Health Authority,5
 A H P Matthew Elementary,36,Fraser Health Authority,5
-Bear Creek Elementary,36,Fraser Health Authority,5
 Clayton Heights Secondary,36,Fraser Health Authority,5
-Elgin Park Secondary,36,Fraser Health Authority,5
 Fraser Heights Secondary,36,Fraser Health Authority,5
 James Ardiel Elementary,36,Fraser Health Authority,5
 Katzie Elementary,36,Fraser Health Authority,5
@@ -378,6 +378,7 @@ Alexander Robinson Elementary,42,Fraser Health Authority,3
 Alouette Elementary,42,Fraser Health Authority,3
 Eric Langton Elementary,42,Fraser Health Authority,3
 Golden Ears Elementary,42,Fraser Health Authority,3
+Laity View Elementary,42,Fraser Health Authority,3
 Yennadon Elementary,42,Fraser Health Authority,3
 Aspenwood Elementary,43,Fraser Health Authority,3
 Cedar Drive Elementary,43,Fraser Health Authority,3
@@ -546,7 +547,6 @@ Albion Elementary,42,Fraser Health Authority,2
 Cusquena Elementary,42,Fraser Health Authority,2
 Edith McDermott Elementary,42,Fraser Health Authority,2
 Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,2
-Laity View Elementary,42,Fraser Health Authority,2
 Maple Ridge Elementary,42,Fraser Health Authority,2
 Westview Secondary,42,Fraser Health Authority,2
 Castle Park Elementary,43,Fraser Health Authority,2
