@@ -2,11 +2,11 @@ School,School District,Health Region,Exposures
 Panorama Ridge Secondary,36,Fraser Health Authority,38
 Tamanawis Secondary,36,Fraser Health Authority,36
 Frank Hurt Secondary,36,Fraser Health Authority,33
+Sullivan Heights Secondary,36,Fraser Health Authority,32
 Enver Creek Secondary,36,Fraser Health Authority,31
-Sullivan Heights Secondary,36,Fraser Health Authority,31
 Queen Elizabeth Secondary,36,Fraser Health Authority,30
 Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,25
-New Westminster Secondary,40,Fraser Health Authority,23
+New Westminster Secondary,40,Fraser Health Authority,24
 L A Matheson Secondary,36,Fraser Health Authority,22
 Kelowna Secondary School,23,Interior Health Authority,19
 Guildford Park Secondary,36,Fraser Health Authority,19
@@ -25,12 +25,12 @@ John Oliver Secondary,39,Vancouver Coastal Health,16
 Abbotsford Senior Secondary School,34,Fraser Health Authority,15
 North Surrey Secondary,36,Fraser Health Authority,15
 Byrne Creek Community Secondary,41,Fraser Health Authority,15
+W J Mouat Secondary,34,Fraser Health Authority,14
 Cougar Creek Elementary,36,Fraser Health Authority,14
 Kwantlen Park Secondary,36,Fraser Health Authority,14
 Woodward Hill Elementary,36,Fraser Health Authority,14
 Burnaby North Secondary,41,Fraser Health Authority,14
 Rutland Senior Secondary,23,Interior Health Authority,13
-W J Mouat Secondary,34,Fraser Health Authority,13
 Delview Secondary,37,Fraser Health Authority,13
 Sa-hali Secondary,73,Interior Health Authority,13
 David Brankin Elementary,36,Fraser Health Authority,12
@@ -44,6 +44,7 @@ Hellings Elementary,37,Fraser Health Authority,11
 Seaquam Secondary,37,Fraser Health Authority,11
 Killarney Secondary,39,Vancouver Coastal Health,11
 Heritage Woods Secondary,43,Fraser Health Authority,11
+Charles Hays Secondary,52,Northern Health,11
 Hatzic Middle School,75,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
 H D Stafford Middle,35,Fraser Health Authority,10
@@ -56,7 +57,6 @@ Gladstone Secondary,39,Vancouver Coastal Health,10
 Centennial Secondary School,43,Fraser Health Authority,10
 Handsworth Secondary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
-Charles Hays Secondary,52,Northern Health,10
 Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,10
 Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,10
 GW Graham Secondary,33,Fraser Health Authority,9
@@ -650,6 +650,7 @@ Glenrosa Elementary,23,Interior Health Authority,1
 Heritage Christian Online School (DL),23,Fraser Health Authority,1
 Lakeside School Kelowna,23,Interior Health Authority,1
 Oyama Traditional School,23,Interior Health Authority,1
+Peter Greer Elementary,23,Interior Health Authority,1
 Raymer Elementary,23,Interior Health Authority,1
 Rose Valley Elementary,23,Interior Health Authority,1
 Rutland Elementary,23,Interior Health Authority,1
