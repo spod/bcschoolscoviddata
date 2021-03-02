@@ -1,5 +1,6 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/02/2021,Dr Roberta Bondar Elementary,Abbotsford,34,Fraser Health Authority,Feb 22 and 23,Exposure 2
+03/02/2021,L'Ecole Bilingue Elementary,Vancouver,39,Vancouver Coastal Health,Feb 24 and 25,Exposure 3
 03/01/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,Feb 22 and 23,Exposure 8
 03/01/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""Feb 23, 24, 25, and 26""",This has been confirmed as a variant of concern. 2 classes and 7 other individuals have been asked to self-isolate for 2 weeks and have a negative test result before returning to school.
 03/01/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,Feb 19,Exposure 2
@@ -1741,7 +1742,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/20/2020,Strawberry Hill Elementary,Surrey,36,Fraser Health Authority,"""Dec 15, 16""",Exposure 6
 12/20/2020,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,"""Dec 16, 17, 18""",Exposure 12
 12/20/2020,Guildford Park Secondary,Surrey,36,Fraser Health Authority,"""Dec 13, 14, 15""",Exposure 8
-12/20/2020,L'Ecole Billingue Elementary,Vancouver,39,Vancouver Coastal Health,"""Dec 14, 15, 16, 17""",Exposure 2
 12/20/2020,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Dec 9, 10""",Exposure 20
 12/20/2020,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,"""Dec 15, 16, 17""",Exposure 9
 12/20/2020,Sardis Secondary,Chilliwack,33,Fraser Health Authority,"""Dec 9, 10""",Expsoure 7
@@ -1761,6 +1761,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/20/2020,Brooke Elementary,Delta,37,Fraser Health Authority,"""Dec 14, 15, 16, 17""",Exposure 3
 12/20/2020,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,"""Dec 7, 8, 9, 10, 11, 14, 15""",Exposure 1
 12/20/2020,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""Dec 15, 16""",Exposure 23
+12/20/2020,L'Ecole Bilingue Elementary,Vancouver,39,Vancouver Coastal Health,"""Dec 14, 15, 16, 17""",Exposure 2
 12/19/2020,A L Fortune Secondary,Enderby,83,Interior Health Authority,"""Dec 13, 14""",Exposure 1
 12/19/2020,Dorothy Peacock Elementary,Langley,35,Fraser Health Authority,"""Dec 14, 15, and 16""",Exposure 3
 12/19/2020,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Dec 14, 15, 16, 17""",Exposure 7
@@ -2590,7 +2591,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/25/2020,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""Nov 16, 17, 18, 19""","""Date Nov 16 is listed in the attached letter. Dates Nov 17, 18, and 19 are from the BCCDC Interior Health webpage."""
 11/25/2020,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,Nov 16,Exposure 1
 11/25/2020,École KLO Middle School,Kelowna,23,Interior Health Authority,"""Nov 17, 18, 19""",Exposure 6
-11/25/2020,L'Ecole Billingue Elementary,Vancouver,39,Vancouver Coastal Health,"""Nov 19, 20""",Exposure 1
 11/25/2020,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,Nov 19,Exposure 12
 11/25/2020,Don Ross Middle School,,48,Vancouver Coastal Health,Exposure dates not provided,Exposure 2
 11/25/2020,Guildford Park Secondary,Surrey,36,Fraser Health Authority,Nov 13,Exposure 2
@@ -2630,6 +2630,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/25/2020,Senator Reid Elementary,Surrey,36,Fraser Health Authority,Nov 16,Exposure 3
 11/25/2020,Hope Secondary,Hope,78,Fraser Health Authority,"""Nov 19, 20""",Exposure 3
 11/25/2020,David Thompson Secondary,Vancouver,39,Vancouver Coastal Health,"""Nov 18, 19, 20""",Exposure 6
+11/25/2020,L'Ecole Bilingue Elementary,Vancouver,39,Vancouver Coastal Health,"""Nov 19, 20""",Exposure 1
 11/24/2020,Guru Angand Dev Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 16, 17""",Exposure 4
 11/24/2020,Salmon Arm Secondary  (Sullivan),Salmon Arm,83,Interior Health Authority,"""Nov 17, 18""",Exposure 1. Sullivan Campus
 11/24/2020,T E Scott Elementary,Surrey,36,Fraser Health Authority,"""Nov 17, 18""",Exposure 2
