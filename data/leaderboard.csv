@@ -111,6 +111,7 @@ Panorama Park Elementary,36,Fraser Health Authority,7
 Royal Heights Elementary,36,Fraser Health Authority,7
 W E Kinvig Elementary,36,Fraser Health Authority,7
 Cougar Canyon Elementary,37,Fraser Health Authority,7
+David Thompson Secondary,39,Vancouver Coastal Health,7
 Lord Roberts Elementary,39,Vancouver Coastal Health,7
 Vancouver Technical Secondary,39,Vancouver Coastal Health,7
 Ecole Alpha Secondary,41,Fraser Health Authority,7
@@ -144,7 +145,6 @@ Simon Cunningham Elementary,36,Fraser Health Authority,6
 Strawberry Hill Elementary,36,Fraser Health Authority,6
 Walnut Road Elementary,36,Fraser Health Authority,6
 Britannia Community Secondary,39,Vancouver Coastal Health,6
-David Thompson Secondary,39,Vancouver Coastal Health,6
 Eric Hamber Secondary,39,Vancouver Coastal Health,6
 Burnaby South Secondary,41,Fraser Health Authority,6
 Cariboo Hill Secondary,41,Fraser Health Authority,6
@@ -170,6 +170,7 @@ Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouv
 St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
+Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,6
 Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,6
 Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,6
 Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -223,7 +224,6 @@ South Kamloops Secondary,73,Interior Health Authority,5
 Skeena Middle,82,Northern Health,5
 Fort St James Secondary,91,Northern Health,5
 Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,5
-Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,5
 Diamond School,Independent Schools in Fraser Health,Fraser Health Authority,5
 Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,5
 Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -406,9 +406,11 @@ Ridgeview Elementary,45,Vancouver Coastal Health,3
 Rockridge Secondary,45,Vancouver Coastal Health,3
 Westcot Elementary,45,Vancouver Coastal Health,3
 Don Ross Middle School,48,Vancouver Coastal Health,3
+Ecole Squamish Elementary,48,Vancouver Coastal Health,3
 Garibaldi Highlands Elementary,48,Vancouver Coastal Health,3
 D P Todd Secondary,57,Northern Health,3
 Central elementary (Ft.St John),60,Northern Health,3
+Energetic Learning Campus,60,Northern Health,3
 Summerland Secondary,67,Interior Health Authority,3
 Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,3
 Alberni District Secondary School,70,Vancouver Island Health Authority,3
@@ -462,6 +464,7 @@ Cheam Elementary,33,Fraser Health Authority,2
 Robertson Elementary,33,Fraser Health Authority,2
 ASIA - North Poplar,34,Fraser Health Authority,2
 Alexander Elementary (Abbotsford),34,Fraser Health Authority,2
+Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
 Godson Elementary,34,Fraser Health Authority,2
 John MacLure Community School,34,Fraser Health Authority,2
 Margaret Stenersen Elementary,34,Fraser Health Authority,2
@@ -571,7 +574,6 @@ Westview Elementary (North Vancouver),44,Vancouver Coastal Health,2
 Caulfeild Elementary,45,Vancouver Coastal Health,2
 Chartwell Elementary,45,Vancouver Coastal Health,2
 Chatelech Secondary,46,Vancouver Coastal Health,2
-Ecole Squamish Elementary,48,Vancouver Coastal Health,2
 Acwsalcta Band School,49,Vancouver Coastal Health,2
 Lax Kxeen Elementary,52,Northern Health,2
 Osoyoos Secondary,53,Interior Health Authority,2
@@ -584,7 +586,6 @@ Westwood Elementary (Prince George),57,Northern Health,2
 Crescent Park Elementary (Dawson Creek),59,Northern Health,2
 Ecole Frank Ross Elementary,59,Northern Health,2
 Dr Kearney Middle School,60,Northern Health,2
-Energetic Learning Campus,60,Northern Health,2
 Giant's Head Elementary,67,Interior Health Authority,2
 Penticton Secondary,67,Interior Health Authority,2
 Princess Margaret Secondary (Penticton),67,Interior Health Authority,2
@@ -680,7 +681,6 @@ Bradner Elementary,34,Fraser Health Authority,1
 Clayburn Middle School,34,Fraser Health Authority,1
 Cornerstone Christian School,34,Fraser Health Authority,1
 Dormick Park Elementary,34,Fraser Health Authority,1
-Dr Roberta Bondar Elementary,34,Fraser Health Authority,1
 Jackson Elementary,34,Fraser Health Authority,1
 Mt Lehman Elementary,34,Fraser Health Authority,1
 Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,1
@@ -798,6 +798,7 @@ Ecole Banting Middle,43,,1
 Ecole Moody Middle School of the Arts,43,Fraser Health Authority,1
 Ecole Rochester Elementary,43,Fraser Health Authority,1
 Ecole Westwood Elementary (Port Coquitlam),43,Fraser Health Authority,1
+Encompass (Coquitlam),43,Fraser Health Authority,1
 Hampton Park Elementary,43,Fraser Health Authority,1
 Heritage Mountain Elementary,43,Fraser Health Authority,1
 Hillcrest Middle School,43,Fraser Health Authority,1
