@@ -1,6 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/03/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,Feb 23 and 25,Exposure 7
 03/03/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,Feb 23 and 24,Exposure 7
+03/03/2021,Vancouver Technical Secondary,Vancouver,39,Vancouver Coastal Health,Feb 25 and 26,Exposure 8
 03/02/2021,Dr Roberta Bondar Elementary,Abbotsford,34,Fraser Health Authority,Feb 22 and 23,Exposure 2
 03/02/2021,L'Ecole Bilingue Elementary,Vancouver,39,Vancouver Coastal Health,Feb 24 and 25,Exposure 3
 03/02/2021,Oceanside Elementary,Parksville,69,Vancouver Island Health Authority,Feb 25 and 26,Exposure 1
@@ -131,7 +132,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/27/2021,Hastings Community Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, and 24""",Exposure 3
 02/27/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,Feb 19,Exposure 11
 02/27/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,Feb 22,Exposure 18
-02/27/2021,Hjorth Road Elementary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 2
 02/27/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,Feb 23,We have a letter on file from the district indicating a full class has been asked to isolate.
 02/27/2021,Khalsa Elementary School Old Yale Road,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Feb 16 and 17,Exposure 4
 02/27/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,Feb 15,Exposure 8
@@ -144,6 +144,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/27/2021,R C Palmer Secondary,Richmond,38,Vancouver Coastal Health,Feb 22 and 23 (On the BCCDC webpage),Exposure 5
 02/27/2021,Cindrich Elementary,Surrey,36,Fraser Health Authority,Feb 22 and 23,This has been confirmed to be a variant of concern. (Documentation on file)
 02/27/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,Feb 18,Exposure 31
+02/27/2021,Hjorth Road Elementary,Surrey,36,Fraser Health Authority,Feb 18,One class has been asked to self-isolate (documentation on file)
 02/26/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 17, 18""",Exposure 17
 02/26/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""Feb 18, 19, 22""",Exposure 6
 02/26/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,"""Feb 17, 18""",Exposure 3
