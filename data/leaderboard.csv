@@ -69,6 +69,7 @@ Georges Vanier Elementary,36,Fraser Health Authority,9
 Holly Elementary (Surrey),36,Fraser Health Authority,9
 Sunrise Ridge Elementary,36,Fraser Health Authority,9
 McCloskey Elementary,37,Fraser Health Authority,9
+Burnaby Central Secondary,41,Fraser Health Authority,9
 Gleneagle Secondary,43,Fraser Health Authority,9
 West Vancouver Secondary,45,Vancouver Coastal Health,9
 Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,9
@@ -96,7 +97,6 @@ Admiral Seymour Elementary,39,Vancouver Coastal Health,8
 David Oppenheimer Elementary,39,Vancouver Coastal Health,8
 Kitsilano Secondary,39,Vancouver Coastal Health,8
 Vancouver Technical Secondary,39,Vancouver Coastal Health,8
-Burnaby Central Secondary,41,Fraser Health Authority,8
 Ecole Kwayhquitlum Middle,43,Fraser Health Authority,8
 Upper Lynn Elementary,44,Vancouver Coastal Health,8
 Sentinel Secondary,45,Vancouver Coastal Health,8
@@ -141,6 +141,7 @@ Richard Bulpitt Elementary,35,Fraser Health Authority,6
 Walnut Grove Secondary,35,Fraser Health Authority,6
 Bear Creek Elementary,36,Fraser Health Authority,6
 Beaver Creek Elementary,36,Fraser Health Authority,6
+Clayton Heights Secondary,36,Fraser Health Authority,6
 Colebrook Elementary,36,Fraser Health Authority,6
 Ecole Salish Secondary,36,Fraser Health Authority,6
 Elgin Park Secondary,36,Fraser Health Authority,6
@@ -191,7 +192,6 @@ Blue Jay Elementary,34,Fraser Health Authority,5
 Belmont Elementary,35,Fraser Health Authority,5
 A H P Matthew Elementary,36,Fraser Health Authority,5
 A J McLellan Elementary,36,Fraser Health Authority,5
-Clayton Heights Secondary,36,Fraser Health Authority,5
 Creekside Elementary,36,Fraser Health Authority,5
 George Greenaway Elementary,36,Fraser Health Authority,5
 Harold Bishop Elementary,36,Fraser Health Authority,5
@@ -248,6 +248,7 @@ Lynn Fripps Elementary,35,Fraser Health Authority,4
 Parkside Centennial Elementary (Langley),35,Fraser Health Authority,4
 Willoughby Elementary,35,Fraser Health Authority,4
 Yorkson Creek Middle School,35,Fraser Health Authority,4
+Boundary Park Elementary,36,Fraser Health Authority,4
 Chimney Hill Elementary,36,Fraser Health Authority,4
 Frost Road Elementary,36,Fraser Health Authority,4
 K B Woodward Elementary,36,Fraser Health Authority,4
@@ -334,6 +335,7 @@ Mountview Elementary,27,Interior Health Authority,3
 Abbotsford Middle School,34,Fraser Health Authority,3
 Abbotsford Traditional Middle School,34,Fraser Health Authority,3
 Centennial Park Elementary,34,Fraser Health Authority,3
+Mountain Elementary,34,Fraser Health Authority,3
 Ross Elementary,34,Fraser Health Authority,3
 Terry Fox Elementary,34,Fraser Health Authority,3
 William A. Fraser Middle School,34,Fraser Health Authority,3
@@ -343,7 +345,6 @@ Peter Ewart Middle School,35,Fraser Health Authority,3
 Simonds Elementary,35,Fraser Health Authority,3
 Adams Road Elementary,36,Fraser Health Authority,3
 Berkshire Park Elementary,36,Fraser Health Authority,3
-Boundary Park Elementary,36,Fraser Health Authority,3
 Cloverdale Traditional,36,Fraser Health Authority,3
 Dr F D Sinclair Elementary,36,Fraser Health Authority,3
 Ecole Riverdale Elementary,36,Fraser Health Authority,3
@@ -472,7 +473,6 @@ Godson Elementary,34,Fraser Health Authority,2
 John MacLure Community School,34,Fraser Health Authority,2
 Margaret Stenersen Elementary,34,Fraser Health Authority,2
 McMillan Elementary,34,Fraser Health Authority,2
-Mountain Elementary,34,Fraser Health Authority,2
 Alex Hope Elementary,35,Fraser Health Authority,2
 Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 Gordon Greenwood Elementary,35,Fraser Health Authority,2
