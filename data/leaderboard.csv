@@ -66,6 +66,7 @@ Promontory Heights Community Elementary,33,Fraser Health Authority,9
 Sardis Secondary,33,Fraser Health Authority,9
 Yale Secondary,34,Fraser Health Authority,9
 D W Poppy Secondary,35,Fraser Health Authority,9
+Langley Secondary,35,Fraser Health Authority,9
 Brookside Elementary,36,Fraser Health Authority,9
 Cindrich Elementary,36,Fraser Health Authority,9
 Georges Vanier Elementary,36,Fraser Health Authority,9
@@ -73,6 +74,7 @@ Holly Elementary (Surrey),36,Fraser Health Authority,9
 Sunrise Ridge Elementary,36,Fraser Health Authority,9
 Cougar Canyon Elementary,37,Fraser Health Authority,9
 McCloskey Elementary,37,Fraser Health Authority,9
+Kitsilano Secondary,39,Vancouver Coastal Health,9
 Ecole Kwayhquitlum Middle,43,Fraser Health Authority,9
 Gleneagle Secondary,43,Fraser Health Authority,9
 West Vancouver Secondary,45,Vancouver Coastal Health,9
@@ -87,7 +89,6 @@ Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,8
 Chief Dan George Middle,34,Fraser Health Authority,8
 Harry Sayers Elementary,34,Fraser Health Authority,8
 Aldergrove Community Secondary,35,Fraser Health Authority,8
-Langley Secondary,35,Fraser Health Authority,8
 Cambridge Elementary,36,Fraser Health Authority,8
 Cedar Hills Elementary,36,Fraser Health Authority,8
 Clayton Heights Secondary,36,Fraser Health Authority,8
@@ -99,7 +100,6 @@ Delta Secondary,37,Fraser Health Authority,8
 Admiral Seymour Elementary,39,Vancouver Coastal Health,8
 Britannia Community Secondary,39,Vancouver Coastal Health,8
 David Oppenheimer Elementary,39,Vancouver Coastal Health,8
-Kitsilano Secondary,39,Vancouver Coastal Health,8
 Vancouver Technical Secondary,39,Vancouver Coastal Health,8
 Ecole Alpha Secondary,41,Fraser Health Authority,8
 Eagle Mountain Middle School,43,Fraser Health Authority,8
@@ -380,6 +380,7 @@ University Hill Secondary,39,Vancouver Coastal Health,3
 Ecole Qayqayt Elementary,40,Fraser Health Authority,3
 Queen Elizabeth Elementary,40,Fraser Health Authority,3
 Richard McBride Elementary (New Westminster),40,Fraser Health Authority,3
+Burnaby Mountain Secondary,41,Fraser Health Authority,3
 Cameron Elementary,41,Fraser Health Authority,3
 Ecole Seaforth Elementary,41,Fraser Health Authority,3
 Lakeview Elementary,41,Fraser Health Authority,3
@@ -554,7 +555,6 @@ Walter Moberly Elementary,39,Vancouver Coastal Health,2
 Xpey' Elementary,39,Vancouver Coastal Health,2
 F W Howay Elementary,40,Fraser Health Authority,2
 Aubrey Elementary,41,Fraser Health Authority,2
-Burnaby Mountain Secondary,41,Fraser Health Authority,2
 Capitol Hill Elementary,41,Fraser Health Authority,2
 Gilmore Community Elementary,41,Fraser Health Authority,2
 Gilpin Elementary,41,Fraser Health Authority,2
