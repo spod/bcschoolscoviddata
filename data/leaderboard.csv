@@ -10,9 +10,9 @@ New Westminster Secondary,40,Fraser Health Authority,24
 L A Matheson Secondary,36,Fraser Health Authority,22
 Guildford Park Secondary,36,Fraser Health Authority,21
 Lord Tweedsmuir Secondary,36,Fraser Health Authority,20
+Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,20
 Kelowna Secondary School,23,Interior Health Authority,19
 Lena Shaw Elementary,36,Fraser Health Authority,19
-Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,19
 R E Mountain Secondary,35,Fraser Health Authority,18
 Johnston Heights Secondary,36,Fraser Health Authority,18
 North Delta Secondary,37,Fraser Health Authority,18
@@ -71,6 +71,7 @@ Langley Secondary,35,Fraser Health Authority,9
 Brookside Elementary,36,Fraser Health Authority,9
 Cindrich Elementary,36,Fraser Health Authority,9
 Georges Vanier Elementary,36,Fraser Health Authority,9
+Goldstone Park Elementary,36,Fraser Health Authority,9
 Holly Elementary (Surrey),36,Fraser Health Authority,9
 Sunrise Ridge Elementary,36,Fraser Health Authority,9
 Cougar Canyon Elementary,37,Fraser Health Authority,9
@@ -94,7 +95,6 @@ Aldergrove Community Secondary,35,Fraser Health Authority,8
 Cambridge Elementary,36,Fraser Health Authority,8
 Cedar Hills Elementary,36,Fraser Health Authority,8
 Clayton Heights Secondary,36,Fraser Health Authority,8
-Goldstone Park Elementary,36,Fraser Health Authority,8
 Green Timbers Elementary,36,Fraser Health Authority,8
 Hazelgrove Elementary,36,Fraser Health Authority,8
 Panorama Park Elementary,36,Fraser Health Authority,8
@@ -438,6 +438,7 @@ Hatzic Elementary,75,Fraser Health Authority,3
 Hillside Traditional Academy,75,Fraser Health Authority,3
 Mission Senior Secondary,75,Fraser Health Authority,3
 Chemainus Secondary,79,Vancouver Island Health Authority,3
+Majagaleehl Gali Aks Elementary,82,Northern Health,3
 Parkside Secondary,82,Northern Health,3
 Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,3
 David Hoy Elementary,91,Northern Health,3
@@ -618,7 +619,6 @@ Lake Cowichan School,79,Vancouver Island Health Authority,2
 Quamichan School,79,Vancouver Island Health Authority,2
 Chalo School,81,Northern Health,2
 R L Angus Elementary,81,Northern Health,2
-Majagaleehl Gali Aks Elementary,82,Northern Health,2
 Armstrong Elementary (Armstrong),83,Interior Health Authority,2
 Bastion Elementary,83,Interior Health Authority,2
 M.V. Beattie Elementary,83,Interior Health Authority,2
