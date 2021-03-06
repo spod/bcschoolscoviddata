@@ -125,6 +125,7 @@ Strawberry Hill Elementary,36,Fraser Health Authority,7
 W E Kinvig Elementary,36,Fraser Health Authority,7
 David Thompson Secondary,39,Vancouver Coastal Health,7
 Lord Roberts Elementary,39,Vancouver Coastal Health,7
+Maple Ridge Secondary,42,Fraser Health Authority,7
 Samuel Robertson Technical Secondary,42,Fraser Health Authority,7
 Minnekhada Middle School,43,Fraser Health Authority,7
 Scott Creek Middle School,43,Fraser Health Authority,7
@@ -164,7 +165,6 @@ Chaffey-Burke Elementary,41,Fraser Health Authority,6
 Douglas Road Elementary,41,Fraser Health Authority,6
 Edmonds Community Elementary,41,Fraser Health Authority,6
 Moscrop Secondary,41,Fraser Health Authority,6
-Maple Ridge Secondary,42,Fraser Health Authority,6
 Thomas Haney Secondary,42,Fraser Health Authority,6
 Ecole Dr Charles Best Secondary,43,Fraser Health Authority,6
 Ecole Glen Elementary,43,Fraser Health Authority,6
@@ -222,6 +222,7 @@ Templeton Secondary,39,Vancouver Coastal Health,5
 Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
 Queensborough Middle School,40,Fraser Health Authority,5
 Armstrong Elementary (Burnaby),41,Fraser Health Authority,5
+Ecole Marlborough Elementary,41,Fraser Health Authority,5
 Garibaldi Secondary,42,Fraser Health Authority,5
 Pitt Meadows Secondary,42,Fraser Health Authority,5
 Ecole Glenayre Elementary,43,Fraser Health Authority,5
@@ -277,7 +278,6 @@ Lord Tennyson Elementary,39,Vancouver Coastal Health,4
 Windermere Community Secondary,39,Vancouver Coastal Health,4
 Fraser River Middle,40,Fraser Health Authority,4
 Richard McBride Elementary (New Westminster),40,Fraser Health Authority,4
-Ecole Marlborough Elementary,41,Fraser Health Authority,4
 Glenwood Elementary (Burnaby),41,Fraser Health Authority,4
 Kitchener Elementary,41,Fraser Health Authority,4
 Twelfth Avenue Elementary,41,Fraser Health Authority,4
@@ -363,6 +363,8 @@ Senator Reid Elementary,36,Fraser Health Authority,3
 Serpentine Heights Elementary,36,Fraser Health Authority,3
 Sunnyside Elementary,36,Fraser Health Authority,3
 White Rock Elementary,36,Fraser Health Authority,3
+Burnsview Secondary,37,Fraser Health Authority,3
+Ladner Elementary,37,Fraser Health Authority,3
 Donald E McKay Elementary (Richmond),38,Vancouver Coastal Health,3
 Hamilton Elementary,38,Vancouver Coastal Health,3
 Kathleen McNeely Elementary,38,Vancouver Coastal Health,3
@@ -513,13 +515,11 @@ Pacific Heights Elementary,36,Fraser Health Authority,2
 Sullivan Elementary,36,Fraser Health Authority,2
 William F. Davidson Elementary,36,Fraser Health Authority,2
 William Watson Elementary,36,Fraser Health Authority,2
-Burnsview Secondary,37,Fraser Health Authority,2
 Devon Gardens Elementary,37,Fraser Health Authority,2
 Gibson Elementary (Delta),37,Fraser Health Authority,2
 Gray Elementary,37,Fraser Health Authority,2
 Holly Elementary (Delta),37,Fraser Health Authority,2
 Jarvis Traditional Elementary,37,Fraser Health Authority,2
-Ladner Elementary,37,Fraser Health Authority,2
 Richardson Elementary,37,Fraser Health Authority,2
 South Delta Secondary,37,Fraser Health Authority,2
 Sunshine Hills Elementary,37,Fraser Health Authority,2
@@ -605,6 +605,7 @@ Princess Margaret Secondary (Penticton),67,Interior Health Authority,2
 Dover Bay Secondary School,68,Vancouver Island Health Authority,2
 Randerson Ridge Elementary,68,Vancouver Island Health Authority,2
 Wellington Secondary,68,Vancouver Island Health Authority,2
+Oceanside Elementary,69,Vancouver Island Health Authority,2
 Wood Elementary,70,Vancouver Island Health Authority,2
 Arthur Stevenson Elementary,73,Interior Health Authority,2
 Beattie Elementary,73,Interior Health Authority,2
@@ -715,6 +716,7 @@ Cloverdale Learning Centre,36,Fraser Health Authority,1
 Dogwood Elementary,36,Fraser Health Authority,1
 Don Christian Elementary,36,Fraser Health Authority,1
 Guildford learning Centre,36,Fraser Health Authority,1
+H T Thrift Elementary,36,Fraser Health Authority,1
 Henry Bose Elementary,36,Fraser Health Authority,1
 Hillcrest Elementary (Surrey),36,Fraser Health Authority,1
 Invergarry Adult Education Centre,36,Fraser Health Authority,1
@@ -899,7 +901,6 @@ Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,1
 Uplands Park Elementary,68,Vancouver Island Health Authority,1
 Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,1
 Kwalicum Secondary School,69,Vancouver Island Health Authority,1
-Oceanside Elementary,69,Vancouver Island Health Authority,1
 PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
 A W Neill Elementary,70,Vancouver Island Health Authority,1
 Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
