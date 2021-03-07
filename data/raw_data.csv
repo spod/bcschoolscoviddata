@@ -1,4 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+03/07/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,Mar 1 and 2,Exposure 6
 03/06/2021,Hugh McRoberts Secondary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 6
 03/06/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""March 1, 2""",Variant of Concern
 03/06/2021,Vancouver Technical Secondary,Vancouver,39,Vancouver Coastal Health,"""March 1, 2""",Exposure 11
@@ -2924,7 +2925,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/22/2020,Chilliwack Secondary,Chilliwack,33,Fraser Health Authority,"""Exposure dates Nov 12, 13""",Exposure 6
 11/22/2020,McCloskey Elementary,Delta,37,Fraser Health Authority,Exposure dates Nov 9 - 20,"""Exposure 5, Individuals who were on site those days have been asked to isolate."""
 11/22/2020,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""Nov 12, and 13""",Exposure 2
-11/22/2020,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Nov 16, 17""",Exposure 7
 11/22/2020,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Nov 16, 17, 18""",Exposure 9
 11/22/2020,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,"""Nov 9, 10""",Exposure 3
 11/22/2020,Howe Sound Secondary,Squamish,48,Vancouver Coastal Health,Exposure dates not provided,Exposure 7
@@ -2946,6 +2946,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/22/2020,Langley Christian (Middle and High),Langley,Independent Schools in Fraser Health,Fraser Health Authority,Nov 16 and 17,Exposure 1
 11/22/2020,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,"""Nov 16, 17""",Exposure 11
 11/22/2020,Sir Richard McBride Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,Nov 18,Exposure 1
+11/22/2020,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Nov 16, 17""",Exposure 7
 11/21/2020,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Nov 13,Exposure 7
 11/21/2020,Sir Charles Kingsford-Smith,Vancouver,39,Vancouver Coastal Health,"""Nov 16, 17""",Exposure 2
 11/21/2020,King George Secondary,Vancouver,39,Vancouver Coastal Health,"""Nov 17, 18""",Exposure 1
