@@ -9,18 +9,28 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/06/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,"""March 1, 2, 3""",Exposure 9
 03/06/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""March 2, 3""",Exposure 6
 03/06/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,"""March 1, 3, 4""",Exposure 10
+03/06/2021,Ecole Coquitlam River Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 1
+03/06/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,Feb 26,Exposure 6
+03/06/2021,Jarvis Traditional Elementary,Delta,37,Fraser Health Authority,"""March 1, 2, 5""",Exposure 3
 03/06/2021,Ecole Mary Hill Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 1, 2""",Exposure 4
 03/06/2021,St John Brebeuf,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,March 1,Exposure 10
-03/06/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,Feb 26,Exposure 6
-03/06/2021,Ecole Coquitlam River Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 1
-03/06/2021,Jarvis Traditional Elementary,Delta,37,Fraser Health Authority,"""March 1, 2, 5""",Exposure 3
+03/06/2021,Alexander Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,Feb 25 and 26,Exposure 3
+03/06/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,Feb 26,Exposure 4
 03/06/2021,Kamloops Christian School,Kamloops,73,Interior Health Authority,March 1,https://www.kamloopsbcnow.com/watercooler/news/news/BC_Interior/COVID_19_exposures_reported_at_numerous_Interior_schools
+03/06/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,"""Mar 1, 2, and 3""",Exposure 10
+03/06/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,"""Feb 23, 24, and Mar 2""",Exposure 2
+03/06/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""Mar 1, 2, and 3""",Exposure 39
+03/06/2021,Davidson Road Elementary,Lake Country,23,Interior Health Authority,"""Feb 23, 24, 25, 26, Mar 1, and 2""",We have been told that this letter is for 2 separate cases and since the letter states 'members' (plural) we have listed both Exposure 2 and 3 using this letter.
+03/06/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,March 1,Exposure 4
+03/06/2021,Agassiz Elem-Secondary,Agassiz,78,Fraser Health Authority,Feb 22,Exposure 3
+03/06/2021,J T Brown Elementary,Surrey,36,Fraser Health Authority,Mar 1,Exposure 4
+03/06/2021,Peterson Road Elementary,Langley,35,Fraser Health Authority,March 2,Exposure 3
+03/06/2021,R M Grauer Elementary,Richmond,38,Vancouver Coastal Health,Feb 26 and Mar 1,Exposure 3
 03/05/2021,Bayview Elementary,Nanaimo,68,Vancouver Island Health Authority,Mar 1 and 2,Exposure 6
 03/05/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,Mar 1,Exposure 6
 03/05/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,March 1 and 2,Attached documentation indicated 2 cases. They are listed as Exposure 10 and 11 on our database.
 03/05/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,March 1 and 2,Exposure 9
 03/05/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 1, 2, 3""",Exposure 7
-03/05/2021,Summit Middle School,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 8
 03/05/2021,St Francis of Assisi,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Mar 2,Exposure 3
 03/05/2021,Vancouver Technical Secondary,Vancouver,39,Vancouver Coastal Health,Mar 1 and 2,Exposure 9
 03/05/2021,Queensborough Middle School,New Westminster,40,Fraser Health Authority,"""Feb 25, 26""",Exposure 6
@@ -63,6 +73,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/05/2021,Ladner Elementary,Delta,37,Fraser Health Authority,March 1,Exposure 3
 03/05/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,March 1,Exposure 5
 03/05/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,"""March 1, 2""",Exposure 1
+03/05/2021,Summit Middle School,Coquitlam,43,Fraser Health Authority,March 1,Exposure 8
 03/04/2021,Hazelton Secondary,Hazelton,82,Northern Health,Feb 25,Exposure 1
 03/04/2021,Ecole Alpha Secondary,Burnaby,41,Fraser Health Authority,"""Feb 22, 23, 24, 25,  and 26""",Exposure 8
 03/04/2021,Port Moody Secondary,Port Moody,43,Fraser Health Authority,Feb 24,Exposure 3
@@ -74,7 +85,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/04/2021,Nanaimo District Secondary,Nanaimo,68,Vancouver Island Health Authority,"""Feb 19, 22, 23, 24, 25, 26, Mar 1 and 2""",Exposure 8
 03/04/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""Feb 25, 26""",This has been confirmed to be a variant of concern (Documentation on file)
 03/04/2021,Langley Secondary,Langley,35,Fraser Health Authority,"""Feb 26, Mar 1, 2, and 3""",Exposure 9
-03/04/2021,Davidson Road Elementary,Lake Country,23,Interior Health Authority,"""Feb 23, 24, 25, 26, Mar 1, and 2""",One class has been asked to self-isolate until the end of the day on March 16th. (Document on file)
 03/04/2021,Wellington Secondary,Nanaimo,68,Vancouver Island Health Authority,"""March 1, 2""",Exposure 2
 03/04/2021,Roy Stibbs Elementary,Coquitlam,43,Fraser Health Authority,Feb 25,Exposure 5
 03/04/2021,Savona Elementary,,73,Interior Health Authority,Mar 1,Exposure 1
@@ -116,6 +126,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/04/2021,Burnaby Mountain Secondary,Burnaby,41,Fraser Health Authority,Feb 22,Exposure 3
 03/04/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,Feb 24,Exposure 34
 03/04/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,March 1,Exposure 9
+03/04/2021,Davidson Road Elementary,Lake Country,23,Interior Health Authority,"""Feb 23, 24, 25, 26, Mar 1, and 2""",We have been told that this letter is for 2 separate cases and since the letter states 'members' (plural) we have listed both Exposure 2 and 3 using this letter.
 03/03/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,Feb 23 and 24,Exposure 7
 03/03/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,Feb 23 and 25,Exposure 7
 03/03/2021,Brooksbank Elementary,North Vancouver,44,Vancouver Coastal Health,Feb 25 and March 1,Exposure 5
