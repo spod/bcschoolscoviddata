@@ -5,7 +5,7 @@ Enver Creek Secondary,36,Fraser Health Authority,34
 Frank Hurt Secondary,36,Fraser Health Authority,34
 Queen Elizabeth Secondary,36,Fraser Health Authority,34
 Sullivan Heights Secondary,36,Fraser Health Authority,33
-Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,30
+Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,31
 New Westminster Secondary,40,Fraser Health Authority,24
 L A Matheson Secondary,36,Fraser Health Authority,22
 Guildford Park Secondary,36,Fraser Health Authority,21
@@ -41,6 +41,7 @@ Killarney Secondary,39,Vancouver Coastal Health,12
 Ecole Glenbrook Middle School,40,Fraser Health Authority,12
 Heritage Woods Secondary,43,Fraser Health Authority,12
 Carson Graham Secondary,44,Vancouver Coastal Health,12
+North Peace Secondary,60,Northern Health,12
 Brookswood Secondary,35,Fraser Health Authority,11
 Westerman Elementary,36,Fraser Health Authority,11
 Hellings Elementary,37,Fraser Health Authority,11
@@ -48,7 +49,6 @@ Seaquam Secondary,37,Fraser Health Authority,11
 Vancouver Technical Secondary,39,Vancouver Coastal Health,11
 Burnaby Central Secondary,41,Fraser Health Authority,11
 Charles Hays Secondary,52,Northern Health,11
-North Peace Secondary,60,Northern Health,11
 Hatzic Middle School,75,Fraser Health Authority,11
 Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,11
 Okanagan Mission Secondary,23,Interior Health Authority,10
@@ -122,6 +122,7 @@ Colleen and Gordie Howe Middle School,34,Fraser Health Authority,7
 Eugene Reimer Middle School,34,Fraser Health Authority,7
 George Greenaway Elementary,36,Fraser Health Authority,7
 Latimer Road Elementary,36,Fraser Health Authority,7
+M B Sanford Elementary,36,Fraser Health Authority,7
 Royal Heights Elementary,36,Fraser Health Authority,7
 Simon Cunningham Elementary,36,Fraser Health Authority,7
 Strawberry Hill Elementary,36,Fraser Health Authority,7
@@ -154,13 +155,13 @@ Walnut Grove Secondary,35,Fraser Health Authority,6
 Bear Creek Elementary,36,Fraser Health Authority,6
 Beaver Creek Elementary,36,Fraser Health Authority,6
 Colebrook Elementary,36,Fraser Health Authority,6
+Creekside Elementary,36,Fraser Health Authority,6
 Ecole Salish Secondary,36,Fraser Health Authority,6
 Elgin Park Secondary,36,Fraser Health Authority,6
 Fraser Heights Secondary,36,Fraser Health Authority,6
 Harold Bishop Elementary,36,Fraser Health Authority,6
 Hyland Elementary,36,Fraser Health Authority,6
 Katzie Elementary,36,Fraser Health Authority,6
-M B Sanford Elementary,36,Fraser Health Authority,6
 Newton Elementary,36,Fraser Health Authority,6
 Walnut Road Elementary,36,Fraser Health Authority,6
 Hugh McRoberts Secondary,38,Vancouver Coastal Health,6
@@ -206,7 +207,6 @@ Belmont Elementary,35,Fraser Health Authority,5
 A H P Matthew Elementary,36,Fraser Health Authority,5
 A J McLellan Elementary,36,Fraser Health Authority,5
 Chimney Hill Elementary,36,Fraser Health Authority,5
-Creekside Elementary,36,Fraser Health Authority,5
 James Ardiel Elementary,36,Fraser Health Authority,5
 Martha Jane Norris Elementary,36,Fraser Health Authority,5
 McLeod Road Traditional,36,Fraser Health Authority,5
@@ -291,6 +291,7 @@ Kitchener Elementary,41,Fraser Health Authority,4
 Twelfth Avenue Elementary,41,Fraser Health Authority,4
 Westridge Elementary,41,Fraser Health Authority,4
 Alexander Robinson Elementary,42,Fraser Health Authority,4
+Edith McDermott Elementary,42,Fraser Health Authority,4
 Eric Langton Elementary,42,Fraser Health Authority,4
 Central Community Elementary,43,Fraser Health Authority,4
 Ecole Coquitlam River Elementary,43,Fraser Health Authority,4
@@ -403,7 +404,6 @@ Ecole Seaforth Elementary,41,Fraser Health Authority,3
 Lakeview Elementary,41,Fraser Health Authority,3
 Windsor Elementary,41,Fraser Health Authority,3
 Alouette Elementary,42,Fraser Health Authority,3
-Edith McDermott Elementary,42,Fraser Health Authority,3
 Golden Ears Elementary,42,Fraser Health Authority,3
 Laity View Elementary,42,Fraser Health Authority,3
 Yennadon Elementary,42,Fraser Health Authority,3
@@ -791,6 +791,7 @@ Brentwood Park Elementary,41,Fraser Health Authority,1
 Burnaby South Community & Continuing Education,41,Fraser Health Authority,1
 Burnaby Youth HUB,41,Fraser Health Authority,1
 Cascade Heights Elementary,41,Fraser Health Authority,1
+Clinton Elementary,41,Fraser Health Authority,1
 Deer Lake SDA School,41,Fraser Health Authority,1
 Ecole Inman Elementary,41,Fraser Health Authority,1
 Maywood Community Elementary,41,Fraser Health Authority,1
