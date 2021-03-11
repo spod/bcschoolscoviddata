@@ -1,13 +1,26 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-03/10/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""March 3, 4""",Exposure 11
+03/10/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""Mar 1, 2, 4, and 5""",Exposure 6
+03/10/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,Mar 4 and 5,Exposure 7
+03/10/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,"""March 1, 2, 3""",Exposure 12
 03/10/2021,Houston Secondary,Houston,54,Northern Health,"""March 1, 2, 3""",Exposure 3
 03/10/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,March 5,Exposure 8
 03/10/2021,Mamquam Elementary,Garibaldi Highlands,48,Vancouver Coastal Health,Not provided,Exposure 5
 03/10/2021,Silverthorne Elementary,Houston,54,Northern Health,"""March 1, 2, 3""",Exposure 1
-03/10/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,"""March 1, 2, 3""",Exposure 12
-03/10/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,March 5,Exposure 16
 03/10/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""March 1, 2""",Exposure 16
 03/10/2021,Ecole Riverside Secondary,Port Coquitlam,43,Fraser Health Authority,March 5,Exposure 6
+03/10/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""March 3, 4""",Exposure 11
+03/10/2021,Brocklehurst Middle School,Kamloops,73,Interior Health Authority,"""March 4, 5""",Exposure 3
+03/10/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,"""March 3, 4 5""",Exposure 3
+03/10/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,March 5,Exposure 16
+03/10/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,Mar 4 and 5,Exposure 9
+03/10/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,Mar 2 and 3,Exposure 15
+03/10/2021,Hazel Trembath Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 3
+03/10/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""Feb 26, March 3, 4, 5""",Exposure 11
+03/10/2021,Cedar Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""March 8, 10""",Exposure 2
+03/10/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""March 3, 4, 5""",Exposure 11
+03/10/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,March 5,Exposure 2
+03/10/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,March 4,Exposure 9
+03/10/2021,Victoria West Elementary,Victoria,61,Vancouver Island Health Authority,"""Mar 2, 3, and 4""",Exposure 1
 03/09/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,Claro Learning Centre (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Mar 3, 4, and 5""",Exposure 1
 03/09/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 4, 5""",Exposure 11
@@ -50,11 +63,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/09/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,March 2,Exposure 23
 03/09/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,Mar 5,Exposure 7
 03/09/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,Mar 4 and 5,Exposure 7
-03/09/2021,Roosevelt Park Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 2
 03/09/2021,St Francis of Assisi,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Mar 1, 2, 3, and 4""",Exposure 4
 03/09/2021,Centennial Park Elementary,Abbotsford,34,Fraser Health Authority,Mar 5,Exposure 6
 03/09/2021,Port Moody Secondary,Port Moody,43,Fraser Health Authority,Mar 5,Exposure 4
 03/09/2021,Maple Ridge Secondary,Maple Ridge,42,Fraser Health Authority,"""Mar 3, 4, and 5""",Exposure 9
+03/09/2021,Roosevelt Park Elementary,Prince Rupert,52,Northern Health,"""March 2, 3, 4, 5""",Exposure 2
 03/08/2021,Westerman Elementary,Surrey,36,Fraser Health Authority,"""Feb 23, 24, 25""",Confirmed Variant of Concern.
 03/08/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,"""March 1, 2, 3""",Exposure 35
 03/08/2021,Ecole Panorama Heights Elementary,Coquitlam,43,Fraser Health Authority,"""March 3, 4, 5""",Exposure 4
@@ -66,7 +79,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/08/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,Feb 26,Exposure 3
 03/08/2021,Peace Arch Elementary,White Rock,36,Fraser Health Authority,"""March 3, 4""",Exposure 2
 03/08/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 1,Exposure
-03/08/2021,Brocklehurst Middle School,Kamloops,73,Interior Health Authority,March 5,Exposure 2
 03/08/2021,Skeena Middle,Terrace,82,Northern Health,"""March 1, 2""",Exposure 7
 03/08/2021,Mount Elizabeth Middle/Secondary,Kitimat,82,Northern Health,"""Feb 24, 25, 26""",Exposure 1
 03/08/2021,Kildala Elementary,Kitimat,82,Northern Health,"""Feb 24, 25, 26""",Exposure 2
@@ -93,6 +105,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/08/2021,Vancouver Talmud Torah Elementary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Mar 3 and 4 (Dates on BCCDC webpage),Exposure 2
 03/08/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""March 2, 4""",Exposure 5
 03/08/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 4,Exposure 4
+03/08/2021,Brocklehurst Middle School,Kamloops,73,Interior Health Authority,March 5,Exposure 2
 03/07/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Mar 3,Exposure 31
 03/07/2021,Edith McDermott Elementary,Pitt Meadows,42,Fraser Health Authority,Feb 24,Exposure 4
 03/07/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,March 1 and 3,Exposure 7
