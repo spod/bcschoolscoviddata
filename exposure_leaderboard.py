@@ -50,14 +50,20 @@ def main():
     writer = csv.writer(config.outcsv)
     writer.writerow(
         (
+            "Rank",
             "School",
             "School District",
             "Health Region",
             "Exposures",
         )
     )
+    rank = 1
+    min_exp = exposures[0].exposures
     for e in exposures:
-        writer.writerow([e.school, e.school_district, e.health_region, e.exposures])
+        if e.exposures < min_exp:
+            min_exp = e.exposures
+            rank += 1
+        writer.writerow([rank, e.school, e.school_district, e.health_region, e.exposures])
 
 
 if __name__ == "__main__":
