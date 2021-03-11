@@ -1,5 +1,13 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/10/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""March 3, 4""",Exposure 11
+03/10/2021,Houston Secondary,Houston,54,Northern Health,"""March 1, 2, 3""",Exposure 3
+03/10/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,March 5,Exposure 8
+03/10/2021,Mamquam Elementary,Garibaldi Highlands,48,Vancouver Coastal Health,Not provided,Exposure 5
+03/10/2021,Silverthorne Elementary,Houston,54,Northern Health,"""March 1, 2, 3""",Exposure 1
+03/10/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,"""March 1, 2, 3""",Exposure 12
+03/10/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,March 5,Exposure 16
+03/10/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""March 1, 2""",Exposure 16
+03/10/2021,Ecole Riverside Secondary,Port Coquitlam,43,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,Claro Learning Centre (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Mar 3, 4, and 5""",Exposure 1
 03/09/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 4, 5""",Exposure 11
