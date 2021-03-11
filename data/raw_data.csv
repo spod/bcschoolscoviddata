@@ -16,11 +16,21 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/10/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,Mar 2 and 3,Exposure 15
 03/10/2021,Hazel Trembath Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 3
 03/10/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""Feb 26, March 3, 4, 5""",Exposure 11
-03/10/2021,Cedar Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""March 8, 10""",Exposure 2
-03/10/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""March 3, 4, 5""",Exposure 11
+03/10/2021,Dr R E McKechnie Elementary,Vancouver,39,Vancouver Coastal Health,"""March 1, 2, 3""",Exposure 1
+03/10/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 2,Exposure 35
+03/10/2021,Annunciation School,Prince Rupert,Independent Schools in Northern Health,Northern Health,"""Mar 1, 2, and 3""",Exposure 2
+03/10/2021,Houston Christian School,Houston,Independent Schools in Northern Health,Northern Health,"""Mar 1, 2, and 3""",Exposure 1
+03/10/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,March 3,Exposure 6
 03/10/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,March 5,Exposure 2
+03/10/2021,Arthur Hatton Elementary,Kamloops,73,Interior Health Authority,"""Mar 2, 3, and 4""",Exposure 2
 03/10/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,March 4,Exposure 9
+03/10/2021,Cedar Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""March 8, 10""",Exposure 2
 03/10/2021,Victoria West Elementary,Victoria,61,Vancouver Island Health Authority,"""Mar 2, 3, and 4""",Exposure 1
+03/10/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""March 3, 4, 5""",Exposure 11
+03/10/2021,Caledonia Secondary,Terrace,82,Northern Health,"""Mar 1, 2, and 3""",Exposure 10
+03/10/2021,St Thomas Aquinas,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 1,Exposure 9
+03/10/2021,Hart Highlands Elementary,Prince George,57,Northern Health,Mar 1,Exposure 1
+03/10/2021,Florence Nightingale Elementary,Vancouver,39,Vancouver Coastal Health,Mar 8,Exposure 3
 03/09/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,Claro Learning Centre (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Mar 3, 4, and 5""",Exposure 1
 03/09/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 4, 5""",Exposure 11
@@ -32,8 +42,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/09/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,"""Feb 24, 25, 26 and March 1, 2, 3, 4""",We have confirmation on file that this is a different positive case from exposure 7
 03/09/2021,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Mar 4 and 5,Exposure 21
 03/09/2021,Mount Elizabeth Middle/Secondary,Kitimat,82,Fraser Health Authority,March 1,Exposure 2
-03/09/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,March 5,Exposure 6
-03/09/2021,École Anne-Hèbert Elementary School,Vancouver,93,Vancouver Coastal Health,Not provided,Exposure 4
 03/09/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,Mar 1 and 2,Exposure 10
 03/09/2021,A H P Matthew Elementary,Surrey,36,Fraser Health Authority,"""Mar 1, 2, and 4""",Exposure 6
 03/09/2021,Guru Angand Dev Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Mar 3,Exposure 11
@@ -68,6 +76,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/09/2021,Port Moody Secondary,Port Moody,43,Fraser Health Authority,Mar 5,Exposure 4
 03/09/2021,Maple Ridge Secondary,Maple Ridge,42,Fraser Health Authority,"""Mar 3, 4, and 5""",Exposure 9
 03/09/2021,Roosevelt Park Elementary,Prince Rupert,52,Northern Health,"""March 2, 3, 4, 5""",Exposure 2
+03/09/2021,École Anne-Hèbert Elementary School,Vancouver,93,Vancouver Coastal Health,According to BCCDC website. Screenshot on file,Exposure 4
+03/09/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,BCCDC site has the march 4th listed. We have a screenshot on file.,Exposure 6
 03/08/2021,Westerman Elementary,Surrey,36,Fraser Health Authority,"""Feb 23, 24, 25""",Confirmed Variant of Concern.
 03/08/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,"""March 1, 2, 3""",Exposure 35
 03/08/2021,Ecole Panorama Heights Elementary,Coquitlam,43,Fraser Health Authority,"""March 3, 4, 5""",Exposure 4
@@ -382,7 +392,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/01/2021,Ecole Squamish Elementary,Squamish,48,Vancouver Coastal Health,"""Feb 24, 25, and 26""",This exposure has the same dates as Exposure 2 but is for a different grade/division.
 03/01/2021,Street Front Alternative Program (Britannia Secondary),Vancouver,39,Vancouver Coastal Health,Feb 22,Exposure 1
 03/01/2021,Skeena Middle,Terrace,82,Northern Health,Feb 22 and 23,Exposure 5
-03/01/2021,Annunciation School,Prince Rupert,52,Northern Health,"""Feb 17, 18, 19, 22, and 23""",Exposure 1
+03/01/2021,Annunciation School,Prince Rupert,Independent Schools in Northern Health,Northern Health,"""Feb 17, 18, 19, 22, and 23""",Exposure 1
 03/01/2021,North Peace Secondary,,60,Northern Health,Feb 22 and 23,Exposure 10
 03/01/2021,Caledonia Secondary,Terrace,82,Northern Health,Feb 19,Exposure 8
 03/01/2021,Ecole Squamish Elementary,Squamish,48,Vancouver Coastal Health,"""Feb 24, 25, and 26""",Despite the matching dates for Exposure 1 and 2 this is a different grade/division.

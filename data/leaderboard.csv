@@ -3,7 +3,7 @@ Panorama Ridge Secondary,36,Fraser Health Authority,38
 Tamanawis Secondary,36,Fraser Health Authority,38
 Enver Creek Secondary,36,Fraser Health Authority,35
 Frank Hurt Secondary,36,Fraser Health Authority,35
-Queen Elizabeth Secondary,36,Fraser Health Authority,34
+Queen Elizabeth Secondary,36,Fraser Health Authority,35
 Sullivan Heights Secondary,36,Fraser Health Authority,33
 Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,31
 L A Matheson Secondary,36,Fraser Health Authority,24
@@ -67,6 +67,7 @@ Ecole Kwayhquitlum Middle,43,Fraser Health Authority,10
 Gleneagle Secondary,43,Fraser Health Authority,10
 Upper Lynn Elementary,44,Vancouver Coastal Health,10
 Howe Sound Secondary,48,Vancouver Coastal Health,10
+Caledonia Secondary,82,Northern Health,10
 Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,10
 Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,10
 Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,10
@@ -89,7 +90,7 @@ Britannia Community Secondary,39,Vancouver Coastal Health,9
 Lord Roberts Elementary,39,Vancouver Coastal Health,9
 Terry Fox Secondary,43,Fraser Health Authority,9
 West Vancouver Secondary,45,Vancouver Coastal Health,9
-Caledonia Secondary,82,Northern Health,9
+St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,9
 Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,9
 Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,9
@@ -118,7 +119,6 @@ Summit Middle School,43,Fraser Health Authority,8
 Argyle Secondary,44,Vancouver Coastal Health,8
 Sentinel Secondary,45,Vancouver Coastal Health,8
 Nanaimo District Secondary,68,Vancouver Island Health Authority,8
-St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,8
 Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,8
 Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,8
 Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
@@ -173,6 +173,7 @@ Fraser Heights Secondary,36,Fraser Health Authority,6
 Harold Bishop Elementary,36,Fraser Health Authority,6
 Hyland Elementary,36,Fraser Health Authority,6
 Katzie Elementary,36,Fraser Health Authority,6
+Martha Jane Norris Elementary,36,Fraser Health Authority,6
 McLeod Road Traditional,36,Fraser Health Authority,6
 Newton Elementary,36,Fraser Health Authority,6
 Walnut Road Elementary,36,Fraser Health Authority,6
@@ -220,7 +221,6 @@ Ecole Riverdale Elementary,36,Fraser Health Authority,5
 J T Brown Elementary,36,Fraser Health Authority,5
 James Ardiel Elementary,36,Fraser Health Authority,5
 Maple Green Elementary,36,Fraser Health Authority,5
-Martha Jane Norris Elementary,36,Fraser Health Authority,5
 South Meridian Elementary,36,Fraser Health Authority,5
 Annieville Elementary,37,Fraser Health Authority,5
 Burnsview Secondary School,37,Fraser Health Authority,5
@@ -402,6 +402,7 @@ William Cook Elementary,38,Vancouver Coastal Health,3
 Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,3
 Edith Cavell Elementary,39,Vancouver Coastal Health,3
 False Creek Elementary,39,Vancouver Coastal Health,3
+Florence Nightingale Elementary,39,Vancouver Coastal Health,3
 Hastings Community Elementary,39,Vancouver Coastal Health,3
 John Henderson Elementary,39,Vancouver Coastal Health,3
 John Norquay Elementary,39,Vancouver Coastal Health,3
@@ -560,7 +561,6 @@ Captain James Cook Elementary,39,Vancouver Coastal Health,2
 Champlain Heights Community Elementary,39,Vancouver Coastal Health,2
 Churchill Secondary (Ideal Mini School),39,Vancouver Coastal Health,2
 Dr George M Weir Elementary,39,Vancouver Coastal Health,2
-Florence Nightingale Elementary,39,Vancouver Coastal Health,2
 General Gordon Elementary,39,Vancouver Coastal Health,2
 Immaculate Conception School (Vancouver),39,Vancouver Coastal Health,2
 J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,2
@@ -631,6 +631,7 @@ Randerson Ridge Elementary,68,Vancouver Island Health Authority,2
 Wellington Secondary,68,Vancouver Island Health Authority,2
 Oceanside Elementary,69,Vancouver Island Health Authority,2
 Wood Elementary,70,Vancouver Island Health Authority,2
+Arthur Hatton Elementary,73,Interior Health Authority,2
 Arthur Stevenson Elementary,73,Interior Health Authority,2
 Ecole Lloyd George Elementary (Kamloops),73,Interior Health Authority,2
 Kamloops School of the Arts,73,Interior Health Authority,2
@@ -673,6 +674,7 @@ Squiala Elementary,Independent Schools in Fraser Health,Fraser Health Authority,
 White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,2
 Sk'elep School of Excellence,Independent Schools in Interior Health,Interior Health Authority,2
 St Mary's Catholic Independent,Independent Schools in Interior Health,Interior Health Authority,2
+Annunciation School,Independent Schools in Northern Health,Northern Health,2
 Chief Matthews School,Independent Schools in Northern Health,Northern Health,2
 Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 Sacred Heart,Independent Schools in Northern Health,Northern Health,2
@@ -776,6 +778,7 @@ Cedar Walk Program,39,Vancouver Coastal Health,1
 Charles Dickens Elementary,39,Vancouver Coastal Health,1
 Collingwood Neighbourhood School,39,Vancouver Coastal Health,1
 David Oppenheimer Elementary,39,Northern Health,1
+Dr R E McKechnie Elementary,39,Vancouver Coastal Health,1
 Emily Carr Elementary,39,Vancouver Coastal Health,1
 G T Cunningham Elementary,39,Vancouver Coastal Health,1
 General Brock Elementary,39,Vancouver Coastal Health,1
@@ -864,7 +867,6 @@ Mount Baker Secondary,5,Interior Health Authority,1
 Rocky Mountain Elementary,5,Interior Health Authority,1
 Gidgalang Kuuyas Naay,50,Northern Health,1
 Gudangaay Tlaats'gaa Naay,50,Northern Health,1
-Annunciation School,52,Northern Health,1
 Pacific Coast School,52,Northern Health,1
 Pineridge Elementary,52,Northern Health,1
 Port Edward Elementary,52,Northern Health,1
@@ -879,6 +881,7 @@ Duchess Park Secondary,57,Northern Health,1
 Ecole Lac des Bois,57,Northern Health,1
 Foothills Elementary,57,Northern Health,1
 Giscome Elementary,57,Northern Health,1
+Hart Highlands Elementary,57,Northern Health,1
 Pinewood Elementary (Prince George),57,Northern Health,1
 Ron Brent Elementary,57,Northern Health,1
 Southridge Elementary,57,Northern Health,1
@@ -934,7 +937,6 @@ Miracle Beach Elementary,71,Vancouver Island Health Authority,1
 Navigate - NIDES (DL Program),71,Vancouver Island Health Authority,1
 Queneesh Elementary,71,Vancouver Island Health Authority,1
 Timberline Secondary School,72,Vancouver Island Health Authority,1
-Arthur Hatton Elementary,73,Interior Health Authority,1
 Barriere Elementary,73,Interior Health Authority,1
 Chase Secondary,73,Interior Health Authority,1
 David Thompson Elementary,73,Interior Health Authority,1
@@ -1021,6 +1023,7 @@ Shawnigan Lake,Independent Schools in Island Health,Vancouver Island Health Auth
 St Michaels University School - Junior,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,1
 Haisla Community School,Independent Schools in Northern Health,Northern Health,1
+Houston Christian School,Independent Schools in Northern Health,Northern Health,1
 Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
 Kispiox Community School,Independent Schools in Northern Health,Northern Health,1
 Mountain Christian School,Independent Schools in Northern Health,Northern Health,1
