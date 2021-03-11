@@ -16,6 +16,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/10/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,Mar 2 and 3,Exposure 15
 03/10/2021,Hazel Trembath Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 3
 03/10/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""Feb 26, March 3, 4, 5""",Exposure 11
+03/10/2021,Florence Nightingale Elementary,Vancouver,39,Vancouver Coastal Health,Mar 8,Exposure 3
 03/10/2021,Dr R E McKechnie Elementary,Vancouver,39,Vancouver Coastal Health,"""March 1, 2, 3""",Exposure 1
 03/10/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 2,Exposure 35
 03/10/2021,Annunciation School,Prince Rupert,Independent Schools in Northern Health,Northern Health,"""Mar 1, 2, and 3""",Exposure 2
@@ -30,7 +31,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/10/2021,Caledonia Secondary,Terrace,82,Northern Health,"""Mar 1, 2, and 3""",Exposure 10
 03/10/2021,St Thomas Aquinas,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 1,Exposure 9
 03/10/2021,Hart Highlands Elementary,Prince George,57,Northern Health,Mar 1,Exposure 1
-03/10/2021,Florence Nightingale Elementary,Vancouver,39,Vancouver Coastal Health,Mar 8,Exposure 3
 03/09/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,Claro Learning Centre (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Mar 3, 4, and 5""",Exposure 1
 03/09/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 4, 5""",Exposure 11
