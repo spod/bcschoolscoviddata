@@ -115,6 +115,7 @@ Rank,School,School District,Health Region,Exposures
 19,Ecole Alpha Secondary,41,Fraser Health Authority,8
 19,Maple Ridge Secondary,42,Fraser Health Authority,8
 19,Eagle Mountain Middle School,43,Fraser Health Authority,8
+19,Minnekhada Middle School,43,Fraser Health Authority,8
 19,Pinetree Secondary,43,Fraser Health Authority,8
 19,Summit Middle School,43,Fraser Health Authority,8
 19,Argyle Secondary,44,Vancouver Coastal Health,8
@@ -141,7 +142,6 @@ Rank,School,School District,Health Region,Exposures
 20,Moscrop Secondary,41,Fraser Health Authority,7
 20,Samuel Robertson Technical Secondary,42,Fraser Health Authority,7
 20,Thomas Haney Secondary,42,Fraser Health Authority,7
-20,Minnekhada Middle School,43,Fraser Health Authority,7
 20,Scott Creek Middle School,43,Fraser Health Authority,7
 20,Conrad Street Elementary,52,Northern Health,7
 20,Prince George Secondary,57,Northern Health,7
@@ -514,6 +514,7 @@ Rank,School,School District,Health Region,Exposures
 25,ASIA - North Poplar,34,Fraser Health Authority,2
 25,Clayburn Middle School,34,Fraser Health Authority,2
 25,Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
+25,Dr Thomas A Swift Elementary,34,Fraser Health Authority,2
 25,Godson Elementary,34,Fraser Health Authority,2
 25,McMillan Elementary,34,Fraser Health Authority,2
 25,Alex Hope Elementary,35,Fraser Health Authority,2
@@ -603,6 +604,7 @@ Rank,School,School District,Health Region,Exposures
 25,Ecole Maple Creek Middle,43,Fraser Health Authority,2
 25,Hampton Park Elementary,43,Fraser Health Authority,2
 25,Moody Elementary,43,Fraser Health Authority,2
+25,Seaview Community School (Port Moody),43,Fraser Health Authority,2
 25,Winslow Centre,43,Fraser Health Authority,2
 25,Capilano Elementary,44,Vancouver Coastal Health,2
 25,Cleveland Elementary,44,Vancouver Coastal Health,2
@@ -722,7 +724,6 @@ Rank,School,School District,Health Region,Exposures
 26,Bradner Elementary,34,Fraser Health Authority,1
 26,Cornerstone Christian School,34,Fraser Health Authority,1
 26,Dormick Park Elementary,34,Fraser Health Authority,1
-26,Dr Thomas A Swift Elementary,34,Fraser Health Authority,1
 26,Jackson Elementary,34,Fraser Health Authority,1
 26,Mt Lehman Elementary,34,Fraser Health Authority,1
 26,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,1
@@ -848,7 +849,6 @@ Rank,School,School District,Health Region,Exposures
 26,Meadowbrook Elementary,43,Fraser Health Authority,1
 26,Parkland Elementary,43,Fraser Health Authority,1
 26,R C Macdonald Elementary,43,Fraser Health Authority,1
-26,Seaview Community School (Port Moody),43,Fraser Health Authority,1
 26,Suwa'lkh School,43,Fraser Health Authority,1
 26,Blueridge Elementary,44,Vancouver Coastal Health,1
 26,Boundary Elementary,44,Vancouver Coastal Health,1
