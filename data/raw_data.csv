@@ -1,5 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/12/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,"""March 3, 4, 5""",Exposure 2
+03/12/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 6
+03/12/2021,Kidston Elementary,Coldstream,22,Interior Health Authority,March 5,Exposure 2
 03/11/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""Mar 3, 4, 5, and 9""",Exposure 1
 03/11/2021,Canyon Falls Middle School,Kelowna,23,Interior Health Authority,Mar 4 and 5,Exposure 7
 03/11/2021,Ridgeway Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 8, 9""",Exposure 2
@@ -16,7 +18,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/11/2021,Sunrise Ridge Elementary,Surrey,36,Fraser Health Authority,"""Feb 19, 22, 23, 24, 25, 26""",Exposure 10
 03/11/2021,Fraser Lake Elem-Secondary,Fraser Lake,91,Northern Health,Mar 1 and 2,Exposure 2
 03/11/2021,Sir James Douglas Annex,Vancouver,39,Vancouver Coastal Health,Mar 8,Exposure 3
-03/11/2021,Bibleway Christian Academy,Surrey,36,Fraser Health Authority,"""Mar 2, 3, and 4""",Exposure 1
+03/11/2021,Bibleway Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Mar 2, 3, and 4""",Exposure 1
 03/11/2021,Pacific Coast School,Prince Rupert,52,Northern Health,Not provided,Exposure 2
 03/11/2021,Pacific Academy High School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Mar 1 and 2,Exposure 6
 03/11/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 7

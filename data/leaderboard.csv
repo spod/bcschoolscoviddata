@@ -201,6 +201,7 @@ Rank,School,School District,Health Region,Exposures
 21,des Pionniers-de-Maillardville,93,Fraser Health Authority,6
 21,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,6
 21,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,6
+21,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 21,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 21,Holy Cross Regional High School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,6
 21,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -255,7 +256,6 @@ Rank,School,School District,Health Region,Exposures
 22,South Kamloops Secondary,73,Interior Health Authority,5
 22,Thornhill Primary,82,Northern Health,5
 22,Fort St James Secondary,91,Northern Health,5
-22,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 22,Diamond School,Independent Schools in Fraser Health,Fraser Health Authority,5
 22,Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,5
 22,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -493,6 +493,7 @@ Rank,School,School District,Health Region,Exposures
 24,Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,3
 25,Hillview Elementary,22,Interior Health Authority,2
 25,Kalamalka Secondary,22,Interior Health Authority,2
+25,Kidston Elementary,22,Interior Health Authority,2
 25,Vernon Secondary,22,Interior Health Authority,2
 25,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,2
 25,A S Matheson Elementary,23,Interior Health Authority,2
@@ -689,7 +690,6 @@ Rank,School,School District,Health Region,Exposures
 26,Beairsto Elementary,22,Interior Health Authority,1
 26,Charles Bloom Elementary Secondary,22,Interior Health Authority,1
 26,Harwood Elementary,22,Interior Health Authority,1
-26,Kidston Elementary,22,Interior Health Authority,1
 26,Mission Hill Elementary,22,Interior Health Authority,1
 26,Silver Star Elementary,22,Interior Health Authority,1
 26,Anne McClymont Elementary,23,Interior Health Authority,1
@@ -739,7 +739,6 @@ Rank,School,School District,Health Region,Exposures
 26,Noel Booth Elementary,35,Fraser Health Authority,1
 26,West Langley Elementary,35,Fraser Health Authority,1
 26,West Langley StrongStart Centre,35,Fraser Health Authority,1
-26,Bibleway Christian Academy,36,Fraser Health Authority,1
 26,Cedar Hills StrongStart Centre,36,Fraser Health Authority,1
 26,Clayton Elementary,36,Fraser Health Authority,1
 26,Cloverdale Learning Centre,36,Fraser Health Authority,1
@@ -1001,6 +1000,7 @@ Rank,School,School District,Health Region,Exposures
 26,St. John's School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 26,Vancouver Waldorf School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 26,Al-Hidayah School,Independent Schools in Fraser Health,Fraser Health Authority,1
+26,Bibleway Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,1
 26,Children of Integrity Montessori,Independent Schools in Fraser Health,Fraser Health Authority,1
 26,Global Montessori,Independent Schools in Fraser Health,Vancouver Coastal Health,1
 26,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Interior Health Authority,1
