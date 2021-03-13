@@ -7,8 +7,8 @@ Rank,School,School District,Health Region,Exposures
 4,Sullivan Heights Secondary,36,Fraser Health Authority,33
 5,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,31
 6,L A Matheson Secondary,36,Fraser Health Authority,25
+6,New Westminster Secondary,40,Fraser Health Authority,25
 7,Guildford Park Secondary,36,Fraser Health Authority,24
-7,New Westminster Secondary,40,Fraser Health Authority,24
 8,Kelowna Secondary School,23,Interior Health Authority,22
 8,North Delta Secondary,37,Fraser Health Authority,22
 9,Lord Tweedsmuir Secondary,36,Fraser Health Authority,21
@@ -129,6 +129,7 @@ Rank,School,School District,Health Region,Exposures
 22,Marie Sharpe Elementary,27,Interior Health Authority,7
 22,Mount Slesse Middle School,33,Fraser Health Authority,7
 22,Sardis Elementary,33,Fraser Health Authority,7
+22,Ecole Salish Secondary,36,Fraser Health Authority,7
 22,Elgin Park Secondary,36,Fraser Health Authority,7
 22,George Greenaway Elementary,36,Fraser Health Authority,7
 22,Latimer Road Elementary,36,Fraser Health Authority,7
@@ -170,7 +171,6 @@ Rank,School,School District,Health Region,Exposures
 23,Beaver Creek Elementary,36,Fraser Health Authority,6
 23,Colebrook Elementary,36,Fraser Health Authority,6
 23,Creekside Elementary,36,Fraser Health Authority,6
-23,Ecole Salish Secondary,36,Fraser Health Authority,6
 23,Fraser Heights Secondary,36,Fraser Health Authority,6
 23,Harold Bishop Elementary,36,Fraser Health Authority,6
 23,Hyland Elementary,36,Fraser Health Authority,6
@@ -285,6 +285,7 @@ Rank,School,School District,Health Region,Exposures
 25,K B Woodward Elementary,36,Fraser Health Authority,4
 25,Kennedy Trail Elementary,36,Fraser Health Authority,4
 25,Kirkbride Elementary,36,Fraser Health Authority,4
+25,Senator Reid Elementary,36,Fraser Health Authority,4
 25,Surrey Centre Elementary,36,Fraser Health Authority,4
 25,Brooke Elementary,37,Fraser Health Authority,4
 25,Hawthorne Elementary,37,Fraser Health Authority,4
@@ -299,6 +300,7 @@ Rank,School,School District,Health Region,Exposures
 25,Sir James Douglas Elementary (Vancouver),39,Vancouver Coastal Health,4
 25,Tyee Elementary,39,Vancouver Coastal Health,4
 25,Windermere Community Secondary,39,Vancouver Coastal Health,4
+25,Ecole Qayqayt Elementary,40,Fraser Health Authority,4
 25,Fraser River Middle,40,Fraser Health Authority,4
 25,Richard McBride Elementary (New Westminster),40,Fraser Health Authority,4
 25,Glenwood Elementary (Burnaby),41,Fraser Health Authority,4
@@ -308,6 +310,7 @@ Rank,School,School District,Health Region,Exposures
 25,Alexander Robinson Elementary,42,Fraser Health Authority,4
 25,Edith McDermott Elementary,42,Fraser Health Authority,4
 25,Eric Langton Elementary,42,Fraser Health Authority,4
+25,Cedar Drive Elementary,43,Fraser Health Authority,4
 25,Central Community Elementary,43,Fraser Health Authority,4
 25,Ecole Coquitlam River Elementary,43,Fraser Health Authority,4
 25,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
@@ -385,11 +388,11 @@ Rank,School,School District,Health Region,Exposures
 26,Peterson Road Elementary,35,Fraser Health Authority,3
 26,Adams Road Elementary,36,Fraser Health Authority,3
 26,Berkshire Park Elementary,36,Fraser Health Authority,3
+26,Bonaccord Elementary,36,Fraser Health Authority,3
 26,Cloverdale Traditional,36,Fraser Health Authority,3
 26,Hjorth Road Elementary,36,Fraser Health Authority,3
 26,Martha Currie Elementary,36,Fraser Health Authority,3
 26,Prince Charles Elementary (Surrey),36,Fraser Health Authority,3
-26,Senator Reid Elementary,36,Fraser Health Authority,3
 26,Serpentine Heights Elementary,36,Fraser Health Authority,3
 26,Sullivan Elementary,36,Fraser Health Authority,3
 26,Sunnyside Elementary,36,Fraser Health Authority,3
@@ -414,7 +417,6 @@ Rank,School,School District,Health Region,Exposures
 26,St John's School,39,Vancouver Coastal Health,3
 26,University Hill Secondary,39,Vancouver Coastal Health,3
 26,Walter Moberly Elementary,39,Vancouver Coastal Health,3
-26,Ecole Qayqayt Elementary,40,Fraser Health Authority,3
 26,Queen Elizabeth Elementary,40,Fraser Health Authority,3
 26,Burnaby Mountain Secondary,41,Fraser Health Authority,3
 26,Cameron Elementary,41,Fraser Health Authority,3
@@ -427,7 +429,6 @@ Rank,School,School District,Health Region,Exposures
 26,Yennadon Elementary,42,Fraser Health Authority,3
 26,Aspenwood Elementary,43,Fraser Health Authority,3
 26,Castle Park Elementary,43,Fraser Health Authority,3
-26,Cedar Drive Elementary,43,Fraser Health Authority,3
 26,Como Lake Middle School,43,Fraser Health Authority,3
 26,Ecole Banting Middle,43,Fraser Health Authority,3
 26,Ecole Irvine Elementary,43,Fraser Health Authority,3
@@ -524,7 +525,6 @@ Rank,School,School District,Health Region,Exposures
 27,Langley Fundamental Elementary,35,Fraser Health Authority,2
 27,Langley Meadows Elementary,35,Fraser Health Authority,2
 27,Betty Huff Elementary,36,Fraser Health Authority,2
-27,Bonaccord Elementary,36,Fraser Health Authority,2
 27,Bridgeview Elementary,36,Fraser Health Authority,2
 27,City Central Learning Centre,36,Fraser Health Authority,2
 27,Coast Meridian Elementary,36,Fraser Health Authority,2
@@ -766,6 +766,7 @@ Rank,School,School District,Health Region,Exposures
 28,Henry Anderson Elementary,38,Vancouver Coastal Health,1
 28,Howard De Beck Elementary,38,Vancouver Coastal Health,1
 28,J N Burnett Secondary,38,Vancouver Coastal Health,1
+28,James McKinney Elementary,38,Vancouver Coastal Health,1
 28,James Thompson Elementary,38,Vancouver Coastal Health,1
 28,Manoah Steves Elementary,38,Vancouver Coastal Health,1
 28,Maple Lane Elementary,38,Vancouver Coastal Health,1
