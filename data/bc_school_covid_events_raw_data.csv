@@ -1,5 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/13/2021,Spectrum Community,Victoria,61,Vancouver Island Health Authority,"""Mar 8, 9, 10, and 11""",Exposure 1
+03/13/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,March 8,Exposure 1
+03/13/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10""",Exposure 2
 03/12/2021,Lax Kxeen Elementary,Prince Rupert,52,Northern Health,Mar 3,Exposure 3
 03/12/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,Mar 1,Exposure 25
 03/12/2021,Ranch Park Elementary,Coquitlam,43,Fraser Health Authority,Mar 10,Exposure 1
