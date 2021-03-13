@@ -8,6 +8,22 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/12/2021,Seaview Community School (Port Moody),Port Moody,43,Fraser Health Authority,Mar 9,Exposure 2
 03/12/2021,Minnekhada Middle School,Port Coquitlam,43,Fraser Health Authority,Mar 8,Exposure 8
 03/12/2021,Dr Thomas A Swift Elementary,Abbotsford,34,Fraser Health Authority,March 3,Exposure 2
+03/12/2021,Lax Kxeen Elementary,Prince Rupert,52,Northern Health,Mar 3,Exposure 3
+03/12/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,Mar 1,Exposure 25
+03/12/2021,Ranch Park Elementary,Coquitlam,43,Fraser Health Authority,Mar 10,Exposure 1
+03/12/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,Mar 8,Exposure 12
+03/12/2021,McCloskey Elementary,Delta,37,Fraser Health Authority,Mar 8 and 9,Exposure 10
+03/12/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,"""Mar 8, 9, and 10""",Exposure 10
+03/12/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,"""Mar 1, 2, 3, 4, and 5""",Exposure 9
+03/12/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,Mar 8 and 9,Exposure 22
+03/12/2021,Dr Thomas A Swift Elementary,Abbotsford,34,Fraser Health Authority,Mar 8 and 9,Exposure 3
+03/12/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Mar 2, 3, 4, and 5""",Exposure 36
+03/12/2021,Moody Elementary,Port Moody,43,Fraser Health Authority,Mar 8 and 9,Exposure 3
+03/12/2021,St Francis de Sales,Burnaby,41,Fraser Health Authority,Mar 8 and 9,Exposure 1
+03/12/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""Mar 8, 9, and 10""",Exposure 6
+03/12/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,May 9 and 10,Exposure 8
+03/12/2021,Waverley Elementary,Vancouver,39,Vancouver Coastal Health,Mar 9,Exposure 1
+03/12/2021,Little Flower Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 2
 03/11/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""Mar 3, 4, 5, and 9""",Exposure 1
 03/11/2021,Canyon Falls Middle School,Kelowna,23,Interior Health Authority,Mar 4 and 5,Exposure 7
 03/11/2021,Ridgeway Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 8, 9""",Exposure 2
@@ -1912,10 +1928,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/09/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""Jan 4, 5, 6""",Exposure 26
 01/09/2021,St Michaels University School - Junior,Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,Jan 5 and 6 (Listed on the BCCDC webpage),Exposure 1
 01/09/2021,Princess Margaret Secondary (Penticton),Penticton,67,Interior Health Authority,"""Jan 4, 5, and 6""",Exposure 2
-01/09/2021,Kelowna Secondary,Kelowna,23,Interior Health Authority,"""Jan 4, 5, and 7""",Exposure 20
 01/09/2021,Mundy Road Elementary,Coquitlam,43,Fraser Health Authority,Jan 4 (On the BCCDC webpage),Exposure 5
 01/09/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,"""Jan 4, 5, and 6""",The attached document shows that this is regarding a different exposure than that we listed as Exposure 5.
 01/09/2021,R.C. Palmer Secondary School,Richmond,38,Vancouver Coastal Health,Jan 4 and 5 (Listed on the BCCDC webpage),Exposure 4
+01/09/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,"""Jan 4, 5, and 7""",Exposure 20
 01/08/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,Jan 4,Exposure 15
 01/08/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""Jan 5, 6""",Exposure 23
 01/08/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Jan 4,Exposure 20
@@ -2035,7 +2051,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/23/2020,Langley Fundamental Middle/Secondary Sch,Langley,35,Fraser Health Authority,Dec 17,Exposure 3
 12/23/2020,Henry Anderson Elementary,Richmond,38,Vancouver Coastal Health,Dec 15,Exposure 1
 12/23/2020,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""Dec 11, 14, 15""",Exposure 11
-12/23/2020,Kelowna Secondary,Kelowna,23,Interior Health Authority,"""Dec 11, 14, 15, 16, 17, 18""",Exposure 19
 12/23/2020,David Brankin Elementary,Surrey,36,Fraser Health Authority,Dec 14,Exposure 5
 12/23/2020,Revelstoke Secondary,Revelstoke,19,Interior Health Authority,Dec 15 and 16,Exposure 1
 12/23/2020,Walnut Grove Secondary,Langley,35,Fraser Health Authority,Dec 10 and 11,Exposure 3
@@ -2056,6 +2071,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/23/2020,North Delta Secondary,Delta,37,Fraser Health Authority,"""Dec 14, 15, 16, 17, 18""",Exposure 10
 12/23/2020,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""Dec 14, 15""",Exposure 2
 12/23/2020,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Dec 18,Exposure 24
+12/23/2020,Kelowna Secondary School,Kelowna,23,Interior Health Authority,"""Dec 11, 14, 15, 16, 17, 18""",Exposure 19
 12/22/2020,Ridgeview Elementary,West Vancouver,45,Vancouver Coastal Health,Dec 16 and 17 (BCCDC Webpage),Entire class and teachers asked to self-isolate.
 12/22/2020,Cameron Elementary,Burnaby,41,Fraser Health Authority,Date added according to BCCDC website,Exposure 2
 12/22/2020,Queensborough Middle School,New Westminster,40,Fraser Health Authority,"""Dec 8, 9""",Exposure 3
