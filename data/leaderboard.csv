@@ -28,11 +28,11 @@ Rank,School,School District,Health Region,Exposures
 13,Burnaby North Secondary,41,Fraser Health Authority,16
 13,Byrne Creek Community Secondary,41,Fraser Health Authority,16
 14,Semiahmoo Secondary,36,Fraser Health Authority,15
+14,Killarney Secondary,39,Vancouver Coastal Health,15
 15,Rutland Senior Secondary,23,Interior Health Authority,14
 15,W J Mouat Secondary,34,Fraser Health Authority,14
 15,Cougar Creek Elementary,36,Fraser Health Authority,14
 15,Woodward Hill Elementary,36,Fraser Health Authority,14
-15,Killarney Secondary,39,Vancouver Coastal Health,14
 16,Delview Secondary,37,Fraser Health Authority,13
 16,Carson Graham Secondary,44,Vancouver Coastal Health,13
 16,North Peace Secondary,60,Northern Health,13
@@ -186,6 +186,7 @@ Rank,School,School District,Health Region,Exposures
 23,Burnaby South Secondary,41,Fraser Health Authority,6
 23,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 23,Edmonds Community Elementary,41,Fraser Health Authority,6
+23,Alouette Elementary,42,Fraser Health Authority,6
 23,Pitt Meadows Secondary,42,Fraser Health Authority,6
 23,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,6
 23,Ecole Glen Elementary,43,Fraser Health Authority,6
@@ -240,10 +241,10 @@ Rank,School,School District,Health Region,Exposures
 24,Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
 24,Armstrong Elementary (Burnaby),41,Fraser Health Authority,5
 24,Ecole Marlborough Elementary,41,Fraser Health Authority,5
-24,Alouette Elementary,42,Fraser Health Authority,5
 24,Garibaldi Secondary,42,Fraser Health Authority,5
 24,Ecole Citadel Middle,43,Fraser Health Authority,5
 24,Ecole Glenayre Elementary,43,Fraser Health Authority,5
+24,Ecole Panorama Heights Elementary,43,Fraser Health Authority,5
 24,Harbour View Elementary,43,Fraser Health Authority,5
 24,Roy Stibbs Elementary,43,Fraser Health Authority,5
 24,Brooksbank Elementary,44,Vancouver Coastal Health,5
@@ -311,11 +312,11 @@ Rank,School,School District,Health Region,Exposures
 25,Alexander Robinson Elementary,42,Fraser Health Authority,4
 25,Edith McDermott Elementary,42,Fraser Health Authority,4
 25,Eric Langton Elementary,42,Fraser Health Authority,4
+25,Laity View Elementary,42,Fraser Health Authority,4
 25,Cedar Drive Elementary,43,Fraser Health Authority,4
 25,Central Community Elementary,43,Fraser Health Authority,4
 25,Ecole Coquitlam River Elementary,43,Fraser Health Authority,4
 25,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
-25,Ecole Panorama Heights Elementary,43,Fraser Health Authority,4
 25,Mountain Meadows Elementary,43,Fraser Health Authority,4
 25,Port Moody Secondary,43,Fraser Health Authority,4
 25,Smiling Creek Elementary,43,Fraser Health Authority,4
@@ -427,7 +428,6 @@ Rank,School,School District,Health Region,Exposures
 26,Morley Elementary,41,Fraser Health Authority,3
 26,Windsor Elementary,41,Fraser Health Authority,3
 26,Golden Ears Elementary,42,Fraser Health Authority,3
-26,Laity View Elementary,42,Fraser Health Authority,3
 26,Yennadon Elementary,42,Fraser Health Authority,3
 26,Aspenwood Elementary,43,Fraser Health Authority,3
 26,Castle Park Elementary,43,Fraser Health Authority,3
@@ -463,6 +463,7 @@ Rank,School,School District,Health Region,Exposures
 26,Central elementary (Ft.St John),60,Northern Health,3
 26,Energetic Learning Campus,60,Northern Health,3
 26,Summerland Secondary,67,Interior Health Authority,3
+26,Brechin Elementary,68,Vancouver Island Health Authority,3
 26,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,3
 26,Alberni District Secondary School,70,Vancouver Island Health Authority,3
 26,Carihi Secondary,72,Vancouver Island Health Authority,3
@@ -931,7 +932,6 @@ Rank,School,School District,Health Region,Exposures
 28,Stelly's Secondary,63,Vancouver Island Health Authority,1
 28,Gulf Islands Secondary,64,Vancouver Island Health Authority,1
 28,Summerland Middle School,67,Interior Health Authority,1
-28,Brechin Elementary,68,Vancouver Island Health Authority,1
 28,Dover Bay Secondary,68,Vancouver Island Health Authority,1
 28,Forest Park Elementary,68,Vancouver Island Health Authority,1
 28,Frank J Ney,68,Vancouver Island Health Authority,1
