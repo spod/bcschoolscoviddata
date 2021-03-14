@@ -12,9 +12,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/13/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Mar 4, 5, 8, 9, 10, and 12""",https://www.nanaimobulletin.com/news/covid-19-cases-reported-at-brechin-elementary-school
 03/13/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10""",Exposure 2
 03/13/2021,Templeton Secondary,Vancouver,39,Vancouver Coastal Health,"""March 10, 11""",Exposure 6
-03/13/2021,Ecole Inman Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9""",Exposure 2
-03/13/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9""",Exposure 9
-03/13/2021,Ecole Coquitlam River Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 8, 9, 10""",We have a letter on file that states one full division has been asked to self-isolate for 14 days.
 03/13/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""March 4, 8""",Exposure 13
 03/13/2021,Spectrum Community,Victoria,61,Vancouver Island Health Authority,Mar 10 and 11,Exposure 2
 03/13/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,Mar 8,Exposure 7
@@ -37,6 +34,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/13/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,"""Mar 8, 9, and 10""",Exposure 13
 03/13/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Mar 4 and 5,Exposure 40
 03/13/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Mar 8 and 9,Exposure 41
+03/13/2021,Ecole Inman Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9""",Exposure 2
+03/13/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9""",Exposure 9
+03/13/2021,Ecole Coquitlam River Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 8, 9, 10""",We have a letter on file that states one full division has been asked to self-isolate for 14 days.
 03/12/2021,Lax Kxeen Elementary,Prince Rupert,52,Northern Health,Mar 3,Exposure 3
 03/12/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,Mar 1,Exposure 25
 03/12/2021,Ranch Park Elementary,Coquitlam,43,Fraser Health Authority,Mar 10,Exposure 1
