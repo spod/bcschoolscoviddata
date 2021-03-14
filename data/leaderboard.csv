@@ -180,6 +180,7 @@ Rank,School,School District,Health Region,Exposures
 25,McLeod Road Traditional,36,Fraser Health Authority,6
 25,Newton Elementary,36,Fraser Health Authority,6
 25,Walnut Road Elementary,36,Fraser Health Authority,6
+25,H.J. Cambie Secondary School,38,Vancouver Coastal Health,6
 25,Elsie Roy Elementary,39,Vancouver Coastal Health,6
 25,Eric Hamber Secondary,39,Vancouver Coastal Health,6
 25,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,6
@@ -232,7 +233,6 @@ Rank,School,School District,Health Region,Exposures
 26,Burnsview Secondary,37,Fraser Health Authority,5
 26,Burnsview Secondary School,37,Fraser Health Authority,5
 26,Heath Traditional Elementary,37,Fraser Health Authority,5
-26,H.J. Cambie Secondary School,38,Vancouver Coastal Health,5
 26,Richmond Secondary School,38,Vancouver Coastal Health,5
 26,Steveston-London Secondary,38,Vancouver Coastal Health,5
 26,Steveston-London Secondary School,38,Vancouver Coastal Health,5
@@ -529,6 +529,7 @@ Rank,School,School District,Health Region,Exposures
 29,Alex Hope Elementary,35,Fraser Health Authority,2
 29,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 29,Gordon Greenwood Elementary,35,Fraser Health Authority,2
+29,Langley Fine Arts School,35,Fraser Health Authority,2
 29,Langley Fundamental Elementary,35,Fraser Health Authority,2
 29,Langley Meadows Elementary,35,Fraser Health Authority,2
 29,Betty Huff Elementary,36,Fraser Health Authority,2
@@ -742,7 +743,6 @@ Rank,School,School District,Health Region,Exposures
 30,Blacklock Fine Arts Elementary,35,Fraser Health Authority,1
 30,Glenwood Elementary (Langley),35,Fraser Health Authority,1
 30,James Kennedy Elementary,35,Fraser Health Authority,1
-30,Langley Fine Arts School,35,Fraser Health Authority,1
 30,Langley Online and Distributed Learning,35,Fraser Health Authority,1
 30,Nicomekl Elementary,35,Fraser Health Authority,1
 30,Noel Booth Elementary,35,Fraser Health Authority,1
