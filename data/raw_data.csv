@@ -1,7 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 8, 9, 10, 11""",Exposure 10
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
-03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/14/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 8,Variant Of Concern
 03/14/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 6
 03/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 5,Exposure 16
@@ -21,11 +21,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/14/2021,Albert McMahon Elementary,Mission,75,Fraser Health Authority,"""March 9, 10, 11""",Exposure 2
 03/14/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 4
 03/14/2021,Simonds Elementary,Langley,35,Fraser Health Authority,March 8,U Connect program
+03/14/2021,Lax Kxeen Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 4
 03/14/2021,Moody Elementary,Port Moody,43,Fraser Health Authority,"""Mar 10, 22, and 12""",Exposure 4
 03/14/2021,Carisbrooke Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 9, 10, 11, 12""",Exposure 4
 03/14/2021,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 6
 03/14/2021,Queen Elizabeth Elementary,New Westminster,40,Fraser Health Authority,"""March 8, 9""",Exposure 5
-03/14/2021,Lax Kxeen Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 4
 03/14/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 9, 10""",Exposure 4
 03/14/2021,Greater Heights Learning Academy,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""March 8, 9, 10""",Exposure 1
 03/14/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,March 5,Exposure 23
@@ -64,8 +64,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/13/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Mar 4 and 5,Exposure 40
 03/13/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Mar 8 and 9,Exposure 41
 03/13/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 10, 11""",14/03/21 - we have an email on file that indicates a second full class has been asked to self-isolate.
-03/13/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""March 4, 8""",This exposure was at the Elementary School.
 03/13/2021,Ecole Inman Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",Exposure 2
+03/13/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""March 4, 8""",This exposure was at the Elementary School.
 03/13/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,BCCDC now lists march 10th,Exposure 26
 03/13/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10""",Exposure 1
 03/13/2021,Seymour Heights Elementary,North Vancouver,44,Vancouver Coastal Health,March 9 and 10,8 Divisions have been asked to self-monitor.
