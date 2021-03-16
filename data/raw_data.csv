@@ -2,6 +2,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 8, 9, 10, 11""",Exposure 10
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
+03/15/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10, 12""",Exposure 1
+03/15/2021,Castle Park Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 10, 11, 12""",Exposure 4
+03/15/2021,Robert Alexander McMath Secondary,Richmond,38,Vancouver Coastal Health,"""March 10, 11, 12""",Exposure 3
+03/15/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,"""March 9, 10""",Exposure 7
+03/15/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,March 9,Exposure 4
+03/15/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,"""March 9, 11""",Exposure 2
 03/14/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 8,Variant Of Concern
 03/14/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 6
 03/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 5,Exposure 16
