@@ -1,4 +1,23 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+03/16/2021,Kirkbride Elementary,Surrey,36,Fraser Health Authority,March 11,Expousre 5
+03/16/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""March 9, 10, 11""",Exposure 6
+03/16/2021,Ocean Cliff Elementary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 2
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 8, 9""",Exposure 5
+03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""March 9, 10""",This is has been confirmed a Variant of Concern. Letter on file.
+03/16/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,March 9,Exposure 33
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 2, 3, 4, 5, 8, 9, 10""",Exposure 4
+03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
+03/16/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 9,Exposure 42
+03/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,March 11,Exposure 12
+03/16/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,March 11,Exposure 4
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,March 9,Exposure 6
+03/16/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""March 2, 3""",Exposure 42
+03/16/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 43
+03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10, 11""",Variant of Concern
+03/16/2021,Brookside Elementary,Surrey,36,Fraser Health Authority,"""March 11, 12""",Exposure 10
+03/16/2021,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,"""March 10, 11, 12""",Exposure 6
+03/16/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Variant of Concern
+03/16/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 18
 03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
 03/15/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10, 12""",Exposure 1
@@ -7,7 +26,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,"""March 9, 10""",Exposure 7
 03/15/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,March 9,Exposure 4
 03/15/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,"""March 9, 11""",Exposure 2
-03/15/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 1
 03/15/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 8, 9, 10, 11""",Exposure 10
 03/15/2021,Carson Graham Secondary,North Vancouver,44,Vancouver Coastal Health,March 9,Exposure 14
 03/15/2021,Sir Charles Kingsford-Smith,Vancouver,39,Vancouver Coastal Health,"""Mar 3, 4, 8, 9, 10, 11, and 12""",Exposure 4
@@ -40,6 +58,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,St Thomas Aquinas,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Mar 11 and 12,Exposure 11
 03/15/2021,Dawson Creek Secondary,Dawson Creek,59,Northern Health,Mar 5,Exposure 7 - South Peace Campus
 03/15/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""Mar 8, 9, 10, 11, and 12""",Exposure 8
+03/15/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 13
 03/14/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 8,Variant Of Concern
 03/14/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 6
 03/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 5,Exposure 16
@@ -72,7 +91,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/14/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Mar 9, 10, and 11 (Dates on the BCCDC webpage)""",Exposure 7
 03/14/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,"""March 10, 11""",Exposure 2
 03/14/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,Mar 8 and 9 (Dates on BCCDC webpage),Exposure 6
-03/14/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Mar 8, 9, and 10""",Letter we have on file confirms that there was a confirmed variant of concern on March 9th and 10th.
+03/14/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Mar 8, 9, and 10""",Exposure 23
 03/13/2021,Spectrum Community,Victoria,61,Vancouver Island Health Authority,"""Mar 8, 9, 10, and 11""",Exposure 1
 03/13/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""March 4, 5, 8, 9, 10, 12""",Exposure 2
 03/13/2021,Alouette Elementary,Maple Ridge,42,Fraser Health Authority,"""March 8, 9""",Exposure 6
