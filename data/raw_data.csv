@@ -15,7 +15,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,Mar 9 and 10,Exposure 11
 03/15/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,Mar 11,Exposure 5
 03/15/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 10, 11, 12""",Exposure 11
-03/15/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""Mar 8, 9, 10, 11, and 12""",Exposure 8
 03/15/2021,Senator Reid Elementary,Surrey,36,Fraser Health Authority,Mar 1 and 5,Exposure 5
 03/15/2021,OKIB Cultural Immersion,Vernon,Independent Schools in Interior Health,Interior Health Authority,Mar 8 and 9,Exposure 1
 03/15/2021,Caledonia Secondary,Terrace,82,Northern Health,Mar 8 and 9,Exposure 11
@@ -40,6 +39,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Skeena Middle,Terrace,82,Northern Health,"""Mar 3, 4, 5, and 8""",Exposure 8
 03/15/2021,St Thomas Aquinas,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Mar 11 and 12,Exposure 11
 03/15/2021,Dawson Creek Secondary,Dawson Creek,59,Northern Health,Mar 5,Exposure 7 - South Peace Campus
+03/15/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""Mar 8, 9, 10, 11, and 12""",Exposure 8
 03/14/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 8,Variant Of Concern
 03/14/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 6
 03/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 5,Exposure 16
