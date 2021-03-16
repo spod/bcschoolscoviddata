@@ -48,7 +48,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/14/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10, 11""",Exposure 20
 03/14/2021,Panorama Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 9
 03/14/2021,South Park Family School (Victoria),Victoria,61,Vancouver Island Health Authority,"""Mar 8, 9, 10, 11, and 12""",Exposure 1
-03/14/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Mar 8, 9, and 10""",Exposure 23
 03/14/2021,J T Brown Elementary,Surrey,36,Fraser Health Authority,March 8,Exposure 6
 03/14/2021,Vancouver Talmud Torah Elementary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 3
 03/14/2021,Confederation Park Elementary,Burnaby,41,Fraser Health Authority,"""March 9, 11""",Exposure 1
@@ -73,6 +72,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/14/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Mar 9, 10, and 11 (Dates on the BCCDC webpage)""",Exposure 7
 03/14/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,"""March 10, 11""",Exposure 2
 03/14/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,Mar 8 and 9 (Dates on BCCDC webpage),Exposure 6
+03/14/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""Mar 8, 9, and 10""",Letter we have on file confirms that there was a confirmed variant of concern on March 9th and 10th.
 03/13/2021,Spectrum Community,Victoria,61,Vancouver Island Health Authority,"""Mar 8, 9, 10, and 11""",Exposure 1
 03/13/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""March 4, 5, 8, 9, 10, 12""",Exposure 2
 03/13/2021,Alouette Elementary,Maple Ridge,42,Fraser Health Authority,"""March 8, 9""",Exposure 6
