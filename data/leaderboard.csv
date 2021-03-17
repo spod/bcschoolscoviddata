@@ -196,6 +196,7 @@ Rank,School,School District,Health Region,Exposures
 25,H.J. Cambie Secondary School,38,Vancouver Coastal Health,6
 25,Elsie Roy Elementary,39,Vancouver Coastal Health,6
 25,Eric Hamber Secondary,39,Vancouver Coastal Health,6
+25,King George Secondary,39,Vancouver Coastal Health,6
 25,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,6
 25,Templeton Secondary,39,Vancouver Coastal Health,6
 25,Queensborough Middle School,40,Fraser Health Authority,6
@@ -242,7 +243,7 @@ Rank,School,School District,Health Region,Exposures
 26,Richmond Secondary School,38,Vancouver Coastal Health,5
 26,Steveston-London Secondary,38,Vancouver Coastal Health,5
 26,Steveston-London Secondary School,38,Vancouver Coastal Health,5
-26,King George Secondary,39,Vancouver Coastal Health,5
+26,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,5
 26,Magee Secondary,39,Vancouver Coastal Health,5
 26,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
 26,Fraser River Middle,40,Fraser Health Authority,5
@@ -306,7 +307,6 @@ Rank,School,School District,Health Region,Exposures
 27,Kingswood Elementary,38,Vancouver Coastal Health,4
 27,Matthew McNair Secondary,38,Vancouver Coastal Health,4
 27,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
-27,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,4
 27,Lord Tennyson Elementary,39,Vancouver Coastal Health,4
 27,Quilchena Elementary,39,Vancouver Coastal Health,4
 27,Sir Charles Kingsford-Smith,39,Vancouver Coastal Health,4
@@ -340,6 +340,7 @@ Rank,School,School District,Health Region,Exposures
 27,Spring Creek Community School,48,Vancouver Coastal Health,4
 27,Lax Kxeen Elementary,52,Northern Health,4
 27,Smithers Secondary,54,Northern Health,4
+27,College Heights Secondary,57,Northern Health,4
 27,Kelly Road/Shas ti Secondary,57,Northern Health,4
 27,Peden Hill Elementary,57,Northern Health,4
 27,Bert Bowes Middle School,60,Northern Health,4
@@ -470,7 +471,6 @@ Rank,School,School District,Health Region,Exposures
 28,Ecole Squamish Elementary,48,Vancouver Coastal Health,3
 28,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,3
 28,Houston Secondary,54,Northern Health,3
-28,College Heights Secondary,57,Northern Health,3
 28,D P Todd Secondary,57,Northern Health,3
 28,Central elementary (Ft.St John),60,Northern Health,3
 28,Energetic Learning Campus,60,Northern Health,3
@@ -749,6 +749,7 @@ Rank,School,School District,Health Region,Exposures
 30,South Poplar Traditional Elementary,34,Fraser Health Authority,1
 30,Upper Sumas Elementary,34,Fraser Health Authority,1
 30,Alice Brown Elementary,35,Fraser Health Authority,1
+30,Belmont Elementary,35,Vancouver Coastal Health,1
 30,Blacklock Fine Arts Elementary,35,Fraser Health Authority,1
 30,Glenwood Elementary (Langley),35,Fraser Health Authority,1
 30,James Kennedy Elementary,35,Fraser Health Authority,1
