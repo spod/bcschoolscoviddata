@@ -1,23 +1,34 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-03/16/2021,Kirkbride Elementary,Surrey,36,Fraser Health Authority,March 11,Expousre 5
-03/16/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""March 9, 10, 11""",Exposure 6
-03/16/2021,Ocean Cliff Elementary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 2
-03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 8, 9""",Exposure 5
-03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""March 9, 10""",This is has been confirmed a Variant of Concern. Letter on file.
-03/16/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,March 9,Exposure 33
-03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 2, 3, 4, 5, 8, 9, 10""",Exposure 4
-03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
-03/16/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 9,Exposure 42
-03/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,March 11,Exposure 12
-03/16/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,March 11,Exposure 4
-03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,March 9,Exposure 6
 03/16/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""March 2, 3""",Exposure 42
 03/16/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 43
 03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10, 11""",Variant of Concern
 03/16/2021,Brookside Elementary,Surrey,36,Fraser Health Authority,"""March 11, 12""",Exposure 10
 03/16/2021,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,"""March 10, 11, 12""",Exposure 6
 03/16/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Variant of Concern
+03/16/2021,Kirkbride Elementary,Surrey,36,Fraser Health Authority,March 11,Expousre 5
+03/16/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""March 9, 10, 11""",Exposure 6
+03/16/2021,Ocean Cliff Elementary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 2
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 8, 9""",Exposure 5
 03/16/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 18
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 2, 3, 4, 5, 8, 9, 10""",Exposure 4
+03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
+03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""March 9, 10""",This is has been confirmed a Variant of Concern. Letter on file.
+03/16/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,March 9,Exposure 33
+03/16/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 9,Exposure 42
+03/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,March 11,Exposure 12
+03/16/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,March 11,Exposure 4
+03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,March 9,Exposure 6
+03/16/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 7
+03/16/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 37
+03/16/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""March 9, 10""",Exposure 3
+03/16/2021,Chilliwack Central Elementary Community,Chilliwack,33,Fraser Health Authority,March 9,Exposure 1
+03/16/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,"""March 10, 11, 12""",Exposure 19
+03/16/2021,Peter Ewart Middle School,Langley,35,Fraser Health Authority,"""March 11, 12""",Exposure 4
+03/16/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""March4, 5, 8, 9, 10, 11, 12""",Exposure 8
+03/16/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,March 12,Exposure 1
+03/16/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 9,Exposure 8
+03/16/2021,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,"""March 9, 10""",Exposure 7
+03/16/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,March 12,Exposure 21
 03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
 03/15/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10, 12""",Exposure 1
@@ -291,7 +302,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/08/2021,Immaculate Conception School (Delta),Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""March 3, 4, 5""",Exposure 1
 03/08/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,Feb 26,Exposure 3
 03/08/2021,Peace Arch Elementary,White Rock,36,Fraser Health Authority,"""March 3, 4""",Exposure 2
-03/08/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 1,Exposure
 03/08/2021,Skeena Middle,Terrace,82,Northern Health,"""March 1, 2""",Exposure 7
 03/08/2021,Mount Elizabeth Middle/Secondary,Kitimat,82,Northern Health,"""Feb 24, 25, 26""",Exposure 1
 03/08/2021,Kildala Elementary,Kitimat,82,Northern Health,"""Feb 24, 25, 26""",Exposure 2
@@ -319,6 +329,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/08/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""March 2, 4""",Exposure 5
 03/08/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 4,Exposure 4
 03/08/2021,Brocklehurst Middle School,Kamloops,73,Interior Health Authority,March 5,Exposure 2
+03/08/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 1,Exposure 7
 03/07/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Mar 3,Exposure 31
 03/07/2021,Edith McDermott Elementary,Pitt Meadows,42,Fraser Health Authority,Feb 24,Exposure 4
 03/07/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,March 1 and 3,Exposure 7
