@@ -119,6 +119,7 @@ Rank,School,School District,Health Region,Exposures
 22,Cariboo Hill Secondary,41,Fraser Health Authority,8
 22,Ecole Alpha Secondary,41,Fraser Health Authority,8
 22,Maple Ridge Secondary,42,Fraser Health Authority,8
+22,Pitt Meadows Secondary,42,Fraser Health Authority,8
 22,Samuel Robertson Technical Secondary,42,Fraser Health Authority,8
 22,Eagle Mountain Middle School,43,Fraser Health Authority,8
 22,Pinetree Secondary,43,Fraser Health Authority,8
@@ -153,7 +154,6 @@ Rank,School,School District,Health Region,Exposures
 23,Burnaby South Secondary,41,Fraser Health Authority,7
 23,Douglas Road Elementary,41,Fraser Health Authority,7
 23,Moscrop Secondary,41,Fraser Health Authority,7
-23,Pitt Meadows Secondary,42,Fraser Health Authority,7
 23,Thomas Haney Secondary,42,Fraser Health Authority,7
 23,Scott Creek Middle School,43,Fraser Health Authority,7
 23,Conrad Street Elementary,52,Northern Health,7
@@ -1010,6 +1010,7 @@ Rank,School,School District,Health Region,Exposures
 29,Au Coeur de L'ile,93,Vancouver Island Health Authority,1
 29,La Verendrye,93,Fraser Health Authority,1
 29,de l'Anse-au-sable,93,Interior Health Authority,1
+29,des Deux-rives,93,Fraser Health Authority,1
 29,des Glaciers,93,Interior Health Authority,1
 29,des Navigateurs,93,Vancouver Coastal Health,1
 29,Brainboost Education,Independent Schools in Coastal Health,Vancouver Coastal Health,1

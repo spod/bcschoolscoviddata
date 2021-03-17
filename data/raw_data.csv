@@ -1,4 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+03/17/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,Mar 11,Exposure 8
 03/16/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 9,Exposure 42
 03/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,March 11,Exposure 12
 03/16/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,March 11,Exposure 4
@@ -33,12 +34,13 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/16/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 18
 03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 2, 3, 4, 5, 8, 9, 10""",Exposure 4
 03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
-03/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,Mar 8 and 9,UConnect Program.
-03/16/2021,North Delta Secondary,Delta,37,Fraser Health Authority,Mar 10 and 11,Exposure 23
 03/16/2021,OKIB Cultural Immersion,Vernon,Independent Schools in Interior Health,Interior Health Authority,Mar 10 and 11,Exposure 2
+03/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,Mar 8 and 9,UConnect Program.
 03/16/2021,Vancouver Waldorf School,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 10, 11, 12""","""Full class and staff have been asked to self isolate for 14 days, they can return to school on April 6th."""
 03/16/2021,Meadowridge School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""March 9, 10, 11""",Exposure 4
 03/16/2021,Seymour Heights Elementary,North Vancouver,44,Vancouver Coastal Health,Mar 11 and 12,Exposure 6
+03/16/2021,des Deux-rives,Mission,93,Fraser Health Authority,Mar 9 and 10,Confirmed to be a Variant of Concern
+03/16/2021,North Delta Secondary,Delta,37,Fraser Health Authority,Mar 10 and 11,Exposure 23
 03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
 03/15/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10, 12""",Exposure 1
