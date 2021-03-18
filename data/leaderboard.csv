@@ -409,6 +409,7 @@ Rank,School,School District,Health Region,Exposures
 28,Ross Elementary,34,Fraser Health Authority,3
 28,William A. Fraser Middle School,34,Fraser Health Authority,3
 28,James Hill Elementary,35,Fraser Health Authority,3
+28,Langley Fine Arts School,35,Fraser Health Authority,3
 28,Peterson Road Elementary,35,Fraser Health Authority,3
 28,Adams Road Elementary,36,Fraser Health Authority,3
 28,Berkshire Park Elementary,36,Fraser Health Authority,3
@@ -538,7 +539,6 @@ Rank,School,School District,Health Region,Exposures
 29,Alex Hope Elementary,35,Fraser Health Authority,2
 29,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 29,Gordon Greenwood Elementary,35,Fraser Health Authority,2
-29,Langley Fine Arts School,35,Fraser Health Authority,2
 29,Langley Fundamental Elementary,35,Fraser Health Authority,2
 29,Langley Meadows Elementary,35,Fraser Health Authority,2
 29,Betty Huff Elementary,36,Fraser Health Authority,2
@@ -1032,6 +1032,7 @@ Rank,School,School District,Health Region,Exposures
 30,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Interior Health Authority,1
 30,Khalsa Primary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,1
+30,Our Lady of the Assumption,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,PALS Autism Society (School Program) (New West),Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Purpose Independent Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Sikh Academy,Independent Schools in Fraser Health,Fraser Health Authority,1
