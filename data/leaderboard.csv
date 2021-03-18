@@ -57,6 +57,7 @@ Rank,School,School District,Health Region,Exposures
 20,Brookswood Secondary,35,Fraser Health Authority,11
 20,H D Stafford Middle,35,Fraser Health Authority,11
 20,Richard Bulpitt Elementary,35,Fraser Health Authority,11
+20,Clayton Heights Secondary,36,Fraser Health Authority,11
 20,Burnsview Secondary,37,Fraser Health Authority,11
 20,Hellings Elementary,37,Fraser Health Authority,11
 20,McCloskey Elementary,37,Fraser Health Authority,11
@@ -66,7 +67,6 @@ Rank,School,School District,Health Region,Exposures
 20,Caledonia Secondary,82,Northern Health,11
 21,D W Poppy Secondary,35,Fraser Health Authority,10
 21,Brookside Elementary,36,Fraser Health Authority,10
-21,Clayton Heights Secondary,36,Fraser Health Authority,10
 21,North Ridge Elementary (Surrey),36,Fraser Health Authority,10
 21,Rosemary Heights Elementary,36,Fraser Health Authority,10
 21,Sunrise Ridge Elementary,36,Fraser Health Authority,10
@@ -204,6 +204,7 @@ Rank,School,School District,Health Region,Exposures
 25,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 25,Edmonds Community Elementary,41,Fraser Health Authority,6
 25,Alouette Elementary,42,Fraser Health Authority,6
+25,Cedar Drive Elementary,43,Fraser Health Authority,6
 25,Ecole Citadel Middle,43,Fraser Health Authority,6
 25,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,6
 25,Ecole Glen Elementary,43,Fraser Health Authority,6
@@ -252,7 +253,6 @@ Rank,School,School District,Health Region,Exposures
 26,Armstrong Elementary (Burnaby),41,Fraser Health Authority,5
 26,Ecole Marlborough Elementary,41,Fraser Health Authority,5
 26,Garibaldi Secondary,42,Fraser Health Authority,5
-26,Cedar Drive Elementary,43,Fraser Health Authority,5
 26,Ecole Coquitlam River Elementary,43,Fraser Health Authority,5
 26,Ecole Glenayre Elementary,43,Fraser Health Authority,5
 26,Ecole Panorama Heights Elementary,43,Fraser Health Authority,5
