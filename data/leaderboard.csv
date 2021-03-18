@@ -1,7 +1,7 @@
 Rank,School,School District,Health Region,Exposures
 1,Tamanawis Secondary,36,Fraser Health Authority,42
 2,Panorama Ridge Secondary,36,Fraser Health Authority,41
-3,Queen Elizabeth Secondary,36,Fraser Health Authority,37
+3,Queen Elizabeth Secondary,36,Fraser Health Authority,38
 4,Enver Creek Secondary,36,Fraser Health Authority,36
 5,Frank Hurt Secondary,36,Fraser Health Authority,35
 6,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,33
@@ -15,10 +15,10 @@ Rank,School,School District,Health Region,Exposures
 11,Johnston Heights Secondary,36,Fraser Health Authority,21
 11,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,21
 12,Rick Hansen Secondary,34,Fraser Health Authority,19
+12,Fleetwood Park Secondary,36,Fraser Health Authority,19
 12,Lena Shaw Elementary,36,Fraser Health Authority,19
 12,John Oliver Secondary,39,Vancouver Coastal Health,19
 13,R E Mountain Secondary,35,Fraser Health Authority,18
-13,Fleetwood Park Secondary,36,Fraser Health Authority,18
 13,North Surrey Secondary,36,Fraser Health Authority,18
 14,Chilliwack Secondary,33,Fraser Health Authority,17
 14,Sir Charles Tupper Secondary,39,Vancouver Coastal Health,17
@@ -41,6 +41,7 @@ Rank,School,School District,Health Region,Exposures
 18,Burnaby Central Secondary,41,Fraser Health Authority,13
 18,North Peace Secondary,60,Northern Health,13
 18,Sa-hali Secondary,73,Interior Health Authority,13
+19,Yale Secondary,34,Fraser Health Authority,12
 19,T E Scott Elementary,36,Fraser Health Authority,12
 19,Westerman Elementary,36,Fraser Health Authority,12
 19,Chalmers Elementary,37,Fraser Health Authority,12
@@ -52,7 +53,6 @@ Rank,School,School District,Health Region,Exposures
 19,Hatzic Middle School,75,Fraser Health Authority,12
 20,Okanagan Mission Secondary,23,Interior Health Authority,11
 20,Sardis Secondary,33,Fraser Health Authority,11
-20,Yale Secondary,34,Fraser Health Authority,11
 20,Brookswood Secondary,35,Fraser Health Authority,11
 20,H D Stafford Middle,35,Fraser Health Authority,11
 20,Richard Bulpitt Elementary,35,Fraser Health Authority,11
@@ -445,6 +445,7 @@ Rank,School,School District,Health Region,Exposures
 28,Suncrest Elementary,41,Fraser Health Authority,3
 28,Windsor Elementary,41,Fraser Health Authority,3
 28,Golden Ears Elementary,42,Fraser Health Authority,3
+28,Maple Ridge Elementary,42,Fraser Health Authority,3
 28,Yennadon Elementary,42,Fraser Health Authority,3
 28,Aspenwood Elementary,43,Fraser Health Authority,3
 28,Como Lake Middle School,43,Fraser Health Authority,3
@@ -610,9 +611,9 @@ Rank,School,School District,Health Region,Exposures
 29,St Francis de Sales,41,Fraser Health Authority,2
 29,Albion Elementary,42,Fraser Health Authority,2
 29,Cusquena Elementary,42,Fraser Health Authority,2
+29,Davie Jones Elementary,42,Fraser Health Authority,2
 29,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,2
 29,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,2
-29,Maple Ridge Elementary,42,Fraser Health Authority,2
 29,Westview Secondary,42,Fraser Health Authority,2
 29,Coquitlam Alternate Basic Education,43,Fraser Health Authority,2
 29,Eagle Ridge Elementary,43,Fraser Health Authority,2
@@ -853,7 +854,6 @@ Rank,School,School District,Health Region,Exposures
 30,Taylor Park Elementary,41,Fraser Health Authority,1
 30,University Highlands Elementary,41,Fraser Health Authority,1
 30,Blue Mountain Elementary,42,Fraser Health Authority,1
-30,Davie Jones Elementary,42,Fraser Health Authority,1
 30,Highland Park Elementary,42,Fraser Health Authority,1
 30,Kanaka Creek Elementary,42,Fraser Health Authority,1
 30,Maple Ridge Secondary - Outreach Alternate Secondary,42,Fraser Health Authority,1
