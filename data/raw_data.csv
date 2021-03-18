@@ -1,8 +1,6 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-03/17/2021,College Heights Secondary,Prince George,57,Northern Health,March 8,Exposure 4
-03/17/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,Mar 11,Exposure 8
-03/17/2021,Belmont Elementary,Langley,35,Vancouver Coastal Health,"""March 10, 11, 12""",Exposure 6
-03/17/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10""",Exposure 6
+03/17/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,Mar 11 and 12,Exposure 13
+03/17/2021,Dr F D Sinclair Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 5
 03/17/2021,Lord Strathcona Community Elementary,Vancouver,39,Vancouver Coastal Health,"""March 9, 10, 11""",All grades/divisions from K-7 were exposed.
 03/17/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,"""Mar 10, 11, and 12""",Exposure 8
 03/17/2021,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,March 12,Exposure 2
@@ -13,11 +11,25 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/17/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,Mar 9 and 10,Exposure 11
 03/17/2021,Lakewood Elementary,Victoria,62,Vancouver Island Health Authority,March 12,Exposure 1
 03/17/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 12,Exposure 43
+03/17/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,March 12,Exposure 34
+03/17/2021,College Heights Secondary,Prince George,57,Northern Health,March 8,Exposure 4
 03/17/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,Mar 11 and 12,Exposure 19
 03/17/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,Mar 11 and 12,Exposure 38
-03/17/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,"""March 10, 11, 12""",Exposure 14
 03/17/2021,Roosevelt Park Elementary,Prince Rupert,52,Northern Health,Not provided,Exposure 3
 03/17/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,March 8,Exposure 13
+03/17/2021,Charles Hays Secondary,Prince Rupert,52,Northern Health,"""March 10, 11, 12""",Exposure 14
+03/17/2021,Belmont Elementary,Langley,35,Vancouver Coastal Health,"""March 10, 11, 12""",Exposure 6
+03/17/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10""",Exposure 6
+03/17/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,Mar 11,Exposure 8
+03/17/2021,Chief Matthews School,Masset,Independent Schools in Northern Health,Northern Health,March 8,Exposure 4
+03/17/2021,Kildala Elementary,Kitimat,82,Northern Health,March 11,Exposure 4
+03/17/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,Mar 9 and 11,Exposure 16
+03/17/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Mar 11 and 12,Exposure 44
+03/17/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Mar 12,Exposure 45
+03/17/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,March 8,Exposure 10
+03/17/2021,St Thomas Aquinas,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 10,Exposure 12
+03/17/2021,Our Lady of Perpetual Help,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 10, 11, and 12""",Exposure 5
+03/17/2021,Acwsalcta Band School,,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 9, 10, 11, and 12""",Exposure 4
 03/16/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 9,Exposure 42
 03/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,March 11,Exposure 12
 03/16/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,March 11,Exposure 4
@@ -53,12 +65,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
 03/16/2021,OKIB Cultural Immersion,Vernon,Independent Schools in Interior Health,Interior Health Authority,Mar 10 and 11,Exposure 2
 03/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,Mar 8 and 9,UConnect Program.
+03/16/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure has been confirmed to be a Variant of Concern. (Document on file)
 03/16/2021,North Delta Secondary,Delta,37,Fraser Health Authority,Mar 10 and 11,Exposure 23
 03/16/2021,Vancouver Waldorf School,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 10, 11, 12""","""Full class and staff have been asked to self isolate for 14 days, they can return to school on April 6th."""
 03/16/2021,Meadowridge School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""March 9, 10, 11""",Exposure 4
 03/16/2021,Seymour Heights Elementary,North Vancouver,44,Vancouver Coastal Health,Mar 11 and 12,Exposure 6
 03/16/2021,des Deux-rives,Mission,93,Fraser Health Authority,Mar 9 and 10,Confirmed to be a Variant of Concern
-03/16/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure has been confirmed to be a Variant of Concern. (Document on file)
 03/15/2021,Lochdale Community Elementary,Burnaby,41,Fraser Health Authority,"""March 8, 9, 10""",
 03/15/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""March 2, 3, 4, 5""",Exposure 5
 03/15/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""March 8, 9, 10, 12""",Exposure 1
