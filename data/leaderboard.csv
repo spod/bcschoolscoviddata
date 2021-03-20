@@ -282,6 +282,7 @@ Rank,School,School District,Health Region,Exposures
 24,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,5
 24,Our Lady of Fatima,Independent Schools in Fraser Health,Fraser Health Authority,5
 24,Nak'albun Elementary School,Independent Schools in Northern Health,Northern Health,5
+25,A S Matheson Elementary,23,Interior Health Authority,4
 25,Peachland Elementary,23,Interior Health Authority,4
 25,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,4
 25,Nesika Elementary,27,Interior Health Authority,4
@@ -393,7 +394,6 @@ Rank,School,School District,Health Region,Exposures
 26,Revelstoke Secondary,19,Interior Health Authority,3
 26,Hillview Elementary,22,Interior Health Authority,3
 26,Vernon Secondary,22,Interior Health Authority,3
-26,A S Matheson Elementary,23,Interior Health Authority,3
 26,Constable Neil Bruce Middle School,23,Interior Health Authority,3
 26,Davidson Road Elementary,23,Interior Health Authority,3
 26,George Elliot Secondary,23,Interior Health Authority,3
@@ -609,6 +609,7 @@ Rank,School,School District,Health Region,Exposures
 27,Gilmore Community Elementary,41,Fraser Health Authority,2
 27,Gilpin Elementary,41,Fraser Health Authority,2
 27,Montecito Elementary,41,Fraser Health Authority,2
+27,Rosser Elementary,41,Fraser Health Authority,2
 27,Sperling Elementary,41,Fraser Health Authority,2
 27,St Francis de Sales,41,Fraser Health Authority,2
 27,Albion Elementary,42,Fraser Health Authority,2
@@ -714,7 +715,6 @@ Rank,School,School District,Health Region,Exposures
 28,Harwood Elementary,22,Interior Health Authority,1
 28,Mission Hill Elementary,22,Interior Health Authority,1
 28,Silver Star Elementary,22,Interior Health Authority,1
-28,A S Matheson Elementary,23,Fraser Health Authority,1
 28,Anne McClymont Elementary,23,Interior Health Authority,1
 28,Canyon Falls Middle School,23,Fraser Health Authority,1
 28,Chute Lake Elementary,23,Interior Health Authority,1
@@ -853,7 +853,6 @@ Rank,School,School District,Health Region,Exposures
 28,Nelson Elementary,41,Fraser Health Authority,1
 28,Outlook Secondary Program,41,Fraser Health Authority,1
 28,Park Crest Elementary,41,Fraser Health Authority,1
-28,Rosser Elementary,41,Fraser Health Authority,1
 28,Second Street Community Elementary,41,Fraser Health Authority,1
 28,South Slope Elementary,41,Fraser Health Authority,1
 28,Stride Avenue Community Elementary,41,Fraser Health Authority,1
