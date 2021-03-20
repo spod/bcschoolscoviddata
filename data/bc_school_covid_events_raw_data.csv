@@ -1,5 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/19/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,March 11,Exposure 3
+03/19/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""March 10, 11, and 12""",Exposure 1
+03/19/2021,Valleycliffe Elementary,Squamish,48,Vancouver Coastal Health,Not provided,Exposure 2
+03/19/2021,William Konkin Elementary,Burns Lake,91,Northern Health,"""March 10, 11, and 12""",Exposure 4
+03/19/2021,Howe Sound Secondary,Squamish,48,Vancouver Coastal Health,Not provided,Exposure 11
+03/19/2021,Fraser Heights Secondary,Surrey,36,Fraser Health Authority,"""March 10, 11, and 12""",Exposure 7
 03/18/2021,Our Lady of the Assumption,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,March 12,Exposure 1
 03/18/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 12,Exposure 3
 03/18/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,March 9 and 10,Exposure 11
@@ -134,7 +139,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,March 12,Exposure 3
 03/15/2021,D W Poppy Secondary,Langley,35,Fraser Health Authority,Mar 9 and 10,Exposure 10
 03/15/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,March 5,Exposure 7
-03/15/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Mar 8 and 9,Exposure 32
 03/15/2021,McCloskey Elementary,Delta,37,Fraser Health Authority,March 11,Exposure 11
 03/15/2021,St Francis de Sales,Burnaby,41,Fraser Health Authority,March 8,Exposure 2
 03/15/2021,College Heights Secondary,Prince George,57,Northern Health,Mar 8 and 9,Exposure 3
@@ -146,6 +150,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/15/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""Mar 8, 9, 10, 11, and 12""",Exposure 8
 03/15/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,"""March 3, 4, 5""",Exposure 13
 03/15/2021,Senator Reid Elementary,Surrey,36,Fraser Health Authority,"""Mar 1, 2, 3, 4, 5, 8""",Exposure 5
+03/15/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,Mar 8 and 9,Exposure 32
 03/14/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,Mar 9,Exposure 6
 03/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 5,Exposure 16
 03/14/2021,Handsworth Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 9, 10, 11, 12""",Exposure 14
