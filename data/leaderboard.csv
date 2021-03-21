@@ -49,6 +49,7 @@ Rank,School,School District,Health Region,Exposures
 17,Chalmers Elementary,37,Fraser Health Authority,12
 17,Seaquam Secondary,37,Fraser Health Authority,12
 17,Ecole Glenbrook Middle School,40,Fraser Health Authority,12
+17,Centennial Secondary School,43,Fraser Health Authority,12
 17,Heritage Woods Secondary,43,Fraser Health Authority,12
 17,Sentinel Secondary,45,Vancouver Coastal Health,12
 17,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
@@ -62,7 +63,6 @@ Rank,School,School District,Health Region,Exposures
 18,Hellings Elementary,37,Fraser Health Authority,11
 18,McCloskey Elementary,37,Fraser Health Authority,11
 18,Vancouver Technical Secondary,39,Vancouver Coastal Health,11
-18,Centennial Secondary School,43,Fraser Health Authority,11
 18,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,11
 18,Howe Sound Secondary,48,Vancouver Coastal Health,11
 18,Caledonia Secondary,82,Northern Health,11
@@ -426,6 +426,7 @@ Rank,School,School District,Health Region,Exposures
 26,Serpentine Heights Elementary,36,Fraser Health Authority,3
 26,Sullivan Elementary,36,Fraser Health Authority,3
 26,Sunnyside Elementary,36,Fraser Health Authority,3
+26,William F. Davidson Elementary,36,Fraser Health Authority,3
 26,Gibson Elementary (Delta),37,Fraser Health Authority,3
 26,Jarvis Traditional Elementary,37,Fraser Health Authority,3
 26,Ladner Elementary,37,Fraser Health Authority,3
@@ -562,7 +563,6 @@ Rank,School,School District,Health Region,Exposures
 27,Old Yale Road Elementary,36,Fraser Health Authority,2
 27,Pacific Heights Elementary,36,Fraser Health Authority,2
 27,Peace Arch Elementary,36,Fraser Health Authority,2
-27,William F. Davidson Elementary,36,Fraser Health Authority,2
 27,William Watson Elementary,36,Fraser Health Authority,2
 27,Devon Gardens Elementary,37,Fraser Health Authority,2
 27,Gray Elementary,37,Fraser Health Authority,2

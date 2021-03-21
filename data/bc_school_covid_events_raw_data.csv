@@ -1,10 +1,12 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/20/2021,Rosser Elementary,Burnaby,41,Fraser Health Authority,"""March 11, 12""",Exposure 2
-03/20/2021,Fraser Heights Secondary,Surrey,36,Fraser Health Authority,"""March 10, 11, 12""",
 03/20/2021,Valleycliffe Elementary,Squamish,48,Vancouver Coastal Health,"""March 15, 16""",Exposure 3
 03/20/2021,Ecole Panorama Heights Elementary,Coquitlam,43,Fraser Health Authority,"""March 15, 16""",Exposure 6
 03/20/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,"""March 11, 12""",Exposure 17
 03/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""March 10, 11, 12""",Exposure 1
+03/20/2021,William F. Davidson Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 3
+03/20/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,March 12,Exposure 12
+03/20/2021,Fraser Heights Secondary,Surrey,36,Fraser Health Authority,"""March 15, 16, 17, 18, 19""",Exposure 8
 03/19/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,March 11,Exposure 3
 03/19/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""March 10, 11, and 12""",Exposure 1
 03/19/2021,William Konkin Elementary,Burns Lake,91,Northern Health,"""March 10, 11, and 12""",Exposure 4
@@ -3149,10 +3151,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/30/2020,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,Nov 23,Exposure 3
 11/30/2020,Cornerstone Christian School,Abbotsford,34,Fraser Health Authority,"""Nov 18, 19, 20""",Exposure 1
 11/30/2020,Sir Wilfred Grenfell Elementary,Vancouver,39,Vancouver Coastal Health,Exposure dates not provided,Exposure 1
-11/30/2020,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 25, 26""",Exposure 3
 11/30/2020,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,Nov 17,Exposure 2
 11/30/2020,Steveston-London Secondary,Richmond,38,Vancouver Coastal Health,"""Nov 24, 25, 26""",Exposure 4
 11/30/2020,Burnsview Secondary,Delta,37,Fraser Health Authority,Nov 16,Exposure 4
+11/30/2020,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 25, 26""",Exposure 3
 11/29/2020,King David High School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Nov 25, 26""",Exposure 3
 11/29/2020,R E Mountain Secondary,Langley,35,Fraser Health Authority,"""Nov 19, 20, 24, 25""",Exposure 6
 11/29/2020,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,Nov 23,Exposure 7
