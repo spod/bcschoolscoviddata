@@ -1,5 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/20/2021,Rosser Elementary,Burnaby,41,Fraser Health Authority,"""March 11, 12""",Exposure 2
+03/20/2021,Fraser Heights Secondary,Surrey,36,Fraser Health Authority,"""March 10, 11, 12""",
+03/20/2021,Valleycliffe Elementary,Squamish,48,Vancouver Coastal Health,"""March 15, 16""",Exposure 3
+03/20/2021,Ecole Panorama Heights Elementary,Coquitlam,43,Fraser Health Authority,"""March 15, 16""",Exposure 6
+03/20/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,"""March 11, 12""",Exposure 17
+03/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""March 10, 11, 12""",Exposure 1
 03/19/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,March 11,Exposure 3
 03/19/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""March 10, 11, and 12""",Exposure 1
 03/19/2021,William Konkin Elementary,Burns Lake,91,Northern Health,"""March 10, 11, and 12""",Exposure 4
@@ -23,7 +28,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/18/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,March 9 and 10,Exposure 11
 03/18/2021,Strawberry Hill Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 8
 03/18/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,March 12,Exposure 35
-03/18/2021,Gibson Elementary (Delta),Delta,37,Fraser Health Authority,March 11 and 12,Exposure 3
 03/18/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""March 11, 12""",Exposure 44
 03/18/2021,John MacLure Community School,Abbotsford,34,Fraser Health Authority,"""March 11, 12""",Exposure 4
 03/18/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 5,Exposure 4
@@ -51,6 +55,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/18/2021,Ecole Moody Middle School of the Arts,Port Moody,43,Fraser Health Authority,March 11,Exposure 4
 03/18/2021,Ecole Moody Middle School of the Arts,Port Moody,43,Fraser Health Authority,March 12,Exposure 5
 03/18/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 9, 10, 11, 12""",Letter on file indicates that a full class has been asked to isolate for 14 days.
+03/18/2021,Gibson Elementary (Delta),Delta,37,Fraser Health Authority,March 11 and 12,Exposure 3
 03/17/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,Mar 11 and 12,Exposure 13
 03/17/2021,Dr F D Sinclair Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 5
 03/17/2021,Lord Strathcona Community Elementary,Vancouver,39,Vancouver Coastal Health,"""March 9, 10, 11""",All grades/divisions from K-7 were exposed.
@@ -327,7 +332,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/10/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 2,Exposure 35
 03/10/2021,Annunciation School,Prince Rupert,Independent Schools in Northern Health,Northern Health,"""Mar 1, 2, and 3""",Exposure 2
 03/10/2021,Houston Christian School,Houston,Independent Schools in Northern Health,Northern Health,"""Mar 1, 2, and 3""",Exposure 1
-03/10/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,March 3,Exposure 6
 03/10/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,March 5,Exposure 2
 03/10/2021,Arthur Hatton Elementary,Kamloops,73,Interior Health Authority,"""Mar 2, 3, and 4""",Exposure 2
 03/10/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,March 4,Exposure 9
@@ -339,6 +343,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/10/2021,Hart Highlands Elementary,Prince George,57,Northern Health,Mar 1,Exposure 1
 03/10/2021,Mamquam Elementary,Garibaldi Highlands,48,Vancouver Coastal Health,"""Mar 3, 4, and 5 (Dates on the BCCDC webpage)""",Exposure 5
 03/10/2021,Hazel Trembath Elementary,Port Coquitlam,43,Fraser Health Authority,Mar 4 and 5,Exposure 3
+03/10/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,March 3,Exposure 6
 03/09/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,March 5,Exposure 6
 03/09/2021,Claro Learning Centre (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Mar 3, 4, and 5""",Exposure 1
 03/09/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 4, 5""",Exposure 11
