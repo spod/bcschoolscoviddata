@@ -112,6 +112,7 @@ Rank,School,School District,Health Region,Exposures
 21,Eugene Reimer Middle School,34,Fraser Health Authority,8
 21,Harry Sayers Elementary,34,Fraser Health Authority,8
 21,Aldergrove Community Secondary,35,Fraser Health Authority,8
+21,Beaver Creek Elementary,36,Fraser Health Authority,8
 21,Cambridge Elementary,36,Fraser Health Authority,8
 21,Fraser Heights Secondary,36,Fraser Health Authority,8
 21,Hazelgrove Elementary,36,Fraser Health Authority,8
@@ -147,7 +148,6 @@ Rank,School,School District,Health Region,Exposures
 22,Mount Slesse Middle School,33,Fraser Health Authority,7
 22,Sardis Elementary,33,Fraser Health Authority,7
 22,Bear Creek Elementary,36,Fraser Health Authority,7
-22,Beaver Creek Elementary,36,Fraser Health Authority,7
 22,Ecole Salish Secondary,36,Fraser Health Authority,7
 22,Elgin Park Secondary,36,Fraser Health Authority,7
 22,George Greenaway Elementary,36,Fraser Health Authority,7
@@ -980,11 +980,13 @@ Rank,School,School District,Health Region,Exposures
 28,Barriere Elementary,73,Interior Health Authority,1
 28,Chase Secondary,73,Interior Health Authority,1
 28,David Thompson Elementary,73,Interior Health Authority,1
+28,Dufferin Elementary,73,Interior Health Authority,1
 28,Kamloops Christian School,73,Interior Health Authority,1
 28,Kay Bingham Elementary,73,Interior Health Authority,1
 28,Rayleigh Elementary,73,Interior Health Authority,1
 28,Savona Elementary,73,Interior Health Authority,1
 28,Summit Elementary,73,Interior Health Authority,1
+28,Westmount Elementary,73,Interior Health Authority,1
 28,Christine Morrison Elementary,75,Fraser Health Authority,1
 28,Dewdney Elementary,75,Fraser Health Authority,1
 28,Ecole Heritage Park Middle School,75,Fraser Health Authority,1
