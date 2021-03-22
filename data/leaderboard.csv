@@ -49,6 +49,7 @@ Rank,School,School District,Health Region,Exposures
 17,Westerman Elementary,36,Fraser Health Authority,12
 17,Chalmers Elementary,37,Fraser Health Authority,12
 17,Seaquam Secondary,37,Fraser Health Authority,12
+17,Edith Cavell Elementary,39,Vancouver Coastal Health,12
 17,Ecole Glenbrook Middle School,40,Fraser Health Authority,12
 17,Heritage Woods Secondary,43,Fraser Health Authority,12
 17,Sentinel Secondary,45,Vancouver Coastal Health,12
@@ -62,7 +63,6 @@ Rank,School,School District,Health Region,Exposures
 18,Burnsview Secondary,37,Fraser Health Authority,11
 18,Hellings Elementary,37,Fraser Health Authority,11
 18,McCloskey Elementary,37,Fraser Health Authority,11
-18,Edith Cavell Elementary,39,Vancouver Coastal Health,11
 18,Vancouver Technical Secondary,39,Vancouver Coastal Health,11
 18,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,11
 18,Howe Sound Secondary,48,Vancouver Coastal Health,11
@@ -457,6 +457,7 @@ Rank,School,School District,Health Region,Exposures
 26,Morley Elementary,41,Fraser Health Authority,3
 26,Suncrest Elementary,41,Fraser Health Authority,3
 26,Windsor Elementary,41,Fraser Health Authority,3
+26,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,3
 26,Maple Ridge Elementary,42,Fraser Health Authority,3
 26,Yennadon Elementary,42,Fraser Health Authority,3
 26,Aspenwood Elementary,43,Fraser Health Authority,3
@@ -616,7 +617,6 @@ Rank,School,School District,Health Region,Exposures
 27,Albion Elementary,42,Fraser Health Authority,2
 27,Cusquena Elementary,42,Fraser Health Authority,2
 27,Davie Jones Elementary,42,Fraser Health Authority,2
-27,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,2
 27,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,2
 27,Westview Secondary,42,Fraser Health Authority,2
 27,Coquitlam Alternate Basic Education,43,Fraser Health Authority,2
