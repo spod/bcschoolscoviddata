@@ -40,6 +40,7 @@ Rank,School,School District,Health Region,Exposures
 16,David Brankin Elementary,36,Fraser Health Authority,13
 16,Delview Secondary,37,Fraser Health Authority,13
 16,Burnaby Central Secondary,41,Fraser Health Authority,13
+16,Centennial Secondary School,43,Fraser Health Authority,13
 16,North Peace Secondary,60,Northern Health,13
 16,Sa-hali Secondary,73,Interior Health Authority,13
 16,Hatzic Middle School,75,Fraser Health Authority,13
@@ -49,7 +50,6 @@ Rank,School,School District,Health Region,Exposures
 17,Chalmers Elementary,37,Fraser Health Authority,12
 17,Seaquam Secondary,37,Fraser Health Authority,12
 17,Ecole Glenbrook Middle School,40,Fraser Health Authority,12
-17,Centennial Secondary School,43,Fraser Health Authority,12
 17,Heritage Woods Secondary,43,Fraser Health Authority,12
 17,Sentinel Secondary,45,Vancouver Coastal Health,12
 17,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
@@ -256,6 +256,7 @@ Rank,School,School District,Health Region,Exposures
 24,Armstrong Elementary (Burnaby),41,Fraser Health Authority,5
 24,Ecole Marlborough Elementary,41,Fraser Health Authority,5
 24,Garibaldi Secondary,42,Fraser Health Authority,5
+24,Castle Park Elementary,43,Fraser Health Authority,5
 24,Ecole Coquitlam River Elementary,43,Fraser Health Authority,5
 24,Ecole Glenayre Elementary,43,Fraser Health Authority,5
 24,Ecole Moody Middle School of the Arts,43,Fraser Health Authority,5
@@ -309,6 +310,7 @@ Rank,School,School District,Health Region,Exposures
 25,K B Woodward Elementary,36,Fraser Health Authority,4
 25,Kennedy Trail Elementary,36,Fraser Health Authority,4
 25,Surrey Centre Elementary,36,Fraser Health Authority,4
+25,William F. Davidson Elementary,36,Fraser Health Authority,4
 25,Hawthorne Elementary,37,Fraser Health Authority,4
 25,Richardson Elementary,37,Fraser Health Authority,4
 25,A.R. MacNeill Secondary,38,Vancouver Coastal Health,4
@@ -333,7 +335,6 @@ Rank,School,School District,Health Region,Exposures
 25,Eric Langton Elementary,42,Fraser Health Authority,4
 25,Golden Ears Elementary,42,Fraser Health Authority,4
 25,Laity View Elementary,42,Fraser Health Authority,4
-25,Castle Park Elementary,43,Fraser Health Authority,4
 25,Central Community Elementary,43,Fraser Health Authority,4
 25,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
 25,Moody Elementary,43,Fraser Health Authority,4
@@ -426,7 +427,6 @@ Rank,School,School District,Health Region,Exposures
 26,Serpentine Heights Elementary,36,Fraser Health Authority,3
 26,Sullivan Elementary,36,Fraser Health Authority,3
 26,Sunnyside Elementary,36,Fraser Health Authority,3
-26,William F. Davidson Elementary,36,Fraser Health Authority,3
 26,Gibson Elementary (Delta),37,Fraser Health Authority,3
 26,Jarvis Traditional Elementary,37,Fraser Health Authority,3
 26,Ladner Elementary,37,Fraser Health Authority,3
