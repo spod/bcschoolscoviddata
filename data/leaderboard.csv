@@ -8,9 +8,9 @@ Rank,School,School District,Health Region,Exposures
 4,Sullivan Heights Secondary,36,Fraser Health Authority,35
 5,L A Matheson Secondary,36,Fraser Health Authority,26
 5,New Westminster Secondary,40,Fraser Health Authority,26
+6,Johnston Heights Secondary,36,Fraser Health Authority,25
 6,Lord Tweedsmuir Secondary,36,Fraser Health Authority,25
 7,Guildford Park Secondary,36,Fraser Health Authority,24
-7,Johnston Heights Secondary,36,Fraser Health Authority,24
 8,Kelowna Secondary School,23,Interior Health Authority,23
 8,North Delta Secondary,37,Fraser Health Authority,23
 9,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,21
@@ -520,6 +520,7 @@ Rank,School,School District,Health Region,Exposures
 26,St Francis Xavier,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,Vancouver Talmud Torah Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,Vancouver Waldorf School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
+26,Greater Heights Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,3
 26,Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
 26,St Michael’s Elementary (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,3
 26,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
@@ -560,6 +561,7 @@ Rank,School,School District,Health Region,Exposures
 27,Ellendale Elementary,36,Fraser Health Authority,2
 27,Forsyth Road Elementary,36,Fraser Health Authority,2
 27,Fraser Wood Elementary,36,Fraser Health Authority,2
+27,Invergarry Adult Education Centre,36,Fraser Health Authority,2
 27,Janice Churchill Elementary,36,Fraser Health Authority,2
 27,Mountainview Montessori,36,Fraser Health Authority,2
 27,North Surrey Learning Centre,36,Fraser Health Authority,2
@@ -695,7 +697,6 @@ Rank,School,School District,Health Region,Exposures
 27,Deer Lake SDA School,Independent Schools in Fraser Health,Fraser Health Authority,2
 27,Fraser Valley Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
 27,Global Montessori,Independent Schools in Fraser Health,Fraser Health Authority,2
-27,Greater Heights Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,2
 27,Immaculate Conception School (Delta),Independent Schools in Fraser Health,Fraser Health Authority,2
 27,Langley Christian (Middle and High),Independent Schools in Fraser Health,Fraser Health Authority,2
 27,Pacific Academy Intermediate,Independent Schools in Fraser Health,Fraser Health Authority,2
@@ -778,8 +779,8 @@ Rank,School,School District,Health Region,Exposures
 28,H T Thrift Elementary,36,Fraser Health Authority,1
 28,Henry Bose Elementary,36,Fraser Health Authority,1
 28,Hillcrest Elementary (Surrey),36,Fraser Health Authority,1
-28,Invergarry Adult Education Centre,36,Fraser Health Authority,1
 28,Jessie Lee Elementary,36,Fraser Health Authority,1
+28,Laronde Elementary,36,Fraser Health Authority,1
 28,Morgan Elementary,36,Fraser Health Authority,1
 28,Panorama Ridge Secondary,36,Vancouver Coastal Health,1
 28,Port Kells Elementary,36,Fraser Health Authority,1
