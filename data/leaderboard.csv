@@ -65,6 +65,7 @@ Rank,School,School District,Health Region,Exposures
 19,Hellings Elementary,37,Fraser Health Authority,11
 19,McCloskey Elementary,37,Fraser Health Authority,11
 19,Vancouver Technical Secondary,39,Vancouver Coastal Health,11
+19,Gleneagle Secondary,43,Fraser Health Authority,11
 19,Howe Sound Secondary,48,Vancouver Coastal Health,11
 20,D W Poppy Secondary,35,Fraser Health Authority,10
 20,Brookside Elementary,36,Fraser Health Authority,10
@@ -76,7 +77,6 @@ Rank,School,School District,Health Region,Exposures
 20,Britannia Community Secondary,39,Vancouver Coastal Health,10
 20,Gladstone Secondary,39,Vancouver Coastal Health,10
 20,Kitsilano Secondary,39,Vancouver Coastal Health,10
-20,Gleneagle Secondary,43,Fraser Health Authority,10
 20,Upper Lynn Elementary,44,Vancouver Coastal Health,10
 20,West Vancouver Secondary,45,Vancouver Coastal Health,10
 20,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,10
@@ -274,6 +274,7 @@ Rank,School,School District,Health Region,Exposures
 25,Mamquam Elementary,48,Vancouver Coastal Health,5
 25,Lax Kxeen Elementary,52,Northern Health,5
 25,Prince Rupert Middle,52,Northern Health,5
+25,Smithers Secondary,54,Northern Health,5
 25,College Heights Secondary,57,Northern Health,5
 25,Merritt Secondary,58,Interior Health Authority,5
 25,South Kamloops Secondary,73,Interior Health Authority,5
@@ -353,7 +354,6 @@ Rank,School,School District,Health Region,Exposures
 26,Signal Hill Elementary,48,Vancouver Coastal Health,4
 26,Spring Creek Community School,48,Vancouver Coastal Health,4
 26,Roosevelt Park Elementary,52,Northern Health,4
-26,Smithers Secondary,54,Northern Health,4
 26,D P Todd Secondary,57,Northern Health,4
 26,Kelly Road/Shas ti Secondary,57,Northern Health,4
 26,Peden Hill Elementary,57,Northern Health,4
@@ -489,6 +489,7 @@ Rank,School,School District,Health Region,Exposures
 27,Valleycliffe Elementary,48,Vancouver Coastal Health,3
 27,Pacific Coast School,52,Northern Health,3
 27,Houston Secondary,54,Northern Health,3
+27,Walnut Park Elementary,54,Northern Health,3
 27,Central elementary (Ft.St John),60,Northern Health,3
 27,Energetic Learning Campus,60,Northern Health,3
 27,Summerland Secondary,67,Interior Health Authority,3
@@ -642,7 +643,6 @@ Rank,School,School District,Health Region,Exposures
 28,Elphinstone Secondary,46,Vancouver Coastal Health,2
 28,Sk'aadgaa Naay Elementary,50,Northern Health,2
 28,Osoyoos Secondary,53,Interior Health Authority,2
-28,Walnut Park Elementary,54,Northern Health,2
 28,Heritage Elementary,57,Northern Health,2
 28,Spruceland Traditional,57,Northern Health,2
 28,Valemount Secondary,57,Northern Health,2
@@ -914,6 +914,7 @@ Rank,School,School District,Health Region,Exposures
 29,Similkameen Elem-Secondary,53,Interior Health Authority,1
 29,Southern Okanagan Secondary,53,Interior Health Authority,1
 29,Silverthorne Elementary,54,Northern Health,1
+29,Telkwa Elementary,54,Northern Health,1
 29,Twain Sullivan Elementary,54,Northern Health,1
 29,Beaverly Elementary,57,Northern Health,1
 29,College Heights Elementary,57,Northern Health,1
@@ -1071,4 +1072,5 @@ Rank,School,School District,Health Region,Exposures
 29,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
 29,Kispiox Community School,Independent Schools in Northern Health,Northern Health,1
 29,Mountain Christian School,Independent Schools in Northern Health,Northern Health,1
+29,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,1
 29,Veritas Catholic,Independent Schools in Northern Health,Northern Health,1
