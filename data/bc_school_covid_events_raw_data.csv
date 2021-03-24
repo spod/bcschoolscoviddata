@@ -30,7 +30,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/22/2021,Heather Park Elementary,Prince George,57,Northern Health,March 11 and 12,Exposure 6
 03/22/2021,College Heights Secondary,Prince George,57,Northern Health,"""March 15, 16, and 17""",Exposure 5
 03/22/2021,Lord Strathcona Community Elementary,Vancouver,39,Vancouver Coastal Health,March 12,Exposure 6
-03/22/2021,Rothewood Academy (South Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,Exposure 1
 03/22/2021,Cassie Hall Elementary,Terrace,82,Northern Health,"""March 10, 11, and 12""",Exposure 2
 03/22/2021,Westmount Elementary,Kamloops,73,Interior Health Authority,March 12,https://cfjctoday.com/2021/03/22/covid-19-exposures-detected-at-westmount-elementary-dufferin-elementary
 03/22/2021,Invergarry Adult Education Centre,Surrey,36,Fraser Health Authority,March 15,Exposure 2
@@ -40,6 +39,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/22/2021,Dorothea Walker Elementary,Kelowna,23,Interior Health Authority,"""March 10, 11, and 12""",Exposure 2
 03/22/2021,Kildala Elementary,Kitimat,82,Northern Health,March 12,Exposure 5
 03/22/2021,Laronde Elementary,Surrey,36,Fraser Health Authority,"""March 16, 17, and 18""",Exposure 1
+03/22/2021,Rothewood Academy (South Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 17 and 18,Exposure 1
 03/21/2021,Smiling Creek Elementary,Coquitlam,43,Fraser Health Authority,March 11,Exposure 5
 03/21/2021,Greater Heights Learning Academy,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,March 15 and 16,Exposure 2
 03/21/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""March 10, 11, 12, and 17""",Exposure 13
