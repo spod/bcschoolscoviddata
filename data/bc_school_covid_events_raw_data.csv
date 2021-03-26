@@ -1,9 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-03/24/2021,Smithers Secondary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 5
-03/24/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,"""March 17, 18, and 19""",Exposure 11
-03/24/2021,St Joseph's School (Smithers),Smithers,Independent Schools in Northern Health,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10 and 11""",Exposure 1
-03/24/2021,Telkwa Elementary,Telkwa,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 1
-03/24/2021,Walnut Park Elementary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 3
+03/25/2021,D P Todd Secondary,Prince George,57,Northern Health,March 18 and 19,Exposure 5
 03/24/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 17, 18, and 19""",One full class has been asked to self-isolate.
 03/24/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,March 16 and 17,Exposure 6
 03/24/2021,Heather Park Elementary,Prince George,57,Northern Health,"""March 10, 11, and 12""",Exposure 7
@@ -11,6 +7,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/24/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,March 11 and 12,Exposure 9
 03/24/2021,Spruceland Traditional,Prince George,57,Northern Health,"""March 12, 15, 16, 17, 18, and 19""",Exposure 3
 03/24/2021,Muheim Memorial Elementary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 1
+03/24/2021,Smithers Secondary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 5
+03/24/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,"""March 17, 18, and 19""",Exposure 11
+03/24/2021,St Joseph's School (Smithers),Smithers,Independent Schools in Northern Health,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10 and 11""",Exposure 1
+03/24/2021,Telkwa Elementary,Telkwa,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 1
+03/24/2021,Walnut Park Elementary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 3
 03/23/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,March 17 and 18,Exposure 26
 03/23/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,"""March 8, 9, and 11""",Exposure 8
 03/23/2021,D P Todd Secondary,Prince George,57,Northern Health,March 12,https://www.myprincegeorgenow.com/138342/northern-health-places-a-number-of-pg-schools-under-exposure-alert
