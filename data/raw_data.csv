@@ -1,7 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 03/26/2021,Whistler Secondary,Whistler,48,Vancouver Coastal Health,"""March 9, 10, 11, 17, 18, and 19""",Exposure 7
+03/26/2021,Brackendale Elementary,,48,Vancouver Coastal Health,"""March 3, 4, 10, 11, and 12""",Exposure 1
 03/25/2021,D P Todd Secondary,Prince George,57,Northern Health,March 18 and 19,Exposure 5
-03/24/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 17, 18, and 19""",One full class has been asked to self-isolate.
 03/24/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,March 16 and 17,Exposure 6
 03/24/2021,Heather Park Elementary,Prince George,57,Northern Health,"""March 10, 11, and 12""",Exposure 7
 03/24/2021,Moberly Lake Elementary,,59,Northern Health,"""March 8, 9, 10, 11, and 12""",Exposure 1
@@ -13,6 +13,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/24/2021,St Joseph's School (Smithers),Smithers,Independent Schools in Northern Health,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10 and 11""",Exposure 1
 03/24/2021,Telkwa Elementary,Telkwa,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 1
 03/24/2021,Walnut Park Elementary,Smithers,54,Northern Health,"""March 1, 2, 3, 4, 5, 8, 9, 10, and 11""",Exposure 3
+03/24/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,"""March 17, 18, and 19""",One full class has been asked to self-isolate.
 03/23/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,March 17 and 18,Exposure 26
 03/23/2021,Conrad Street Elementary,Prince Rupert,52,Northern Health,"""March 8, 9, and 11""",Exposure 8
 03/23/2021,D P Todd Secondary,Prince George,57,Northern Health,March 12,https://www.myprincegeorgenow.com/138342/northern-health-places-a-number-of-pg-schools-under-exposure-alert
@@ -104,7 +105,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/18/2021,Coyote Creek Elementary,Surrey,36,Fraser Health Authority,"""March 11, 12""",Exposure 3
 03/18/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,"""March 11, 12""",Exposure 20
 03/18/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""March 11, 12""",Exposure 26
-03/18/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,March 12,Exposure 6
 03/18/2021,Royal Heights Elementary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10, 11, 12""",Exposure 8
 03/18/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,"""March 11, 12""",Exposure 23
 03/18/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9""",Exposure 22
@@ -124,6 +124,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/18/2021,Ecole Moody Middle School of the Arts,Port Moody,43,Fraser Health Authority,March 12,Exposure 5
 03/18/2021,Gibson Elementary (Delta),Delta,37,Fraser Health Authority,March 11 and 12,Exposure 3
 03/18/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 9, 10, 11, 12""",Letter on file indicates that a full class has been asked to isolate for 14 days.
+03/18/2021,Cedar Drive Elementary,Port Coquitlam,43,Fraser Health Authority,March 12,Exposure 6
 03/17/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,Mar 11 and 12,Exposure 13
 03/17/2021,Dr F D Sinclair Elementary,Surrey,36,Fraser Health Authority,March 12,Exposure 5
 03/17/2021,Lord Strathcona Community Elementary,Vancouver,39,Vancouver Coastal Health,"""March 9, 10, 11""",All grades/divisions from K-7 were exposed.
