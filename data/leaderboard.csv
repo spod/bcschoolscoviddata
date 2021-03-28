@@ -34,6 +34,7 @@ Rank,School,School District,Health Region,Exposures
 16,Rutland Senior Secondary,23,Interior Health Authority,14
 16,W J Mouat Secondary,34,Fraser Health Authority,14
 16,Woodward Hill Elementary,36,Fraser Health Authority,14
+16,Centennial Secondary School,43,Fraser Health Authority,14
 16,Handsworth Secondary,44,Vancouver Coastal Health,14
 16,Charles Hays Secondary,52,Northern Health,14
 16,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,14
@@ -41,7 +42,6 @@ Rank,School,School District,Health Region,Exposures
 17,Westerman Elementary,36,Fraser Health Authority,13
 17,Delview Secondary,37,Fraser Health Authority,13
 17,Burnaby Central Secondary,41,Fraser Health Authority,13
-17,Centennial Secondary School,43,Fraser Health Authority,13
 17,Sentinel Secondary,45,Vancouver Coastal Health,13
 17,North Peace Secondary,60,Northern Health,13
 17,Sa-hali Secondary,73,Interior Health Authority,13
