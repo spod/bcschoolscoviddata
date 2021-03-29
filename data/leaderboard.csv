@@ -31,13 +31,13 @@ Rank,School,School District,Health Region,Exposures
 14,Byrne Creek Community Secondary,41,Fraser Health Authority,16
 14,Carson Graham Secondary,44,Vancouver Coastal Health,16
 15,Cougar Creek Elementary,36,Fraser Health Authority,15
+15,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,15
 16,Rutland Senior Secondary,23,Interior Health Authority,14
 16,W J Mouat Secondary,34,Fraser Health Authority,14
 16,Woodward Hill Elementary,36,Fraser Health Authority,14
 16,Centennial Secondary School,43,Fraser Health Authority,14
 16,Handsworth Secondary,44,Vancouver Coastal Health,14
 16,Charles Hays Secondary,52,Northern Health,14
-16,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,14
 17,David Brankin Elementary,36,Fraser Health Authority,13
 17,Westerman Elementary,36,Fraser Health Authority,13
 17,Delview Secondary,37,Fraser Health Authority,13
@@ -527,6 +527,7 @@ Rank,School,School District,Health Region,Exposures
 27,Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
 27,St Michael’s Elementary (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,3
 27,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
+27,White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,3
 27,Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,3
 27,St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,3
 28,Kalamalka Secondary,22,Interior Health Authority,2
@@ -705,7 +706,6 @@ Rank,School,School District,Health Region,Exposures
 28,Queen of All Saints Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
 28,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,2
 28,Squiala Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
-28,White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,2
 28,OKIB Cultural Immersion,Independent Schools in Interior Health,Interior Health Authority,2
 28,Sk'elep School of Excellence,Independent Schools in Interior Health,Interior Health Authority,2
 28,St Mary's Catholic Independent,Independent Schools in Interior Health,Interior Health Authority,2
