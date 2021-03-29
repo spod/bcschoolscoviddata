@@ -132,6 +132,7 @@ Rank,School,School District,Health Region,Exposures
 22,Pitt Meadows Secondary,42,Fraser Health Authority,8
 22,Samuel Robertson Technical Secondary,42,Fraser Health Authority,8
 22,Eagle Mountain Middle School,43,Fraser Health Authority,8
+22,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,8
 22,Pinetree Secondary,43,Fraser Health Authority,8
 22,Scott Creek Middle School,43,Fraser Health Authority,8
 22,Summit Middle School,43,Fraser Health Authority,8
@@ -212,7 +213,6 @@ Rank,School,School District,Health Region,Exposures
 24,Edmonds Community Elementary,41,Fraser Health Authority,6
 24,Alouette Elementary,42,Fraser Health Authority,6
 24,Ecole Citadel Middle,43,Fraser Health Authority,6
-24,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,6
 24,Ecole Glen Elementary,43,Fraser Health Authority,6
 24,Ecole Moody Middle School of the Arts,43,Fraser Health Authority,6
 24,Ecole Pitt River Middle,43,Fraser Health Authority,6
@@ -278,6 +278,7 @@ Rank,School,School District,Health Region,Exposures
 25,College Heights Secondary,57,Northern Health,5
 25,D P Todd Secondary,57,Northern Health,5
 25,Merritt Secondary,58,Interior Health Authority,5
+25,NorKam Secondary School,73,Interior Health Authority,5
 25,South Kamloops Secondary,73,Interior Health Authority,5
 25,Kildala Elementary,82,Northern Health,5
 25,Suwilaawks Community School,82,Northern Health,5
@@ -363,7 +364,6 @@ Rank,School,School District,Health Region,Exposures
 26,John Barsby Secondary School,68,Vancouver Island Health Authority,4
 26,Rock City Elementary,68,Vancouver Island Health Authority,4
 26,Beattie Elementary,73,Interior Health Authority,4
-26,NorKam Secondary School,73,Interior Health Authority,4
 26,Mission Central Elementary,75,Fraser Health Authority,4
 26,Mission Senior Secondary,75,Fraser Health Authority,4
 26,Hope Secondary,78,Fraser Health Authority,4
