@@ -1,5 +1,9 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-03/29/2021,Westmount Elementary,Kamloops,73,Interior Health Authority,"""March 22, 23, and 24""",https://cfjctoday.com/2021/03/29/norkam-registers-first-post-spring-break-covid-19-exposure
+03/29/2021,Myrtle Philip Community School,Whistler,48,Vancouver Coastal Health,"""March 17, 18, and 19""",Exposure 2
+03/29/2021,Heather Park Elementary,Prince George,57,Northern Health,"""March 17, 18, and 19""",Exposure 8
+03/29/2021,Westmount Elementary,Kamloops,73,Interior Health Authority,"""March 23, 24, and 25""",Exposure 2
+03/29/2021,Duchess Park Secondary,Prince George,57,Northern Health,March 16 and 17,Exposure 2
+03/29/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""March 22, 23, 24, and 25""",We have documentation on file showing that the March 23 exposure was at the Primary School. We have not received any details regarding the other dates so have listed them together.
 03/28/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,March 22,This exposure was at the Secondary School.
 03/28/2021,White Rock Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""March 15, 16, 17, and 18""",Exposure 3
 03/28/2021,NorKam Secondary School,Kamloops,73,Interior Health Authority,"""March 22, 23""",https://www.castanet.net/news/Kamloops/329349/Potential-COVID-19-exposure-reported-at-NorKam-secondary#329349
@@ -7,8 +11,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/28/2021,Ecole Dr Charles Best Secondary,Coquitlam,43,Fraser Health Authority,March 19,Exposure 8
 03/27/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,March 18,Exposure 14
 03/26/2021,Whistler Secondary,Whistler,48,Vancouver Coastal Health,"""March 9, 10, 11, 17, 18, and 19""",Exposure 7
-03/26/2021,Myrtle Philip Community School,Whistler,48,Vancouver Coastal Health,Not provided,Exposure 1
 03/26/2021,Brackendale Elementary,,48,Vancouver Coastal Health,"""March 3, 4, 10, 11, and 12""",Exposure 1
+03/26/2021,Myrtle Philip Community School,Whistler,48,Vancouver Coastal Health,March 9 and 10 (Dates on the BCCDC webpage),Exposure 1
 03/25/2021,D P Todd Secondary,Prince George,57,Northern Health,March 18 and 19,Exposure 5
 03/24/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,March 16 and 17,Exposure 6
 03/24/2021,Heather Park Elementary,Prince George,57,Northern Health,"""March 10, 11, and 12""",Exposure 7
