@@ -85,6 +85,7 @@ Rank,School,School District,Health Region,Exposures
 21,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,10
 22,GW Graham Secondary,33,Fraser Health Authority,9
 22,Promontory Heights Community Elementary,33,Fraser Health Authority,9
+22,Vedder Middle School,33,Fraser Health Authority,9
 22,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,9
 22,Langley Secondary,35,Fraser Health Authority,9
 22,Cambridge Elementary,36,Fraser Health Authority,9
@@ -108,7 +109,6 @@ Rank,School,School District,Health Region,Exposures
 22,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,9
 23,École KLO Middle School,23,Interior Health Authority,8
 23,A D Rundle Middle School,33,Fraser Health Authority,8
-23,Vedder Middle School,33,Fraser Health Authority,8
 23,Chief Dan George Middle,34,Fraser Health Authority,8
 23,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,8
 23,Eugene Reimer Middle School,34,Fraser Health Authority,8
@@ -148,6 +148,7 @@ Rank,School,School District,Health Region,Exposures
 23,Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
 24,Casorso Elementary School,23,Interior Health Authority,7
 24,Marie Sharpe Elementary,27,Interior Health Authority,7
+24,Chilliwack Middle School,33,Fraser Health Authority,7
 24,Mount Slesse Middle School,33,Fraser Health Authority,7
 24,Sardis Elementary,33,Fraser Health Authority,7
 24,Bear Creek Elementary,36,Fraser Health Authority,7
@@ -167,6 +168,7 @@ Rank,School,School District,Health Region,Exposures
 24,Ecole Panorama Heights Elementary,43,Fraser Health Authority,7
 24,Whistler Secondary,48,Vancouver Coastal Health,7
 24,Dawson Creek Secondary,59,Northern Health,7
+24,Margaret Ma Murray Community School,60,Northern Health,7
 24,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 24,Valleyview Secondary,73,Interior Health Authority,7
 24,des Pionniers-de-Maillardville,93,Fraser Health Authority,7
@@ -177,7 +179,6 @@ Rank,School,School District,Health Region,Exposures
 25,Aberdeen Hall Preparatory School (Junior School),23,Interior Health Authority,6
 25,Canyon Falls Middle School,23,Interior Health Authority,6
 25,Mount Boucherie Secondary School,23,Interior Health Authority,6
-25,Chilliwack Middle School,33,Fraser Health Authority,6
 25,Blue Jay Elementary,34,Fraser Health Authority,6
 25,Centennial Park Elementary,34,Fraser Health Authority,6
 25,Dave Kandal Elementary School,34,Fraser Health Authority,6
@@ -222,7 +223,6 @@ Rank,School,School District,Health Region,Exposures
 25,Braemar Elementary,44,Vancouver Coastal Health,6
 25,Seymour Heights Elementary,44,Vancouver Coastal Health,6
 25,Ecole Cedardale,45,Vancouver Coastal Health,6
-25,Margaret Ma Murray Community School,60,Northern Health,6
 25,Bayview Elementary,68,Vancouver Island Health Authority,6
 25,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
 25,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,6
