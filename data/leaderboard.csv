@@ -78,6 +78,7 @@ Rank,School,School District,Health Region,Exposures
 21,Britannia Community Secondary,39,Vancouver Coastal Health,10
 21,Gladstone Secondary,39,Vancouver Coastal Health,10
 21,Kitsilano Secondary,39,Vancouver Coastal Health,10
+21,Terry Fox Secondary,43,Fraser Health Authority,10
 21,Upper Lynn Elementary,44,Vancouver Coastal Health,10
 21,West Vancouver Secondary,45,Vancouver Coastal Health,10
 21,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,10
@@ -99,7 +100,6 @@ Rank,School,School District,Health Region,Exposures
 22,Cougar Canyon Elementary,37,Fraser Health Authority,9
 22,Lord Roberts Elementary,39,Vancouver Coastal Health,9
 22,Minnekhada Middle School,43,Fraser Health Authority,9
-22,Terry Fox Secondary,43,Fraser Health Authority,9
 22,Conrad Street Elementary,52,Northern Health,9
 22,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 22,St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
