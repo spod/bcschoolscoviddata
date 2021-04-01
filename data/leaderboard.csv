@@ -239,6 +239,7 @@ Rank,School,School District,Health Region,Exposures
 25,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,5
 25,Vedder Elementary,33,Fraser Health Authority,5
 25,Belmont Elementary,35,Fraser Health Authority,5
+25,Langley Fine Arts School,35,Fraser Health Authority,5
 25,Yorkson Creek Middle School,35,Fraser Health Authority,5
 25,Dr F D Sinclair Elementary,36,Fraser Health Authority,5
 25,Ecole Riverdale Elementary,36,Fraser Health Authority,5
@@ -308,7 +309,6 @@ Rank,School,School District,Health Region,Exposures
 26,Betty Gilbert Middle,35,Fraser Health Authority,4
 26,Dorothy Peacock Elementary,35,Fraser Health Authority,4
 26,Douglas Park Community,35,Fraser Health Authority,4
-26,Langley Fine Arts School,35,Fraser Health Authority,4
 26,Lynn Fripps Elementary,35,Fraser Health Authority,4
 26,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,4
 26,Peter Ewart Middle School,35,Fraser Health Authority,4
@@ -628,6 +628,7 @@ Rank,School,School District,Health Region,Exposures
 28,Cusquena Elementary,42,Fraser Health Authority,2
 28,Davie Jones Elementary,42,Fraser Health Authority,2
 28,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,2
+28,Kanaka Creek Elementary,42,Fraser Health Authority,2
 28,Westview Secondary,42,Fraser Health Authority,2
 28,Coquitlam Alternate Basic Education,43,Fraser Health Authority,2
 28,Eagle Ridge Elementary,43,Fraser Health Authority,2
@@ -869,7 +870,6 @@ Rank,School,School District,Health Region,Exposures
 29,University Highlands Elementary,41,Fraser Health Authority,1
 29,Blue Mountain Elementary,42,Fraser Health Authority,1
 29,Highland Park Elementary,42,Fraser Health Authority,1
-29,Kanaka Creek Elementary,42,Fraser Health Authority,1
 29,Maple Ridge Secondary - Outreach Alternate Secondary,42,Fraser Health Authority,1
 29,Pitt Meadows Elementary,42,Fraser Health Authority,1
 29,Whonnock Elementary,42,Fraser Health Authority,1
