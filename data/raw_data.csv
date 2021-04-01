@@ -1,9 +1,13 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+04/01/2021,Wellington Secondary,Nanaimo,68,Vancouver Island Health Authority,March 29 and 30,Exposure 3
+04/01/2021,Oak Bay Secondary,Victoria,61,Vancouver Island Health Authority,March 30,Exposure 1
+04/01/2021,Aberdeen Hall Middle/Senior School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,March 29,Exposure 1
 03/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""March 16, 17""",Exposure 2
 03/31/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 29,Exposure 5
 03/31/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,March 29,Exposure 36
 03/31/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,March 23 and 24,Exposure 7
 03/31/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""March 24, 25, and 26""",Exposure 9
+03/31/2021,Mulgrave School,West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided. (Individual tested positive on March 31st).,Exposure 5
 03/30/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,March 29,Exposure 14
 03/30/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 26,Exposure 4
 03/29/2021,Myrtle Philip Community School,Whistler,48,Vancouver Coastal Health,"""March 17, 18, and 19""",Exposure 2
@@ -1398,7 +1402,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/11/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,Feb 5,Exposure 2
 02/11/2021,Yorkson Creek Middle School,Langley,35,Fraser Health Authority,Feb 8,Exposure 3
 02/11/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""Feb 8, 9""",Exposure 7
-02/11/2021,Caledonia Secondary,Terrace,82,Northern Health,Feb 3 and 4,Exposure 7
 02/11/2021,Larson Elementary,North Vancouver,44,Vancouver Coastal Health,Feb 8,Exposure 2
 02/11/2021,Fort Nelson Secondary,Fort Nelson,81,Northern Health,"""Feb 1, 2, and 3""",Exposure 4
 02/11/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,Feb 4 and 5,Letter on file stating that this is one of four exposures at Lena Shaw announced today.
@@ -1439,6 +1442,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/11/2021,Holy Cross Elementary School (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,Feb 4,Exposure 2
 02/11/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""Feb 4, 5""",Exposure 6
 02/11/2021,Cassie Hall Elementary,Terrace,82,Northern Health,Feb 5,Exposure 1
+02/11/2021,Caledonia Secondary,Terrace,82,Northern Health,Feb 3 and 4,Exposure 7
 02/10/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Feb 5,Exposure 38
 02/10/2021,Brooke Elementary,Delta,37,Fraser Health Authority,"""Feb 1, 2, and 3""",Exposure 4
 02/10/2021,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,"""Feb 3, 4, and 5""",Exposure 4
@@ -1655,7 +1659,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/03/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,Jan 29,Exposure 8
 02/03/2021,Fraser Wood Elementary,Surrey,36,Fraser Health Authority,Jan 28 and 29,Exposure 2
 02/03/2021,Ecole Salish Secondary,Surrey,36,Fraser Health Authority,Jan 27,Exposure 3
-02/03/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,Jan 28 and 29,Exposure 5
+02/03/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,Jan 28 and 29,Exposure 5
 02/03/2021,Mission Central Elementary,Mission,75,Fraser Health Authority,Jan 28 and 29,Exposure 3
 02/03/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Feb 1,Exposure 35
 02/03/2021,Brooksbank Elementary,North Vancouver,44,Vancouver Coastal Health,Not provided,Exposure 4
@@ -1714,8 +1718,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/01/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,"""Jan 25, 26, 27, 28, and 29""",We have listed as Exposure 5 - 9 on the database.
 02/01/2021,Station Stretch,Richmond,38,Vancouver Coastal Health,"""Jan 25, 26, 27""",Exposure 1
 02/01/2021,Kelly Road/Shas ti Secondary,Prince George,57,Northern Health,"""Jan 25, 26, and 27""",https://www.princegeorgematters.com/local-news/third-covid-19-exposure-event-listed-for-shas-ti-kelly-road-secondary
-02/01/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,"""Jan 19, 20, 21, 22, and 25""",Exposure 4
-02/01/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,Jan 28 and 29,Exposure 5
+02/01/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Jan 19, 20, 21, 22, and 25""",Exposure 4
+02/01/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,Jan 28 and 29,Exposure 5
 02/01/2021,Green Timbers Elementary,Surrey,36,Fraser Health Authority,"""Jan 13, 14, 15, 21 and 22""",Exposure 8
 02/01/2021,Prince Charles Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,Jan 28,Exposure 1
 02/01/2021,Aldergrove Community Secondary,,35,Fraser Health Authority,Jan 29,Exposure 7
@@ -1803,7 +1807,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/29/2021,Alexander Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,Jan 25,Exposure 2
 01/29/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,Jan 25 and 26,Exposure 8
 01/29/2021,Captain James Cook Elementary,Vancouver,39,Vancouver Coastal Health,Jan 26 and 27,Exposure 2
-01/29/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,"""Jan 26, 27""",Exposure 3
+01/29/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Jan 26, 27""",Exposure 3
 01/29/2021,Edgewood Elementary (Surrey),Surrey,36,Fraser Health Authority,Jan 25,This exposure has the same dates as Exposure 2. The letter attached indicates a different class/grade than that listed for Exposure 2
 01/29/2021,Lake City Secondary (Columneetza Campus),Williams Lake,27,Interior Health Authority,Jan 20,Exposure 4
 01/29/2021,Coghlan Fundamental Elementary,Aldergrove,35,Fraser Health Authority,"""Jan 26, 27 and 28 (Extra date added based on the BCCDC website)""",Exposure 2
@@ -2078,7 +2082,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/18/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,Jan 11 and 12,Exposure 1
 01/18/2021,Home Learners Program,New Westminster,40,Fraser Health Authority,Jan 5,Exposure 1
 01/18/2021,D P Todd Secondary,Prince George,57,Northern Health,Jan 11 and 12,https://ckpgtoday.ca/2021/01/18/another-covid-19-exposure-event-at-dp-todd
-01/18/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,Jan 12,Exposure 2
+01/18/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,Jan 12,Exposure 2
 01/18/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Jan 13, 14""",Exposure 3
 01/17/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,"""Jan 4, 5, 6, 7, and 8""",Exposure 8
 01/17/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Jan 14,Exposure 8
@@ -2121,7 +2125,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/16/2021,South Rutland Elementary,Kelowna,23,Interior Health Authority,Jan 11,https://www.castanet.net/news/Kelowna/322132/COVID-19-exposure-confirmed-at-three-Central-Okanagan-schools?fbclid=IwAR2iTtE7Zboucs7t9_kvktd79gRn1Dqe-kZT9zGy0QwxAk2o9YtuqBfYkgI#322132
 01/16/2021,Westview Secondary,Maple Ridge,42,Fraser Health Authority,Jan 12,Exposure 2
 01/16/2021,A J McLellan Elementary,Surrey,36,Fraser Health Authority,Jan 11,Exposure 1
-01/16/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,23,Interior Health Authority,Jan 12,Exposure 1
+01/16/2021,Aberdeen Hall Preparatory School (Junior School),Kelowna,Independent Schools in Interior Health,Interior Health Authority,Jan 12,Exposure 1
 01/16/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,Jan 11,Exposure 13
 01/16/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,Jan 11,Exposure 5
 01/16/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,Jan 12 and 13,Exposure 7
