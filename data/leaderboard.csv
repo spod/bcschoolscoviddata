@@ -22,10 +22,10 @@ Rank,School,School District,Health Region,Exposures
 13,R E Mountain Secondary,35,Fraser Health Authority,18
 13,Killarney Secondary,39,Vancouver Coastal Health,18
 14,Chilliwack Secondary,33,Fraser Health Authority,17
+14,Kwantlen Park Secondary,36,Fraser Health Authority,17
 14,Sir Charles Tupper Secondary,39,Vancouver Coastal Health,17
 15,Abbotsford Senior Secondary School,34,Fraser Health Authority,16
 15,Earl Marriott Secondary,36,Fraser Health Authority,16
-15,Kwantlen Park Secondary,36,Fraser Health Authority,16
 15,Semiahmoo Secondary,36,Fraser Health Authority,16
 15,Burnaby North Secondary,41,Fraser Health Authority,16
 15,Byrne Creek Community Secondary,41,Fraser Health Authority,16
@@ -162,6 +162,7 @@ Rank,School,School District,Health Region,Exposures
 24,Simon Cunningham Elementary,36,Fraser Health Authority,7
 24,W E Kinvig Elementary,36,Fraser Health Authority,7
 24,Hugh McRoberts Secondary,38,Vancouver Coastal Health,7
+24,Elsie Roy Elementary,39,Vancouver Coastal Health,7
 24,Eric Hamber Secondary,39,Vancouver Coastal Health,7
 24,Burnaby South Secondary,41,Fraser Health Authority,7
 24,Douglas Road Elementary,41,Fraser Health Authority,7
@@ -204,7 +205,6 @@ Rank,School,School District,Health Region,Exposures
 25,Newton Elementary,36,Fraser Health Authority,6
 25,Walnut Road Elementary,36,Fraser Health Authority,6
 25,H.J. Cambie Secondary School,38,Vancouver Coastal Health,6
-25,Elsie Roy Elementary,39,Vancouver Coastal Health,6
 25,King George Secondary,39,Vancouver Coastal Health,6
 25,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,6
 25,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,6
@@ -562,6 +562,7 @@ Rank,School,School District,Health Region,Exposures
 29,Gordon Greenwood Elementary,35,Fraser Health Authority,2
 29,Langley Fundamental Elementary,35,Fraser Health Authority,2
 29,Langley Meadows Elementary,35,Fraser Health Authority,2
+29,Noel Booth Elementary,35,Fraser Health Authority,2
 29,Betty Huff Elementary,36,Fraser Health Authority,2
 29,Bridgeview Elementary,36,Fraser Health Authority,2
 29,City Central Learning Centre,36,Fraser Health Authority,2
@@ -771,12 +772,12 @@ Rank,School,School District,Health Region,Exposures
 30,James Kennedy Elementary,35,Fraser Health Authority,1
 30,Langley Online and Distributed Learning,35,Fraser Health Authority,1
 30,Nicomekl Elementary,35,Fraser Health Authority,1
-30,Noel Booth Elementary,35,Fraser Health Authority,1
 30,St Catherines School,35,Fraser Health Authority,1
 30,West Langley Elementary,35,Fraser Health Authority,1
 30,West Langley StrongStart Centre,35,Fraser Health Authority,1
 30,Bothwell Elementary School,36,Fraser Health Authority,1
 30,Cedar Hills StrongStart Centre,36,Fraser Health Authority,1
+30,Chantrell Creek Elementary,36,Fraser Health Authority,1
 30,Clayton Elementary,36,Fraser Health Authority,1
 30,Cloverdale Learning Centre,36,Fraser Health Authority,1
 30,Dogwood Elementary,36,Fraser Health Authority,1
