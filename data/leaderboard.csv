@@ -14,11 +14,11 @@ Rank,School,School District,Health Region,Exposures
 8,North Delta Secondary,37,Fraser Health Authority,24
 9,Kelowna Secondary School,23,Interior Health Authority,23
 10,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,21
+11,North Surrey Secondary,36,Fraser Health Authority,20
 11,John Oliver Secondary,39,Vancouver Coastal Health,20
 12,Rick Hansen Secondary,34,Fraser Health Authority,19
 12,Fleetwood Park Secondary,36,Fraser Health Authority,19
 12,Lena Shaw Elementary,36,Fraser Health Authority,19
-12,North Surrey Secondary,36,Fraser Health Authority,19
 13,R E Mountain Secondary,35,Fraser Health Authority,18
 13,Killarney Secondary,39,Vancouver Coastal Health,18
 14,Chilliwack Secondary,33,Fraser Health Authority,17
@@ -177,6 +177,7 @@ Rank,School,School District,Health Region,Exposures
 24,Valleyview Secondary,73,Interior Health Authority,7
 24,des Pionniers-de-Maillardville,93,Fraser Health Authority,7
 24,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,7
+24,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 24,Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,7
 24,Holy Cross Regional High School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,7
 24,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,7
@@ -224,7 +225,6 @@ Rank,School,School District,Health Region,Exposures
 25,Ecole Cedardale,45,Vancouver Coastal Health,6
 25,Bayview Elementary,68,Vancouver Island Health Authority,6
 25,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
-25,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 25,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 25,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,6
 25,Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -454,6 +454,7 @@ Rank,School,School District,Health Region,Exposures
 28,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,3
 28,Lord Byng Secondary,39,Vancouver Coastal Health,3
 28,Mount Pleasant Elementary,39,Vancouver Coastal Health,3
+28,Point Grey Secondary,39,Vancouver Coastal Health,3
 28,Prince of Wales Secondary,39,Vancouver Coastal Health,3
 28,Shaughnessy Elementary,39,Vancouver Coastal Health,3
 28,Sir James Douglas Annex,39,Vancouver Coastal Health,3
@@ -611,7 +612,6 @@ Rank,School,School District,Health Region,Exposures
 29,Lord Roberts Annex,39,Vancouver Coastal Health,2
 29,Nootka Community Elementary,39,Vancouver Coastal Health,2
 29,Pierre Elliott Trudeau Elementary,39,Vancouver Coastal Health,2
-29,Point Grey Secondary,39,Vancouver Coastal Health,2
 29,Renfrew Community Elementary,39,Vancouver Coastal Health,2
 29,Sir Alexander Mackenzie Elementary,39,Vancouver Coastal Health,2
 29,Sir Sandford Fleming Elementary,39,Vancouver Coastal Health,2
