@@ -252,6 +252,7 @@ Rank,School,School District,Health Region,Exposures
 24,Heath Traditional Elementary,37,Fraser Health Authority,5
 24,Richmond Secondary School,38,Vancouver Coastal Health,5
 24,Steveston-London Secondary,38,Vancouver Coastal Health,5
+24,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
 24,Magee Secondary,39,Vancouver Coastal Health,5
 24,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
 24,Tyee Elementary,39,Vancouver Coastal Health,5
@@ -335,7 +336,6 @@ Rank,School,School District,Health Region,Exposures
 25,Matthew McNair Secondary,38,Vancouver Coastal Health,4
 25,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
 25,Edith Cavell Elementary,39,Vancouver Coastal Health,4
-25,Lord Tennyson Elementary,39,Vancouver Coastal Health,4
 25,Quilchena Elementary,39,Vancouver Coastal Health,4
 25,Sir Charles Kingsford-Smith,39,Vancouver Coastal Health,4
 25,Sir James Douglas Elementary (Vancouver),39,Vancouver Coastal Health,4
@@ -531,6 +531,7 @@ Rank,School,School District,Health Region,Exposures
 26,Collingwood School (Wentworth Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
+26,Little Flower Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,St Francis Xavier,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,Vancouver Talmud Torah Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 26,Vancouver Waldorf School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
@@ -590,6 +591,7 @@ Rank,School,School District,Health Region,Exposures
 27,South Delta Secondary,37,Fraser Health Authority,2
 27,Az-Zahraa Islamic Academy,38,Vancouver Coastal Health,2
 27,Blundell Elementary,38,Vancouver Coastal Health,2
+27,Henry Anderson Elementary,38,Vancouver Coastal Health,2
 27,Hugh Boyd Secondary,38,Vancouver Coastal Health,2
 27,James Gilmore Elementary,38,Vancouver Coastal Health,2
 27,James McKinney Elementary,38,Vancouver Coastal Health,2
@@ -702,7 +704,6 @@ Rank,School,School District,Health Region,Exposures
 27,La Passerelle,93,Vancouver Coastal Health,2
 27,La Vallee,93,Vancouver Coastal Health,2
 27,Fraser Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,2
-27,Little Flower Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 27,St Andrews Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 27,St Augustine's,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 27,St Edmund's,Independent Schools in Coastal Health,Vancouver Coastal Health,2
@@ -807,7 +808,6 @@ Rank,School,School District,Health Region,Exposures
 28,Delta Christian School,37,Fraser Health Authority,1
 28,Pinewood Elementary (Delta),37,Fraser Health Authority,1
 28,Garden City Elementary,38,Vancouver Coastal Health,1
-28,Henry Anderson Elementary,38,Vancouver Coastal Health,1
 28,Howard De Beck Elementary,38,Vancouver Coastal Health,1
 28,J N Burnett Secondary,38,Vancouver Coastal Health,1
 28,James Thompson Elementary,38,Vancouver Coastal Health,1
