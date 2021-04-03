@@ -1,10 +1,20 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 04/02/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,March 29,Exposure 2
 04/02/2021,Elsie Roy Elementary,Vancouver,39,Vancouver Coastal Health,March 29 and 30,Exposure 7
-04/02/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,March 29,Exposure 10
 04/02/2021,Point Grey Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Exposure 3
 04/02/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 20
 04/02/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 7
+04/02/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,March 29,Exposure 10
+04/02/2021,Kwalikum Secondary School,Qualicum Beach,69,Vancouver Island Health Authority,"""March 29, 30 and 31""",Exposure 2
+04/02/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,March 29,Exposure 4
+04/02/2021,Dunsmuir Middle School,Victoria,62,Vancouver Island Health Authority,"""March 29, 30, and 31""",Exposure 1
+04/02/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,"""Letter states 3 members have tested positive so we have listed this as Exposure 10, 11, and 12."""
+04/02/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,March 29 and 30,Exposure 7
+04/02/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,"""March 30, 31, and April 1""",Exposure 9
+04/02/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,"""Letter states 3 members have tested positive so we have listed this as Exposure 10, 11, and 12."""
+04/02/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,March 29,Exposure 17
+04/02/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 29, 30""",Exposure 12
+04/02/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,"""Letter states 3 members have tested positive so we have listed this as Exposure 10, 11, and 12."""
 04/01/2021,Sunshine Hills Elementary,Delta,37,Fraser Health Authority,March 29,Exposure 3
 04/01/2021,Eric Hamber Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Students and staff from 3 classes have been asked to self-monitor.
 04/01/2021,Ecole Salish Secondary,Surrey,36,Fraser Health Authority,March 29,Exposure 8
@@ -3506,10 +3516,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/23/2020,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,"""Nov 12, 13, 18, 19""",Exposure 1
 11/23/2020,St Francis of Assisi,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Nov 16, 17""",Exposure 1
 11/23/2020,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""Nov 13, 16 and 17""",Exposure 3
-11/23/2020,Kwalicum Secondary School,Qualicum Beach,69,Vancouver Island Health Authority,Nov 18 and 19,
 11/23/2020,William Konkin Elementary,Burns Lake,91,Northern Health,Nov 16,
 11/23/2020,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Nov 1,Exposure 12
 11/23/2020,Green Timbers Elementary,Surrey,36,Fraser Health Authority,"""Nov 16, 17, 18""",Exposure 4
+11/23/2020,Kwalikum Secondary School,Qualicum Beach,69,Vancouver Island Health Authority,Nov 18 and 19,
 11/22/2020,Victoria School for Ideal Education,Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,Nov 16 and 17,
 11/22/2020,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,Nov 1,Exposure 5
 11/22/2020,Belmont Elementary,Langley,35,Fraser Health Authority,"""Oct 13, 14, 15""",Exposure 1
