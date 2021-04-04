@@ -190,6 +190,7 @@ Rank,School,School District,Health Region,Exposures
 26,Centennial Park Elementary,34,Fraser Health Authority,6
 26,Dave Kandal Elementary School,34,Fraser Health Authority,6
 26,Robert Bateman Secondary,34,Fraser Health Authority,6
+26,Langley Fine Arts School,35,Fraser Health Authority,6
 26,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,6
 26,R C Garnett Demonstration Elementary,35,Fraser Health Authority,6
 26,Simonds Elementary,35,Fraser Health Authority,6
@@ -242,7 +243,6 @@ Rank,School,School District,Health Region,Exposures
 27,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,5
 27,Vedder Elementary,33,Fraser Health Authority,5
 27,Belmont Elementary,35,Fraser Health Authority,5
-27,Langley Fine Arts School,35,Fraser Health Authority,5
 27,Yorkson Creek Middle School,35,Fraser Health Authority,5
 27,Dr F D Sinclair Elementary,36,Fraser Health Authority,5
 27,Ecole Riverdale Elementary,36,Fraser Health Authority,5
@@ -447,6 +447,7 @@ Rank,School,School District,Health Region,Exposures
 29,Ladner Elementary,37,Fraser Health Authority,3
 29,Sunshine Hills Elementary,37,Fraser Health Authority,3
 29,Donald E McKay Elementary (Richmond),38,Vancouver Coastal Health,3
+29,James Whiteside Elementary,38,Vancouver Coastal Health,3
 29,Kathleen McNeely Elementary,38,Vancouver Coastal Health,3
 29,R M Grauer Elementary,38,Vancouver Coastal Health,3
 29,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,3
@@ -597,7 +598,6 @@ Rank,School,School District,Health Region,Exposures
 30,Hugh Boyd Secondary,38,Vancouver Coastal Health,2
 30,James Gilmore Elementary,38,Vancouver Coastal Health,2
 30,James McKinney Elementary,38,Vancouver Coastal Health,2
-30,James Whiteside Elementary,38,Vancouver Coastal Health,2
 30,John G Diefenbaker Elementary,38,Vancouver Coastal Health,2
 30,Mitchell Elementary,38,Vancouver Coastal Health,2
 30,R.J. Tait Elementary School,38,Vancouver Coastal Health,2
@@ -906,6 +906,7 @@ Rank,School,School District,Health Region,Exposures
 31,Sherwood Park Elementary,44,Vancouver Coastal Health,1
 31,St Pius X Elementary School,44,Vancouver Coastal Health,1
 31,Upper Lynn Elementary,44,Fraser Health Authority,1
+31,Bowen Island Community School,45,Vancouver Coastal Health,1
 31,Cypress Park Primary,45,Vancouver Coastal Health,1
 31,Gleneagles Elementary,45,Vancouver Coastal Health,1
 31,Westcot Elementary - Club West Daycare,45,Vancouver Coastal Health,1
