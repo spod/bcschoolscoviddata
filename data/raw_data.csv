@@ -10,6 +10,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/03/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Same exposure date as Exposure 11 but the letter has a different date.
 04/03/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,March 29 and 30,Exposure 13
 04/03/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,March 30,Exposure 15
+04/03/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,March 30 and 31,Exposure 4
 04/03/2021,Eric Hamber Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Same exposure date as Exposure 7 but the letter has a different date.
 04/03/2021,Sacred Heart Elementary (Delta),Delta,Independent Schools in Fraser Health,Fraser Health Authority,March 30,Exposure 1
 04/03/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,March 29,Exposure 9
@@ -25,7 +26,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/03/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 30, 31""",Exposure 8
 04/03/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,March 29 and 30,Exposure 36
 04/03/2021,Sutherland Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 29, 30, 31""",Exposure 6
+04/03/2021,Rosemary Heights Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 11
 04/03/2021,Maple Ridge Secondary,Maple Ridge,42,Fraser Health Authority,"""March 29, 30, and 31""",Exposure 10
+04/03/2021,St Augustine's,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, 30""",Exposure 3
+04/03/2021,Oaklands Elementary,Victoria,61,Vancouver Island Health Authority,"""March 29, 30, and 31""",Exposure 1
 04/02/2021,Point Grey Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Exposure 3
 04/02/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 20
 04/02/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 7
