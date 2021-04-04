@@ -3,6 +3,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/04/2021,Bowen Island Community School,Bowen Island,45,Vancouver Coastal Health,"""March 29, 30""",Exposure 1
 04/04/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,April 1,Exposure 46
 04/04/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 30,Exposure 6
+04/04/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,March 31,Exposure 40
 04/03/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,"""March 29, 30, 31""",Exposure 11
 04/03/2021,Henry Anderson Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 2
 04/03/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,"""March 29, 30, and 31""",Exposure 5
@@ -58,7 +59,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/02/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,March 29 and 30,Exposure 7
 04/02/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,"""March 30, 31, and April 1""",Exposure 9
 04/02/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,"""Letter states 3 members have tested positive so we have listed this as Exposure 10, 11, and 12."""
-04/02/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,March 29,Exposure 3
 04/02/2021,Betty Huff Elementary,Surrey,36,Fraser Health Authority,March 29,Exposure 3
 04/02/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,"""March 30, 31""",Exposure 37
 04/02/2021,Windermere Community Secondary,Vancouver,39,Vancouver Coastal Health,"""March 29, 30, 31""",Exposure 5
@@ -81,6 +81,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/02/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""March 24, 25, and 26""",Exposure 8
 04/02/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,"""March 29, 30, 31""",https://www.castanet.net/news/Kelowna/329916/Interior-Health-is-confirming-COVID-19-exposures-at-six-Central-Okanagan-Public-Schools-Friday?fbclid=IwAR33L7UImGr5sYaGCgEUaSDbkBWnRZ66pVc2q9ouiEYYsU2TO_nCUvl0EYI#329916
 04/02/2021,Lord Beaconsfield Elementary,Vancouver,39,Vancouver Coastal Health,"""March 29, 30""",Exposure 2
+04/02/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,March 29,Two classed asked isolate and two classes asked to self-monitor.
 04/01/2021,Sunshine Hills Elementary,Delta,37,Fraser Health Authority,March 29,Exposure 3
 04/01/2021,Eric Hamber Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Students and staff from 3 classes have been asked to self-monitor.
 04/01/2021,Ecole Salish Secondary,Surrey,36,Fraser Health Authority,March 29,Exposure 8
