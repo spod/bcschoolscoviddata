@@ -212,6 +212,7 @@ Rank,School,School District,Health Region,Exposures
 25,H.J. Cambie Secondary School,38,Vancouver Coastal Health,6
 25,Steveston-London Secondary School,38,Vancouver Coastal Health,6
 25,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,6
+25,Magee Secondary,39,Vancouver Coastal Health,6
 25,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,6
 25,Templeton Secondary,39,Vancouver Coastal Health,6
 25,Queensborough Middle School,40,Fraser Health Authority,6
@@ -257,7 +258,6 @@ Rank,School,School District,Health Region,Exposures
 26,Richmond Secondary School,38,Vancouver Coastal Health,5
 26,Steveston-London Secondary,38,Vancouver Coastal Health,5
 26,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
-26,Magee Secondary,39,Vancouver Coastal Health,5
 26,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
 26,Tyee Elementary,39,Vancouver Coastal Health,5
 26,Windermere Community Secondary,39,Vancouver Coastal Health,5
@@ -291,6 +291,7 @@ Rank,School,School District,Health Region,Exposures
 26,Suwilaawks Community School,82,Northern Health,5
 26,Thornhill Primary,82,Northern Health,5
 26,Fort St James Secondary,91,Northern Health,5
+26,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,5
 26,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 26,Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 26,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -389,7 +390,6 @@ Rank,School,School District,Health Region,Exposures
 27,South Canoe Outdoor learning school,83,Interior Health Authority,4
 27,William Konkin Elementary,91,Northern Health,4
 27,Secondaire Jules-Verne,93,Vancouver Coastal Health,4
-27,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,4
 27,Acwsalcta Band School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 27,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 27,Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,4
