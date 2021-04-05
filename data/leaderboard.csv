@@ -47,6 +47,7 @@ Rank,School,School District,Health Region,Exposures
 18,North Peace Secondary,60,Northern Health,13
 18,Sa-hali Secondary,73,Interior Health Authority,13
 18,Hatzic Middle School,75,Fraser Health Authority,13
+19,Okanagan Mission Secondary,23,Interior Health Authority,12
 19,Yale Secondary,34,Fraser Health Authority,12
 19,Brookswood Secondary,35,Fraser Health Authority,12
 19,T E Scott Elementary,36,Fraser Health Authority,12
@@ -60,7 +61,6 @@ Rank,School,School District,Health Region,Exposures
 19,Caledonia Secondary,82,Northern Health,12
 19,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
 19,St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,12
-20,Okanagan Mission Secondary,23,Interior Health Authority,11
 20,Sardis Secondary,33,Fraser Health Authority,11
 20,D W Poppy Secondary,35,Fraser Health Authority,11
 20,H D Stafford Middle,35,Fraser Health Authority,11
@@ -119,6 +119,7 @@ Rank,School,School District,Health Region,Exposures
 23,Harry Sayers Elementary,34,Fraser Health Authority,8
 23,Aldergrove Community Secondary,35,Fraser Health Authority,8
 23,Beaver Creek Elementary,36,Fraser Health Authority,8
+23,Boundary Park Elementary,36,Fraser Health Authority,8
 23,Ecole Salish Secondary,36,Fraser Health Authority,8
 23,Elgin Park Secondary,36,Fraser Health Authority,8
 23,Fraser Heights Secondary,36,Fraser Health Authority,8
@@ -160,7 +161,6 @@ Rank,School,School District,Health Region,Exposures
 24,Robert Bateman Secondary,34,Fraser Health Authority,7
 24,Walnut Grove Secondary,35,Fraser Health Authority,7
 24,Bear Creek Elementary,36,Fraser Health Authority,7
-24,Boundary Park Elementary,36,Fraser Health Authority,7
 24,Creekside Elementary,36,Fraser Health Authority,7
 24,George Greenaway Elementary,36,Fraser Health Authority,7
 24,Katzie Elementary,36,Fraser Health Authority,7
@@ -1059,6 +1059,7 @@ Rank,School,School District,Health Region,Exposures
 30,Children of Integrity Montessori,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Global Montessori,Independent Schools in Fraser Health,Vancouver Coastal Health,1
 30,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Interior Health Authority,1
+30,John Knox Christian - Secondary Campus,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Khalsa Primary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,1
 30,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,1
