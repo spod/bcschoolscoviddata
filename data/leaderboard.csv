@@ -177,6 +177,7 @@ Rank,School,School District,Health Region,Exposures
 25,W E Kinvig Elementary,36,Fraser Health Authority,7
 25,Hugh McRoberts Secondary,38,Vancouver Coastal Health,7
 25,Elsie Roy Elementary,39,Vancouver Coastal Health,7
+25,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,7
 25,Douglas Road Elementary,41,Fraser Health Authority,7
 25,Thomas Haney Secondary,42,Fraser Health Authority,7
 25,Cedar Drive Elementary,43,Fraser Health Authority,7
@@ -213,7 +214,6 @@ Rank,School,School District,Health Region,Exposures
 26,Steveston-London Secondary School,38,Vancouver Coastal Health,6
 26,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,6
 26,Magee Secondary,39,Vancouver Coastal Health,6
-26,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,6
 26,Templeton Secondary,39,Vancouver Coastal Health,6
 26,Queensborough Middle School,40,Fraser Health Authority,6
 26,Chaffey-Burke Elementary,41,Fraser Health Authority,6
@@ -233,6 +233,7 @@ Rank,School,School District,Health Region,Exposures
 26,Lax Kxeen Elementary,52,Northern Health,6
 26,Bayview Elementary,68,Vancouver Island Health Authority,6
 26,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
+26,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,6
 26,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 26,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 26,Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -263,6 +264,7 @@ Rank,School,School District,Health Region,Exposures
 27,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
 27,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,5
 27,Tyee Elementary,39,Vancouver Coastal Health,5
+27,University Hill Secondary,39,Vancouver Coastal Health,5
 27,Windermere Community Secondary,39,Vancouver Coastal Health,5
 27,Fraser River Middle,40,Fraser Health Authority,5
 27,Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
@@ -294,7 +296,6 @@ Rank,School,School District,Health Region,Exposures
 27,Suwilaawks Community School,82,Northern Health,5
 27,Thornhill Primary,82,Northern Health,5
 27,Fort St James Secondary,91,Northern Health,5
-27,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,5
 27,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,5
@@ -351,7 +352,6 @@ Rank,School,School District,Health Region,Exposures
 28,Quilchena Elementary,39,Vancouver Coastal Health,4
 28,Sir Charles Kingsford-Smith,39,Vancouver Coastal Health,4
 28,Sir James Douglas Elementary (Vancouver),39,Vancouver Coastal Health,4
-28,University Hill Secondary,39,Vancouver Coastal Health,4
 28,Ecole Qayqayt Elementary,40,Fraser Health Authority,4
 28,Queen Elizabeth Elementary,40,Fraser Health Authority,4
 28,Richard McBride Elementary (New Westminster),40,Fraser Health Authority,4
