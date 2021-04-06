@@ -47,6 +47,7 @@ Rank,School,School District,Health Region,Exposures
 19,North Peace Secondary,60,Northern Health,13
 19,Sa-hali Secondary,73,Interior Health Authority,13
 19,Hatzic Middle School,75,Fraser Health Authority,13
+19,St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 20,Okanagan Mission Secondary,23,Interior Health Authority,12
 20,Yale Secondary,34,Fraser Health Authority,12
 20,Brookswood Secondary,35,Fraser Health Authority,12
@@ -61,7 +62,6 @@ Rank,School,School District,Health Region,Exposures
 20,West Vancouver Secondary,45,Vancouver Coastal Health,12
 20,Caledonia Secondary,82,Northern Health,12
 20,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
-20,St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,12
 21,Sardis Secondary,33,Fraser Health Authority,11
 21,D W Poppy Secondary,35,Fraser Health Authority,11
 21,H D Stafford Middle,35,Fraser Health Authority,11
