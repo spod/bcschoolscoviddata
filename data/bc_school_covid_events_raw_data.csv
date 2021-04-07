@@ -2,6 +2,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/07/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 4
 04/07/2021,Little Flower Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 31,Exposure 4
 04/07/2021,Secondaire Jules-Verne,Vancouver,93,Vancouver Coastal Health,Not provided,Exposure 5
+04/07/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 1,Different Class than Exposure 5
+04/07/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 1,Exposure 5
+04/07/2021,Peace Arch Elementary,White Rock,36,Fraser Health Authority,April 1,Exposure 3
 04/06/2021,Magee Secondary,Vancouver,39,Vancouver Coastal Health,"""March 31, April 1""",Exposure 8
 04/06/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 31 and April 1,Exposure 7
 04/06/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,April 1,Exposure 17
@@ -35,7 +38,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,St Francis Xavier,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 30, 31, and April 1""",Exposure 4
 04/06/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 29 (Dates on the BCCDC webpage),Exposure 13
 04/06/2021,Notre Dame Regional Secondary (Vancouver),Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, 30, and 31""",Exposure 11
-04/06/2021,Crofton House,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 30 and 31,Exposure 6
 04/06/2021,St Augustine's,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 31,Exposure 4
 04/06/2021,St. Mary's Elementary (Vancouver),Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 29,Exposure 1
 04/06/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 29 and 30,Exposure 8
@@ -45,7 +47,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 10
 04/06/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 21
 04/06/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""March 29, 30, 31, April 1""",Exposure 3
-04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 11
 04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,April 1,Exposure 12
 04/06/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 30,Exposure 20
 04/06/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,March 31 and April 1,Exposure 5
@@ -60,6 +61,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,Hugh Boyd Secondary,Richmond,38,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 3
 04/06/2021,Duncan Cran Elementary,,60,Northern Health,March 29 and 30,Exposure 2
 04/06/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,March 29,Exposure 3
+04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 11
 04/05/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,March 30,Exposure 2
 04/05/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/05/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 27
@@ -71,7 +73,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Cedar Hill Middle,Victoria,61,Vancouver Island Health Authority,"""March 29, 30, 31, April 1""","Letter confirms that this is a ""cluster"""
 04/05/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 21
 04/05/2021,Quigley Elementary,Kelowna,23,Interior Health Authority,"""March 30, 31""",Exposure 3
-04/05/2021,Crofton House,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, April 1""",Exposure 5
 04/05/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""March 30, 31, April 1""",Exposure 12
 04/05/2021,Magee Secondary,Vancouver,39,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 7
 04/05/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,"""March 29, 31, April 1""",Exposure 8
@@ -124,6 +125,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Lord Kitchener Elementary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 3
 04/05/2021,Westsyde Secondary,Kamloops,73,Interior Health Authority,March 31 and April 1 (Dates on the BCCDC webpage),Exposure 4
 04/05/2021,John Knox Christian - Secondary Campus,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 1
+04/05/2021,Crofton House,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 5
 04/04/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""March 29, 30, 31""",Exposure 9
 04/04/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 7
 04/04/2021,Sir Charles Tupper Secondary,Vancouver,39,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 18

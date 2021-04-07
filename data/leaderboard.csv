@@ -234,12 +234,12 @@ Rank,School,School District,Health Region,Exposures
 26,Bayview Elementary,68,Vancouver Island Health Authority,6
 26,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
 26,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,6
-26,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 26,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 26,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 26,Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,6
 26,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,6
 26,Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health Authority,6
+26,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,6
 26,Timothy Christian School,Independent Schools in Fraser Health,Fraser Health Authority,6
 26,St Joseph Elementary School (Kelowna),Independent Schools in Interior Health,Interior Health Authority,6
 26,Duncan Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,6
@@ -302,6 +302,7 @@ Rank,School,School District,Health Region,Exposures
 27,Thornhill Primary,82,Northern Health,5
 27,Fort St James Secondary,91,Northern Health,5
 27,Secondaire Jules-Verne,93,Vancouver Coastal Health,5
+27,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -415,7 +416,6 @@ Rank,School,School District,Health Region,Exposures
 28,John Calvin School,Independent Schools in Fraser Health,Fraser Health Authority,4
 28,Meadowridge School,Independent Schools in Fraser Health,Fraser Health Authority,4
 28,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,4
-28,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,4
 28,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,4
 28,Regent Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 28,Southridge School,Independent Schools in Fraser Health,Fraser Health Authority,4
@@ -455,6 +455,7 @@ Rank,School,School District,Health Region,Exposures
 29,Hjorth Road Elementary,36,Fraser Health Authority,3
 29,Morgan Elementary,36,Fraser Health Authority,3
 29,Ocean Cliff Elementary,36,Fraser Health Authority,3
+29,Peace Arch Elementary,36,Fraser Health Authority,3
 29,Prince Charles Elementary (Surrey),36,Fraser Health Authority,3
 29,Sullivan Elementary,36,Fraser Health Authority,3
 29,Sunnyside Elementary,36,Fraser Health Authority,3
@@ -606,7 +607,6 @@ Rank,School,School District,Health Region,Exposures
 30,North Surrey Learning Centre,36,Fraser Health Authority,2
 30,Old Yale Road Elementary,36,Fraser Health Authority,2
 30,Pacific Heights Elementary,36,Fraser Health Authority,2
-30,Peace Arch Elementary,36,Fraser Health Authority,2
 30,William Watson Elementary,36,Fraser Health Authority,2
 30,Devon Gardens Elementary,37,Fraser Health Authority,2
 30,Gray Elementary,37,Fraser Health Authority,2
