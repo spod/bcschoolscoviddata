@@ -301,6 +301,7 @@ Rank,School,School District,Health Region,Exposures
 27,Suwilaawks Community School,82,Northern Health,5
 27,Thornhill Primary,82,Northern Health,5
 27,Fort St James Secondary,91,Northern Health,5
+27,Secondaire Jules-Verne,93,Vancouver Coastal Health,5
 27,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 27,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -400,8 +401,8 @@ Rank,School,School District,Health Region,Exposures
 28,Uplands Elementary,82,Northern Health,4
 28,South Canoe Outdoor learning school,83,Interior Health Authority,4
 28,William Konkin Elementary,91,Northern Health,4
-28,Secondaire Jules-Verne,93,Vancouver Coastal Health,4
 28,Acwsalcta Band School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
+28,Little Flower Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 28,Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 28,St Augustine's,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 28,St Francis Xavier,Independent Schools in Coastal Health,Vancouver Coastal Health,4
@@ -554,7 +555,6 @@ Rank,School,School District,Health Region,Exposures
 29,Collingwood School (Wentworth Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,3
 29,Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 29,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
-29,Little Flower Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 29,Vancouver Talmud Torah Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 29,Vancouver Waldorf School,Independent Schools in Coastal Health,Vancouver Coastal Health,3
 29,Greater Heights Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,3
