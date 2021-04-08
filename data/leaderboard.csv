@@ -53,6 +53,7 @@ Rank,School,School District,Health Region,Exposures
 20,Okanagan Mission Secondary,23,Interior Health Authority,12
 20,GW Graham Secondary,33,Fraser Health Authority,12
 20,Brookswood Secondary,35,Fraser Health Authority,12
+20,D W Poppy Secondary,35,Fraser Health Authority,12
 20,Clayton Heights Secondary,36,Fraser Health Authority,12
 20,Chalmers Elementary,37,Fraser Health Authority,12
 20,McCloskey Elementary,37,Fraser Health Authority,12
@@ -66,9 +67,9 @@ Rank,School,School District,Health Region,Exposures
 20,Caledonia Secondary,82,Northern Health,12
 20,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
 21,Sardis Secondary,33,Fraser Health Authority,11
-21,D W Poppy Secondary,35,Fraser Health Authority,11
 21,H D Stafford Middle,35,Fraser Health Authority,11
 21,Richard Bulpitt Elementary,35,Fraser Health Authority,11
+21,Panorama Park Elementary,36,Fraser Health Authority,11
 21,Rosemary Heights Elementary,36,Fraser Health Authority,11
 21,Burnsview Secondary,37,Fraser Health Authority,11
 21,Hellings Elementary,37,Fraser Health Authority,11
@@ -86,8 +87,8 @@ Rank,School,School District,Health Region,Exposures
 22,Eugene Reimer Middle School,34,Fraser Health Authority,10
 22,Langley Secondary,35,Fraser Health Authority,10
 22,Brookside Elementary,36,Fraser Health Authority,10
+22,Goldstone Park Elementary,36,Fraser Health Authority,10
 22,North Ridge Elementary (Surrey),36,Fraser Health Authority,10
-22,Panorama Park Elementary,36,Fraser Health Authority,10
 22,Sunrise Ridge Elementary,36,Fraser Health Authority,10
 22,Surrey Traditional,36,Fraser Health Authority,10
 22,Sands Secondary,37,Fraser Health Authority,10
@@ -100,8 +101,8 @@ Rank,School,School District,Health Region,Exposures
 23,Cambridge Elementary,36,Fraser Health Authority,9
 23,Cedar Hills Elementary,36,Fraser Health Authority,9
 23,Cindrich Elementary,36,Fraser Health Authority,9
+23,Elgin Park Secondary,36,Fraser Health Authority,9
 23,Georges Vanier Elementary,36,Fraser Health Authority,9
-23,Goldstone Park Elementary,36,Fraser Health Authority,9
 23,Green Timbers Elementary,36,Fraser Health Authority,9
 23,Holly Elementary (Surrey),36,Fraser Health Authority,9
 23,Cougar Canyon Elementary,37,Fraser Health Authority,9
@@ -117,6 +118,7 @@ Rank,School,School District,Health Region,Exposures
 23,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,9
 23,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,9
 24,A D Rundle Middle School,33,Fraser Health Authority,8
+24,Mount Slesse Middle School,33,Fraser Health Authority,8
 24,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,8
 24,Harry Sayers Elementary,34,Fraser Health Authority,8
 24,Robert Bateman Secondary,34,Fraser Health Authority,8
@@ -124,7 +126,6 @@ Rank,School,School District,Health Region,Exposures
 24,Beaver Creek Elementary,36,Fraser Health Authority,8
 24,Boundary Park Elementary,36,Fraser Health Authority,8
 24,Ecole Salish Secondary,36,Fraser Health Authority,8
-24,Elgin Park Secondary,36,Fraser Health Authority,8
 24,Fraser Heights Secondary,36,Fraser Health Authority,8
 24,Hazelgrove Elementary,36,Fraser Health Authority,8
 24,M B Sanford Elementary,36,Fraser Health Authority,8
@@ -164,7 +165,6 @@ Rank,School,School District,Health Region,Exposures
 25,Casorso Elementary School,23,Interior Health Authority,7
 25,Marie Sharpe Elementary,27,Interior Health Authority,7
 25,Chilliwack Middle School,33,Fraser Health Authority,7
-25,Mount Slesse Middle School,33,Fraser Health Authority,7
 25,Sardis Elementary,33,Fraser Health Authority,7
 25,Blue Jay Elementary,34,Fraser Health Authority,7
 25,Langley Fine Arts School,35,Fraser Health Authority,7
@@ -375,6 +375,7 @@ Rank,School,School District,Health Region,Exposures
 28,Eric Langton Elementary,42,Fraser Health Authority,4
 28,Golden Ears Elementary,42,Fraser Health Authority,4
 28,Laity View Elementary,42,Fraser Health Authority,4
+28,Yennadon Elementary,42,Fraser Health Authority,4
 28,Central Community Elementary,43,Fraser Health Authority,4
 28,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
 28,Moody Elementary,43,Fraser Health Authority,4
@@ -494,7 +495,6 @@ Rank,School,School District,Health Region,Exposures
 29,Windsor Elementary,41,Fraser Health Authority,3
 29,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,3
 29,Maple Ridge Elementary,42,Fraser Health Authority,3
-29,Yennadon Elementary,42,Fraser Health Authority,3
 29,Aspenwood Elementary,43,Fraser Health Authority,3
 29,Como Lake Middle School,43,Fraser Health Authority,3
 29,Ecole Banting Middle,43,Fraser Health Authority,3
