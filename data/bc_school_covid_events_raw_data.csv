@@ -25,9 +25,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/07/2021,Langley Fundamental Elementary,Langley,35,Fraser Health Authority,March 31,Exposure 3
 04/07/2021,Cousteau L'Ecole Francaise Interna'le,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 30, 31, April 1, and 2""",Exposure 1
 04/07/2021,Belmont Secondary,Victoria,62,Vancouver Island Health Authority,April 1,Exposure 3
-04/07/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,March 31,Exposure 6
-04/07/2021,Sutherland Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 8
-04/07/2021,Sir Matthew Begbie Elementary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 2
+04/07/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,April 1,Exposure 37
+04/07/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,April 1,Different exposure then exposure 9
+04/07/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,April 1,Exposure 9
 04/07/2021,David Thompson Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Exposure 9
 04/07/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 31,Exposure 7
 04/07/2021,Arbutus Global Middle School,Victoria,61,Vancouver Island Health Authority,April 1,Exposure 1
@@ -36,11 +36,19 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/07/2021,Old Yale Road Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 3
 04/07/2021,Secondaire Jules-Verne,Vancouver,93,Vancouver Coastal Health,April 1,Exposure 5
 04/07/2021,Peterson Road Elementary,Langley,35,Fraser Health Authority,March 29,Exposure 4
+04/07/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,March 29,Exposure 9
+04/07/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 19
+04/07/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,March 31,Exposure 6
+04/07/2021,Sutherland Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 8
+04/07/2021,Sir Matthew Begbie Elementary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 2
 04/07/2021,Abbotsford Dasmesh Punjabi,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 10
 04/07/2021,Sutherland Secondary,North Vancouver,44,Vancouver Coastal Health,"""March 30, April 1""",Exposure 7
 04/07/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,April 1,Exposure 7
 04/07/2021,Colebrook Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 8
 04/07/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,April 1,Exposure 8
+04/07/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 37
+04/07/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,"""March 31, April 1""",Exposure 39
+04/07/2021,Westerman Elementary,Surrey,36,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 14
 04/06/2021,Magee Secondary,Vancouver,39,Vancouver Coastal Health,"""March 31, April 1""",Exposure 8
 04/06/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,March 31 and April 1,Exposure 7
 04/06/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,April 1,Exposure 17
@@ -253,7 +261,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/02/2021,Lord Beaconsfield Elementary,Vancouver,39,Vancouver Coastal Health,"""March 29, 30""",Exposure 2
 04/02/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,March 29,Two classed asked isolate and two classes asked to self-monitor.
 04/02/2021,Ocean Cliff Elementary,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 3
-04/02/2021,Dunsmuir Middle School,Victoria,62,Vancouver Island Health Authority,"""March 29, 30, and 31, April 1""","The letter states that this is a ""Cluster"""
 04/02/2021,Bankhead Elementary,Kelowna,23,Interior Health Authority,March 29 and 30,https://www.castanet.net/news/Kelowna/329916/Interior-Health-is-confirming-COVID-19-exposures-at-six-Central-Okanagan-Public-Schools-Friday?fbclid=IwAR33L7UImGr5sYaGCgEUaSDbkBWnRZ66pVc2q9ouiEYYsU2TO_nCUvl0EYI#329916
 04/02/2021,Point Grey Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Exposure 3
 04/02/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 20
@@ -271,6 +278,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/02/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 29 (Date on BCCDC webpage),Exposure 7
 04/02/2021,Steveston-London Secondary School,Richmond,38,Vancouver Coastal Health,March 29 and 30 (Dates on the BCCDC webpage),Exposure 11
 04/02/2021,Little Flower Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 29,Exposure 3
+04/02/2021,Dunsmuir Middle School,Victoria,62,Vancouver Island Health Authority,"""March 29, 30, and 31, April 1""","The letter states that this is a ""Cluster"""
 04/01/2021,Panorama Park Elementary,Surrey,36,Fraser Health Authority,March 29,Exposure 10
 04/01/2021,Sunshine Hills Elementary,Delta,37,Fraser Health Authority,March 29,Exposure 3
 04/01/2021,Eric Hamber Secondary,Vancouver,39,Vancouver Coastal Health,March 29,Students and staff from 3 classes have been asked to self-monitor.

@@ -3,9 +3,9 @@ Rank,School,School District,Health Region,Exposures
 2,Tamanawis Secondary,36,Fraser Health Authority,44
 3,Queen Elizabeth Secondary,36,Fraser Health Authority,41
 4,Frank Hurt Secondary,36,Fraser Health Authority,40
-5,Enver Creek Secondary,36,Fraser Health Authority,38
-6,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,36
-6,Sullivan Heights Secondary,36,Fraser Health Authority,36
+5,Enver Creek Secondary,36,Fraser Health Authority,39
+6,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,37
+6,Sullivan Heights Secondary,36,Fraser Health Authority,37
 7,L A Matheson Secondary,36,Fraser Health Authority,28
 8,New Westminster Secondary,40,Fraser Health Authority,27
 9,Johnston Heights Secondary,36,Fraser Health Authority,26
@@ -21,10 +21,10 @@ Rank,School,School District,Health Region,Exposures
 13,Rick Hansen Secondary,34,Fraser Health Authority,19
 13,Kwantlen Park Secondary,36,Fraser Health Authority,19
 13,Lena Shaw Elementary,36,Fraser Health Authority,19
+13,Semiahmoo Secondary,36,Fraser Health Authority,19
 13,Sir Charles Tupper Secondary,39,Vancouver Coastal Health,19
 14,Chilliwack Secondary,33,Fraser Health Authority,18
 14,R E Mountain Secondary,35,Fraser Health Authority,18
-14,Semiahmoo Secondary,36,Fraser Health Authority,18
 15,Abbotsford Senior Secondary School,34,Fraser Health Authority,17
 15,Earl Marriott Secondary,36,Fraser Health Authority,17
 15,Byrne Creek Community Secondary,41,Fraser Health Authority,17
@@ -38,6 +38,7 @@ Rank,School,School District,Health Region,Exposures
 17,Handsworth Secondary,44,Vancouver Coastal Health,15
 17,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,15
 18,Rutland Senior Secondary,23,Interior Health Authority,14
+18,Westerman Elementary,36,Fraser Health Authority,14
 18,Delview Secondary,37,Fraser Health Authority,14
 18,Centennial Secondary School,43,Fraser Health Authority,14
 18,Charles Hays Secondary,52,Northern Health,14
@@ -45,7 +46,6 @@ Rank,School,School District,Health Region,Exposures
 19,Yale Secondary,34,Fraser Health Authority,13
 19,David Brankin Elementary,36,Fraser Health Authority,13
 19,T E Scott Elementary,36,Fraser Health Authority,13
-19,Westerman Elementary,36,Fraser Health Authority,13
 19,Sentinel Secondary,45,Vancouver Coastal Health,13
 19,North Peace Secondary,60,Northern Health,13
 19,Sa-hali Secondary,73,Interior Health Authority,13
@@ -102,10 +102,12 @@ Rank,School,School District,Health Region,Exposures
 23,Cambridge Elementary,36,Fraser Health Authority,9
 23,Cedar Hills Elementary,36,Fraser Health Authority,9
 23,Cindrich Elementary,36,Fraser Health Authority,9
+23,Creekside Elementary,36,Fraser Health Authority,9
 23,Elgin Park Secondary,36,Fraser Health Authority,9
 23,Georges Vanier Elementary,36,Fraser Health Authority,9
 23,Green Timbers Elementary,36,Fraser Health Authority,9
 23,Holly Elementary (Surrey),36,Fraser Health Authority,9
+23,Katzie Elementary,36,Fraser Health Authority,9
 23,Cougar Canyon Elementary,37,Fraser Health Authority,9
 23,David Thompson Secondary,39,Vancouver Coastal Health,9
 23,Lord Roberts Elementary,39,Vancouver Coastal Health,9
@@ -132,7 +134,6 @@ Rank,School,School District,Health Region,Exposures
 24,Ecole Salish Secondary,36,Fraser Health Authority,8
 24,Fraser Heights Secondary,36,Fraser Health Authority,8
 24,Hazelgrove Elementary,36,Fraser Health Authority,8
-24,Katzie Elementary,36,Fraser Health Authority,8
 24,M B Sanford Elementary,36,Fraser Health Authority,8
 24,Royal Heights Elementary,36,Fraser Health Authority,8
 24,Simon Cunningham Elementary,36,Fraser Health Authority,8
@@ -174,7 +175,6 @@ Rank,School,School District,Health Region,Exposures
 25,Walnut Grove Secondary,35,Fraser Health Authority,7
 25,Bear Creek Elementary,36,Fraser Health Authority,7
 25,Chimney Hill Elementary,36,Fraser Health Authority,7
-25,Creekside Elementary,36,Fraser Health Authority,7
 25,George Greenaway Elementary,36,Fraser Health Authority,7
 25,Latimer Road Elementary,36,Fraser Health Authority,7
 25,Martha Currie Elementary,36,Fraser Health Authority,7
