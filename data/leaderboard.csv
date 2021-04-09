@@ -163,6 +163,7 @@ Rank,School,School District,Health Region,Exposures
 25,Skeena Middle,82,Northern Health,8
 25,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,8
 25,Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,8
+25,Holy Cross Regional High School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,8
 25,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,8
 25,Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,8
 25,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,8
@@ -195,7 +196,6 @@ Rank,School,School District,Health Region,Exposures
 26,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 26,des Pionniers-de-Maillardville,93,Fraser Health Authority,7
 26,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,7
-26,Holy Cross Regional High School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,7
 26,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,7
 26,Aberdeen Hall Preparatory School (Junior School),Independent Schools in Interior Health,Interior Health Authority,7
 27,Hudson Road Elementary,23,Interior Health Authority,6
@@ -1072,7 +1072,7 @@ Rank,School,School District,Health Region,Exposures
 32,St Joseph the Worker,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 32,St Jude's,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 32,St Patrick's Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,1
-32,St. Anthony's School (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,1
+32,St. Anthony's School (West Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,1
 32,St. John's School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 32,St. Mary's Elementary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,1
 32,Al-Hidayah School,Independent Schools in Fraser Health,Fraser Health Authority,1
