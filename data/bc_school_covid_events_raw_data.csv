@@ -1,6 +1,11 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+04/08/2021,James Whiteside Elementary,Richmond,38,Vancouver Coastal Health,"""March 31, April 1""",Exposure 4
+04/08/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,April 6,Exposure 10
+04/08/2021,Mount Douglas Secondary,Victoria,61,Vancouver Island Health Authority,April 6,Exposure 1
+04/08/2021,South Surrey/White Rock Learning Centre,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 1
+04/08/2021,Cedar Hills Elementary,Surrey,36,Fraser Health Authority,March 29,Exposure 10
 04/08/2021,Andre-Piolat,North Vancouver,93,Vancouver Coastal Health,Not provided,Exposure 2
-04/08/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 31,Exposure 21
+04/08/2021,Victoria High,Victoria,61,Vancouver Island Health Authority,"""April 6, 7""",Exposure 1
 04/08/2021,Windermere Elementary,,6,Interior Health Authority,Not provided,Exposure 1
 04/08/2021,Dormick Park Elementary,Abbotsford,34,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 2
 04/08/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,April 6,Exposure 11
@@ -8,10 +13,27 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/08/2021,Prince Rupert Middle,Prince Rupert,52,Northern Health,March 29,Exposure 6
 04/08/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 14
 04/08/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 6,Exposure 13
-04/08/2021,Victoria High,Victoria,61,Vancouver Island Health Authority,"""April 6, 7""",Exposure 1
-04/08/2021,James Whiteside Elementary,Richmond,38,Vancouver Coastal Health,"""March 31, April 1""",Exposure 4
-04/08/2021,Mount Douglas Secondary,Victoria,61,Vancouver Island Health Authority,April 6,Exposure 1
-04/08/2021,South Surrey/White Rock Learning Centre,Surrey,36,Fraser Health Authority,"""March 29, 30""",Exposure 1
+04/08/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 4
+04/08/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,April 6,Exposure 26
+04/08/2021,Edgewood Elementary (Surrey),Surrey,36,Fraser Health Authority,March 31,Exposure 4
+04/08/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,"""March 31, April 1""",Exposure 14
+04/08/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 12
+04/08/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,April 1,Exposure 18
+04/08/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,April 1,Exposure 11
+04/08/2021,Glenwood Elementary (Burnaby),Burnaby,41,Fraser Health Authority,March 30 and 31,Exposure 5
+04/08/2021,de l'Anse-au-sable,Kelowna,93,Interior Health Authority,Not provided,Exposure 2
+04/08/2021,Sir James Douglas Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 6,Exposure 5
+04/08/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,April 1,Exposure 9
+04/08/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 6,Exposure 10
+04/08/2021,Central Community Elementary,Port Coquitlam,43,Fraser Health Authority,April 6,Exposure 4
+04/08/2021,Elsie Roy Elementary,Vancouver,39,Vancouver Coastal Health,"""April 6, 7""",Exposure 8
+04/08/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,Not provided,Exposure 15
+04/08/2021,Waverley Elementary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 2
+04/08/2021,Erickson Elementary,,8,Interior Health Authority,"""March 29, 30, and 31""",Exposure 1
+04/08/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,April 1,Exposure 2
+04/08/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,April 1,Exposure 22
+04/08/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 31,Exposure 21
+04/08/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 31,Exposure 47
 04/07/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 4
 04/07/2021,Little Flower Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,March 31,Exposure 4
 04/07/2021,Peace Arch Elementary,White Rock,36,Fraser Health Authority,April 1,Exposure 3
@@ -104,7 +126,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 21
 04/06/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""March 29, 30, 31, April 1""",Exposure 3
 04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,April 1,Exposure 12
-04/06/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 30,Exposure 20
 04/06/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,March 31 and April 1,Exposure 5
 04/06/2021,Devereaux Elementary,Dawson Creek,59,Northern Health,March 29,Exposure 1
 04/06/2021,Dawson Creek Secondary,Dawson Creek,59,Northern Health,March 31,Exposure 8 - South Peace Campus
@@ -119,6 +140,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,March 29,Exposure 3
 04/06/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 10
 04/06/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""March 31, April 1""",Exposure 4
+04/06/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 30,Exposure 20
 04/05/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,March 30,Exposure 2
 04/05/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/05/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 27
