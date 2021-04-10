@@ -524,6 +524,7 @@ Rank,School,School District,Health Region,Exposures
 30,Seycove Secondary Community,44,Vancouver Coastal Health,3
 30,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
 30,Caulfeild Elementary,45,Vancouver Coastal Health,3
+30,Chartwell Elementary,45,Vancouver Coastal Health,3
 30,Irwin Park Elementary,45,Vancouver Coastal Health,3
 30,Ridgeview Elementary,45,Vancouver Coastal Health,3
 30,Ecole Squamish Elementary,48,Vancouver Coastal Health,3
@@ -684,7 +685,6 @@ Rank,School,School District,Health Region,Exposures
 31,Capilano Elementary,44,Vancouver Coastal Health,2
 31,Lynnmour/Xa7elcha Elementary School,44,Vancouver Coastal Health,2
 31,Norgate Community Elementary,44,Vancouver Coastal Health,2
-31,Chartwell Elementary,45,Vancouver Coastal Health,2
 31,Chatelech Secondary,46,Vancouver Coastal Health,2
 31,Elphinstone Secondary,46,Vancouver Coastal Health,2
 31,Myrtle Philip Community School,48,Vancouver Coastal Health,2
@@ -699,6 +699,7 @@ Rank,School,School District,Health Region,Exposures
 31,Duncan Cran Elementary,60,Northern Health,2
 31,Lansdowne Middle School,61,Vancouver Island Health Authority,2
 31,Spectrum Community,61,Vancouver Island Health Authority,2
+31,David Cameron Elementary,62,Vancouver Island Health Authority,2
 31,Giant's Head Elementary,67,Interior Health Authority,2
 31,Penticton Secondary,67,Interior Health Authority,2
 31,Princess Margaret Secondary (Penticton),67,Interior Health Authority,2
@@ -998,7 +999,6 @@ Rank,School,School District,Health Region,Exposures
 32,Victoria High,61,Vancouver Island Health Authority,1
 32,Victoria West Elementary,61,Vancouver Island Health Authority,1
 32,View Royal Elementary,61,Vancouver Island Health Authority,1
-32,David Cameron Elementary,62,Vancouver Island Health Authority,1
 32,Lakewood Elementary,62,Vancouver Island Health Authority,1
 32,Royal Bay Secondary,62,Vancouver Island Health Authority,1
 32,Stelly's Secondary,63,Vancouver Island Health Authority,1
