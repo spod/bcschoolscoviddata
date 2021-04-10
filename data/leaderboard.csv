@@ -243,6 +243,7 @@ Rank,School,School District,Health Region,Exposures
 27,Bayview Elementary,68,Vancouver Island Health Authority,6
 27,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
 27,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,6
+27,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 27,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 27,Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,6
 27,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -317,7 +318,6 @@ Rank,School,School District,Health Region,Exposures
 28,Fort St James Secondary,91,Northern Health,5
 28,Secondaire Jules-Verne,93,Vancouver Coastal Health,5
 28,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,5
-28,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 28,Our Lady of Perpetual Help,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 28,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,5
 28,Diamond School,Independent Schools in Fraser Health,Fraser Health Authority,5
@@ -1036,6 +1036,7 @@ Rank,School,School District,Health Region,Exposures
 32,Rayleigh Elementary,73,Interior Health Authority,1
 32,Savona Elementary,73,Interior Health Authority,1
 32,Summit Elementary,73,Interior Health Authority,1
+32,Westsyde Elementary,73,Interior Health Authority,1
 32,Christine Morrison Elementary,75,Fraser Health Authority,1
 32,Dewdney Elementary,75,Fraser Health Authority,1
 32,Ecole Heritage Park Middle School,75,Fraser Health Authority,1
