@@ -29,6 +29,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/09/2021,Taylor Park Elementary,Burnaby,41,Fraser Health Authority,"""April 6, 7""",Exposure 3
 04/09/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 8
 04/09/2021,Hazelgrove Elementary,Surrey,36,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 9
+04/09/2021,Lord Strathcona Community Elementary,Vancouver,39,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 7
+04/09/2021,Sikh Academy (Newton),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 1,Exposure 10
+04/09/2021,Canada Star Secondary School,Richmond,38,Vancouver Coastal Health,April 1,Exposure 1
+04/09/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,"""March 30, 31""",Different division then exposure 15
+04/09/2021,Kathleen McNeely Elementary,Richmond,38,Vancouver Coastal Health,April 6,different division then Exposure 4
 04/09/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,April 6,One class has been asked to self-isolate. (Documentation on file).
 04/09/2021,Kathleen McNeely Elementary,Richmond,38,Vancouver Coastal Health,April 6,Exposure 4
 04/09/2021,Norgate Community Elementary,North Vancouver,44,Vancouver Coastal Health,April 6 and 7,Exposure 2
@@ -36,7 +41,16 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/09/2021,University Hill Secondary,Vancouver,39,Vancouver Coastal Health,April 6,Exposure 7
 04/09/2021,Colquitz Middle School,Victoria,61,Vancouver Island Health Authority,April 6,Exposure 1
 04/09/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""April 6, 7, and 8""",Exposure 2
+04/09/2021,West Point Grey Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 7
+04/09/2021,Tomekichi Homma Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 2
+04/09/2021,Canada Star Secondary School,Richmond,38,Vancouver Coastal Health,April 8,Exposure 2
+04/09/2021,Frank Hobbs Elementary,Victoria,61,Vancouver Island Health Authority,April 7,Exposure 1
 04/09/2021,Key Learning Centre,,60,Northern Health,March 30,Exposure 1
+04/09/2021,Penticton Christian School,Penticton,67,Interior Health Authority,"""March 30, 31, April 1""",Exposure 1
+04/09/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,March 31,Exposure 48
+04/09/2021,Kathleen McNeely Elementary,Richmond,38,Vancouver Coastal Health,April 6,Different division then Exposure 4 and 5
+04/09/2021,Kathleen McNeely Elementary,Richmond,38,Vancouver Coastal Health,April 6,"""Different division then exposure 4, 5 and 6"""
+04/09/2021,Henry Bose Elementary,Surrey,36,Fraser Health Authority,April 6,Exposure 3
 04/08/2021,Burnaby North Secondary,Burnaby,41,Fraser Health Authority,March 31 and April 1,Exposure 17
 04/08/2021,Dunsmuir Middle School,Victoria,62,Vancouver Island Health Authority,"""March 29, 30, and 31""",Exposure 4
 04/08/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,April 1,Exposure 8
@@ -2419,7 +2433,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/20/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,Jan 18,Exposure 25
 01/20/2021,West Heights Elementary,Mission,75,Fraser Health Authority,Jan 13,Exposure 2
 01/20/2021,Fort St James Secondary,,91,Northern Health,Jan 15,Exposure 4
-01/20/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,Jan 15,Exposure 11
 01/20/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,Jan 15,Exposure 1
 01/20/2021,Caledonia Secondary,Terrace,82,Northern Health,Jan 12 and 13,Exposure 6
 01/20/2021,Chalo School,Fort Nelson,81,Northern Health,"""Jan 6, 7, and 8""",Exposure 2
@@ -2430,6 +2443,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/20/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""Jan 11, 12, 13""",Exposure 5
 01/20/2021,Chartwell Elementary,West Vancouver,45,Vancouver Coastal Health,Jan 18,One class is now self-isolating
 01/20/2021,Sir Charles Tupper Secondary,Vancouver,39,Vancouver Coastal Health,Jan 18,Exposure 13
+01/20/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,Jan 15,Exposure 11
 01/19/2021,Spring Creek Community School,Whistler,48,Vancouver Coastal Health,Jan 15 (On the BCCDC Webpage),Exposure 3
 01/19/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,Jan 15,Exposure 13
 01/19/2021,Gibson Elementary (Delta),Delta,37,Fraser Health Authority,Jan 15,Exposure 2
@@ -2998,7 +3012,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/18/2020,Khalsa Secondary School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Dec 4,Exposure 6
 12/18/2020,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Dec 9, 10""",Exposure 3
 12/17/2020,Devon Gardens Elementary,Delta,37,Fraser Health Authority,"""Dec 7, 8""",Exposure 1
-12/17/2020,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,Dec 11,Exposure 2
 12/17/2020,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,Dec 11,Exposure 2
 12/17/2020,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""Dec 9, 10, and 11""",Exposure 7
 12/17/2020,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,Dec 3 and 4,Exposure 3
@@ -4399,7 +4412,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/28/2020,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""Oct 15, 16, 19, and 20""",Exposure 1
 10/27/2020,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,"""Oct 19, 20, and 21""",Exposure 1
 10/27/2020,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Oct 20, 21, 22""",Exposure 3
-10/27/2020,Sikh Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Oct 14,Exposure 1
 10/27/2020,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Oct 19,Exposure 6
 10/27/2020,Georges Vanier Elementary,Surrey,36,Fraser Health Authority,Oct 19,Exposure 2
 10/27/2020,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,Oct 19,Exposure 6
@@ -4409,6 +4421,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/27/2020,École Anne-Hèbert Elementary School,Vancouver,93,Vancouver Coastal Health,"""Oct 21, 22, and 13""",Exposure 2
 10/27/2020,St Joseph Elementary School (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Oct 21, 22""","""Exposure 1, Full Class Isolated"""
 10/27/2020,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,"""Oct 20, 21, 22""",Exposure 6
+10/27/2020,Sikh Academy (Newton),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Oct 14,Exposure 1
 10/26/2020,Harbour View Elementary,Coquitlam,43,Fraser Health Authority,Oct 16 and 20,Exposure 1
 10/26/2020,Holy Trinity School,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Oct 19, 20, 21, 22""",Exposure 1
 10/26/2020,Garibaldi Secondary,Maple Ridge,42,Fraser Health Authority,"""Oct 19, 20""",Exposure 1
