@@ -109,6 +109,7 @@ Rank,School,School District,Health Region,Exposures
 24,Elgin Park Secondary,36,Fraser Health Authority,9
 24,Georges Vanier Elementary,36,Fraser Health Authority,9
 24,Green Timbers Elementary,36,Fraser Health Authority,9
+24,Hazelgrove Elementary,36,Fraser Health Authority,9
 24,Holly Elementary (Surrey),36,Fraser Health Authority,9
 24,Katzie Elementary,36,Fraser Health Authority,9
 24,Cougar Canyon Elementary,37,Fraser Health Authority,9
@@ -135,7 +136,6 @@ Rank,School,School District,Health Region,Exposures
 25,Ecole Salish Secondary,36,Fraser Health Authority,8
 25,Fraser Heights Secondary,36,Fraser Health Authority,8
 25,George Greenaway Elementary,36,Fraser Health Authority,8
-25,Hazelgrove Elementary,36,Fraser Health Authority,8
 25,M B Sanford Elementary,36,Fraser Health Authority,8
 25,Royal Heights Elementary,36,Fraser Health Authority,8
 25,Simon Cunningham Elementary,36,Fraser Health Authority,8
@@ -324,6 +324,7 @@ Rank,School,School District,Health Region,Exposures
 28,Chief Matthews School,Independent Schools in Northern Health,Northern Health,5
 28,Nak'albun Elementary School,Independent Schools in Northern Health,Northern Health,5
 29,Hillview Elementary,22,Interior Health Authority,4
+29,Vernon Secondary,22,Interior Health Authority,4
 29,A S Matheson Elementary,23,Interior Health Authority,4
 29,Constable Neil Bruce Middle School,23,Interior Health Authority,4
 29,Davidson Road Elementary,23,Interior Health Authority,4
@@ -439,7 +440,6 @@ Rank,School,School District,Health Region,Exposures
 29,St Mary's Catholic School (Prince George),Independent Schools in Northern Health,Northern Health,4
 30,Arrow Heights Elementary,19,Interior Health Authority,3
 30,Revelstoke Secondary,19,Interior Health Authority,3
-30,Vernon Secondary,22,Interior Health Authority,3
 30,Bankhead Elementary,23,Interior Health Authority,3
 30,Chute Lake Elementary,23,Interior Health Authority,3
 30,George Elliot Secondary,23,Interior Health Authority,3
@@ -498,6 +498,7 @@ Rank,School,School District,Health Region,Exposures
 30,Clinton Elementary,41,Fraser Health Authority,3
 30,Lakeview Elementary,41,Fraser Health Authority,3
 30,Suncrest Elementary,41,Fraser Health Authority,3
+30,Taylor Park Elementary,41,Fraser Health Authority,3
 30,Windsor Elementary,41,Fraser Health Authority,3
 30,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,3
 30,Maple Ridge Elementary,42,Fraser Health Authority,3
@@ -665,7 +666,6 @@ Rank,School,School District,Health Region,Exposures
 31,Rosser Elementary,41,Fraser Health Authority,2
 31,Sperling Elementary,41,Fraser Health Authority,2
 31,St Francis de Sales,41,Fraser Health Authority,2
-31,Taylor Park Elementary,41,Fraser Health Authority,2
 31,Cusquena Elementary,42,Fraser Health Authority,2
 31,Davie Jones Elementary,42,Fraser Health Authority,2
 31,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,2
