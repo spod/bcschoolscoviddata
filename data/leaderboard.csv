@@ -231,6 +231,7 @@ Rank,School,School District,Health Region,Exposures
 28,Armstrong Elementary (Burnaby),41,Fraser Health Authority,6
 28,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 28,Edmonds Community Elementary,41,Fraser Health Authority,6
+28,Glenwood Elementary (Burnaby),41,Fraser Health Authority,6
 28,Alouette Elementary,42,Fraser Health Authority,6
 28,Ecole Citadel Middle,43,Fraser Health Authority,6
 28,Ecole Glen Elementary,43,Fraser Health Authority,6
@@ -276,6 +277,7 @@ Rank,School,School District,Health Region,Exposures
 29,Brooke Elementary,37,Fraser Health Authority,5
 29,Heath Traditional Elementary,37,Fraser Health Authority,5
 29,South Delta Secondary,37,Fraser Health Authority,5
+29,Hamilton Elementary,38,Vancouver Coastal Health,5
 29,Kingswood Elementary,38,Vancouver Coastal Health,5
 29,Richmond Secondary School,38,Vancouver Coastal Health,5
 29,Steveston-London Secondary,38,Vancouver Coastal Health,5
@@ -289,7 +291,6 @@ Rank,School,School District,Health Region,Exposures
 29,Burnaby Mountain Secondary,41,Fraser Health Authority,5
 29,Cameron Elementary,41,Fraser Health Authority,5
 29,Ecole Marlborough Elementary,41,Fraser Health Authority,5
-29,Glenwood Elementary (Burnaby),41,Fraser Health Authority,5
 29,Albion Elementary,42,Fraser Health Authority,5
 29,Garibaldi Secondary,42,Fraser Health Authority,5
 29,Castle Park Elementary,43,Fraser Health Authority,5
@@ -371,7 +372,6 @@ Rank,School,School District,Health Region,Exposures
 30,Jarvis Traditional Elementary,37,Fraser Health Authority,4
 30,Richardson Elementary,37,Fraser Health Authority,4
 30,A.R. MacNeill Secondary,38,Vancouver Coastal Health,4
-30,Hamilton Elementary,38,Vancouver Coastal Health,4
 30,James Whiteside Elementary,38,Vancouver Coastal Health,4
 30,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
 30,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,4
@@ -553,6 +553,7 @@ Rank,School,School District,Health Region,Exposures
 31,Arthur Stevenson Elementary,73,Interior Health Authority,3
 31,Barriere Secondary,73,Interior Health Authority,3
 31,Juniper Ridge Elementary,73,Interior Health Authority,3
+31,Kamloops School of the Arts,73,Interior Health Authority,3
 31,Hatzic Elementary,75,Fraser Health Authority,3
 31,Hillside Traditional Academy,75,Fraser Health Authority,3
 31,Agassiz Elem-Secondary,78,Fraser Health Authority,3
@@ -717,7 +718,6 @@ Rank,School,School District,Health Region,Exposures
 32,Wood Elementary,70,Vancouver Island Health Authority,2
 32,Arthur Hatton Elementary,73,Interior Health Authority,2
 32,Ecole Lloyd George Elementary (Kamloops),73,Interior Health Authority,2
-32,Kamloops School of the Arts,73,Interior Health Authority,2
 32,Marion Schilling Elementary,73,Interior Health Authority,2
 32,Twin Rivers Education Centre,73,Interior Health Authority,2
 32,Westmount Elementary,73,Interior Health Authority,2
