@@ -1,6 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 04/12/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,April 6,Exposure 11
 04/12/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 9
+04/12/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 14
 04/11/2021,Sacred Heart Elementary (Delta),Delta,Independent Schools in Fraser Health,Fraser Health Authority,April 6,Exposure 3
 04/11/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,April 6 and 7,Exposure 16
 04/11/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,April 6 and 7,Exposure 19
@@ -72,7 +73,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/10/2021,Ecole Glenayre Elementary,Port Moody,43,Fraser Health Authority,April 6,Exposure 6
 04/10/2021,Gibson Elementary (Delta),Delta,37,Fraser Health Authority,April 6 and 7,Exposure 4
 04/10/2021,General Gordon Elementary,Vancouver,39,Vancouver Coastal Health,April 6,Exposure 3
-04/10/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,April 6,Exposure 41
 04/10/2021,Boundary Elementary,North Vancouver,44,Vancouver Coastal Health,"""April 7, 8, 9""",Exposure 3
 04/10/2021,Glanford Middle School,Victoria,61,Vancouver Island Health Authority,April 7,Exposure 2
 04/10/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,April 8,Exposure 17
@@ -101,6 +101,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/10/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,"""March 31, April 1""",Exposure 2
 04/10/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 29,Exposure 23
 04/10/2021,Cedar Hills Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7""",Exposure 11
+04/10/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,April 6,Exposure 42
 04/09/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""March 29, 30, and 31""",Documentation on file showing that this is a different exposure than Exposure 18 which has the same dates.
 04/09/2021,Corpus Christi School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,April 1,Exposure 4
 04/09/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 6,Exposure 14
