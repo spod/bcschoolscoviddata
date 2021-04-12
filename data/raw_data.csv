@@ -31,8 +31,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/11/2021,South Delta Secondary,Delta,37,Fraser Health Authority,April 1,Exposure 5
 04/11/2021,Hamilton Elementary,Richmond,38,Vancouver Coastal Health,"""April 6, 7, 8""",Exposure 5
 04/11/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7""",Exposure 5
-04/11/2021,Glenwood Elementary (Burnaby),Burnaby,41,Fraser Health Authority,April 1,Exposure 6
-04/11/2021,Maple Ridge Christian School,Maple Ridge,42,Fraser Health Authority,Not provided,Exposure 1
 04/11/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""March 29, 30, and 31""",Exposure 11
 04/11/2021,Richard McBride Elementary (New Westminster),New Westminster,40,Fraser Health Authority,April 6 and 7,Exposure 5
 04/11/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,April 6,Exposure 28
@@ -48,6 +46,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/11/2021,Sen Pok Chin,Oliver,53,Interior Health Authority,March 31 and April 1,Exposure 1
 04/11/2021,Collingwood School (Wentworth Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 9
 04/11/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,April 6,This is a different case than listed as Exposure 5.
+04/11/2021,Glenwood Elementary (Burnaby),Burnaby,41,Fraser Health Authority,April 1,Exposure 6
+04/11/2021,Maple Ridge Christian School,Maple Ridge,42,Fraser Health Authority,Not provided,Exposure 1
 04/10/2021,Westsyde Elementary,Kamloops,73,Interior Health Authority,April 6,Exposure 1
 04/10/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,"""March 31, April 1""",Exposure 8
 04/10/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7""",Exposure 10
@@ -308,10 +308,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,Duncan Cran Elementary,,60,Northern Health,March 29 and 30,Exposure 2
 04/06/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,March 29,Exposure 3
 04/06/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""March 31, April 1""",Exposure 4
-04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 11
 04/06/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 10
 04/06/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 30,Exposure 20
 04/06/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""March 30, 31, and April 1""",Exposure 14
+04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 11
 04/05/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,March 30,Exposure 2
 04/05/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/05/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 27
@@ -374,8 +374,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Crofton House,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 5
 04/05/2021,Westsyde Secondary,Kamloops,73,Interior Health Authority,March 31 and April 1 (Dates on the BCCDC webpage),Exposure 4
 04/05/2021,Laura Secord Elementary,Vancouver,39,Vancouver Coastal Health,March 31 and April 1,Exposure 3
-04/05/2021,John Knox Christian - Secondary Campus,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 1
 04/05/2021,Taylor Park Elementary,Burnaby,41,Fraser Health Authority,"""March 29, 30, and 31""",Exposure 2
+04/05/2021,John Knox Christian - Secondary Campus,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 1
 04/04/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""March 29, 30, 31""",Exposure 9
 04/04/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 7
 04/04/2021,Sir Charles Tupper Secondary,Vancouver,39,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 18
