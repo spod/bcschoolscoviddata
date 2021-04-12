@@ -73,6 +73,7 @@ Rank,School,School District,Health Region,Exposures
 23,Nanaimo District Secondary,68,Vancouver Island Health Authority,12
 23,Caledonia Secondary,82,Northern Health,12
 23,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,12
+24,Promontory Heights Community Elementary,33,Fraser Health Authority,11
 24,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,11
 24,Richard Bulpitt Elementary,35,Fraser Health Authority,11
 24,Cedar Hills Elementary,36,Fraser Health Authority,11
@@ -87,7 +88,6 @@ Rank,School,School District,Health Region,Exposures
 24,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,11
 24,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,11
 25,École KLO Middle School,23,Interior Health Authority,10
-25,Promontory Heights Community Elementary,33,Fraser Health Authority,10
 25,Vedder Middle School,33,Fraser Health Authority,10
 25,Langley Secondary,35,Fraser Health Authority,10
 25,Brookside Elementary,36,Fraser Health Authority,10
@@ -122,6 +122,7 @@ Rank,School,School District,Health Region,Exposures
 26,David Thompson Secondary,39,Vancouver Coastal Health,9
 26,Lord Roberts Elementary,39,Vancouver Coastal Health,9
 26,Magee Secondary,39,Vancouver Coastal Health,9
+26,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,9
 26,Burnaby South Secondary,41,Fraser Health Authority,9
 26,Cariboo Hill Secondary,41,Fraser Health Authority,9
 26,Ecole Alpha Secondary,41,Fraser Health Authority,9
@@ -153,7 +154,6 @@ Rank,School,School District,Health Region,Exposures
 27,David Oppenheimer Elementary,39,Vancouver Coastal Health,8
 27,Elsie Roy Elementary,39,Vancouver Coastal Health,8
 27,King George Secondary,39,Vancouver Coastal Health,8
-27,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,8
 27,Pitt Meadows Secondary,42,Fraser Health Authority,8
 27,Thomas Haney Secondary,42,Fraser Health Authority,8
 27,Eagle Mountain Middle School,43,Fraser Health Authority,8
@@ -1001,7 +1001,6 @@ Rank,School,School District,Health Region,Exposures
 34,Mount Douglas Secondary,61,Vancouver Island Health Authority,1
 34,Oak Bay Secondary,61,Vancouver Island Health Authority,1
 34,Oaklands Elementary,61,Vancouver Island Health Authority,1
-34,Pacific Christian School,61,Fraser Health Authority,1
 34,Sir James Douglas Elementary (Victoria),61,Vancouver Island Health Authority,1
 34,South Park Family School (Victoria),61,Vancouver Island Health Authority,1
 34,Victoria High,61,Vancouver Island Health Authority,1
@@ -1102,6 +1101,7 @@ Rank,School,School District,Health Region,Exposures
 34,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,1
 34,Our Lady of the Assumption,Independent Schools in Fraser Health,Fraser Health Authority,1
 34,PALS Autism Society (School Program) (New West),Independent Schools in Fraser Health,Fraser Health Authority,1
+34,Pacific Christian School (Abbotsford),Independent Schools in Fraser Health,Fraser Health Authority,1
 34,Purpose Independent Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 34,Rothewood Academy (South Surrey),Independent Schools in Fraser Health,Fraser Health Authority,1
 34,Sikh Academy Fleetwood Elementary,Independent Schools in Fraser Health,Fraser Health Authority,1
