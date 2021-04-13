@@ -102,6 +102,7 @@ Rank,School,School District,Health Region,Exposures
 26,Magee Secondary,39,Vancouver Coastal Health,10
 26,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,10
 26,Moscrop Secondary,41,Fraser Health Authority,10
+26,Argyle Secondary,44,Vancouver Coastal Health,10
 26,Dawson Creek Secondary,59,Northern Health,10
 26,Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,10
 26,Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,10
@@ -129,7 +130,6 @@ Rank,School,School District,Health Region,Exposures
 27,Ecole Alpha Secondary,41,Fraser Health Authority,9
 27,Maple Ridge Secondary,42,Fraser Health Authority,9
 27,Minnekhada Middle School,43,Fraser Health Authority,9
-27,Argyle Secondary,44,Vancouver Coastal Health,9
 27,Braemar Elementary,44,Vancouver Coastal Health,9
 27,Conrad Street Elementary,52,Northern Health,9
 27,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,9
@@ -778,6 +778,7 @@ Rank,School,School District,Health Region,Exposures
 35,Silver Star Elementary,22,Interior Health Authority,1
 35,Anne McClymont Elementary,23,Interior Health Authority,1
 35,Canyon Falls Middle School,23,Fraser Health Authority,1
+35,Ellison Elementary,23,Interior Health Authority,1
 35,Glenrosa Elementary,23,Interior Health Authority,1
 35,Helen Gorman Elementary,23,Interior Health Authority,1
 35,Heritage Christian Online School (DL),23,Fraser Health Authority,1
