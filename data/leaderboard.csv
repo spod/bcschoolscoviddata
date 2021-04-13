@@ -57,6 +57,7 @@ Rank,School,School District,Health Region,Exposures
 22,H D Stafford Middle,35,Fraser Health Authority,13
 22,T E Scott Elementary,36,Fraser Health Authority,13
 22,Seaquam Secondary,37,Fraser Health Authority,13
+22,Gladstone Secondary,39,Vancouver Coastal Health,13
 22,North Peace Secondary,60,Northern Health,13
 22,Sa-hali Secondary,73,Interior Health Authority,13
 22,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
@@ -67,7 +68,6 @@ Rank,School,School District,Health Region,Exposures
 23,Rosemary Heights Elementary,36,Fraser Health Authority,12
 23,Chalmers Elementary,37,Fraser Health Authority,12
 23,McCloskey Elementary,37,Fraser Health Authority,12
-23,Gladstone Secondary,39,Vancouver Coastal Health,12
 23,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,12
 23,Terry Fox Secondary,43,Fraser Health Authority,12
 23,Howe Sound Secondary,48,Vancouver Coastal Health,12
@@ -511,6 +511,7 @@ Rank,School,School District,Health Region,Exposures
 32,Sir Sandford Fleming Elementary,39,Vancouver Coastal Health,3
 32,St John's School,39,Vancouver Coastal Health,3
 32,Walter Moberly Elementary,39,Vancouver Coastal Health,3
+32,Waverley Elementary,39,Vancouver Coastal Health,3
 32,Cascade Heights Elementary,41,Fraser Health Authority,3
 32,Gilpin Elementary,41,Fraser Health Authority,3
 32,Lakeview Elementary,41,Fraser Health Authority,3
@@ -668,7 +669,6 @@ Rank,School,School District,Health Region,Exposures
 33,Sir Wilfred Laurier Elementary,39,Vancouver Coastal Health,2
 33,Thunderbird Elementary,39,Vancouver Coastal Health,2
 33,Trafalgar Elementary,39,Vancouver Coastal Health,2
-33,Waverley Elementary,39,Vancouver Coastal Health,2
 33,Xpey' Elementary,39,Vancouver Coastal Health,2
 33,F W Howay Elementary,40,Fraser Health Authority,2
 33,Aubrey Elementary,41,Fraser Health Authority,2

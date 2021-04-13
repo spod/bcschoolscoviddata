@@ -1,4 +1,6 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+04/13/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 13
+04/13/2021,Waverley Elementary,Vancouver,39,Vancouver Coastal Health,"""April 1, 6, 7, 8""",Exposure 3
 04/12/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,April 6,Exposure 11
 04/12/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 9
 04/12/2021,Vernon Secondary,Vernon,22,Interior Health Authority,April 6 and 7,Exposure 6
@@ -391,11 +393,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/06/2021,Hugh Boyd Secondary,Richmond,38,Vancouver Coastal Health,"""March 29, 30, 31, and April 1""",Exposure 3
 04/06/2021,Duncan Cran Elementary,,60,Northern Health,March 29 and 30,Exposure 2
 04/06/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,March 29,Exposure 3
-04/06/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/06/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 10
 04/06/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,March 30,Exposure 20
 04/06/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""March 30, 31, and April 1""",Exposure 14
 04/06/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""March 29, 30, 31, and April 1""",Exposure 11
+04/06/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/05/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,March 30,Exposure 2
 04/05/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""March 31, April 1""",Exposure 4
 04/05/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""March 29, 30, 31, April 1""",Exposure 27
