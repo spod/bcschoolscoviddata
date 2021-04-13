@@ -1,8 +1,14 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 04/13/2021,Waverley Elementary,Vancouver,39,Vancouver Coastal Health,"""April 1, 6, 7, 8""",Exposure 3
 04/13/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 13
+04/13/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 8
+04/13/2021,Topham Elementary,Langley,35,Fraser Health Authority,April 8,Exposure 1
+04/13/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 6, 7, 8, 9""",Exposure 12
+04/13/2021,Mount Slesse Middle School,Chilliwack,33,Fraser Health Authority,"""April 6, 7, 8""",Exposure 9
+04/13/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 6, 7, 8, 9""",Exposure 8
 04/12/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,April 6,Exposure 11
 04/12/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 9
+04/12/2021,W E Kinvig Elementary,Surrey,36,Fraser Health Authority,April 6 and 7,Exposure 8
 04/12/2021,Vernon Secondary,Vernon,22,Interior Health Authority,April 6 and 7,Exposure 6
 04/12/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,"""April 6, 7, and 8""",Exposure 10
 04/12/2021,James Hill Elementary,Langley,35,Fraser Health Authority,April 6,Exposure 4
@@ -12,7 +18,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/12/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 1, 6, and 7""",Exposure 6
 04/12/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,April 8 and 9,Exposure 22
 04/12/2021,Magee Secondary,Vancouver,39,Vancouver Coastal Health,"""April 6, 7, and 8""",This is a different case than Exposure 10
-04/12/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,April 8,Exposure 14
 04/12/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,April 6 and 7,Exposure 27
 04/12/2021,Regent Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 6 and 7,One class has been asked to self-isolate (Docuemntation on file)
 04/12/2021,Gordon Greenwood Elementary,Langley,35,Fraser Health Authority,"""April 7, 8, and 9""",Exposure 3
@@ -30,8 +35,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/12/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,"""April 6, 7, and 8""",Exposure 3
 04/12/2021,Gilpin Elementary,Burnaby,41,Fraser Health Authority,April 6 and 7,Exposure 3
 04/12/2021,Pinetree Way Elementary,Coquitlam,43,Fraser Health Authority,"""April 7, 8, 9""",Exposure 1
-04/12/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 14
-04/12/2021,W E Kinvig Elementary,Surrey,36,Fraser Health Authority,April 6 and 7,Exposure 8
 04/12/2021,Mount Douglas Secondary,Victoria,61,Vancouver Island Health Authority,"""April 6, 7, 8""",Exposure 2
 04/12/2021,Ellison Elementary,Kelowna,23,Interior Health Authority,"""April 6, 7""",Exposure 1
 04/12/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,"""April 6, 7, 8, 9""",Exposure 10
@@ -87,6 +90,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/12/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,"""April 7, 8""",Exposure 6
 04/12/2021,Timothy Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,April 6 and 7,Exposure 7
 04/12/2021,Rutland Middle School,Kelowna,23,Interior Health Authority,April 6 and 7,Exposure 2
+04/12/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""April 6, 7, 8, and 9""",https://www.theprogress.com/news/entire-class-at-chilliwacks-g-w-graham-secondary-school-in-isolation-after-exposure-to-covid-19/?fbclid=IwAR2AMDuudnW402oUSmr2yPgp5W0SCABfK0o1PAhgfLq_kY8DmRWN9At1UxI
+04/12/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,April 8,"""4 teachers, 2 EA's and 2 classes isolating."""
 04/11/2021,Sacred Heart Elementary (Delta),Delta,Independent Schools in Fraser Health,Fraser Health Authority,April 6,Exposure 3
 04/11/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,April 6 and 7,Exposure 16
 04/11/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,April 6 and 7,Exposure 19
@@ -220,7 +225,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/09/2021,Penticton Christian School,Penticton,67,Interior Health Authority,"""March 30, 31, April 1""",Exposure 1
 04/09/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 1,Exposure 8
 04/09/2021,Kootenay Christian Academy,Cranbrook,5,Interior Health Authority,April 6,Exposure 1
-04/09/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,April 6 and 7,Exposure 13
 04/09/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,April 6,Exposure 15
 04/09/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,March 30 and 31,Exposure 30
 04/09/2021,Matthew McNair Secondary,Richmond,38,Vancouver Coastal Health,April 7,Exposure 6
@@ -237,6 +241,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/09/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,April 6,Exposure 15
 04/09/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,"""March 29, 30, and 31""",Exposure 4
 04/09/2021,Tomekichi Homma Elementary,Richmond,38,Vancouver Coastal Health,April 6 and 7 (Dated on the BCCDC webpage),Exposure 2
+04/09/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,April 6 and 7,"""4 teachers, 2 EA's and 2 classes isolating."""
 04/08/2021,Burnaby North Secondary,Burnaby,41,Fraser Health Authority,March 31 and April 1,Exposure 17
 04/08/2021,Dunsmuir Middle School,Victoria,62,Vancouver Island Health Authority,"""March 29, 30, and 31""",Exposure 4
 04/08/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,April 1,Exposure 8
