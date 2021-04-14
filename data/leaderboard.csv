@@ -6,7 +6,7 @@ Rank,School,School District,Health Region,Exposures
 5,Enver Creek Secondary,36,Fraser Health Authority,40
 5,Sullivan Heights Secondary,36,Fraser Health Authority,40
 6,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,38
-7,L A Matheson Secondary,36,Fraser Health Authority,31
+7,L A Matheson Secondary,36,Fraser Health Authority,32
 8,Lord Tweedsmuir Secondary,36,Fraser Health Authority,28
 8,New Westminster Secondary,40,Fraser Health Authority,28
 9,Kelowna Secondary School,23,Interior Health Authority,27
@@ -484,6 +484,7 @@ Rank,School,School District,Health Region,Exposures
 32,Betty Huff Elementary,36,Fraser Health Authority,3
 32,Coyote Creek Elementary,36,Fraser Health Authority,3
 32,Douglas Elementary,36,Fraser Health Authority,3
+32,H T Thrift Elementary,36,Fraser Health Authority,3
 32,Hjorth Road Elementary,36,Fraser Health Authority,3
 32,Morgan Elementary,36,Fraser Health Authority,3
 32,Peace Arch Elementary,36,Fraser Health Authority,3
@@ -631,7 +632,6 @@ Rank,School,School District,Health Region,Exposures
 33,Ellendale Elementary,36,Fraser Health Authority,2
 33,Forsyth Road Elementary,36,Fraser Health Authority,2
 33,Fraser Wood Elementary,36,Fraser Health Authority,2
-33,H T Thrift Elementary,36,Fraser Health Authority,2
 33,Invergarry Adult Education Centre,36,Fraser Health Authority,2
 33,Janice Churchill Elementary,36,Fraser Health Authority,2
 33,Laronde Elementary,36,Fraser Health Authority,2
