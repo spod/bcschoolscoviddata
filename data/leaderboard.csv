@@ -66,6 +66,7 @@ Rank,School,School District,Health Region,Exposures
 21,Argyle Secondary,44,Vancouver Coastal Health,13
 21,Sa-hali Secondary,73,Interior Health Authority,13
 21,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
+21,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,13
 22,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,12
 22,D W Poppy Secondary,35,Fraser Health Authority,12
 22,Panorama Park Elementary,36,Fraser Health Authority,12
@@ -97,7 +98,6 @@ Rank,School,School District,Health Region,Exposures
 23,Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,11
 23,Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,11
 23,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,11
-23,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,11
 24,École KLO Middle School,23,Interior Health Authority,10
 24,Vedder Middle School,33,Fraser Health Authority,10
 24,Robert Bateman Secondary,34,Fraser Health Authority,10
@@ -122,6 +122,7 @@ Rank,School,School District,Health Region,Exposures
 24,Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,10
 24,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,10
 24,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,10
+25,Mount Boucherie Secondary School,23,Interior Health Authority,9
 25,Mount Slesse Middle School,33,Fraser Health Authority,9
 25,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,9
 25,Harry Sayers Elementary,34,Fraser Health Authority,9
@@ -148,7 +149,6 @@ Rank,School,School District,Health Region,Exposures
 25,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,9
 25,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,9
 25,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,9
-26,Mount Boucherie Secondary School,23,Interior Health Authority,8
 26,École Dr. Knox Middle School,23,Interior Health Authority,8
 26,A D Rundle Middle School,33,Fraser Health Authority,8
 26,Sardis Elementary,33,Fraser Health Authority,8
