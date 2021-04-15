@@ -579,6 +579,7 @@ Rank,School,School District,Health Region,Exposures
 31,Albert McMahon Elementary,75,Fraser Health Authority,3
 31,Hatzic Elementary,75,Fraser Health Authority,3
 31,Hillside Traditional Academy,75,Fraser Health Authority,3
+31,West Heights Elementary,75,Fraser Health Authority,3
 31,Agassiz Elem-Secondary,78,Fraser Health Authority,3
 31,Chemainus Secondary,79,Vancouver Island Health Authority,3
 31,Quamichan School,79,Vancouver Island Health Authority,3
@@ -748,7 +749,6 @@ Rank,School,School District,Health Region,Exposures
 32,Twin Rivers Education Centre,73,Interior Health Authority,2
 32,Westmount Elementary,73,Interior Health Authority,2
 32,Edwin S Richards Elementary,75,Fraser Health Authority,2
-32,West Heights Elementary,75,Fraser Health Authority,2
 32,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 32,Cowichan Secondary,79,Vancouver Island Health Authority,2
 32,Drinkwater Elementary,79,Vancouver Island Health Authority,2
@@ -1144,6 +1144,7 @@ Rank,School,School District,Health Region,Exposures
 33,The Fernie Academy,Independent Schools in Interior Health,Interior Health Authority,1
 33,Aspengrove School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 33,Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,1
+33,Pacific Christian School (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,1
 33,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 33,Shawnigan Lake,Independent Schools in Island Health,Vancouver Island Health Authority,1
 33,St Michaels University School - Junior,Independent Schools in Island Health,Vancouver Island Health Authority,1
