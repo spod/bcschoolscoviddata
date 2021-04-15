@@ -24,10 +24,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/14/2021,Hillcrest Middle School,Coquitlam,43,Fraser Health Authority,April 7 and 9,Exposure 2
 04/14/2021,Mount Baker Secondary,Cranbrook,5,Interior Health Authority,April 8 and 9,Exposure 2
 04/14/2021,Clarence Fulton Secondary,Vernon,22,Interior Health Authority,"""April 6, 7, and 8""",Exposure 7
-04/14/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,April 9,Exposure 18
-04/14/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,April 8 and 9,Exposure 32
-04/14/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,April 6,Exposure 3
-04/14/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,April 8,Exposure 7
 04/14/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,"""April 6, 7, 8, 9, 12""",Exposure 12
 04/14/2021,Chantrell Creek Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7, 8""",Exposure 3
 04/14/2021,Myrtle Philip Community School,Whistler,48,Vancouver Coastal Health,Not provided,Exposure 4
@@ -81,6 +77,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/14/2021,Sunnyside Elementary,Surrey,36,Fraser Health Authority,"""April 8, 9""",Exposure 5
 04/14/2021,St Michael’s Elementary (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,April 6 and 7,Exposure 6
 04/14/2021,Westerman Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7""",Exposure 15
+04/14/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,April 9,Exposure 18
+04/14/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,April 8 and 9,Exposure 32
+04/14/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,April 6,Exposure 3
+04/14/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,April 8,Exposure 7
 04/13/2021,Waverley Elementary,Vancouver,39,Vancouver Coastal Health,"""April 1, 6, 7, 8""",Exposure 3
 04/13/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 13
 04/13/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 8
