@@ -18,6 +18,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/15/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 12,Exposure 18
 04/15/2021,Delview Secondary,Delta,37,Fraser Health Authority,April 9,Exposure 16
 04/15/2021,Port Kells Elementary,Surrey,36,Fraser Health Authority,April 12,Exposure 3
+04/15/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,April 12,Exposure 11
+04/15/2021,St Michael’s Elementary (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,April 9 and 12,Exposure 7
+04/15/2021,Sherwood Park Elementary,North Vancouver,44,Vancouver Coastal Health,April 12 and 13,Exposure 2
 04/14/2021,La Passerelle,Whistler,93,Vancouver Coastal Health,Not provided,Exposure 3
 04/14/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 40
 04/14/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,April 7 and 8,Exposure 5
@@ -998,7 +1001,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 03/16/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""March 8, 9, 10""",Exposure 18
 03/16/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""March 2, 3, 4, 5, 8, 9, 10""",Exposure 4
 03/16/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,March 10,Exposure 26
-03/16/2021,OKIB Cultural Immersion,Vernon,Independent Schools in Interior Health,Interior Health Authority,Mar 10 and 11,Exposure 2
 03/16/2021,OKIB Cultural Immersion,Vernon,Independent Schools in Interior Health,Interior Health Authority,Mar 10 and 11,Exposure 2
 03/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,Mar 8 and 9,UConnect Program.
 03/16/2021,Vancouver Waldorf School,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 10, 11, 12""","""Full class and staff have been asked to self isolate for 14 days, they can return to school on April 6th."""
