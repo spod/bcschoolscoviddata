@@ -6,7 +6,7 @@ Rank,School,School District,Health Region,Exposures
 4,Frank Hurt Secondary,36,Fraser Health Authority,42
 4,Sullivan Heights Secondary,36,Fraser Health Authority,42
 5,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,38
-6,L A Matheson Secondary,36,Fraser Health Authority,33
+6,L A Matheson Secondary,36,Fraser Health Authority,34
 7,Kelowna Secondary School,23,Interior Health Authority,28
 7,Lord Tweedsmuir Secondary,36,Fraser Health Authority,28
 7,New Westminster Secondary,40,Fraser Health Authority,28
@@ -145,6 +145,7 @@ Rank,School,School District,Health Region,Exposures
 25,Thomas Haney Secondary,42,Fraser Health Authority,9
 25,Eagle Mountain Middle School,43,Fraser Health Authority,9
 25,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,9
+25,Pinetree Secondary,43,Fraser Health Authority,9
 25,Summit Middle School,43,Fraser Health Authority,9
 25,Braemar Elementary,44,Vancouver Coastal Health,9
 25,Conrad Street Elementary,52,Northern Health,9
@@ -178,7 +179,6 @@ Rank,School,School District,Health Region,Exposures
 26,Ecole Glen Elementary,43,Fraser Health Authority,8
 26,Ecole Pitt River Middle,43,Fraser Health Authority,8
 26,Ecole Riverside Secondary,43,Fraser Health Authority,8
-26,Pinetree Secondary,43,Fraser Health Authority,8
 26,Scott Creek Middle School,43,Fraser Health Authority,8
 26,Sutherland Secondary,44,Vancouver Coastal Health,8
 26,Whistler Secondary,48,Vancouver Coastal Health,8
@@ -503,6 +503,7 @@ Rank,School,School District,Health Region,Exposures
 31,Douglas Elementary,36,Fraser Health Authority,3
 31,H T Thrift Elementary,36,Fraser Health Authority,3
 31,Hjorth Road Elementary,36,Fraser Health Authority,3
+31,Laronde Elementary,36,Fraser Health Authority,3
 31,Morgan Elementary,36,Fraser Health Authority,3
 31,Peace Arch Elementary,36,Fraser Health Authority,3
 31,Port Kells Elementary,36,Fraser Health Authority,3
@@ -648,7 +649,6 @@ Rank,School,School District,Health Region,Exposures
 32,Fraser Wood Elementary,36,Fraser Health Authority,2
 32,Invergarry Adult Education Centre,36,Fraser Health Authority,2
 32,Janice Churchill Elementary,36,Fraser Health Authority,2
-32,Laronde Elementary,36,Fraser Health Authority,2
 32,Mountainview Montessori,36,Fraser Health Authority,2
 32,North Surrey Learning Centre,36,Fraser Health Authority,2
 32,Pacific Heights Elementary,36,Fraser Health Authority,2
