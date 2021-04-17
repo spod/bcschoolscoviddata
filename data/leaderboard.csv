@@ -55,6 +55,7 @@ Rank,School,School District,Health Region,Exposures
 20,Eugene Reimer Middle School,34,Fraser Health Authority,14
 20,H D Stafford Middle,35,Fraser Health Authority,14
 20,Britannia Community Secondary,39,Vancouver Coastal Health,14
+20,Gladstone Secondary,39,Vancouver Coastal Health,14
 20,Ecole Glenbrook Middle School,40,Fraser Health Authority,14
 20,Terry Fox Secondary,43,Fraser Health Authority,14
 20,Argyle Secondary,44,Vancouver Coastal Health,14
@@ -66,7 +67,6 @@ Rank,School,School District,Health Region,Exposures
 21,Brookside Elementary,36,Fraser Health Authority,13
 21,Clayton Heights Secondary,36,Fraser Health Authority,13
 21,Chalmers Elementary,37,Fraser Health Authority,13
-21,Gladstone Secondary,39,Vancouver Coastal Health,13
 21,Sa-hali Secondary,73,Interior Health Authority,13
 21,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
 21,Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,13
@@ -105,6 +105,7 @@ Rank,School,School District,Health Region,Exposures
 23,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,11
 23,Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,11
 23,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,11
+23,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,11
 24,École KLO Middle School,23,Interior Health Authority,10
 24,Vedder Middle School,33,Fraser Health Authority,10
 24,Langley Secondary,35,Fraser Health Authority,10
@@ -125,7 +126,6 @@ Rank,School,School District,Health Region,Exposures
 24,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,10
 24,Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,10
 24,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,10
-24,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,10
 25,Mount Boucherie Secondary School,23,Interior Health Authority,9
 25,Mount Slesse Middle School,33,Fraser Health Authority,9
 25,Blue Jay Elementary,34,Fraser Health Authority,9
