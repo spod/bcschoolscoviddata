@@ -180,6 +180,7 @@ Rank,School,School District,Health Region,Exposures
 26,Ecole Pitt River Middle,43,Fraser Health Authority,8
 26,Ecole Riverside Secondary,43,Fraser Health Authority,8
 26,Scott Creek Middle School,43,Fraser Health Authority,8
+26,Carisbrooke Elementary,44,Vancouver Coastal Health,8
 26,Sutherland Secondary,44,Vancouver Coastal Health,8
 26,Whistler Secondary,48,Vancouver Coastal Health,8
 26,Heather Park Elementary,57,Northern Health,8
@@ -214,7 +215,6 @@ Rank,School,School District,Health Region,Exposures
 27,Cedar Drive Elementary,43,Fraser Health Authority,7
 27,Ecole Citadel Middle,43,Fraser Health Authority,7
 27,Ecole Panorama Heights Elementary,43,Fraser Health Authority,7
-27,Carisbrooke Elementary,44,Vancouver Coastal Health,7
 27,Rockridge Secondary,45,Vancouver Coastal Health,7
 27,Lax Kxeen Elementary,52,Northern Health,7
 27,Margaret Ma Murray Community School,60,Northern Health,7
@@ -491,6 +491,7 @@ Rank,School,School District,Health Region,Exposures
 31,Mountview Elementary,27,Interior Health Authority,3
 31,Robertson Elementary,33,Fraser Health Authority,3
 31,ASIA - North Poplar,34,Fraser Health Authority,3
+31,Clayburn Middle School,34,Fraser Health Authority,3
 31,Dr Thomas A Swift Elementary,34,Fraser Health Authority,3
 31,Margaret Stenersen Elementary,34,Fraser Health Authority,3
 31,McMillan Elementary,34,Fraser Health Authority,3
@@ -518,6 +519,7 @@ Rank,School,School District,Health Region,Exposures
 31,R M Grauer Elementary,38,Vancouver Coastal Health,3
 31,William Cook Elementary,38,Vancouver Coastal Health,3
 31,Britannia Community Elementary,39,Vancouver Coastal Health,3
+31,Charles Dickens Elementary,39,Vancouver Coastal Health,3
 31,Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,3
 31,False Creek Elementary,39,Vancouver Coastal Health,3
 31,Florence Nightingale Elementary,39,Vancouver Coastal Health,3
@@ -570,6 +572,7 @@ Rank,School,School District,Health Region,Exposures
 31,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
 31,Caulfeild Elementary,45,Vancouver Coastal Health,3
 31,Irwin Park Elementary,45,Vancouver Coastal Health,3
+31,Brackendale Elementary,48,Vancouver Coastal Health,3
 31,Pacific Coast School,52,Northern Health,3
 31,Walnut Park Elementary,54,Northern Health,3
 31,Duchess Park Secondary,57,Northern Health,3
@@ -633,9 +636,9 @@ Rank,School,School District,Health Region,Exposures
 32,Cheam Elementary,33,Fraser Health Authority,2
 32,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,2
 32,Bakerview Ctr for Learning,34,Fraser Health Authority,2
-32,Clayburn Middle School,34,Fraser Health Authority,2
 32,Dormick Park Elementary,34,Fraser Health Authority,2
 32,Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
+32,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,2
 32,Sandy Hill Elementary,34,Fraser Health Authority,2
 32,Alex Hope Elementary,35,Fraser Health Authority,2
 32,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
@@ -672,7 +675,6 @@ Rank,School,School District,Health Region,Exposures
 32,William Bridge Elementary,38,Vancouver Coastal Health,2
 32,Captain James Cook Elementary,39,Vancouver Coastal Health,2
 32,Champlain Heights Community Elementary,39,Vancouver Coastal Health,2
-32,Charles Dickens Elementary,39,Vancouver Coastal Health,2
 32,Churchill Secondary (Ideal Mini School),39,Vancouver Coastal Health,2
 32,Dr George M Weir Elementary,39,Vancouver Coastal Health,2
 32,G T Cunningham Elementary,39,Vancouver Coastal Health,2
@@ -721,7 +723,6 @@ Rank,School,School District,Health Region,Exposures
 32,Sherwood Park Elementary,44,Vancouver Coastal Health,2
 32,Chatelech Secondary,46,Vancouver Coastal Health,2
 32,Elphinstone Secondary,46,Vancouver Coastal Health,2
-32,Brackendale Elementary,48,Vancouver Coastal Health,2
 32,Pemberton Secondary,48,Vancouver Coastal Health,2
 32,Mount Baker Secondary,5,Interior Health Authority,2
 32,Sk'aadgaa Naay Elementary,50,Northern Health,2
@@ -843,7 +844,6 @@ Rank,School,School District,Health Region,Exposures
 33,Jackson Elementary,34,Fraser Health Authority,1
 33,Matsqui Elementary,34,Fraser Health Authority,1
 33,Mt Lehman Elementary,34,Fraser Health Authority,1
-33,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,1
 33,South Poplar Traditional Elementary,34,Fraser Health Authority,1
 33,Upper Sumas Elementary,34,Fraser Health Authority,1
 33,Alice Brown Elementary,35,Fraser Health Authority,1
