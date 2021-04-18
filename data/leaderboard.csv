@@ -116,7 +116,6 @@ Rank,School,School District,Health Region,Exposures
 24,Goldstone Park Elementary,36,Fraser Health Authority,10
 24,Green Timbers Elementary,36,Fraser Health Authority,10
 24,Katzie Elementary,36,Fraser Health Authority,10
-24,David Thompson Secondary,39,Vancouver Coastal Health,10
 24,Eric Hamber Secondary,39,Vancouver Coastal Health,10
 24,Magee Secondary,39,Vancouver Coastal Health,10
 24,Burnaby South Secondary,41,Fraser Health Authority,10
@@ -258,6 +257,7 @@ Rank,School,School District,Health Region,Exposures
 28,William F. Davidson Elementary,36,Fraser Health Authority,6
 28,Brooke Elementary,37,Fraser Health Authority,6
 28,Steveston-London Secondary School,38,Vancouver Coastal Health,6
+28,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,6
 28,University Hill Secondary,39,Vancouver Coastal Health,6
 28,Windermere Community Secondary,39,Vancouver Coastal Health,6
 28,Queensborough Middle School,40,Fraser Health Authority,6
@@ -302,6 +302,7 @@ Rank,School,School District,Health Region,Exposures
 29,Peterson Road Elementary,35,Fraser Health Authority,5
 29,Willoughby Elementary,35,Fraser Health Authority,5
 29,Yorkson Creek Middle School,35,Fraser Health Authority,5
+29,Adams Road Elementary,36,Fraser Health Authority,5
 29,Crescent Park Elementary (Surrey),36,Fraser Health Authority,5
 29,Ecole Riverdale Elementary,36,Fraser Health Authority,5
 29,James Ardiel Elementary,36,Fraser Health Authority,5
@@ -387,7 +388,6 @@ Rank,School,School District,Health Region,Exposures
 30,Dorothy Peacock Elementary,35,Fraser Health Authority,4
 30,Douglas Park Community,35,Fraser Health Authority,4
 30,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,4
-30,Adams Road Elementary,36,Fraser Health Authority,4
 30,Berkshire Park Elementary,36,Fraser Health Authority,4
 30,Cloverdale Traditional (Surrey),36,Fraser Health Authority,4
 30,Edgewood Elementary (Surrey),36,Fraser Health Authority,4
@@ -404,6 +404,7 @@ Rank,School,School District,Health Region,Exposures
 30,Sunshine Hills Elementary,37,Fraser Health Authority,4
 30,James Whiteside Elementary,38,Vancouver Coastal Health,4
 30,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
+30,David Thompson Secondary,39,Vancouver Coastal Health,4
 30,Edith Cavell Elementary,39,Vancouver Coastal Health,4
 30,Mount Pleasant Elementary,39,Vancouver Coastal Health,4
 30,Quilchena Elementary,39,Vancouver Coastal Health,4
@@ -431,6 +432,7 @@ Rank,School,School District,Health Region,Exposures
 30,Port Moody Secondary,43,Fraser Health Authority,4
 30,Cleveland Elementary,44,Vancouver Coastal Health,4
 30,Larson Elementary,44,Vancouver Coastal Health,4
+30,Caulfeild Elementary,45,Vancouver Coastal Health,4
 30,Ridgeview Elementary,45,Vancouver Coastal Health,4
 30,West Bay Elementary,45,Vancouver Coastal Health,4
 30,Westcot Elementary,45,Vancouver Coastal Health,4
@@ -574,7 +576,6 @@ Rank,School,School District,Health Region,Exposures
 31,Queen Mary Community Elementary,44,Vancouver Coastal Health,3
 31,Ridgeway Elementary,44,Vancouver Coastal Health,3
 31,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
-31,Caulfeild Elementary,45,Vancouver Coastal Health,3
 31,Irwin Park Elementary,45,Vancouver Coastal Health,3
 31,Brackendale Elementary,48,Vancouver Coastal Health,3
 31,Pacific Coast School,52,Northern Health,3
@@ -672,6 +673,7 @@ Rank,School,School District,Health Region,Exposures
 32,John G Diefenbaker Elementary,38,Vancouver Coastal Health,2
 32,Lord Byng Elementary,38,Vancouver Coastal Health,2
 32,Mitchell Elementary,38,Vancouver Coastal Health,2
+32,Pythagoras Academy,38,Vancouver Coastal Health,2
 32,R.J. Tait Elementary School,38,Vancouver Coastal Health,2
 32,Thomas Kidd Elementary,38,Vancouver Coastal Health,2
 32,Tomekichi Homma Elementary,38,Vancouver Coastal Health,2
@@ -891,7 +893,6 @@ Rank,School,School District,Health Region,Exposures
 33,Manoah Steves Elementary,38,Vancouver Coastal Health,1
 33,Maple Lane Elementary,38,Vancouver Coastal Health,1
 33,Mitchell Elementary School,38,Vancouver Coastal Health,1
-33,Pythagoras Academy,38,Vancouver Coastal Health,1
 33,R C Palmer Secondary,38,Vancouver Coastal Health,1
 33,R. C. Talmey Elementary,38,Vancouver Coastal Health,1
 33,Sea Island Elementary,38,Vancouver Coastal Health,1
@@ -919,6 +920,7 @@ Rank,School,School District,Health Region,Exposures
 33,Shalhevet Girls High School,39,Vancouver Coastal Health,1
 33,Simon Fraser Elementary,39,Vancouver Coastal Health,1
 33,Sir Guy Carleton Community Elementary,39,Vancouver Coastal Health,1
+33,Sir Richard McBride Annex,39,Vancouver Coastal Health,1
 33,Sir Wilfred Grenfell Elementary,39,Fraser Health Authority,1
 33,Sir William Van Horne Elementary,39,Vancouver Coastal Health,1
 33,St George's School,39,Vancouver Coastal Health,1
