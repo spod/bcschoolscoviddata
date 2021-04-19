@@ -226,6 +226,7 @@ Rank,School,School District,Health Region,Exposures
 29,College Heights Secondary,57,Northern Health,7
 29,Margaret Ma Murray Community School,60,Northern Health,7
 29,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
+29,Mission Senior Secondary,75,Fraser Health Authority,7
 29,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 29,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 29,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,7
@@ -280,7 +281,6 @@ Rank,School,School District,Health Region,Exposures
 30,Merritt Secondary,58,Interior Health Authority,6
 30,Bayview Elementary,68,Vancouver Island Health Authority,6
 30,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
-30,Mission Senior Secondary,75,Fraser Health Authority,6
 30,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,6
 30,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,6
 30,Gobind Sarvar School,Independent Schools in Fraser Health,Fraser Health Authority,6
@@ -421,6 +421,7 @@ Rank,School,School District,Health Region,Exposures
 32,Twelfth Avenue Elementary,41,Fraser Health Authority,4
 32,Westridge Elementary,41,Fraser Health Authority,4
 32,Alexander Robinson Elementary,42,Fraser Health Authority,4
+32,C'usqunela Elementary,42,Fraser Health Authority,4
 32,Edith McDermott Elementary,42,Fraser Health Authority,4
 32,Eric Langton Elementary,42,Fraser Health Authority,4
 32,Laity View Elementary,42,Fraser Health Authority,4
@@ -554,7 +555,6 @@ Rank,School,School District,Health Region,Exposures
 33,Suncrest Elementary,41,Fraser Health Authority,3
 33,Taylor Park Elementary,41,Fraser Health Authority,3
 33,Windsor Elementary,41,Fraser Health Authority,3
-33,C'usqunela Elementary,42,Fraser Health Authority,3
 33,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,3
 33,Maple Ridge Elementary,42,Fraser Health Authority,3
 33,Aspenwood Elementary,43,Fraser Health Authority,3
