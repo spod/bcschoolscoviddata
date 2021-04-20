@@ -104,6 +104,7 @@ Rank,School,School District,Health Region,Exposures
 26,Surrey Traditional,36,Fraser Health Authority,11
 26,Hellings Elementary,37,Fraser Health Authority,11
 26,Eric Hamber Secondary,39,Vancouver Coastal Health,11
+26,Lord Roberts Elementary,39,Vancouver Coastal Health,11
 26,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,11
 26,Moscrop Secondary,41,Fraser Health Authority,11
 26,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,11
@@ -122,7 +123,6 @@ Rank,School,School District,Health Region,Exposures
 27,Katzie Elementary,36,Fraser Health Authority,10
 27,Cougar Canyon Elementary,37,Fraser Health Authority,10
 27,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,10
-27,Lord Roberts Elementary,39,Vancouver Coastal Health,10
 27,Magee Secondary,39,Vancouver Coastal Health,10
 27,Burnaby South Secondary,41,Fraser Health Authority,10
 27,Maple Ridge Secondary,42,Fraser Health Authority,10
@@ -609,6 +609,7 @@ Rank,School,School District,Health Region,Exposures
 34,Barriere Secondary,73,Interior Health Authority,3
 34,Juniper Ridge Elementary,73,Interior Health Authority,3
 34,Kamloops School of the Arts,73,Interior Health Authority,3
+34,Edwin S Richards Elementary,75,Fraser Health Authority,3
 34,Hatzic Elementary,75,Fraser Health Authority,3
 34,Hillside Traditional Academy,75,Fraser Health Authority,3
 34,West Heights Elementary,75,Fraser Health Authority,3
@@ -781,7 +782,6 @@ Rank,School,School District,Health Region,Exposures
 35,Marion Schilling Elementary,73,Interior Health Authority,2
 35,Twin Rivers Education Centre,73,Interior Health Authority,2
 35,Westmount Elementary,73,Interior Health Authority,2
-35,Edwin S Richards Elementary,75,Fraser Health Authority,2
 35,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 35,Cowichan Secondary,79,Vancouver Island Health Authority,2
 35,Drinkwater Elementary,79,Vancouver Island Health Authority,2
