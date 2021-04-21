@@ -6,8 +6,32 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/20/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,April 8 and 9,Exposure 21
 04/20/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 8
 04/20/2021,Vancouver Montessori School,Vancouver,39,Vancouver Coastal Health,April 14 and 15,Exposure 2
-04/20/2021,Cougar Creek Elementary,Surrey,36,Fraser Health Authority,"""April 12, 13, 14, and 15""",Exposure 18
 04/20/2021,Edwin S Richards Elementary,Mission,75,Fraser Health Authority,April 13,Exposure 3
+04/20/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,April 15 and 16,Exposure 15
+04/20/2021,Chalmers Elementary,Delta,37,Fraser Health Authority,April 15 and 16,Exposure 13
+04/20/2021,Cougar Creek Elementary,Surrey,36,Fraser Health Authority,"""April 12, 13, 14, and 15""",Exposure 18
+04/20/2021,Howe Sound Secondary,Squamish,48,Vancouver Coastal Health,Not provided,Exposure 13
+04/20/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,April 13,Exposure 11
+04/20/2021,Don Ross Middle School,,48,Vancouver Coastal Health,Not provided,Exposure 6
+04/20/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 16,Exposure 16
+04/20/2021,Hammond Elementary,Maple Ridge,42,Fraser Health Authority,"""April 12, 13, and 15""",Exposure 1
+04/20/2021,Blue Mountain Elementary,Maple Ridge,42,Fraser Health Authority,"""April 14, 15, and 16""",Exposure 4
+04/20/2021,Mount Baker Secondary,Cranbrook,5,Interior Health Authority,"""April 12, 13, and 14""",Exposure 3
+04/20/2021,Albert McMahon Elementary,Mission,75,Fraser Health Authority,April 13 and 14,Exposure 5
+04/20/2021,Albert McMahon Elementary,Mission,75,Fraser Health Authority,April 6 and 7,Exposure 6
+04/20/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,April 14,Exposure 5
+04/20/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,April 12,Exposure 4
+04/20/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,"""April 12, 13, 14, 15, and 16""",Exposure 16
+04/20/2021,Sunshine Hills Elementary,Delta,37,Fraser Health Authority,April 16,Exposure 5
+04/20/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,April 14 and 15,Exposure 44
+04/20/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,"""April 8, 9, 12, 13, 14, 15, and 16""",Exposure 20
+04/20/2021,L'Ecole Bilingue Elementary,Vancouver,39,Vancouver Coastal Health,April 16,Exposure 5
+04/20/2021,Aberdeen Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,April 14 and 15,Exposure 3
+04/20/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""April 12, 13, 14, 15, and 16""",Exposure 5
+04/20/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,April 9,Exposure 19
+04/20/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""April 12, 13, 14, 15, and 16""",Exposure 15
+04/20/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,April 15 and 16,Exposure 16
+04/20/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,April 13 and 14,Exposure 12
 04/19/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,April 9,Exposure 29
 04/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Document attached shows two separate exposures at the primary school on this date. They are listed as Exposure 7 and 8 on the database.
 04/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Document attached shows two separate exposures at the primary school on this date. They are listed as Exposure 7 and 8 on the database.
@@ -1998,7 +2022,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/28/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,"""Feb 17, 18, 22, 23, and 24""",Exposure 14
 02/28/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""Feb 8, 10, and 11""",Exposure 8
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 17, 18, 19""",Expsoure 6
-02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, 24""",Expsoure 7
 02/27/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""Feb 22, 23, 24""",Expsoure 7
 02/27/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,Feb 25,Exposure 1
 02/27/2021,David Cameron Elementary,Victoria,62,Vancouver Island Health Authority,"""Feb 22, 23, 24""",Exposure 1
