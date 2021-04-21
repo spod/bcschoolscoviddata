@@ -4,7 +4,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/20/2021,Ridgeview Elementary,West Vancouver,45,Vancouver Coastal Health,"""April 14, 15, 16""",Exposure 5
 04/20/2021,Heath Traditional Elementary,Delta,37,Fraser Health Authority,April 12,Exposure 6
 04/20/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,April 8 and 9,Exposure 21
-04/20/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 8
 04/20/2021,Vancouver Montessori School,Vancouver,39,Vancouver Coastal Health,April 14 and 15,Exposure 2
 04/20/2021,Edwin S Richards Elementary,Mission,75,Fraser Health Authority,April 13,Exposure 3
 04/20/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,April 15 and 16,Exposure 15
@@ -57,13 +56,46 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/20/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,April 14,Exposure 25
 04/20/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,"""April 7, 8, 9, 12, 13, 14, and 15""",Exposure 7
 04/20/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,"""April 12, 13, and 14""",Exposure 19
+04/20/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 12, 13, 14, 15, and 16""",Exposure 11
+04/20/2021,Langley Christian (Middle and High),Langley,Independent Schools in Fraser Health,Fraser Health Authority,April 14,Exposure 6
+04/20/2021,Don Christian Elementary,Surrey,36,Fraser Health Authority,April 6,Exposure 4
+04/20/2021,Upper Sumas Elementary,Abbotsford,34,Fraser Health Authority,"""April 12, 13, and 14""",Exposure 2
+04/20/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 16,Exposure 12
+04/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""April 6, 7, 8, 9, 12, 13""",Exposure 2
+04/20/2021,St. Mary's School (Chilliwack),Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""April 14, 15, and 16""",Exposure 2
+04/20/2021,École KLO Middle School,Kelowna,23,Interior Health Authority,"""April 7, 9, and 12""",Exposure 11
+04/20/2021,Pacific Christian School (Victoria),Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,April 12,Exposure 2
+04/20/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Exposure 13
+04/20/2021,Sardis Elementary,Chilliwack,33,Fraser Health Authority,"""April 14, 15, 16""",Exposure 9
+04/20/2021,Abbotsford Dasmesh Punjabi,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 15 and 16,Exposure 12
+04/20/2021,Fraser Valley School,Surrey,35,Fraser Health Authority,April 15,Exposure 1
+04/20/2021,Holy Cross Elementary School (Burnaby),Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""April 12, 13, 14, and 15""",Exposure 11
+04/20/2021,Our Lady of Good Counsel,Surrey,36,Fraser Health Authority,"""April 12, 13, and 14""",Exposure 1
+04/20/2021,Vancouver College,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,April 15 and 16 (Dates on the BCCDC webpage),Exposure 8
+04/20/2021,Matthew McNair Secondary,Richmond,38,Vancouver Coastal Health,April 13 and 16,Exposure 9
+04/20/2021,Xpey' Elementary,Vancouver,39,Vancouver Coastal Health,"""April 12, 13, and 14""",Exposure 3
+04/20/2021,Belgo Elementary School,Kelowna,23,Interior Health Authority,Not provided,Exposure 2
+04/20/2021,Hudson Road Elementary,West Kelowna,23,Interior Health Authority,Not provided,Expsoure 7
+04/20/2021,Canyon Falls Middle School,Kelowna,23,Interior Health Authority,Not provided,Exposure 9
+04/20/2021,Brookside Elementary,Surrey,36,Fraser Health Authority,"""April 15, 16""",Exposure 14
+04/20/2021,Duncan Cran Elementary,,60,Northern Health,"""April 6, 7, 8, 12, 13, and 14""",Exposure 3
+04/20/2021,R L Angus Elementary,Fort Nelson,81,Northern Health,April 12 and 13,Exposure 3
 04/20/2021,Vancouver Technical Secondary,Vancouver,39,Vancouver Coastal Health,"""April 15, 16""",Exposure 13
 04/20/2021,Penelakut Island Elementary,Chemainus,Independent Schools in Island Health,Vancouver Island Health Authority,April 14 and 15,Exposure 1
 04/20/2021,Skaha Lake Middle School,Penticton,67,Interior Health Authority,"""April 12, 13""",Exposure 2
 04/20/2021,Woodland Park Elementary,Surrey,36,Fraser Health Authority,April 13 and 14,Exposure 2
 04/20/2021,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 9
-04/20/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 12, 13, 14, 15, and 16""",Exposure 11
-04/20/2021,St. Mary's School (Chilliwack),Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""April 14, 15, and 16""",Exposure 2
+04/20/2021,Victor-Brodeur,Victoria,93,Vancouver Island Health Authority,April 16,Exposure 2
+04/20/2021,Cougar Canyon Elementary,Delta,37,Fraser Health Authority,April 13,This is a different exposure then exposure 10
+04/20/2021,Rutland Middle School,Kelowna,23,Interior Health Authority,April 13,Exposure 4
+04/20/2021,Energetic Learning Campus,,60,Northern Health,April 14 and 15,Exposure 6
+04/20/2021,Dr Kearney Middle School,,60,Northern Health,April 8 and 9,Exposure 4
+04/20/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""April 13, 14, 15""",Exposure 39
+04/20/2021,South Surrey/White Rock Learning Centre,Surrey,36,Fraser Health Authority,April 14,Exposure 2
+04/20/2021,Newton Elementary,Surrey,36,Fraser Health Authority,"""April 14, 15, 16""",Exposure 7
+04/20/2021,Colebrook Elementary,Surrey,36,Fraser Health Authority,April 14,Exposure 9
+04/20/2021,Green Timbers Elementary,Surrey,36,Fraser Health Authority,"""April 15, 16""",Exposure 11
+04/20/2021,Janice Churchill Elementary,Surrey,36,Fraser Health Authority,"""April 14, 15, 16""",Exposure 3
 04/19/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,April 9,Exposure 29
 04/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Document attached shows two separate exposures at the primary school on this date. They are listed as Exposure 7 and 8 on the database.
 04/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Document attached shows two separate exposures at the primary school on this date. They are listed as Exposure 7 and 8 on the database.
@@ -107,7 +139,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/19/2021,Betty Gilbert Middle,,35,Fraser Health Authority,"""April 14, 15""",Exposure 5
 04/19/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,April 14 and 15,Exposure 14
 04/19/2021,Handsworth Secondary,North Vancouver,44,Vancouver Coastal Health,"""April 13, 14, 15, and 16""",Exposure 18
-04/19/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,Not provided,Exposure 5
 04/19/2021,Parkside Centennial Elementary (Langley),Langley,35,Fraser Health Authority,"""April 14, 15""",Exposure 5
 04/19/2021,K B Woodward Elementary,Surrey,36,Fraser Health Authority,"""April 14, 15, 16""",Exposure 5
 04/19/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""April 12, 13""",Exposure 9
@@ -159,6 +190,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/19/2021,Vancouver Christian,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""April 13, 14, and 15""",Exposure 14
 04/19/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,April 13 and 14,Exposure 44
 04/19/2021,Peter Ewart Middle School,Langley,35,Fraser Health Authority,"""April 13, 14, 15, and 16""",Exposure 8
+04/19/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,April 15 and 15 (Dates on the BCCDC webpage),Exposure 5
 04/18/2021,Canyon Heights Elementary,North Vancouver,44,Vancouver Coastal Health,"""April 12, and 13""",Letter indicates that TWO members have tested positive. These are listed as Exposure 4 and 5.
 04/18/2021,Don Christian Elementary,Surrey,36,Fraser Health Authority,"""April 12, 13, and 14""",Exposure 3
 04/18/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 12 and 14,This exposure was at the Elementary School
@@ -381,7 +413,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/15/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,April 12,Exposure 8
 04/15/2021,Dorothea Walker Elementary,Kelowna,23,Interior Health Authority,"""April 8, 9""",Exposure 3
 04/15/2021,Helen Gorman Elementary,West Kelowna,23,Interior Health Authority,April 9,Exposure 2
-04/15/2021,Rosemont Elementary School,Nelson,8,Interior Health Authority,Not provided,Exposure 2
 04/15/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,April 6 and 7,Exposure 2
 04/15/2021,T E Scott Elementary,Surrey,36,Fraser Health Authority,April 8 and 9,Exposure 14
 04/15/2021,Lake City Secondary (Williams Lake Campus),Williams Lake,27,Interior Health Authority,"""April 6, 7, and 8""",Exposure 6
@@ -429,6 +460,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/15/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,April 12 and 13 (Dates on the BCCDC webpage),Exposure 11
 04/15/2021,Ecole Glen Elementary,Coquitlam,43,Fraser Health Authority,April 12,Exposure 7
 04/15/2021,Urban Academy Junior,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""April 12, 13, and 14 (Dates on the BCCDC webpage)""",Exposure 1
+04/15/2021,Rosemont Elementary School,Nelson,8,Interior Health Authority,April 12 and 13 (Dates on the BCCDC webpage),Exposure 2
 04/14/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 40
 04/14/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,April 7 and 8,Exposure 5
 04/14/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 8,Exposure 17
@@ -1033,7 +1065,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Chantrell Creek Elementary,Surrey,36,Fraser Health Authority,March 31 and April 1,Exposure 2
 04/05/2021,Salmon Arm Secondary (Jackson),Salmon Arm,83,Interior Health Authority,"""March 29, 30""",Exposure 3
 04/05/2021,Lynn Fripps Elementary,Langley,35,Fraser Health Authority,March 31,Exposure 5
-04/05/2021,Canyon Falls Middle School,Kelowna,23,Interior Health Authority,April 1,Exposure 7
 04/05/2021,Westview Elementary (North Vancouver),North Vancouver,44,Vancouver Coastal Health,"""March 31, April 1""",Exposure 3
 04/05/2021,Braemar Elementary,North Vancouver,44,Vancouver Coastal Health,"""March 31, April 1""",Exposure 9
 04/05/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,March 30,Exposure 10
@@ -1059,6 +1090,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Taylor Park Elementary,Burnaby,41,Fraser Health Authority,"""March 29, 30, and 31""",Exposure 2
 04/05/2021,John Knox Christian - Secondary Campus,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31, April 1""",Exposure 1
 04/05/2021,Immaculate Conception School (Delta),Delta,Independent Schools in Fraser Health,Fraser Health Authority,April 1,Exposure 4
+04/05/2021,Canyon Falls Middle School,Kelowna,23,Interior Health Authority,April 1,Exposure 8
 04/04/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""March 29, 30, 31""",Exposure 9
 04/04/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,March 30,Exposure 7
 04/04/2021,Sir Charles Tupper Secondary,Vancouver,39,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 18
