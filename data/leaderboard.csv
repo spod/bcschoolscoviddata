@@ -95,6 +95,7 @@ Rank,School,School District,Health Region,Exposures
 25,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,12
 25,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,12
 26,Promontory Heights Community Elementary,33,Fraser Health Authority,11
+26,Vedder Middle School,33,Fraser Health Authority,11
 26,Blue Jay Elementary,34,Fraser Health Authority,11
 26,Chief Dan George Middle,34,Fraser Health Authority,11
 26,Cambridge Elementary,36,Fraser Health Authority,11
@@ -112,7 +113,6 @@ Rank,School,School District,Health Region,Exposures
 26,Sikh Academy (Newton),Independent Schools in Fraser Health,Fraser Health Authority,11
 26,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,11
 27,École KLO Middle School,23,Interior Health Authority,10
-27,Vedder Middle School,33,Fraser Health Authority,10
 27,Langley Secondary,35,Fraser Health Authority,10
 27,Walnut Grove Secondary,35,Fraser Health Authority,10
 27,Ecole Salish Secondary,36,Fraser Health Authority,10
@@ -170,6 +170,7 @@ Rank,School,School District,Health Region,Exposures
 29,Langley Fine Arts School,35,Fraser Health Authority,8
 29,Peter Ewart Middle School,35,Fraser Health Authority,8
 29,Beaver Creek Elementary,36,Fraser Health Authority,8
+29,Chimney Hill Elementary,36,Fraser Health Authority,8
 29,Colebrook Elementary,36,Fraser Health Authority,8
 29,Dr F D Sinclair Elementary,36,Fraser Health Authority,8
 29,George Greenaway Elementary,36,Fraser Health Authority,8
@@ -216,13 +217,13 @@ Rank,School,School District,Health Region,Exposures
 30,Dave Kandal Elementary School,34,Fraser Health Authority,7
 30,William A. Fraser Middle School,34,Fraser Health Authority,7
 30,Bear Creek Elementary,36,Fraser Health Authority,7
-30,Chimney Hill Elementary,36,Fraser Health Authority,7
 30,Walnut Road Elementary,36,Fraser Health Authority,7
 30,H.J. Cambie Secondary School,38,Vancouver Coastal Health,7
 30,Kathleen McNeely Elementary,38,Vancouver Coastal Health,7
 30,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,7
 30,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,7
 30,Armstrong Elementary (Burnaby),41,Fraser Health Authority,7
+30,Gilpin Elementary,41,Fraser Health Authority,7
 30,Glenwood Elementary (Burnaby),41,Fraser Health Authority,7
 30,Alouette Elementary,42,Fraser Health Authority,7
 30,Cedar Drive Elementary,43,Fraser Health Authority,7
@@ -272,7 +273,6 @@ Rank,School,School District,Health Region,Exposures
 31,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 31,Ecole Marlborough Elementary,41,Fraser Health Authority,6
 31,Edmonds Community Elementary,41,Fraser Health Authority,6
-31,Gilpin Elementary,41,Fraser Health Authority,6
 31,Morley Elementary,41,Fraser Health Authority,6
 31,C'usqunela Elementary,42,Fraser Health Authority,6
 31,Golden Ears Elementary,42,Fraser Health Authority,6
@@ -374,6 +374,7 @@ Rank,School,School District,Health Region,Exposures
 32,Ecole Frank Ross Elementary,59,Northern Health,5
 32,Energetic Learning Campus,60,Northern Health,5
 32,Belmont Secondary,62,Vancouver Island Health Authority,5
+32,Dunsmuir Middle School,62,Vancouver Island Health Authority,5
 32,Wellington Secondary,68,Vancouver Island Health Authority,5
 32,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,5
 32,NorKam Secondary School,73,Interior Health Authority,5
@@ -464,8 +465,8 @@ Rank,School,School District,Health Region,Exposures
 33,Peden Hill Elementary,57,Northern Health,4
 33,Bert Bowes Middle School,60,Northern Health,4
 33,Charlie Lake Elementary,60,Northern Health,4
-33,Dunsmuir Middle School,62,Vancouver Island Health Authority,4
 33,John Barsby Secondary School,68,Vancouver Island Health Authority,4
+33,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,4
 33,Rock City Elementary,68,Vancouver Island Health Authority,4
 33,Beattie Elementary,73,Interior Health Authority,4
 33,Brocklehurst Middle School,73,Interior Health Authority,4
@@ -602,7 +603,6 @@ Rank,School,School District,Health Region,Exposures
 34,David Cameron Elementary,62,Vancouver Island Health Authority,3
 34,Summerland Secondary,67,Interior Health Authority,3
 34,Brechin Elementary,68,Vancouver Island Health Authority,3
-34,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,3
 34,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
 34,Alberni District Secondary School,70,Vancouver Island Health Authority,3
 34,Carihi Secondary,72,Vancouver Island Health Authority,3
@@ -622,6 +622,7 @@ Rank,School,School District,Health Region,Exposures
 34,M.V. Beattie Elementary,83,Interior Health Authority,3
 34,Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,3
 34,Salmon Arm Secondary (Jackson),83,Interior Health Authority,3
+34,Shuswap Middle School,83,Interior Health Authority,3
 34,David Hoy Elementary,91,Northern Health,3
 34,Decker Lake Elementary,91,Northern Health,3
 34,Gabrielle-Roy,93,Fraser Health Authority,3
@@ -797,7 +798,6 @@ Rank,School,School District,Health Region,Exposures
 35,Armstrong Elementary (Armstrong),83,Interior Health Authority,2
 35,Bastion Elementary,83,Interior Health Authority,2
 35,Pleasant Valley Secondary,83,Interior Health Authority,2
-35,Shuswap Middle School,83,Interior Health Authority,2
 35,Fraser Lake Elem-Secondary,91,Northern Health,2
 35,Lakes District Secondary,91,Northern Health,2
 35,Andre-Piolat,93,Vancouver Coastal Health,2
