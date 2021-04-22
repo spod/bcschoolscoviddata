@@ -118,6 +118,7 @@ Rank,School,School District,Health Region,Exposures
 26,Eric Hamber Secondary,39,Vancouver Coastal Health,11
 26,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,11
 26,Moscrop Secondary,41,Fraser Health Authority,11
+26,des Pionniers-de-Maillardville,93,Fraser Health Authority,11
 26,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,11
 26,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,11
 27,Harry Sayers Elementary,34,Fraser Health Authority,10
@@ -135,7 +136,6 @@ Rank,School,School District,Health Region,Exposures
 27,Minnekhada Middle School,43,Fraser Health Authority,10
 27,Braemar Elementary,44,Vancouver Coastal Health,10
 27,Prince George Secondary,57,Northern Health,10
-27,des Pionniers-de-Maillardville,93,Fraser Health Authority,10
 27,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,10
 27,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,10
 27,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,10
@@ -809,6 +809,7 @@ Rank,School,School District,Health Region,Exposures
 35,Armstrong Elementary (Armstrong),83,Interior Health Authority,2
 35,Bastion Elementary,83,Interior Health Authority,2
 35,Pleasant Valley Secondary,83,Interior Health Authority,2
+35,Ranchero Elementary Junior,83,Interior Health Authority,2
 35,Fraser Lake Elem-Secondary,91,Northern Health,2
 35,Lakes District Secondary,91,Northern Health,2
 35,Andre-Piolat,93,Vancouver Coastal Health,2
@@ -1120,7 +1121,6 @@ Rank,School,School District,Health Region,Exposures
 36,Len Wood Middle School,83,Interior Health Authority,1
 36,North Canoe Elementary,83,Interior Health Authority,1
 36,Parkview Elementary School,83,Interior Health Authority,1
-36,Ranchero Elementary Junior,83,Interior Health Authority,1
 36,Salmon Arm West Elementary,83,Interior Health Authority,1
 36,Silver Creek Elementary Secondary (Salmon Arm),83,Interior Health Authority,1
 36,Sorrento Elementary,83,Interior Health Authority,1
