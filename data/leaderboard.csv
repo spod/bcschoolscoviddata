@@ -133,6 +133,7 @@ Rank,School,School District,Health Region,Exposures
 27,Magee Secondary,39,Vancouver Coastal Health,10
 27,Burnaby South Secondary,41,Fraser Health Authority,10
 27,Maple Ridge Secondary,42,Fraser Health Authority,10
+27,Thomas Haney Secondary,42,Fraser Health Authority,10
 27,Minnekhada Middle School,43,Fraser Health Authority,10
 27,Braemar Elementary,44,Vancouver Coastal Health,10
 27,Prince George Secondary,57,Northern Health,10
@@ -157,7 +158,6 @@ Rank,School,School District,Health Region,Exposures
 28,King George Secondary,39,Vancouver Coastal Health,9
 28,Cariboo Hill Secondary,41,Fraser Health Authority,9
 28,Pitt Meadows Secondary,42,Fraser Health Authority,9
-28,Thomas Haney Secondary,42,Fraser Health Authority,9
 28,Eagle Mountain Middle School,43,Fraser Health Authority,9
 28,Ecole Citadel Middle,43,Fraser Health Authority,9
 28,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,9
@@ -553,6 +553,7 @@ Rank,School,School District,Health Region,Exposures
 34,James McKinney Elementary,38,Vancouver Coastal Health,3
 34,Lord Byng Elementary,38,Vancouver Coastal Health,3
 34,R M Grauer Elementary,38,Vancouver Coastal Health,3
+34,William Bridge Elementary,38,Vancouver Coastal Health,3
 34,William Cook Elementary,38,Vancouver Coastal Health,3
 34,Britannia Community Elementary,39,Vancouver Coastal Health,3
 34,Charles Dickens Elementary,39,Vancouver Coastal Health,3
@@ -709,7 +710,6 @@ Rank,School,School District,Health Region,Exposures
 35,Tomekichi Homma Elementary,38,Vancouver Coastal Health,2
 35,W D Ferris Elementary,38,Vancouver Coastal Health,2
 35,Walter Lee Elementary,38,Vancouver Coastal Health,2
-35,William Bridge Elementary,38,Vancouver Coastal Health,2
 35,Captain James Cook Elementary,39,Vancouver Coastal Health,2
 35,Champlain Heights Community Elementary,39,Vancouver Coastal Health,2
 35,Churchill Secondary (Ideal Mini School),39,Vancouver Coastal Health,2
@@ -910,6 +910,7 @@ Rank,School,School District,Health Region,Exposures
 36,Pebble Hill Traditional Elementary,37,Fraser Health Authority,1
 36,Pinewood Elementary (Delta),37,Fraser Health Authority,1
 36,Garden City Elementary,38,Vancouver Coastal Health,1
+36,General Currie Elementary,38,Vancouver Coastal Health,1
 36,Howard De Beck Elementary,38,Vancouver Coastal Health,1
 36,James Thompson Elementary,38,Vancouver Coastal Health,1
 36,Manoah Steves Elementary,38,Vancouver Coastal Health,1
