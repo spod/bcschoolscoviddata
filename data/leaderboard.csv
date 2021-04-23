@@ -5,12 +5,12 @@ Rank,School,School District,Health Region,Exposures
 4,Enver Creek Secondary,36,Fraser Health Authority,44
 5,Queen Elizabeth Secondary,36,Fraser Health Authority,43
 6,Frank Hurt Secondary,36,Fraser Health Authority,42
-7,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,39
+7,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,40
 8,L A Matheson Secondary,36,Fraser Health Authority,37
 9,Fleetwood Park Secondary,36,Fraser Health Authority,31
 10,Kelowna Secondary School,23,Interior Health Authority,30
 10,Guildford Park Secondary,36,Fraser Health Authority,30
-11,Lord Tweedsmuir Secondary,36,Fraser Health Authority,29
+10,Lord Tweedsmuir Secondary,36,Fraser Health Authority,30
 11,North Delta Secondary,37,Fraser Health Authority,29
 11,New Westminster Secondary,40,Fraser Health Authority,29
 12,Johnston Heights Secondary,36,Fraser Health Authority,26
@@ -32,10 +32,10 @@ Rank,School,School District,Health Region,Exposures
 18,Heritage Woods Secondary,43,Fraser Health Authority,20
 19,Rick Hansen Secondary,34,Fraser Health Authority,19
 19,W J Mouat Secondary,34,Fraser Health Authority,19
+19,Cougar Creek Elementary,36,Fraser Health Authority,19
 19,Earl Marriott Secondary,36,Fraser Health Authority,19
 19,Lena Shaw Elementary,36,Fraser Health Authority,19
 19,Delview Secondary,37,Fraser Health Authority,19
-20,Cougar Creek Elementary,36,Fraser Health Authority,18
 20,Burnaby Central Secondary,41,Fraser Health Authority,18
 20,Byrne Creek Community Secondary,41,Fraser Health Authority,18
 20,West Vancouver Secondary,45,Vancouver Coastal Health,18
@@ -75,6 +75,7 @@ Rank,School,School District,Health Region,Exposures
 24,Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,14
 25,D W Poppy Secondary,35,Fraser Health Authority,13
 25,Green Timbers Elementary,36,Fraser Health Authority,13
+25,Panorama Park Elementary,36,Fraser Health Authority,13
 25,Rosemary Heights Elementary,36,Fraser Health Authority,13
 25,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,13
 25,Vancouver Technical Secondary,39,Vancouver Coastal Health,13
@@ -88,7 +89,6 @@ Rank,School,School District,Health Region,Exposures
 26,Robert Bateman Secondary,34,Fraser Health Authority,12
 26,Langley Secondary,35,Fraser Health Authority,12
 26,Richard Bulpitt Elementary,35,Fraser Health Authority,12
-26,Panorama Park Elementary,36,Fraser Health Authority,12
 26,Surrey Traditional,36,Fraser Health Authority,12
 26,Burnsview Secondary,37,Fraser Health Authority,12
 26,McCloskey Elementary,37,Fraser Health Authority,12
@@ -272,6 +272,7 @@ Rank,School,School District,Health Region,Exposures
 32,Maple Green Elementary,36,Fraser Health Authority,6
 32,Mary Jane Shannon Elementary,36,Fraser Health Authority,6
 32,Ocean Cliff Elementary,36,Fraser Health Authority,6
+32,Old Yale Road Elementary,36,Fraser Health Authority,6
 32,William F. Davidson Elementary,36,Fraser Health Authority,6
 32,Brooke Elementary,37,Fraser Health Authority,6
 32,Heath Traditional Elementary,37,Fraser Health Authority,6
@@ -341,7 +342,6 @@ Rank,School,School District,Health Region,Exposures
 33,James Ardiel Elementary,36,Fraser Health Authority,5
 33,K B Woodward Elementary,36,Fraser Health Authority,5
 33,Kennedy Trail Elementary,36,Fraser Health Authority,5
-33,Old Yale Road Elementary,36,Fraser Health Authority,5
 33,Serpentine Heights Elementary,36,Fraser Health Authority,5
 33,South Meridian Elementary,36,Fraser Health Authority,5
 33,Surrey Centre Elementary,36,Fraser Health Authority,5
@@ -538,6 +538,7 @@ Rank,School,School District,Health Region,Exposures
 35,West Langley Elementary,35,Fraser Health Authority,3
 35,Betty Huff Elementary,36,Fraser Health Authority,3
 35,Chantrell Creek Elementary,36,Fraser Health Authority,3
+35,City Central Learning Centre,36,Fraser Health Authority,3
 35,Douglas Elementary,36,Fraser Health Authority,3
 35,H T Thrift Elementary,36,Fraser Health Authority,3
 35,Hjorth Road Elementary,36,Fraser Health Authority,3
@@ -684,7 +685,6 @@ Rank,School,School District,Health Region,Exposures
 36,Langley Meadows Elementary,35,Fraser Health Authority,2
 36,Bothwell Elementary School,36,Fraser Health Authority,2
 36,Bridgeview Elementary,36,Fraser Health Authority,2
-36,City Central Learning Centre,36,Fraser Health Authority,2
 36,Clayton Elementary,36,Fraser Health Authority,2
 36,Coast Meridian Elementary,36,Fraser Health Authority,2
 36,Ellendale Elementary,36,Fraser Health Authority,2
