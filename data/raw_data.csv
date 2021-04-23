@@ -1,11 +1,11 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-04/22/2021,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,"""April 13, 14, and 15""",Document on file stating that there have been two cases covering those dates. (Listed as Exposure 9/10 and Exposure 11)
-04/22/2021,Ranchero Elementary Junior,Salmon Arm,83,Interior Health Authority,Not provided,Exposure 2
-04/22/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,April 19,Exposure 10
-04/22/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 1
-04/22/2021,William Bridge Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
 04/22/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""April 13, 14, 15, and 16""",Exposure 12
 04/22/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 19,Exposure 13
+04/22/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,April 19,Exposure 10
+04/22/2021,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,"""April 13, 14, and 15""",Document on file stating that there have been two cases covering those dates. (Listed as Exposure 9/10 and Exposure 11)
+04/22/2021,William Bridge Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
+04/22/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 1
+04/22/2021,Ranchero Elementary Junior,Salmon Arm,83,Interior Health Authority,Not provided,Exposure 2
 04/21/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,April 14 and 15,Exposure 28
 04/21/2021,Freedom Thinkers Education,,60,Northern Health,April 12 and 13,Exposure 1
 04/21/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,April 14,Exposure 10
@@ -78,8 +78,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/21/2021,Buckhorn Elementary,Prince George,57,Northern Health,April 12,Exposure 2
 04/21/2021,Dr Kearney Middle School,,60,Northern Health,April 15 and 16,Exposure 6
 04/21/2021,North Peace Secondary,,60,Northern Health,April 15 and 16,Exposure 18
-04/21/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,April 19,Exposure 10
 04/21/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 13 and 15,One class has been asked to self-isolate (documentation on file)
+04/21/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,April 19,Exposure 10
 04/20/2021,Vancouver Talmud Torah Elementary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 4
 04/20/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,April 16,Exposure 15
 04/20/2021,Ridgeview Elementary,West Vancouver,45,Vancouver Coastal Health,"""April 14, 15, 16""",Exposure 5
