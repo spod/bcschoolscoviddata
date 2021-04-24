@@ -240,6 +240,7 @@ Rank,School,School District,Health Region,Exposures
 31,Castle Park Elementary,43,Fraser Health Authority,7
 31,Cedar Drive Elementary,43,Fraser Health Authority,7
 31,Ecole Panorama Heights Elementary,43,Fraser Health Authority,7
+31,Don Ross Middle School,48,Vancouver Coastal Health,7
 31,Lax Kxeen Elementary,52,Northern Health,7
 31,College Heights Secondary,57,Northern Health,7
 31,Margaret Ma Murray Community School,60,Northern Health,7
@@ -278,6 +279,7 @@ Rank,School,School District,Health Region,Exposures
 32,William F. Davidson Elementary,36,Fraser Health Authority,6
 32,Brooke Elementary,37,Fraser Health Authority,6
 32,Heath Traditional Elementary,37,Fraser Health Authority,6
+32,Richmond Secondary School,38,Vancouver Coastal Health,6
 32,Steveston-London Secondary School,38,Vancouver Coastal Health,6
 32,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,6
 32,University Hill Secondary,39,Vancouver Coastal Health,6
@@ -297,7 +299,6 @@ Rank,School,School District,Health Region,Exposures
 32,Seymour Heights Elementary,44,Vancouver Coastal Health,6
 32,Ecole Cedardale,45,Vancouver Coastal Health,6
 32,Hollyburn Elementary,45,Vancouver Coastal Health,6
-32,Don Ross Middle School,48,Vancouver Coastal Health,6
 32,Mamquam Elementary,48,Vancouver Coastal Health,6
 32,Prince Rupert Middle,52,Northern Health,6
 32,Merritt Secondary,58,Interior Health Authority,6
@@ -355,7 +356,6 @@ Rank,School,School District,Health Region,Exposures
 33,A.R. MacNeill Secondary,38,Vancouver Coastal Health,5
 33,Hamilton Elementary,38,Vancouver Coastal Health,5
 33,Kingswood Elementary,38,Vancouver Coastal Health,5
-33,Richmond Secondary School,38,Vancouver Coastal Health,5
 33,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,5
 33,Steveston-London Secondary,38,Vancouver Coastal Health,5
 33,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
@@ -659,6 +659,7 @@ Rank,School,School District,Health Region,Exposures
 35,Greater Heights Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,3
 35,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,3
 35,Mount Cheam Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
+35,Pacific Academy Intermediate,Independent Schools in Fraser Health,Fraser Health Authority,3
 35,Sacred Heart Elementary (Delta),Independent Schools in Fraser Health,Fraser Health Authority,3
 35,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 35,Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,3
@@ -732,6 +733,7 @@ Rank,School,School District,Health Region,Exposures
 36,Sir Alexander Mackenzie Elementary,39,Vancouver Coastal Health,2
 36,Sir Matthew Begbie Elementary,39,Vancouver Coastal Health,2
 36,Spectrum Program,39,Vancouver Coastal Health,2
+36,Tecumseh Annex,39,Vancouver Coastal Health,2
 36,Trafalgar Elementary,39,Vancouver Coastal Health,2
 36,Vancouver Montessori School,39,Vancouver Coastal Health,2
 36,F W Howay Elementary,40,Fraser Health Authority,2
@@ -832,7 +834,6 @@ Rank,School,School District,Health Region,Exposures
 36,Fraser Valley Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
 36,Global Montessori,Independent Schools in Fraser Health,Fraser Health Authority,2
 36,Our Lady of Good Counsel,Independent Schools in Fraser Health,Fraser Health Authority,2
-36,Pacific Academy Intermediate,Independent Schools in Fraser Health,Fraser Health Authority,2
 36,Pacific Christian School (Abbotsford),Independent Schools in Fraser Health,Fraser Health Authority,2
 36,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,2
 36,Squiala Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
@@ -955,7 +956,6 @@ Rank,School,School District,Health Region,Exposures
 37,Sir William Van Horne Elementary,39,Vancouver Coastal Health,1
 37,St George's School,39,Vancouver Coastal Health,1
 37,Street Front Alternative Program (Britannia Secondary),39,Vancouver Coastal Health,1
-37,Tecumseh Annex,39,Vancouver Coastal Health,1
 37,The Westside School,39,Vancouver Coastal Health,1
 37,Tillicum Community Annex,39,Vancouver Coastal Health,1
 37,Total Education,39,Vancouver Coastal Health,1

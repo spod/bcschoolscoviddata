@@ -5,20 +5,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/24/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,April 16,Exposure 30
 04/24/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""April 14, 15, and 16""",Exposure 5
 04/24/2021,James Gilmore Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 4
+04/24/2021,Pacific Academy Intermediate,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 21,Exposure 3
+04/24/2021,Richmond Secondary School,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 6
 04/24/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,April 19,Exposure 6
 04/24/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 4
 04/24/2021,Bramblewood Elementary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 1
 04/24/2021,"""Central School (Central Program and Services, Richter Site)""",Kelowna,23,Interior Health Authority,"""April 20, 21""",Exposure 4
 04/24/2021,Alice Brown Elementary,Langley,35,Fraser Health Authority,April 16,Exposure 3
-04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,"""April 12, 13, and 14""",Exposure 4
-04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,April 19,Exposure 5
-04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,"""April 6, 7, 12, 13, and 14""",Exposure 3
-04/23/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,April 16,Exposure 11
-04/23/2021,David Lloyd George Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 19 and 21,Exposure 2
-04/23/2021,Steeples Elementary,Cranbrook,5,Interior Health Authority,April 16,Exposure 1
-04/23/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""April 13, 14, and 16""",Exposure 3
-04/23/2021,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,April 16 and 19,Exposure 12
-04/23/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,April 19,Exposure 38
+04/24/2021,Tecumseh Annex,Vancouver,39,Vancouver Coastal Health,"""April 19, 20, and 21""",Exposure 1
+04/24/2021,Don Ross Middle School,,48,Vancouver Coastal Health,Not provided,Exposure 7
 04/23/2021,St Joseph the Worker,Richmond,Independent Schools in Coastal Health,Vancouver Coastal Health,April 19,Exposure 2
 04/23/2021,Burton Elementary,,10,Interior Health Authority,April 15,Exposure 1
 04/23/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,April 15,Exposure 44
@@ -44,6 +39,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/23/2021,Crescent Park Elementary (Dawson Creek),Dawson Creek,59,Northern Health,"""April 15, 16""",Exposure 4
 04/23/2021,Queensbury Elementary,North Vancouver,44,Vancouver Coastal Health,"""April 13, 14, 15, 16, 19, 20, and 21""",Document indicates two members have tested positive. These are listed as Exposure 2 and Exposure 3 on our database.
 04/23/2021,Queensbury Elementary,North Vancouver,44,Vancouver Coastal Health,"""April 13, 14, 15, 16, 19, 20, and 21""",Document indicates two members have tested positive. These are listed as Exposure 2 and Exposure 3 on our database.
+04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,"""April 12, 13, and 14""",Exposure 4
+04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,April 19,Exposure 5
+04/23/2021,Thunderbird Elementary,Vancouver,39,Vancouver Coastal Health,"""April 6, 7, 12, 13, and 14""",Exposure 3
+04/23/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,April 16,Exposure 11
+04/23/2021,David Lloyd George Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 19 and 21,Exposure 2
+04/23/2021,Steeples Elementary,Cranbrook,5,Interior Health Authority,April 16,Exposure 1
+04/23/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""April 13, 14, and 16""",Exposure 3
+04/23/2021,des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,April 16 and 19,Exposure 12
+04/23/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,April 19,Exposure 38
 04/23/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,April 19 and 20,One division isolating many monitoring.
 04/22/2021,Surrey Traditional,Surrey,36,Fraser Health Authority,"""April 13, 14, 15, and 16""",Exposure 12
 04/22/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 19,Exposure 13
@@ -172,7 +176,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/21/2021,Castle Park Elementary,Port Coquitlam,43,Fraser Health Authority,"""April 19, 20""",Exposure 7
 04/21/2021,Gladstone Secondary,Vancouver,39,Vancouver Coastal Health,"""April 15, 16, 17, 18, 19""","""3 classes isolating, 1 monitoring"""
 04/21/2021,Vancouver Waldorf School,North Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,April 12,Exposure 4
-04/21/2021,Mountain Christian School,Dawson Creek,Independent Schools in Northern Health,Northern Health,April 16,Exposure 4
 04/21/2021,Sir Wilfred Grenfell Elementary,Vancouver,39,Vancouver Coastal Health,April 15 and 16,Exposure 5
 04/21/2021,Cassie Hall Elementary,Terrace,82,Northern Health,"""April 5, 6, 12, 13, 14, 15, and 16""",Exposure 3
 04/21/2021,Buckhorn Elementary,Prince George,57,Northern Health,April 12,Exposure 2
@@ -180,6 +183,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/21/2021,North Peace Secondary,,60,Northern Health,April 15 and 16,Exposure 18
 04/21/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 13 and 15,One class has been asked to self-isolate (documentation on file)
 04/21/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,April 19,Exposure 10
+04/21/2021,Mountain Christian School,Dawson Creek,Independent Schools in Northern Health,Northern Health,April 16,School has closed and moved to online learning for 2 weeks.
 04/20/2021,Vancouver Talmud Torah Elementary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 4
 04/20/2021,Sentinel Secondary,West Vancouver,45,Vancouver Coastal Health,April 16,Exposure 15
 04/20/2021,Ridgeview Elementary,West Vancouver,45,Vancouver Coastal Health,"""April 14, 15, 16""",Exposure 5
