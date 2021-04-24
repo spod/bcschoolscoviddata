@@ -284,6 +284,7 @@ Rank,School,School District,Health Region,Exposures
 32,Queensborough Middle School,40,Fraser Health Authority,6
 32,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 32,Edmonds Community Elementary,41,Fraser Health Authority,6
+32,Montecito Elementary,41,Fraser Health Authority,6
 32,Morley Elementary,41,Fraser Health Authority,6
 32,C'usqunela Elementary,42,Fraser Health Authority,6
 32,Golden Ears Elementary,42,Fraser Health Authority,6
@@ -366,7 +367,6 @@ Rank,School,School District,Health Region,Exposures
 33,Lord Tweedsmuir Elementary,40,Fraser Health Authority,5
 33,Burnaby Mountain Secondary,41,Fraser Health Authority,5
 33,Cameron Elementary,41,Fraser Health Authority,5
-33,Montecito Elementary,41,Fraser Health Authority,5
 33,Albion Elementary,42,Fraser Health Authority,5
 33,Alexander Robinson Elementary,42,Fraser Health Authority,5
 33,Garibaldi Secondary,42,Fraser Health Authority,5
@@ -407,6 +407,7 @@ Rank,School,School District,Health Region,Exposures
 33,Chief Matthews School,Independent Schools in Northern Health,Northern Health,5
 33,Nak'albun Elementary School,Independent Schools in Northern Health,Northern Health,5
 34,Hillview Elementary,22,Interior Health Authority,4
+34,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,4
 34,A S Matheson Elementary,23,Interior Health Authority,4
 34,Davidson Road Elementary,23,Interior Health Authority,4
 34,Glenrosa Middle School,23,Interior Health Authority,4
@@ -463,6 +464,7 @@ Rank,School,School District,Health Region,Exposures
 34,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
 34,Ecole Nestor Elementary,43,Fraser Health Authority,4
 34,Hazel Trembath Elementary,43,Fraser Health Authority,4
+34,James Park Elementary,43,Fraser Health Authority,4
 34,Moody Elementary,43,Fraser Health Authority,4
 34,Mountain Meadows Elementary,43,Fraser Health Authority,4
 34,Port Moody Secondary,43,Fraser Health Authority,4
@@ -523,7 +525,6 @@ Rank,School,School District,Health Region,Exposures
 35,Arrow Heights Elementary,19,Interior Health Authority,3
 35,Revelstoke Secondary,19,Interior Health Authority,3
 35,Mission Hill Elementary,22,Interior Health Authority,3
-35,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,3
 35,Bankhead Elementary,23,Interior Health Authority,3
 35,Dorothea Walker Elementary,23,Interior Health Authority,3
 35,George Pringle Elementary,23,Interior Health Authority,3
@@ -538,6 +539,7 @@ Rank,School,School District,Health Region,Exposures
 35,Dr Thomas A Swift Elementary,34,Fraser Health Authority,3
 35,Margaret Stenersen Elementary,34,Fraser Health Authority,3
 35,McMillan Elementary,34,Fraser Health Authority,3
+35,Alice Brown Elementary,35,Fraser Health Authority,3
 35,Gordon Greenwood Elementary,35,Fraser Health Authority,3
 35,Langley Fundamental Elementary,35,Fraser Health Authority,3
 35,Noel Booth Elementary,35,Fraser Health Authority,3
@@ -599,7 +601,6 @@ Rank,School,School District,Health Region,Exposures
 35,Ecole Montgomery Middle,43,Fraser Health Authority,3
 35,Ecole Porter Street Elementary,43,Fraser Health Authority,3
 35,Hillcrest Middle School,43,Fraser Health Authority,3
-35,James Park Elementary,43,Fraser Health Authority,3
 35,Leigh Elementary,43,Fraser Health Authority,3
 35,Miller Park Community School,43,Fraser Health Authority,3
 35,Riverview Park Elementary,43,Fraser Health Authority,3
@@ -686,7 +687,6 @@ Rank,School,School District,Health Region,Exposures
 36,Sandy Hill Elementary,34,Fraser Health Authority,2
 36,Upper Sumas Elementary,34,Fraser Health Authority,2
 36,Alex Hope Elementary,35,Fraser Health Authority,2
-36,Alice Brown Elementary,35,Fraser Health Authority,2
 36,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 36,Langley Meadows Elementary,35,Fraser Health Authority,2
 36,Bothwell Elementary School,36,Fraser Health Authority,2
@@ -987,6 +987,7 @@ Rank,School,School District,Health Region,Exposures
 37,Baker Drive Elementary,43,Fraser Health Authority,1
 37,Birchland Elementary,43,Fraser Health Authority,1
 37,Blakeburn Elementary,43,Fraser Health Authority,1
+37,Bramblewood Elementary,43,Fraser Health Authority,1
 37,Ecole Banting Middle,43,,1
 37,Ecole Westwood Elementary (Port Coquitlam),43,Fraser Health Authority,1
 37,Encompass (Coquitlam),43,Fraser Health Authority,1
