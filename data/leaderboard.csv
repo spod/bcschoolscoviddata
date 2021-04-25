@@ -155,6 +155,7 @@ Rank,School,School District,Health Region,Exposures
 29,Hazelgrove Elementary,36,Fraser Health Authority,9
 29,Holly Elementary (Surrey),36,Fraser Health Authority,9
 29,Latimer Road Elementary,36,Fraser Health Authority,9
+29,Martha Currie Elementary,36,Fraser Health Authority,9
 29,Royal Heights Elementary,36,Fraser Health Authority,9
 29,Senator Reid Elementary,36,Fraser Health Authority,9
 29,Simon Cunningham Elementary,36,Fraser Health Authority,9
@@ -186,7 +187,6 @@ Rank,School,School District,Health Region,Exposures
 30,George Greenaway Elementary,36,Fraser Health Authority,8
 30,Laronde Elementary,36,Fraser Health Authority,8
 30,M B Sanford Elementary,36,Fraser Health Authority,8
-30,Martha Currie Elementary,36,Fraser Health Authority,8
 30,Martha Jane Norris Elementary,36,Fraser Health Authority,8
 30,W E Kinvig Elementary,36,Fraser Health Authority,8
 30,Delta Secondary,37,Fraser Health Authority,8
@@ -691,6 +691,7 @@ Rank,School,School District,Health Region,Exposures
 36,Alex Hope Elementary,35,Fraser Health Authority,2
 36,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 36,Langley Meadows Elementary,35,Fraser Health Authority,2
+36,Shortreed Community School,35,Fraser Health Authority,2
 36,Bothwell Elementary School,36,Fraser Health Authority,2
 36,Bridgeview Elementary,36,Fraser Health Authority,2
 36,Clayton Elementary,36,Fraser Health Authority,2
@@ -899,7 +900,6 @@ Rank,School,School District,Health Region,Exposures
 37,James Kennedy Elementary,35,Fraser Health Authority,1
 37,Langley Online and Distributed Learning,35,Fraser Health Authority,1
 37,Nicomekl Elementary,35,Fraser Health Authority,1
-37,Shortreed Community School,35,Fraser Health Authority,1
 37,St Catherines School,35,Fraser Health Authority,1
 37,Topham Elementary,35,Fraser Health Authority,1
 37,West Langley StrongStart Centre,35,Fraser Health Authority,1
@@ -1082,6 +1082,7 @@ Rank,School,School District,Health Region,Exposures
 37,Frank J Ney,68,Vancouver Island Health Authority,1
 37,Learning Alternatives (John Barsby site),68,Vancouver Island Health Authority,1
 37,McGirr Elementary,68,Vancouver Island Health Authority,1
+37,Quarterway Elementary,68,Vancouver Island Health Authority,1
 37,Uplands Park Elementary,68,Vancouver Island Health Authority,1
 37,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 37,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
