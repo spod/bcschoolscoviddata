@@ -82,14 +82,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/25/2021,Royal Heights Elementary,Surrey,36,Fraser Health Authority,"""April 15, 16""",Exposure 10
 04/25/2021,Steeples Elementary,Cranbrook,5,Interior Health Authority,April 18,Exposure 2
 04/25/2021,Westmount Elementary,Kamloops,73,Interior Health Authority,April 19 and 20,Exposure 3
-04/25/2021,Urban Academy Junior,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Exposure 2
-04/25/2021,Surrey Muslim School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""April 19, 20, and 21""",Exposure 9
 04/25/2021,Westcot Elementary,West Vancouver,45,Vancouver Coastal Health,Not provided,Exposure 5
-04/25/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,"""April 19, 20, 21""",Exposure 6
-04/25/2021,George Elliot Secondary,,23,Interior Health Authority,April 19,Exposure 7
 04/25/2021,Sir Richard McBride Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 18,Exposure 9
 04/25/2021,Walnut Road Elementary,Surrey,36,Fraser Health Authority,"""April 15, 16""",Exposure 8
 04/25/2021,Hugh McRoberts Secondary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 9
+04/25/2021,BC Muslim School,Richmond,Independent Schools in Coastal Health,Vancouver Coastal Health,April 15,Exposure 5
+04/25/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,"""April 19, 20, 21""",Exposure 6
+04/25/2021,George Elliot Secondary,,23,Interior Health Authority,April 19,Exposure 7
+04/25/2021,Urban Academy Junior,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,April 15,Exposure 2
+04/25/2021,Surrey Muslim School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""April 19, 20, and 21""",Exposure 9
 04/24/2021,Constable Neil Bruce Middle School,West Kelowna,23,Interior Health Authority,April 20 and 21,Exposure 6
 04/24/2021,Gray Elementary,Delta,37,Fraser Health Authority,April 15 and 16,Exposure 4
 04/24/2021,Brent Kennedy Elementary,,8,Interior Health Authority,April 20,Exposure 1
@@ -748,7 +749,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/15/2021,Ecole Glen Elementary,Coquitlam,43,Fraser Health Authority,April 12,Exposure 7
 04/15/2021,Urban Academy Junior,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""April 12, 13, and 14 (Dates on the BCCDC webpage)""",Exposure 1
 04/15/2021,Rosemont Elementary School,Nelson,8,Interior Health Authority,April 12 and 13 (Dates on the BCCDC webpage),Exposure 2
-04/15/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 13,One class has been asked to self-isolate (Documentation on file)
+04/15/2021,Pacific Academy Middle School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 12 (document on file),One class has been asked to self-isolate (Documentation on file)
 04/14/2021,Sullivan Heights Secondary,Surrey,36,Fraser Health Authority,"""April 6, 7, 8, and 9""",Exposure 40
 04/14/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,April 7 and 8,Exposure 5
 04/14/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 8,Exposure 17
