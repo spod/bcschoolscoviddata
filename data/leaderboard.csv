@@ -461,6 +461,7 @@ Rank,School,School District,Health Region,Exposures
 35,Lakeview Elementary,41,Fraser Health Authority,4
 35,Twelfth Avenue Elementary,41,Fraser Health Authority,4
 35,Westridge Elementary,41,Fraser Health Authority,4
+35,Windsor Elementary,41,Fraser Health Authority,4
 35,Blue Mountain Elementary,42,Fraser Health Authority,4
 35,Edith McDermott Elementary,42,Fraser Health Authority,4
 35,Eric Langton Elementary,42,Fraser Health Authority,4
@@ -562,6 +563,7 @@ Rank,School,School District,Health Region,Exposures
 36,Sullivan Elementary,36,Fraser Health Authority,3
 36,William Watson Elementary,36,Fraser Health Authority,3
 36,Ladner Elementary,37,Fraser Health Authority,3
+36,Blundell Elementary,38,Vancouver Coastal Health,3
 36,Hugh Boyd Secondary,38,Vancouver Coastal Health,3
 36,James McKinney Elementary,38,Vancouver Coastal Health,3
 36,Lord Byng Elementary,38,Vancouver Coastal Health,3
@@ -595,7 +597,6 @@ Rank,School,School District,Health Region,Exposures
 36,Sperling Elementary,41,Fraser Health Authority,3
 36,Suncrest Elementary,41,Fraser Health Authority,3
 36,Taylor Park Elementary,41,Fraser Health Authority,3
-36,Windsor Elementary,41,Fraser Health Authority,3
 36,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,3
 36,Maple Ridge Elementary,42,Fraser Health Authority,3
 36,Aspenwood Elementary,43,Fraser Health Authority,3
@@ -715,7 +716,6 @@ Rank,School,School District,Health Region,Exposures
 37,Devon Gardens Elementary,37,Fraser Health Authority,2
 37,Holly Elementary (Delta),37,Fraser Health Authority,2
 37,Az-Zahraa Islamic Academy,38,Vancouver Coastal Health,2
-37,Blundell Elementary,38,Vancouver Coastal Health,2
 37,Canada Star Secondary School,38,Vancouver Coastal Health,2
 37,J N Burnett Secondary,38,Vancouver Coastal Health,2
 37,John G Diefenbaker Elementary,38,Vancouver Coastal Health,2
@@ -842,6 +842,7 @@ Rank,School,School District,Health Region,Exposures
 37,Credo Christian Elementary School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,2
 37,Fraser Valley Elementary,Independent Schools in Fraser Health,Fraser Health Authority,2
 37,Global Montessori,Independent Schools in Fraser Health,Fraser Health Authority,2
+37,John Knox Christian - Elementary Campus,Independent Schools in Fraser Health,Fraser Health Authority,2
 37,Our Lady of Good Counsel,Independent Schools in Fraser Health,Fraser Health Authority,2
 37,Pacific Christian School (Abbotsford),Independent Schools in Fraser Health,Fraser Health Authority,2
 37,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,2
@@ -977,7 +978,6 @@ Rank,School,School District,Health Region,Exposures
 38,Burnaby South Community & Continuing Education,41,Fraser Health Authority,1
 38,Burnaby Youth HUB,41,Fraser Health Authority,1
 38,Confederation Park Elementary,41,Fraser Health Authority,1
-38,John Knox Christian - Elementary Campus,41,Fraser Health Authority,1
 38,Lyndhurst Elementary,41,Fraser Health Authority,1
 38,Nelson Elementary,41,Fraser Health Authority,1
 38,Outlook Secondary Program,41,Fraser Health Authority,1
