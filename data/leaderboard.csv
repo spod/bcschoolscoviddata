@@ -125,6 +125,8 @@ Rank,School,School District,Health Region,Exposures
 28,Burnaby South Secondary,41,Fraser Health Authority,11
 28,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,11
 28,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,11
+28,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,11
+29,Mount Boucherie Secondary School,23,Interior Health Authority,10
 29,Harry Sayers Elementary,34,Fraser Health Authority,10
 29,Cindrich Elementary,36,Fraser Health Authority,10
 29,Creekside Elementary,36,Fraser Health Authority,10
@@ -147,8 +149,6 @@ Rank,School,School District,Health Region,Exposures
 29,Prince George Secondary,57,Northern Health,10
 29,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,10
 29,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,10
-29,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,10
-30,Mount Boucherie Secondary School,23,Interior Health Authority,9
 30,École Dr. Knox Middle School,23,Interior Health Authority,9
 30,Mount Slesse Middle School,33,Fraser Health Authority,9
 30,Sardis Elementary,33,Fraser Health Authority,9
@@ -655,6 +655,7 @@ Rank,School,School District,Health Region,Exposures
 36,Shuswap Middle School,83,Interior Health Authority,3
 36,David Hoy Elementary,91,Northern Health,3
 36,Decker Lake Elementary,91,Northern Health,3
+36,Andre-Piolat,93,Vancouver Coastal Health,3
 36,Gabrielle-Roy,93,Fraser Health Authority,3
 36,La Passerelle,93,Vancouver Coastal Health,3
 36,Victor-Brodeur,93,Vancouver Island Health Authority,3
@@ -829,7 +830,6 @@ Rank,School,School District,Health Region,Exposures
 37,Ranchero Elementary Junior,83,Interior Health Authority,2
 37,Fraser Lake Elem-Secondary,91,Northern Health,2
 37,Lakes District Secondary,91,Northern Health,2
-37,Andre-Piolat,93,Vancouver Coastal Health,2
 37,La Vallee,93,Vancouver Coastal Health,2
 37,Holy Trinity School,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 37,Lions Gate Christian Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,2
