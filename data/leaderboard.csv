@@ -32,12 +32,12 @@ Rank,School,School District,Health Region,Exposures
 19,Earl Marriott Secondary,36,Fraser Health Authority,20
 19,Delview Secondary,37,Fraser Health Authority,20
 19,Kitsilano Secondary,39,Vancouver Coastal Health,20
+19,Burnaby Central Secondary,41,Fraser Health Authority,20
 19,Burnaby North Secondary,41,Fraser Health Authority,20
 20,Rick Hansen Secondary,34,Fraser Health Authority,19
 20,W J Mouat Secondary,34,Fraser Health Authority,19
 20,Cougar Creek Elementary,36,Fraser Health Authority,19
 20,Lena Shaw Elementary,36,Fraser Health Authority,19
-20,Burnaby Central Secondary,41,Fraser Health Authority,19
 20,Byrne Creek Community Secondary,41,Fraser Health Authority,19
 21,Woodward Hill Elementary,36,Fraser Health Authority,18
 21,West Vancouver Secondary,45,Vancouver Coastal Health,18
@@ -922,7 +922,6 @@ Rank,School,School District,Health Region,Exposures
 38,Maddaugh Road Elementary,36,Fraser Health Authority,1
 38,Panorama Ridge Secondary,36,Vancouver Coastal Health,1
 38,Ray Shepherd Elementary,36,Fraser Health Authority,1
-38,St Bernadette,36,Fraser Health Authority,1
 38,TREES - Teen Recreation and Educational School,36,Fraser Health Authority,1
 38,Tamanawis Secondary,36,Vancouver Coastal Health,1
 38,Cliff Drive Elementary,37,Fraser Health Authority,1
@@ -1176,6 +1175,7 @@ Rank,School,School District,Health Region,Exposures
 38,Purpose Independent Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 38,Rothewood Academy (South Surrey),Independent Schools in Fraser Health,Fraser Health Authority,1
 38,Sikh Academy Fleetwood Elementary,Independent Schools in Fraser Health,Fraser Health Authority,1
+38,St Bernadette,Independent Schools in Fraser Health,Fraser Health Authority,1
 38,St Matthew's Elementary,Independent Schools in Fraser Health,Fraser Health Authority,1
 38,St. James and St. Anns Elementary,Independent Schools in Fraser Health,Fraser Health Authority,1
 38,Traditional Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,1
