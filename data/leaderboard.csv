@@ -294,6 +294,7 @@ Rank,School,School District,Health Region,Exposures
 35,Sunshine Hills Elementary,37,Fraser Health Authority,6
 35,Richmond Secondary School,38,Vancouver Coastal Health,6
 35,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,6
+35,Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,6
 35,University Hill Secondary,39,Vancouver Coastal Health,6
 35,Chaffey-Burke Elementary,41,Fraser Health Authority,6
 35,Morley Elementary,41,Fraser Health Authority,6
@@ -369,7 +370,6 @@ Rank,School,School District,Health Region,Exposures
 36,Steveston-London Secondary,38,Vancouver Coastal Health,5
 36,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
 36,Sir James Douglas Elementary (Vancouver),39,Vancouver Coastal Health,5
-36,Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,5
 36,Thunderbird Elementary,39,Vancouver Coastal Health,5
 36,Tyee Elementary,39,Vancouver Coastal Health,5
 36,Ecole Qayqayt Elementary,40,Fraser Health Authority,5
