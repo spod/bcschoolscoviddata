@@ -6,7 +6,7 @@ Rank,School,School District,Health Region,Exposures
 5,Queen Elizabeth Secondary,36,Fraser Health Authority,45
 6,Frank Hurt Secondary,36,Fraser Health Authority,44
 7,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,43
-8,L A Matheson Secondary,36,Fraser Health Authority,41
+8,L A Matheson Secondary,36,Fraser Health Authority,42
 9,Fleetwood Park Secondary,36,Fraser Health Authority,33
 9,Guildford Park Secondary,36,Fraser Health Authority,33
 10,Kelowna Secondary School,23,Interior Health Authority,31
@@ -109,6 +109,7 @@ Rank,School,School District,Health Region,Exposures
 27,McCloskey Elementary,37,Fraser Health Authority,12
 27,Sands Secondary,37,Fraser Health Authority,12
 27,Lord Roberts Elementary,39,Vancouver Coastal Health,12
+27,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,12
 27,Burnaby South Secondary,41,Fraser Health Authority,12
 27,Samuel Robertson Technical Secondary,42,Fraser Health Authority,12
 27,Ecole Riverside Secondary,43,Fraser Health Authority,12
@@ -134,7 +135,7 @@ Rank,School,School District,Health Region,Exposures
 28,Hellings Elementary,37,Fraser Health Authority,11
 28,Eric Hamber Secondary,39,Vancouver Coastal Health,11
 28,King George Secondary,39,Vancouver Coastal Health,11
-28,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,11
+28,Cariboo Hill Secondary,41,Fraser Health Authority,11
 28,Ecole Glen Elementary,43,Fraser Health Authority,11
 28,Pinetree Secondary,43,Fraser Health Authority,11
 28,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,11
@@ -151,7 +152,6 @@ Rank,School,School District,Health Region,Exposures
 29,White Rock Elementary,36,Fraser Health Authority,10
 29,Magee Secondary,39,Vancouver Coastal Health,10
 29,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,10
-29,Cariboo Hill Secondary,41,Fraser Health Authority,10
 29,Montecito Elementary,41,Fraser Health Authority,10
 29,Maple Ridge Secondary,42,Fraser Health Authority,10
 29,Thomas Haney Secondary,42,Fraser Health Authority,10
@@ -1102,6 +1102,7 @@ Rank,School,School District,Health Region,Exposures
 38,Quarterway Elementary,68,Vancouver Island Health Authority,1
 38,Uplands Park Elementary,68,Vancouver Island Health Authority,1
 38,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
+38,Errington Elementary,69,Vancouver Island Health Authority,1
 38,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
 38,A W Neill Elementary,70,Vancouver Island Health Authority,1
 38,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
