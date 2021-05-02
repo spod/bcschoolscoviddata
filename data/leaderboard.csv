@@ -100,6 +100,7 @@ Rank,School,School District,Health Region,Exposures
 27,Boundary Park Elementary,36,Fraser Health Authority,13
 27,Cambridge Elementary,36,Fraser Health Authority,13
 27,Sands Secondary,37,Fraser Health Authority,13
+27,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,13
 27,Ecole Alpha Secondary,41,Fraser Health Authority,13
 27,Ecole Riverside Secondary,43,Fraser Health Authority,13
 27,Upper Lynn Elementary,44,Vancouver Coastal Health,13
@@ -115,7 +116,6 @@ Rank,School,School District,Health Region,Exposures
 28,Cougar Canyon Elementary,37,Fraser Health Authority,12
 28,McCloskey Elementary,37,Fraser Health Authority,12
 28,Lord Roberts Elementary,39,Vancouver Coastal Health,12
-28,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,12
 28,Burnaby South Secondary,41,Fraser Health Authority,12
 28,Samuel Robertson Technical Secondary,42,Fraser Health Authority,12
 28,Nanaimo District Secondary,68,Vancouver Island Health Authority,12
@@ -252,6 +252,7 @@ Rank,School,School District,Health Region,Exposures
 33,Prince Charles Elementary (Surrey),36,Fraser Health Authority,7
 33,Serpentine Heights Elementary,36,Fraser Health Authority,7
 33,Sunnyside Elementary,36,Fraser Health Authority,7
+33,Surrey Centre Elementary,36,Fraser Health Authority,7
 33,Heath Traditional Elementary,37,Fraser Health Authority,7
 33,H.J. Cambie Secondary School,38,Vancouver Coastal Health,7
 33,Kathleen McNeely Elementary,38,Vancouver Coastal Health,7
@@ -306,7 +307,6 @@ Rank,School,School District,Health Region,Exposures
 34,Maple Green Elementary,36,Fraser Health Authority,6
 34,Mary Jane Shannon Elementary,36,Fraser Health Authority,6
 34,Ocean Cliff Elementary,36,Fraser Health Authority,6
-34,Surrey Centre Elementary,36,Fraser Health Authority,6
 34,William F. Davidson Elementary,36,Fraser Health Authority,6
 34,Brooke Elementary,37,Fraser Health Authority,6
 34,South Delta Secondary,37,Fraser Health Authority,6
@@ -591,6 +591,7 @@ Rank,School,School District,Health Region,Exposures
 37,North Surrey Learning Centre,36,Fraser Health Authority,3
 37,Port Kells Elementary,36,Fraser Health Authority,3
 37,Ladner Elementary,37,Fraser Health Authority,3
+37,Pebble Hill Traditional Elementary,37,Fraser Health Authority,3
 37,Blundell Elementary,38,Vancouver Coastal Health,3
 37,James McKinney Elementary,38,Vancouver Coastal Health,3
 37,Lord Byng Elementary,38,Vancouver Coastal Health,3
@@ -739,7 +740,6 @@ Rank,School,School District,Health Region,Exposures
 38,South Surrey/White Rock Learning Centre,36,Fraser Health Authority,2
 38,Devon Gardens Elementary,37,Fraser Health Authority,2
 38,Holly Elementary (Delta),37,Fraser Health Authority,2
-38,Pebble Hill Traditional Elementary,37,Fraser Health Authority,2
 38,Az-Zahraa Islamic Academy,38,Vancouver Coastal Health,2
 38,Canada Star Secondary School,38,Vancouver Coastal Health,2
 38,J N Burnett Secondary,38,Vancouver Coastal Health,2
