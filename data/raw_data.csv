@@ -91,6 +91,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/01/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,April 28,Exposure 47
 05/01/2021,Alice Brown Elementary,Langley,35,Fraser Health Authority,April 22 and 23,Exposure 4
 05/01/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,April 27,Exposure 8
+04/30/2021,John G Diefenbaker Elementary,Richmond,38,Vancouver Coastal Health,April 26 and 27 (Documentation on file showing the dates and that is this actually two cases. We have listed the additional case as Exposure 6).,Exposure 4
 04/30/2021,Ruth King Elementary,Victoria,62,Vancouver Island Health Authority,April 27 and 28,Exposure 1
 04/30/2021,Frank Hurt Secondary,Surrey,36,Fraser Health Authority,April 26 and 27,Exposure 45
 04/30/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,April 22,Exposure 17
@@ -145,7 +146,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/30/2021,Edgewood Elementary (Surrey),Surrey,36,Fraser Health Authority,April 26,Exposure 5
 04/30/2021,Frost Road Elementary,Surrey,36,Fraser Health Authority,"""April 26, 27, 28""",Exposure 5
 04/30/2021,Blueridge Elementary,North Vancouver,44,Vancouver Coastal Health,"""April 27, 28""",Exposure 4
-04/30/2021,John G Diefenbaker Elementary,Richmond,38,Vancouver Coastal Health,April 26 and 27 (Documentation on file showing the dates and that is this actually two cases. We have listed the additional case as Exposure 6).,Exposure 4
 04/29/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,April 26,Exposure 3
 04/29/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,April 22 and 26,Exposure 25
 04/29/2021,Dogwood Elementary,Surrey,36,Fraser Health Authority,April 21 and 22,Exposure 2
