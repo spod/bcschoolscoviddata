@@ -133,6 +133,7 @@ Rank,School,School District,Health Region,Exposures
 28,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,12
 29,Mount Boucherie Secondary School,23,Interior Health Authority,11
 29,École KLO Middle School,23,Interior Health Authority,11
+29,Abbotsford Middle School,34,Fraser Health Authority,11
 29,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,11
 29,Ecole Salish Secondary,36,Fraser Health Authority,11
 29,Elgin Park Secondary,36,Fraser Health Authority,11
@@ -151,7 +152,6 @@ Rank,School,School District,Health Region,Exposures
 29,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,11
 29,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,11
 29,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,11
-30,Abbotsford Middle School,34,Fraser Health Authority,10
 30,Harry Sayers Elementary,34,Fraser Health Authority,10
 30,Peter Ewart Middle School,35,Fraser Health Authority,10
 30,George Greenaway Elementary,36,Fraser Health Authority,10
@@ -481,6 +481,7 @@ Rank,School,School District,Health Region,Exposures
 36,Mitchell Elementary,38,Vancouver Coastal Health,4
 36,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
 36,William Cook Elementary,38,Vancouver Coastal Health,4
+36,Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,4
 36,Edith Cavell Elementary,39,Vancouver Coastal Health,4
 36,G T Cunningham Elementary,39,Vancouver Coastal Health,4
 36,John Norquay Elementary,39,Vancouver Coastal Health,4
@@ -606,7 +607,6 @@ Rank,School,School District,Health Region,Exposures
 37,Britannia Community Elementary,39,Vancouver Coastal Health,3
 37,Captain James Cook Elementary,39,Vancouver Coastal Health,3
 37,Charles Dickens Elementary,39,Vancouver Coastal Health,3
-37,Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,3
 37,False Creek Elementary,39,Vancouver Coastal Health,3
 37,Florence Nightingale Elementary,39,Vancouver Coastal Health,3
 37,General Brock Elementary,39,Vancouver Coastal Health,3
