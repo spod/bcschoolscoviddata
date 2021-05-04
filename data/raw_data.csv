@@ -1,4 +1,22 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+05/04/2021,Templeton Secondary,Vancouver,39,Vancouver Coastal Health,April27 and 28,Exposure 10
+05/03/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 26
+05/03/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 20
+05/03/2021,Lord Selkirk Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30""",Exposure 3
+05/03/2021,John Norquay Elementary,Vancouver,39,Fraser Health Authority,"""April 23, 27, 28""",Exposure 5
+05/03/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,April 28 and 29,Exposure 5
+05/03/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,April 27 and 28,Exposure 11
+05/03/2021,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,"""April 15, 16, 19, 20, 22, 23, 26 and 27""",Exposure 15
+05/03/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""April 26, 27, 28, 29""",Exposure 15
+05/03/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,April 22 and 30,Exposure 11
+05/03/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,April 28 and 29,Exposure 12
+05/03/2021,North Otter Elementary,,35,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 1
+05/03/2021,Ecole Pitt River Middle,Port Coquitlam,43,Fraser Health Authority,"""April 27, 28, 29""",Exposure 10
+05/03/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,"""April 27, 28, and 29""",Exposure 18
+05/03/2021,Crescent Park Elementary (Dawson Creek),Dawson Creek,59,Northern Health,April 22 and 23,Exposure 5
+05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 23, 28""",Exposure 11
+05/03/2021,Walnut Road Elementary,Surrey,36,Fraser Health Authority,"""April 21, 22, 23""",Exposure 9
+05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 29, 30""",Exposure 12
 05/03/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 27, 28, and 29""",Exposure 15
 05/03/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""April 28, 29, 30""",Exposure 47
 05/03/2021,Canalta Elementary,Dawson Creek,59,Northern Health,April 21 and 22,Exposure 3
@@ -41,23 +59,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/03/2021,Cindrich Elementary,Surrey,36,Fraser Health Authority,April 30,Exposure 13
 05/03/2021,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 26 and 28,Exposure 9
 05/03/2021,Sikh Academy (Newton),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 27 and 28,Exposure 15
-05/03/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 26
-05/03/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 20
-05/03/2021,Lord Selkirk Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30""",Exposure 3
-05/03/2021,John Norquay Elementary,Vancouver,39,Fraser Health Authority,"""April 23, 27, 28""",Exposure 5
-05/03/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,April 28 and 29,Exposure 5
-05/03/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,April 27 and 28,Exposure 11
-05/03/2021,Ecole Citadel Middle,Port Coquitlam,43,Fraser Health Authority,"""April 15, 16, 19, 20, 22, 23, 26 and 27""",Exposure 15
-05/03/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""April 26, 27, 28, 29""",Exposure 15
-05/03/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,April 22 and 30,Exposure 11
-05/03/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,April 28 and 29,Exposure 12
-05/03/2021,North Otter Elementary,,35,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 1
-05/03/2021,Ecole Pitt River Middle,Port Coquitlam,43,Fraser Health Authority,"""April 27, 28, 29""",Exposure 10
-05/03/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,"""April 27, 28, and 29""",Exposure 18
-05/03/2021,Crescent Park Elementary (Dawson Creek),Dawson Creek,59,Northern Health,April 22 and 23,Exposure 5
-05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 23, 28""",Exposure 11
-05/03/2021,Walnut Road Elementary,Surrey,36,Fraser Health Authority,"""April 21, 22, 23""",Exposure 9
-05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 29, 30""",Exposure 12
 05/02/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,April 26,Exposure 20
 05/02/2021,W E Kinvig Elementary,Surrey,36,Fraser Health Authority,April 22 and 23,Exposure 9
 05/02/2021,Chief Dan George Middle,Abbotsford,34,Fraser Health Authority,April 26,Exposure 12
@@ -128,8 +129,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/02/2021,Sperling Elementary,Burnaby,41,Fraser Health Authority,April 20,Exposure 4
 05/02/2021,Forsyth Road Elementary,Surrey,36,Fraser Health Authority,April 28,Exposure 3
 05/02/2021,Surrey Centre Elementary,Surrey,36,Fraser Health Authority,April 27,Exposure 7
-05/02/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,"""April 20, 21, 22""",Exposure 10
 05/02/2021,Nakusp Elementary,Nakusp,10,Interior Health Authority,April 28,Note: This school has been closed for two week and will resume in-class learning on May 17th because of the number of staff members self-isolating due to covid exposures in the school.
+05/02/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,"""April 20, 21, 22""",Exposure 10
 05/01/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,April 23,Exposure 55
 05/01/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,April 26 and 27,Exposure 14
 05/01/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,April 26 and 27,Exposure 16
