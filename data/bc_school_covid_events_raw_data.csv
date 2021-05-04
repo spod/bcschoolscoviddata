@@ -45,7 +45,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 23, 28""",Exposure 11
 05/03/2021,Walnut Road Elementary,Surrey,36,Fraser Health Authority,"""April 21, 22, 23""",Exposure 9
 05/03/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 29, 30""",Exposure 12
-05/03/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,"""April 26, 27""",Exposure 11
+05/03/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 27, 28, and 29""",Exposure 15
+05/03/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""April 28, 29, 30""",Exposure 47
 05/03/2021,Canalta Elementary,Dawson Creek,59,Northern Health,April 21 and 22,Exposure 3
 05/03/2021,J T Brown Elementary,Surrey,36,Fraser Health Authority,April 23,Exposure 7
 05/03/2021,Rockridge Secondary,West Vancouver,45,Vancouver Coastal Health,April 27 and 28,Exposure 10
@@ -55,9 +56,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/03/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,April 21 and 22,Exposure 7
 05/03/2021,Simon Fraser Elementary,Vancouver,39,Vancouver Coastal Health,April 28 and 29,Exposure 2
 05/03/2021,J T Brown Elementary,Surrey,36,Fraser Health Authority,"""April 26, 27""",Exposure 8
+05/03/2021,Martha Jane Norris Elementary,Surrey,36,Fraser Health Authority,"""April 26, 27""",Exposure 11
 05/03/2021,Senator Reid Elementary,Surrey,36,Fraser Health Authority,April 28,Exposure 12
-05/03/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 27, 28, and 29""",Exposure 15
-05/03/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""April 28, 29, 30""",Exposure 47
 05/02/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,April 26,Exposure 20
 05/02/2021,W E Kinvig Elementary,Surrey,36,Fraser Health Authority,April 22 and 23,Exposure 9
 05/02/2021,Chief Dan George Middle,Abbotsford,34,Fraser Health Authority,April 26,Exposure 12
