@@ -238,6 +238,7 @@ Rank,School,School District,Health Region,Exposures
 32,Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health Authority,8
 32,St Michael’s Elementary (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,8
 32,Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
+33,Nakusp Elementary,10,Interior Health Authority,7
 33,Clarence Fulton Secondary,22,Interior Health Authority,7
 33,Vernon Secondary,22,Interior Health Authority,7
 33,Casorso Elementary School,23,Interior Health Authority,7
@@ -296,7 +297,6 @@ Rank,School,School District,Health Region,Exposures
 33,St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,7
 33,Timothy Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 33,Aberdeen Hall Preparatory School (Junior School),Independent Schools in Interior Health,Interior Health Authority,7
-34,Nakusp Elementary,10,Interior Health Authority,6
 34,Constable Neil Bruce Middle School,23,Interior Health Authority,6
 34,Glenrosa Middle School,23,Interior Health Authority,6
 34,Pearson Road Elementary,23,Interior Health Authority,6
