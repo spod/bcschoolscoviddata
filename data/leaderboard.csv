@@ -259,6 +259,7 @@ Rank,School,School District,Health Region,Exposures
 33,Harold Bishop Elementary,36,Fraser Health Authority,7
 33,Henry Bose Elementary,36,Fraser Health Authority,7
 33,James Ardiel Elementary,36,Fraser Health Authority,7
+33,Maple Green Elementary,36,Fraser Health Authority,7
 33,McLeod Road Traditional,36,Fraser Health Authority,7
 33,Old Yale Road Elementary,36,Fraser Health Authority,7
 33,Sunnyside Elementary,36,Fraser Health Authority,7
@@ -315,7 +316,6 @@ Rank,School,School District,Health Region,Exposures
 34,Adams Road Elementary,36,Fraser Health Authority,6
 34,Hyland Elementary,36,Fraser Health Authority,6
 34,Kirkbride Elementary,36,Fraser Health Authority,6
-34,Maple Green Elementary,36,Fraser Health Authority,6
 34,Mary Jane Shannon Elementary,36,Fraser Health Authority,6
 34,Ocean Cliff Elementary,36,Fraser Health Authority,6
 34,William F. Davidson Elementary,36,Fraser Health Authority,6
@@ -614,6 +614,7 @@ Rank,School,School District,Health Region,Exposures
 37,William Bridge Elementary,38,Vancouver Coastal Health,3
 37,Britannia Community Elementary,39,Vancouver Coastal Health,3
 37,Captain James Cook Elementary,39,Vancouver Coastal Health,3
+37,Champlain Heights Community Elementary,39,Vancouver Coastal Health,3
 37,Charles Dickens Elementary,39,Vancouver Coastal Health,3
 37,False Creek Elementary,39,Vancouver Coastal Health,3
 37,Florence Nightingale Elementary,39,Vancouver Coastal Health,3
@@ -762,7 +763,6 @@ Rank,School,School District,Health Region,Exposures
 38,Tomekichi Homma Elementary,38,Vancouver Coastal Health,2
 38,W D Ferris Elementary,38,Vancouver Coastal Health,2
 38,Walter Lee Elementary,38,Vancouver Coastal Health,2
-38,Champlain Heights Community Elementary,39,Vancouver Coastal Health,2
 38,Churchill Secondary (Ideal Mini School),39,Vancouver Coastal Health,2
 38,David Lloyd George Elementary (Vancouver),39,Vancouver Coastal Health,2
 38,Dr George M Weir Elementary,39,Vancouver Coastal Health,2
