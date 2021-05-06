@@ -9,8 +9,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/05/2021,Alexander Robinson Elementary,Maple Ridge,42,Fraser Health Authority,April 28 and 29,Exposure 6
 05/05/2021,Forsyth Road Elementary,Surrey,36,Fraser Health Authority,"""April 20, 21, 22, 23, and 26""",Exposure 4
 05/05/2021,Nakusp Elementary,Nakusp,10,Interior Health Authority,April 29,Exposure 7
-05/05/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,"""April 26, 27, 28, 29, and 30""",Exposure 4
-05/05/2021,Matthew McNair Secondary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 10
 05/05/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,April 30,Exposure 4
 05/05/2021,Donald E McKay Elementary (Richmond),Richmond,38,Vancouver Coastal Health,"""April 26 (pm only), 27 and 28 (Documentation on file).""",Exposure 5
 05/05/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,April 29,Exposure 8
@@ -29,10 +27,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/05/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""April 28, 29, and 30""",Exposure 5
 05/05/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,April 27,Exposure 6
 05/05/2021,Westerman Elementary,Surrey,36,Fraser Health Authority,April 29,Exposure 19
-05/05/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 7
-05/05/2021,ASIA - Sumas Mountain 6-8,Abbotsford,34,Fraser Health Authority,April 29,Exposure 3
+05/05/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,"""April 26, 27, 28, 29, and 30""",Exposure 4
 05/05/2021,Langley Christian (Middle and High),Langley,Independent Schools in Fraser Health,Fraser Health Authority,April 29 and 30,Exposure 11
 05/05/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,April 29 and 30,Exposure 14
+05/05/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 7
+05/05/2021,ASIA - Sumas Mountain 6-8,Abbotsford,34,Fraser Health Authority,April 29,Exposure 3
+05/05/2021,Matthew McNair Secondary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 10
 05/04/2021,St. Mary's School (Chilliwack),Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,April 22,Exposure 4
 05/04/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,April 26 and 27,Exposure 16
 05/04/2021,Nakusp Elementary,Nakusp,10,Interior Health Authority,"""April 27, 28, 29, and 30""",Exposure 6
