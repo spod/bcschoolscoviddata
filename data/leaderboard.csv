@@ -1,6 +1,6 @@
 Rank,School,School District,Health Region,Exposures
 1,Panorama Ridge Secondary,36,Fraser Health Authority,57
-2,Tamanawis Secondary,36,Fraser Health Authority,55
+2,Tamanawis Secondary,36,Fraser Health Authority,56
 3,Frank Hurt Secondary,36,Fraser Health Authority,50
 4,Enver Creek Secondary,36,Fraser Health Authority,49
 4,Queen Elizabeth Secondary,36,Fraser Health Authority,49
@@ -469,6 +469,7 @@ Rank,School,School District,Health Region,Exposures
 35,Langley Fundamental Elementary,35,Fraser Health Authority,4
 35,Noel Booth Elementary,35,Fraser Health Authority,4
 35,Berkshire Park Elementary,36,Fraser Health Authority,4
+35,Bothwell Elementary School,36,Fraser Health Authority,4
 35,City Central Learning Centre,36,Fraser Health Authority,4
 35,Clayton Elementary,36,Fraser Health Authority,4
 35,Coyote Creek Elementary,36,Fraser Health Authority,4
@@ -599,7 +600,6 @@ Rank,School,School District,Health Region,Exposures
 36,Langley Meadows Elementary,35,Fraser Health Authority,3
 36,Shortreed Community School,35,Fraser Health Authority,3
 36,West Langley Elementary,35,Fraser Health Authority,3
-36,Bothwell Elementary School,36,Fraser Health Authority,3
 36,Bridgeview Elementary,36,Fraser Health Authority,3
 36,Chantrell Creek Elementary,36,Fraser Health Authority,3
 36,Douglas Elementary,36,Fraser Health Authority,3
