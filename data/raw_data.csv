@@ -1,4 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+05/07/2021,Jarvis Traditional Elementary,Delta,37,Fraser Health Authority,April 29,Exposure 5
 05/06/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 7
 05/06/2021,Champlain Heights Community Elementary,Vancouver,39,Vancouver Coastal Health,May 3,Exposure 3
 05/06/2021,Chief Dan George Middle,Abbotsford,34,Fraser Health Authority,"""April 27, 28, and 29""",Exposure 13
@@ -108,7 +109,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/04/2021,Hjorth Road Elementary,Surrey,36,Fraser Health Authority,April 30,Exposure 5
 05/04/2021,Ecole Irvine Elementary,Port Coquitlam,43,Fraser Health Authority,April 28,Exposure 4
 05/04/2021,Scott Creek Middle School,Coquitlam,43,Fraser Health Authority,April 28 and 29,Exposure 10
-05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",We have documentation on file that shows this is different then exposure 7
 05/04/2021,Credo Christian High School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,April 27,Exposure 12
 05/04/2021,Khalsa School of the Fraser Valley,Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""April 26, 27, 28, and 29""",Exposure 6
 05/04/2021,St Catherines School,Langley,35,Fraser Health Authority,April 27 and 28,Exposure 2
@@ -143,8 +143,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/04/2021,Summit Middle School,Coquitlam,43,Fraser Health Authority,April 26 and 27,Exposure 10
 05/04/2021,Cornerstone Christian School,Abbotsford,34,Fraser Health Authority,"""April 28, 29, and 30""",Exposure 2
 05/04/2021,Cornerstone Montessori School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 28 and 29,Exposure 7
-05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",Exposure 7
-05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,April 28,Exposure 6
 05/04/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,April 29,Exposure 10
 05/04/2021,Sir William Van Horne Elementary,Vancouver,39,Vancouver Coastal Health,"""April 26, 27, 28""",Exposure 2
 05/04/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""April 28, 29, 30""",Exposure 21
@@ -158,6 +156,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/04/2021,Dr H N MacCorkindale Elementary,Vancouver,39,Vancouver Coastal Health,April 29,Exposure 4
 05/04/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,April 21 and 23,Exposure 11
 05/04/2021,Dave Kandal Elementary School,Abbotsford,34,Fraser Health Authority,"""April 21, 22, and 23""",Exposure 8
+05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",We have documentation on file that shows this is different then exposure 7
+05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,April 28,Functional Closure at this school. It will re-open on May 10th. (Documentation on file).
+05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",Functional Closure at this school. It will re-open on May 10th. (Documentation on file).
 05/03/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 26
 05/03/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 20
 05/03/2021,Lord Selkirk Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30""",Exposure 3
