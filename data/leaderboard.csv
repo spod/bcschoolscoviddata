@@ -34,13 +34,13 @@ Rank,School,School District,Health Region,Exposures
 18,Heritage Woods Secondary,43,Fraser Health Authority,22
 18,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,22
 19,Lena Shaw Elementary,36,Fraser Health Authority,21
+19,Delview Secondary,37,Fraser Health Authority,21
 19,Burnaby Central Secondary,41,Fraser Health Authority,21
 19,Burnaby North Secondary,41,Fraser Health Authority,21
 19,Handsworth Secondary,44,Vancouver Coastal Health,21
 20,Eugene Reimer Middle School,34,Fraser Health Authority,20
 20,Westerman Elementary,36,Fraser Health Authority,20
 20,Woodward Hill Elementary,36,Fraser Health Authority,20
-20,Delview Secondary,37,Fraser Health Authority,20
 20,Gladstone Secondary,39,Vancouver Coastal Health,20
 20,Kitsilano Secondary,39,Vancouver Coastal Health,20
 20,North Peace Secondary,60,Northern Health,20
@@ -472,6 +472,7 @@ Rank,School,School District,Health Region,Exposures
 36,Watson Road Elementary,23,Interior Health Authority,4
 36,Nesika Elementary,27,Interior Health Authority,4
 36,Rosedale Traditional Community,33,Fraser Health Authority,4
+36,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,4
 36,Dr Thomas A Swift Elementary,34,Fraser Health Authority,4
 36,Margaret Stenersen Elementary,34,Fraser Health Authority,4
 36,Alice Brown Elementary,35,Fraser Health Authority,4
@@ -595,7 +596,6 @@ Rank,School,School District,Health Region,Exposures
 37,Mountview Elementary,27,Interior Health Authority,3
 37,Robertson Elementary,33,Fraser Health Authority,3
 37,ASIA - Sumas Mountain 6-8,34,Fraser Health Authority,3
-37,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,3
 37,Dormick Park Elementary,34,Fraser Health Authority,3
 37,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,3
 37,Alex Hope Elementary,35,Fraser Health Authority,3
@@ -847,6 +847,7 @@ Rank,School,School District,Health Region,Exposures
 38,Marion Schilling Elementary,73,Interior Health Authority,2
 38,Twin Rivers Education Centre,73,Interior Health Authority,2
 38,Ecole Heritage Park Middle School,75,Fraser Health Authority,2
+38,Coquihalla Elementary,78,Fraser Health Authority,2
 38,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 38,Cowichan Secondary,79,Vancouver Island Health Authority,2
 38,Drinkwater Elementary,79,Vancouver Island Health Authority,2
@@ -1153,7 +1154,6 @@ Rank,School,School District,Health Region,Exposures
 39,Cherry Hill Elementary,75,Fraser Health Authority,1
 39,Christine Morrison Elementary,75,Fraser Health Authority,1
 39,Dewdney Elementary,75,Fraser Health Authority,1
-39,Coquihalla Elementary,78,Fraser Health Authority,1
 39,Chemainus Elementary Community School,79,Vancouver Island Health Authority,1
 39,Cowichan Valley Open Learning Co-op,79,Vancouver Island Health Authority,1
 39,Crofton Elementary Community School,79,Vancouver Island Health Authority,1
