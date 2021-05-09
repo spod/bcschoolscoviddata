@@ -307,6 +307,7 @@ Rank,School,School District,Health Region,Exposures
 34,Pearson Road Elementary,23,Interior Health Authority,6
 34,Springvalley Middle School,23,Interior Health Authority,6
 34,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,6
+34,Little Mountain Elementary,33,Fraser Health Authority,6
 34,Abbotsford Traditional Middle School,34,Fraser Health Authority,6
 34,Mountain Elementary,34,Fraser Health Authority,6
 34,Ross Elementary,34,Fraser Health Authority,6
@@ -326,6 +327,7 @@ Rank,School,School District,Health Region,Exposures
 34,William F. Davidson Elementary,36,Fraser Health Authority,6
 34,Brooke Elementary,37,Fraser Health Authority,6
 34,Gibson Elementary (Delta),37,Fraser Health Authority,6
+34,Jarvis Traditional Elementary,37,Fraser Health Authority,6
 34,South Delta Secondary,37,Fraser Health Authority,6
 34,Sunshine Hills Elementary,37,Fraser Health Authority,6
 34,John G Diefenbaker Elementary,38,Vancouver Coastal Health,6
@@ -376,7 +378,6 @@ Rank,School,School District,Health Region,Exposures
 35,Ellison Elementary,23,Interior Health Authority,5
 35,North Glenmore Elementary,23,Interior Health Authority,5
 35,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,5
-35,Little Mountain Elementary,33,Fraser Health Authority,5
 35,Unsworth Elementary,33,Fraser Health Authority,5
 35,ASIA - North Poplar,34,Fraser Health Authority,5
 35,Alexander Elementary (Abbotsford),34,Fraser Health Authority,5
@@ -394,7 +395,6 @@ Rank,School,School District,Health Region,Exposures
 35,South Meridian Elementary,36,Fraser Health Authority,5
 35,Sullivan Elementary,36,Fraser Health Authority,5
 35,Annieville Elementary,37,Fraser Health Authority,5
-35,Jarvis Traditional Elementary,37,Fraser Health Authority,5
 35,Richardson Elementary,37,Fraser Health Authority,5
 35,A.R. MacNeill Secondary,38,Vancouver Coastal Health,5
 35,Donald E McKay Elementary (Richmond),38,Vancouver Coastal Health,5
