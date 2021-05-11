@@ -63,7 +63,9 @@ def main():
         if e.exposures < min_exp:
             min_exp = e.exposures
             rank += 1
-        writer.writerow([rank, e.school, e.school_district, e.health_region, e.exposures])
+        writer.writerow(
+            [rank, e.school, e.school_district, e.health_region, e.exposures]
+        )
 
 
 if __name__ == "__main__":
