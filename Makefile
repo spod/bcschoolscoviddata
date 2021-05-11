@@ -10,6 +10,9 @@ update:
 	./json_to_csv.py data/bc_school_covid_events_raw_data.json data/raw_data.csv
 	./json_to_csv.py data/bc_school_covid_events_raw_data.json data/bc_school_covid_events_raw_data.csv
 	./exposure_leaderboard.py data/bc_school_covid_events_raw_data.csv data/leaderboard.csv
+	rm -f data/exposures.sqlite
+	./json_to_sqlite.py data/bc_school_covid_events_raw_data.json data/exposures.sqlite
+
 
 push:
 	# handled with a github workflow, see ./github/workflows/update.yml
