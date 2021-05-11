@@ -25,6 +25,19 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/10/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 3,Different case then Exposure 10
 05/10/2021,William Bridge Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 4
 05/10/2021,Walnut Grove Secondary,Langley,35,Fraser Health Authority,"""April 30 - May 3, 4, 5, 6""",Exposure 15
+05/10/2021,Betty Gilbert Middle,,35,Fraser Health Authority,"""May 3, 4""",Exposure 8
+05/10/2021,Campbell River Christian School,Campbell River,Independent Schools in Island Health,Vancouver Island Health Authority,April 27 and 29,Exposure 1
+05/10/2021,Surrey Christian School (Fleetwood Campus),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""April 29, 30, May 3, 4, and 5""",Exposure 4
+05/10/2021,Fort Nelson Secondary,Fort Nelson,81,Northern Health,"""April 28, 29, and 30""",Exposure 5
+05/10/2021,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 5,Exposure 27
+05/10/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,May 3,Exposure 12
+05/10/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,May 3 and 5,Exposure 6
+05/10/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,"""May 5, 6, and 7""",Exposure 15
+05/10/2021,Cornerstone Christian Academy,Richmond,Independent Schools in Coastal Health,Vancouver Coastal Health,May 6,Exposure 1
+05/10/2021,Churchill Secondary (Ideal Mini School),Vancouver,39,Vancouver Coastal Health,"""April 30, May 4, 5""",Exposure 3
+05/10/2021,A.R. MacNeill Secondary,Richmond,38,Vancouver Coastal Health,May 4 and 5,Exposure 6
+05/10/2021,Dawson Creek Secondary,Dawson Creek,59,Northern Health,May 4 and 5,Ecposure 16 - Central Campus
+05/10/2021,Lord Roberts Annex,Vancouver,39,Vancouver Coastal Health,May 5,Exposure 3
 05/10/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 30
 05/10/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,May 5 and 6,Exposure 60
 05/10/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,April 30,Exposure 59
@@ -41,19 +54,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/10/2021,Guru Angand Dev Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""May 3, 4, and 5""",Exposure 17
 05/10/2021,Energetic Learning Campus,,60,Northern Health,May 4,Exposure 8
 05/10/2021,St Patrick Regional Secondary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""May 3, 6""",Exposure 10
-05/10/2021,Betty Gilbert Middle,,35,Fraser Health Authority,"""May 3, 4""",Exposure 8
-05/10/2021,Campbell River Christian School,Campbell River,Independent Schools in Island Health,Vancouver Island Health Authority,April 27 and 29,Exposure 1
-05/10/2021,Surrey Christian School (Fleetwood Campus),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""April 29, 30, May 3, 4, and 5""",Exposure 4
-05/10/2021,Fort Nelson Secondary,Fort Nelson,81,Northern Health,"""April 28, 29, and 30""",Exposure 5
-05/10/2021,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 5,Exposure 27
-05/10/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,May 3,Exposure 12
-05/10/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,May 3 and 5,Exposure 6
-05/10/2021,Britannia Community Secondary,Vancouver,39,Vancouver Coastal Health,"""May 5, 6, and 7""",Exposure 15
-05/10/2021,Cornerstone Christian Academy,Richmond,Independent Schools in Coastal Health,Vancouver Coastal Health,May 6,Exposure 1
-05/10/2021,Churchill Secondary (Ideal Mini School),Vancouver,39,Vancouver Coastal Health,"""April 30, May 4, 5""",Exposure 3
-05/10/2021,A.R. MacNeill Secondary,Richmond,38,Vancouver Coastal Health,May 4 and 5,Exposure 6
-05/10/2021,Dawson Creek Secondary,Dawson Creek,59,Northern Health,May 4 and 5,Ecposure 16 - Central Campus
-05/10/2021,Lord Roberts Annex,Vancouver,39,Vancouver Coastal Health,May 5,Exposure 3
 05/09/2021,Ecole Dr Charles Best Secondary,Coquitlam,43,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 13
 05/09/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,"""May 3, 4, and 5""",Exposure 28
 05/09/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,May 3 and 4,Exposure 50
