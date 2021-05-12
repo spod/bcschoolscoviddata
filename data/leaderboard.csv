@@ -221,6 +221,7 @@ Rank,School,School District,Health Region,Exposures
 32,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 32,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,9
 33,Canyon Falls Middle School,23,Interior Health Authority,8
+33,Vedder Elementary,33,Fraser Health Authority,8
 33,Clearbrook Elementary,34,Fraser Health Authority,8
 33,McMillan Elementary,34,Fraser Health Authority,8
 33,Betty Gilbert Middle,35,Fraser Health Authority,8
@@ -260,7 +261,6 @@ Rank,School,School District,Health Region,Exposures
 34,Pearson Road Elementary,23,Interior Health Authority,7
 34,Rose Valley Elementary,23,Interior Health Authority,7
 34,Marie Sharpe Elementary,27,Interior Health Authority,7
-34,Vedder Elementary,33,Fraser Health Authority,7
 34,ASIA - North Poplar,34,Fraser Health Authority,7
 34,King Traditional Elementary,34,Fraser Health Authority,7
 34,Mountain Elementary,34,Fraser Health Authority,7
