@@ -9,6 +9,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/12/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 3
 05/12/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,May 4 and 5,Exposure 6
 05/12/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,May 4,Exposure 13
+05/12/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""May 3, 4, 5, and 6""",Exposure 11
+05/12/2021,Alif Academy Education,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6 and 7,Exposure 2
+05/12/2021,North Ridge Elementary (Surrey),Surrey,36,Fraser Health Authority,"""May 3, 4""",Exposure 14
 05/12/2021,Hjorth Road Elementary,Surrey,36,Fraser Health Authority,April 28,Exposure 8
 05/12/2021,Chatelech Secondary,Sechelt,46,Vancouver Coastal Health,May 6,Exposure 6
 05/12/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,May 10 and 11,Exposure 23
@@ -37,9 +40,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/12/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 3
 05/12/2021,Abbotsford Dasmesh Punjabi,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""May 4, 5, adn 6""",Exposure 18
 05/12/2021,Heritage Christian Online School (DL),Kelowna,23,Interior Health Authority,May 6,"""This exposure is listed on the BCCDC Fraser Health webpage but we understand that this school is located in Kelowna, making it part of Interior Health and have listed it as such on our database."""
-05/12/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""May 3, 4, 5, and 6""",Exposure 11
-05/12/2021,Alif Academy Education,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6 and 7,Exposure 2
-05/12/2021,North Ridge Elementary (Surrey),Surrey,36,Fraser Health Authority,"""May 3, 4""",Exposure 14
 05/12/2021,Holly Elementary (Surrey),Surrey,36,Fraser Health Authority,May 6,Different then Exposure 11
 05/12/2021,Strawberry Hill Elementary,Surrey,36,Fraser Health Authority,"""May 6, 7, 8, 9, 10, 11""",Exposure 11
 05/12/2021,Mountainview Montessori,Surrey,36,Fraser Health Authority,May 6,Exposure 4
