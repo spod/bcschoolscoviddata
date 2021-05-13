@@ -7,6 +7,31 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/12/2021,Taylor Park Elementary,Burnaby,41,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 4
 05/12/2021,Ecole Riverside Secondary,Port Coquitlam,43,Fraser Health Authority,May 6,Exposure 15
 05/12/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 3
+05/12/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,May 4 and 5,Exposure 6
+05/12/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,May 4,Exposure 13
+05/12/2021,Hjorth Road Elementary,Surrey,36,Fraser Health Authority,April 28,Exposure 8
+05/12/2021,Chatelech Secondary,Sechelt,46,Vancouver Coastal Health,May 6,Exposure 6
+05/12/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,May 10 and 11,Exposure 23
+05/12/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,May 5 and 6,Exposure 27
+05/12/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,"""May 3, 4, 6, 7, and 11""",Exposure 34
+05/12/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 27
+05/12/2021,Sir Alexander Mackenzie Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 5
+05/12/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,May 4 and 5,Exposure 13
+05/12/2021,Langley Secondary,Langley,35,Fraser Health Authority,May 3 and 4,Exposure 17
+05/12/2021,Sunshine Hills Elementary,Delta,37,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 7
+05/12/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,May 5 and 6,Exposure 45
+05/12/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,May 3,Exposure 31
+05/12/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30, May 3, 4, 5, 6, 7, 10 and 11""",Exposure 7
+05/12/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,May 4,Different exposure then exposure 7
+05/12/2021,Surrey Centre Elementary,Surrey,36,Fraser Health Authority,April 30,Exposure 10
+05/12/2021,Windsor Elementary,Burnaby,41,Fraser Health Authority,"""May 6, 7""",Exposure 5
+05/12/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,May 7,Exposure 9
+05/12/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,May 7,Exposure 7
+05/12/2021,West Heights Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, 7""",Exposure 4
+05/12/2021,Pinetree Way Elementary,Coquitlam,43,Fraser Health Authority,May 5 and 6,Exposure 2
+05/12/2021,Edith Cavell Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 6
+05/12/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""May 3, 4, 5, and 6""",Exposure 11
+05/12/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""May 6, 7""",Exposure 17
 05/11/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,May 4 and 5,Exposure 35
 05/11/2021,Jessie Lee Elementary,Surrey,36,Fraser Health Authority,"""May 3, 4, and 5""",Exposure 3
 05/11/2021,New Hazelton Elementary,New Hazelton,82,Northern Health,May 4 and 5,Exposure 1
@@ -31,7 +56,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/11/2021,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,May 6 and 7,Exposure 18
 05/11/2021,Nicomekl Elementary,Langley,35,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 2
 05/11/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,"""May 6, 7""",2 classes asked to self isolate
-05/11/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 28, May 3, 4, 5, 6, and 7""",This exposure was at the Secondary School.
 05/11/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not Provided,Exposure 13
 05/11/2021,Mountain Elementary,Abbotsford,34,Fraser Health Authority,"""May 5, 6""",Exposure 7
 05/11/2021,ASIA - North Poplar,Abbotsford,34,Fraser Health Authority,"""April 28, 29 - May 3, 4""",Exposure 6
@@ -68,10 +92,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/11/2021,Lord Roberts Annex,Vancouver,39,Vancouver Coastal Health,May 6 and 7,Exposure 4
 05/11/2021,St Patrick Regional Secondary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 7,Exposure 11
 05/11/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""April 26, 27, 28, 29, May 3 and 4""",Exposure 3
-05/11/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,May 6 and 7,Three classes have been asked to self-isolate (Documentation on file)
 05/11/2021,North Delta Secondary,Delta,37,Fraser Health Authority,"""May 4, 6""",Exposure 37
 05/11/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""May 4, 5""",Exposure 48
 05/11/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,"""April 26, 27, 28, 29, May 3 and 4""",Exposure 12
+05/11/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 28, May 3, 4, 5, 6, and 7""",This exposure was at the Secondary School. Full class has been asked to isolate.
+05/11/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,May 6 and 7,One class has been asked to self-isolate (Documentation on file)
 05/10/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,"""May 5, 6, 7""",Exposure 2
 05/10/2021,North Delta Secondary,Delta,37,Fraser Health Authority,"""May 3, 4, 6""","""Letter on file indicates 3 separate exposures occurred (these are exposure 34, 35 and 36 on our database)"""
 05/10/2021,North Delta Secondary,Delta,37,Fraser Health Authority,"""May 3, 4, 6""","""Letter on file indicates 3 separate exposures occurred (these are exposure 34, 35 and 36 on our database)"""
