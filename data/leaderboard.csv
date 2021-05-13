@@ -510,6 +510,7 @@ Rank,School,School District,Health Region,Exposures
 38,R.C. Palmer Secondary School,38,Vancouver Coastal Health,4
 38,William Bridge Elementary,38,Vancouver Coastal Health,4
 38,Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,4
+38,False Creek Elementary,39,Vancouver Coastal Health,4
 38,G T Cunningham Elementary,39,Vancouver Coastal Health,4
 38,Lord Beaconsfield Elementary,39,Vancouver Coastal Health,4
 38,Mount Pleasant Elementary,39,Vancouver Coastal Health,4
@@ -639,7 +640,6 @@ Rank,School,School District,Health Region,Exposures
 39,Charles Dickens Elementary,39,Vancouver Coastal Health,3
 39,Churchill Secondary (Ideal Mini School),39,Vancouver Coastal Health,3
 39,Dr George M Weir Elementary,39,Vancouver Coastal Health,3
-39,False Creek Elementary,39,Vancouver Coastal Health,3
 39,Florence Nightingale Elementary,39,Vancouver Coastal Health,3
 39,General Brock Elementary,39,Vancouver Coastal Health,3
 39,General Gordon Elementary,39,Vancouver Coastal Health,3
@@ -768,6 +768,7 @@ Rank,School,School District,Health Region,Exposures
 40,Devon Gardens Elementary,37,Fraser Health Authority,2
 40,Holly Elementary (Delta),37,Fraser Health Authority,2
 40,Pebble Hill Traditional Elementary,37,Fraser Health Authority,2
+40,Pinewood Elementary (Delta),37,Fraser Health Authority,2
 40,Az-Zahraa Islamic Academy,38,Vancouver Coastal Health,2
 40,Canada Star Secondary School,38,Vancouver Coastal Health,2
 40,General Currie Elementary,38,Vancouver Coastal Health,2
@@ -966,7 +967,6 @@ Rank,School,School District,Health Region,Exposures
 41,Cliff Drive Elementary,37,Fraser Health Authority,1
 41,Delta Christian School,37,Fraser Health Authority,1
 41,English Bluff Elementary,37,Fraser Health Authority,1
-41,Pinewood Elementary (Delta),37,Fraser Health Authority,1
 41,South Park Elementary (Delta),37,Fraser Health Authority,1
 41,Archibald Blair Elementary,38,Vancouver Coastal Health,1
 41,Daniel Woodward Elementary,38,Vancouver Coastal Health,1
