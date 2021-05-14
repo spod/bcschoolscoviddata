@@ -1,7 +1,30 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 2
 05/13/2021,False Creek Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 4
+05/13/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,May 10,Exposure 28
+05/13/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,May 11,Exposure 21
+05/13/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,May 10,Exposure 20
+05/13/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,"""May 3, 4""",Exposure 28
+05/13/2021,Mission Central Elementary,Mission,75,Fraser Health Authority,May 11,Exposure 6
+05/13/2021,West Point Grey Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 11,Exposure 8
+05/13/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""May 6, 7""",Exposure 26
+05/13/2021,ASIA - North Poplar,Abbotsford,34,Fraser Health Authority,May 7,Exposure 8
+05/13/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,May 5,Exposure 14
+05/13/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,"""May 4, 5, 6,""",Exposure 40
+05/13/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,May 10,Exposure 23
+05/13/2021,John Oliver Secondary,Vancouver,39,Vancouver Coastal Health,"""May 7, 11, 12""",Exposure 28
+05/13/2021,Edwin S Richards Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 4
+05/13/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 28
+05/13/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,"""May 6, 7, and 10""",There is a 'functional closure' of this school. It will re-open Tuesday May 25th. (Documentation on file)
+05/13/2021,Windermere Elementary,,6,Vancouver Coastal Health,"""May 10, 11""",Exposure 11
+05/13/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 7
+05/13/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 23
+05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,May 4,Exposure 3
+05/13/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,"""May 6, 7""",Exposure 3
 05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
+05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""May 6, 7""",Exposure 2
+05/13/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 10
+05/13/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""May 4, 5, 6, 7""",Exposure 31
 05/12/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 8
 05/12/2021,Hatzic Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 5
 05/12/2021,Woodland Park Elementary,Surrey,36,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 5
@@ -260,8 +283,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/07/2021,Ecole Salish Secondary,Surrey,36,Fraser Health Authority,"""April 26, 28, and 30""",Exposure 12
 05/07/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,April 30,Exposure 22
 05/07/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 22
-05/07/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 30, May 3 and 4""",The full Middle School and Secondary School have closed and moved to online learning until May 14th. The school will re-open on May 17th. (Documentation on file)
 05/07/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,May 3 and 4,One class has been asked to self-isolate (Documentation on file)
+05/07/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 30, May 3 and 4""","""Testing for those present at the Middle and/or Secondary school on April 26, 27, 28, 29, 30, May 3, 4, 5, 6, 7 is being recommended. (Documentation on file)."""
 05/06/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 7
 05/06/2021,Champlain Heights Community Elementary,Vancouver,39,Vancouver Coastal Health,May 3,Exposure 3
 05/06/2021,Chief Dan George Middle,Abbotsford,34,Fraser Health Authority,"""April 27, 28, and 29""",Exposure 13
@@ -411,8 +434,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/04/2021,Georges Vanier Elementary,Surrey,36,Fraser Health Authority,"""April 29, 30""",Exposure 12
 05/04/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,April 29,Exposure 48
 05/04/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""April 27, 28, 29, 30""",Exposure 25
-05/04/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 27, 28, and 30""",The full Middle School and part of the Secondary School have closed and moved to online learning until May 14th. The school will re-open on May 17th. (Documentation on file)
-05/04/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 29. 30,The full Middle School and part of the Secondary School have closed and moved to online learning until May 14th. The school will re-open on May 17th. (Documentation on File)
 05/04/2021,Templeton Secondary,Vancouver,39,Vancouver Coastal Health,April27 and 28,Exposure 10
 05/04/2021,Dr H N MacCorkindale Elementary,Vancouver,39,Vancouver Coastal Health,April 29,Exposure 4
 05/04/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,April 21 and 23,Exposure 11
@@ -420,6 +441,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",We have documentation on file that shows this is different then exposure 7
 05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,April 28,Functional Closure at this school. It will re-open on May 10th. (Documentation on file).
 05/04/2021,Ten Broeck Elementary,Abbotsford,34,Fraser Health Authority,"""April 29, 30""",Functional Closure at this school. It will re-open on May 10th. (Documentation on file).
+05/04/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 29. 30,This has been identified as a cluster. (Documentation on file).
+05/04/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""April 27, 28, and 30""",This has been identified as a cluster. (Documentation on file).
 05/03/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""April 27, 28, 29, and 30""",Exposure 26
 05/03/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,April 28 and 29,Exposure 20
 05/03/2021,Lord Selkirk Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30""",Exposure 3
@@ -1956,7 +1979,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/11/2021,Hamilton Elementary,Richmond,38,Vancouver Coastal Health,"""April 6, 7, 8""",Exposure 5
 04/11/2021,South Delta Secondary,Delta,37,Fraser Health Authority,April 1,Exposure 5
 04/11/2021,Pacific Christian School (Abbotsford),Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 6,Exposure 1
-04/11/2021,Maple Ridge Christian School,Maple Ridge,42,Fraser Health Authority,April 6 and 7,Exposure 1
+04/11/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,April 6 and 7,Exposure 1
 04/11/2021,St. George's Senior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""April 6, 7, 8, and 9 (Dates on the BCCDC webpage)""",Exposure 14
 04/11/2021,Whistler Secondary,Whistler,48,Vancouver Coastal Health,Documentation on file.,Exposure 8
 04/11/2021,York House School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""April 6, 7, 8""",Exposure 8
