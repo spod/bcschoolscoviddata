@@ -1,6 +1,18 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 2
 05/13/2021,False Creek Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 4
+05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
+05/13/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 4,Exposure 14
+05/13/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,May 10,Exposure 9
+05/13/2021,Lord Roberts Annex,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 6
+05/13/2021,Khalsa Elementary School Old Yale Road,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6 and 10,Exposure 12
+05/13/2021,Invergarry Adult Education Centre,Surrey,36,Fraser Health Authority,"""May 4, 5, 6""",Exposure 4
+05/13/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""May 5, 6, 7, 8, 9, 10""",Exposure 27
+05/13/2021,Newton Elementary,Surrey,36,Fraser Health Authority,"""May 10, 11""",Exposure 9
+05/13/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 10
+05/13/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""May 4, 5, 6, 7""",Exposure 31
+05/13/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""May 6, 7, 10""",Exposure 21
+05/13/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 6
 05/13/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,May 10,Exposure 28
 05/13/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,May 11,Exposure 21
 05/13/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,May 10,Exposure 20
@@ -21,11 +33,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/13/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 23
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,May 4,Exposure 3
 05/13/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,"""May 6, 7""",Exposure 3
-05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
-05/13/2021,Montecito Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 10
-05/13/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""May 4, 5, 6, 7""",Exposure 31
-05/13/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""May 6, 7, 10""",Exposure 21
-05/13/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 6
 05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""May 6, 7""",The High School is closed on Friday May 14th for deep cleaning.(Documentation on file)
 05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,The High School is closed on Friday May 14th for deep cleaning.
 05/13/2021,Harry Sayers Elementary,Abbotsford,34,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 12
@@ -36,13 +43,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/13/2021,Princess Margaret Secondary School (Surrey),Surrey,36,,"""May 10, 11""",Exposure 50
 05/13/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,May 7,Exposure 16
 05/13/2021,City Central Learning Centre,Surrey,36,Fraser Health Authority,May 6,Exposure 5
-05/13/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 4,Exposure 14
-05/13/2021,Serpentine Heights Elementary,Surrey,36,Fraser Health Authority,May 10,Exposure 9
-05/13/2021,Lord Roberts Annex,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 6
-05/13/2021,Khalsa Elementary School Old Yale Road,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6 and 10,Exposure 12
-05/13/2021,Invergarry Adult Education Centre,Surrey,36,Fraser Health Authority,"""May 4, 5, 6""",Exposure 4
-05/13/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""May 5, 6, 7, 8, 9, 10""",Exposure 27
-05/13/2021,Newton Elementary,Surrey,36,Fraser Health Authority,"""May 10, 11""",Exposure 9
 05/12/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 8
 05/12/2021,Hatzic Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 5
 05/12/2021,Woodland Park Elementary,Surrey,36,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 5
