@@ -1,9 +1,4 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-05/14/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,May 6,Exposure 24
-05/14/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 3, 4, 5, 7, 10, and 11""",Exposure 2
-05/14/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 5
-05/14/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 10 and 11,Exposure 15
-05/14/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 7
 05/14/2021,Kelowna Secondary School,Kelowna,23,Interior Health Authority,"""May 6, 7, 10 and 11""",Exposure 35
 05/14/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,May 10 and 11,Exposure 52
 05/14/2021,North Delta Secondary,Delta,37,Fraser Health Authority,May 11,Exposure 38
@@ -12,8 +7,30 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/14/2021,Port Moody Secondary,Port Moody,43,Fraser Health Authority,May 3 and 4,Exposure 7
 05/14/2021,Holly Elementary (Surrey),Surrey,36,Fraser Health Authority,"""May 10, 11, 12, and 13""",Exposure 13
 05/14/2021,Sands Secondary,Delta,37,Fraser Health Authority,May 10 and 11,Exposure 14
+05/14/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 10 and 11,Exposure 15
+05/14/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 7
+05/14/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,May 6,Exposure 24
+05/14/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 3, 4, 5, 7, 10, and 11""",Exposure 2
+05/14/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 5
+05/14/2021,King George Secondary,Vancouver,39,Fraser Health Authority,May 7,Exposure 12
+05/14/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""May 10, 11""",Exposure 6
+05/14/2021,Discover Montessori School (Nanaimo),Nanaimo,Independent Schools in Island Health,Vancouver Island Health Authority,"""May 4, 5""",Exposure 2
 05/14/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,May 11,Exposure 5
 05/14/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,May 10,Exposure 4
+05/14/2021,Parkcrest Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""May 7, 10""",Exposure 3
+05/14/2021,Lord Tweedsmuir Elementary,New Westminster,40,Fraser Health Authority,"""May 3, 5, 6""",Exposure 7
+05/14/2021,Fawkes Academy,Burnaby,41,Fraser Health Authority,Not provided,Exposure 2
+05/14/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""May 6, 7""",Exposure 12
+05/14/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,May 6,Exposure 22
+05/14/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,May 7,Exposure 16
+05/14/2021,Correlieu Secondary School,Quesnel,28,Northern Health,May 4,Exposure 1
+05/14/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,May 11,Exposure 22
+05/14/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 5 and 6,Exposure 16
+05/14/2021,John Norquay Elementary,Vancouver,39,Vancouver Coastal Health,May 6 and 7,Exposure 7
+05/14/2021,Princess Margaret Secondary (Penticton),Penticton,67,Interior Health Authority,"""May 10, 11, and 12""",Exposure 3
+05/14/2021,Richardson Elementary,Delta,37,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 6
+05/14/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30, May 3, 4, 5, 6, 7, 10, and 11""",Exposure 8
+05/14/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 12,Exposure 12
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 2
 05/13/2021,False Creek Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 4
 05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
