@@ -19,6 +19,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/14/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,May 10,Exposure 4
 05/14/2021,Parkcrest Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""May 7, 10""",Exposure 3
 05/14/2021,Lord Tweedsmuir Elementary,New Westminster,40,Fraser Health Authority,"""May 3, 5, 6""",Exposure 7
+05/14/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 12,Exposure 12
+05/14/2021,Richardson Elementary,Delta,37,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 6
+05/14/2021,Princess Margaret Secondary (Penticton),Penticton,67,Interior Health Authority,"""May 10, 11, and 12""",Exposure 3
+05/14/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30, May 3, 4, 5, 6, 7, 10, and 11""",Exposure 8
 05/14/2021,Fawkes Academy,Burnaby,41,Fraser Health Authority,Not provided,Exposure 2
 05/14/2021,Cariboo Hill Secondary,Burnaby,41,Fraser Health Authority,"""May 6, 7""",Exposure 12
 05/14/2021,Woodward Hill Elementary,Surrey,36,Fraser Health Authority,May 6,Exposure 22
@@ -27,10 +31,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/14/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,May 11,Exposure 22
 05/14/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 5 and 6,Exposure 16
 05/14/2021,John Norquay Elementary,Vancouver,39,Vancouver Coastal Health,May 6 and 7,Exposure 7
-05/14/2021,Princess Margaret Secondary (Penticton),Penticton,67,Interior Health Authority,"""May 10, 11, and 12""",Exposure 3
-05/14/2021,Richardson Elementary,Delta,37,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 6
-05/14/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,"""April 29, 30, May 3, 4, 5, 6, 7, 10, and 11""",Exposure 8
-05/14/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 12,Exposure 12
+05/14/2021,Abbotsford Dasmesh Punjabi,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,May 7 and 10,Exposure 19
+05/14/2021,John Calvin School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""May 3, 4, and 5""",Exposure 6
+05/14/2021,Khalsa Secondary School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 10,Exposure 17
+05/14/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,May 6,Exposure 9
+05/14/2021,Surrey Muslim School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6 and 7,Exposure 10
+05/14/2021,St Thomas More Collegiate,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,May 5,Exposure 9
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 2
 05/13/2021,False Creek Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 4
 05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
