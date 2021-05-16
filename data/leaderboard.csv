@@ -104,6 +104,7 @@ Rank,School,School District,Health Region,Exposures
 26,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,14
 26,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,14
 26,Charles Hays Secondary,52,Northern Health,14
+26,Sa-hali Secondary,73,Interior Health Authority,14
 26,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,14
 26,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,14
 27,Mount Boucherie Secondary School,23,Interior Health Authority,13
@@ -123,7 +124,6 @@ Rank,School,School District,Health Region,Exposures
 27,Sir Winston Churchill Secondary,39,Vancouver Coastal Health,13
 27,Upper Lynn Elementary,44,Vancouver Coastal Health,13
 27,Rockridge Secondary,45,Vancouver Coastal Health,13
-27,Sa-hali Secondary,73,Interior Health Authority,13
 27,Mission Senior Secondary,75,Fraser Health Authority,13
 27,des Pionniers-de-Maillardville,93,Fraser Health Authority,13
 27,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
@@ -350,6 +350,7 @@ Rank,School,School District,Health Region,Exposures
 34,John G Diefenbaker Elementary,38,Vancouver Coastal Health,6
 34,Richmond Secondary School,38,Vancouver Coastal Health,6
 34,Edith Cavell Elementary,39,Vancouver Coastal Health,6
+34,G T Cunningham Elementary,39,Vancouver Coastal Health,6
 34,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,6
 34,Lord Roberts Annex,39,Vancouver Coastal Health,6
 34,Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,6
@@ -423,7 +424,6 @@ Rank,School,School District,Health Region,Exposures
 35,Kingswood Elementary,38,Vancouver Coastal Health,5
 35,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,5
 35,William Cook Elementary,38,Vancouver Coastal Health,5
-35,G T Cunningham Elementary,39,Vancouver Coastal Health,5
 35,J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,5
 35,John Henderson Elementary,39,Vancouver Coastal Health,5
 35,Lord Byng Secondary,39,Vancouver Coastal Health,5
