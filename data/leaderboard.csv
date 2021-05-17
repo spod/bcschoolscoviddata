@@ -95,6 +95,7 @@ Rank,School,School District,Health Region,Exposures
 25,Vancouver Christian,Independent Schools in Coastal Health,Vancouver Coastal Health,15
 25,Archbishop Carney Regional Secondary,Independent Schools in Fraser Health,Fraser Health Authority,15
 26,William A. Fraser Middle School,34,Fraser Health Authority,14
+26,Bonaccord Elementary,36,Fraser Health Authority,14
 26,Brookside Elementary,36,Fraser Health Authority,14
 26,Cindrich Elementary,36,Fraser Health Authority,14
 26,Panorama Park Elementary,36,Fraser Health Authority,14
@@ -113,7 +114,6 @@ Rank,School,School District,Health Region,Exposures
 27,Chief Dan George Middle,34,Fraser Health Authority,13
 27,Godson Elementary,34,Fraser Health Authority,13
 27,Richard Bulpitt Elementary,35,Fraser Health Authority,13
-27,Bonaccord Elementary,36,Fraser Health Authority,13
 27,Boundary Park Elementary,36,Fraser Health Authority,13
 27,Cambridge Elementary,36,Fraser Health Authority,13
 27,Elgin Park Secondary,36,Fraser Health Authority,13
@@ -208,6 +208,7 @@ Rank,School,School District,Health Region,Exposures
 31,Dave Kandal Elementary School,34,Fraser Health Authority,9
 31,Ten Broeck Elementary,34,Fraser Health Authority,9
 31,Langley Fine Arts School,35,Fraser Health Authority,9
+31,Simonds Elementary,35,Fraser Health Authority,9
 31,Willoughby Elementary,35,Fraser Health Authority,9
 31,A J McLellan Elementary,36,Fraser Health Authority,9
 31,Adams Road Elementary,36,Fraser Health Authority,9
@@ -234,7 +235,6 @@ Rank,School,School District,Health Region,Exposures
 32,Clearbrook Elementary,34,Fraser Health Authority,8
 32,McMillan Elementary,34,Fraser Health Authority,8
 32,Betty Gilbert Middle,35,Fraser Health Authority,8
-32,Simonds Elementary,35,Fraser Health Authority,8
 32,Bear Creek Elementary,36,Fraser Health Authority,8
 32,Hjorth Road Elementary,36,Fraser Health Authority,8
 32,Laronde Elementary,36,Fraser Health Authority,8
@@ -1056,6 +1056,7 @@ Rank,School,School District,Health Region,Exposures
 39,Gleneagles Elementary,45,Vancouver Coastal Health,1
 39,Westcot Elementary - Club West Daycare,45,Vancouver Coastal Health,1
 39,Sunshine Coast Alternative School,46,Vancouver Coastal Health,1
+39,West Sechelt Elementary,46,Vancouver Coastal Health,1
 39,Brooks Secondary,47,Vancouver Coastal Health,1
 39,Partners in Education Program (PIE),47,Vancouver Coastal Health,1
 39,Nusatsum Elementary,49,Vancouver Coastal Health,1
