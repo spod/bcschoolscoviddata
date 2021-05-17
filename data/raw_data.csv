@@ -1,4 +1,8 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+05/17/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12,Exposure 32
+05/17/2021,Secondaire Jules-Verne,Vancouver,93,Vancouver Coastal Health,"""May 7, 13, 14""",Exposure 8
+05/17/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""May 10, 11, 13""",Exposure 16
+05/17/2021,Mount Pleasant Elementary,Vancouver,39,Vancouver Coastal Health,"""May 10, 11, 12, 13""",Exposure 5
 05/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""April 27, 28, 29, 30, May 1, 2, 3, 4, and 5""",Exposure 9
 05/16/2021,West Sechelt Elementary,Sechelt,46,Vancouver Coastal Health,May 11,Exposure 1
 05/16/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,May 10 and 11,Exposure 14
@@ -44,13 +48,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/16/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,"""May 12, 13, 14""",Exposure 21
 05/16/2021,Kirkbride Elementary,Surrey,36,Fraser Health Authority,"""May 7, 8, 9, 10, 11, 12""",Exposure 8
 05/16/2021,Strawberry Hill Elementary,Surrey,36,Fraser Health Authority,May 11,Exposure 12
-05/15/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,May 11 and 12,Exposure 9
-05/15/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,"""May 10, 11, 12, and 13""",Exposure 14
-05/15/2021,G T Cunningham Elementary,Vancouver,39,Vancouver Coastal Health,May 12,Exposure 6
-05/15/2021,Brookswood Secondary,Langley,35,Fraser Health Authority,May 12,Exposure 17
-05/15/2021,George Elliot Secondary,,23,Interior Health Authority,Not provided,Exposure 8
-05/15/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 11, 12, and 13""",Exposure 4
-05/15/2021,Windsor Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 6
 05/15/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,May 10 and 11,Exposure 12
 05/15/2021,Ecole Dr Charles Best Secondary,Coquitlam,43,Fraser Health Authority,May 10 and 11,Exposure 14
 05/15/2021,Sir Charles Tupper Secondary,Vancouver,39,Vancouver Coastal Health,"""May 10, 11, 12, and 13""",Exposure 23
@@ -63,6 +60,13 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/15/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,May 12,Exposure 24
 05/15/2021,Ross Elementary,Abbotsford,34,Fraser Health Authority,May 10 and 11,Exposure 7
 05/15/2021,Abbotsford Traditional Middle School,Abbotsford,34,Fraser Health Authority,May 10 and 11,Exposure 13
+05/15/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,May 11 and 12,Exposure 9
+05/15/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,"""May 10, 11, 12, and 13""",Exposure 14
+05/15/2021,G T Cunningham Elementary,Vancouver,39,Vancouver Coastal Health,May 12,Exposure 6
+05/15/2021,Brookswood Secondary,Langley,35,Fraser Health Authority,May 12,Exposure 17
+05/15/2021,George Elliot Secondary,,23,Interior Health Authority,Not provided,Exposure 8
+05/15/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 11, 12, and 13""",Exposure 4
+05/15/2021,Windsor Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 6
 05/14/2021,Parkcrest Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""May 7, 10""",Exposure 3
 05/14/2021,Lord Tweedsmuir Elementary,New Westminster,40,Fraser Health Authority,"""May 3, 5, 6""",Exposure 7
 05/14/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 12,Exposure 12
