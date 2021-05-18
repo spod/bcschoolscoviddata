@@ -12,20 +12,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/17/2021,Anne Roberts Young Elementary,Fort St. John,60,Northern Health,May 10,Exposure 3
 05/17/2021,North Peace Secondary,,60,Northern Health,"""May 10, 11, 12""",Exposure 23
 05/17/2021,Douglas Park Community,Langley,35,Fraser Health Authority,May 11,Exposure 8
-05/17/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 17
-05/17/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""May 4, 5, 6, 11, and 12""",Exposure 13
-05/17/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,May 13,Exposure 13
-05/17/2021,Ecole Irvine Elementary,Port Coquitlam,43,Fraser Health Authority,May 11 and 12,Exposure 5
-05/17/2021,Henry Bose Elementary,Surrey,36,Fraser Health Authority,May 10,Exposure 8
-05/17/2021,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""May 12, 13, and 14""",Letter is dated differently than the previous exposure with the same dates.
-05/17/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,"""May 7, 10, and 11""",Exposure 4
-05/17/2021,St Thomas More Collegiate,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,May 10,Exposure 10
-05/17/2021,St. James and St. Anns Elementary,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,May 6,Exposure 5
-05/17/2021,St Catherines School,Langley,35,Fraser Health Authority,May 12 and 13,Exposure 3
-05/17/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,May 12,Exposure 11
-05/17/2021,Janice Churchill Elementary,Surrey,36,Fraser Health Authority,"""May 13, 14""",Exposure 5
-05/17/2021,Hollyburn StrongStart Centre,West Vancouver,45,Vancouver Coastal Health,May 10,Exposure 1
-05/17/2021,Our Lady of Fatima,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""May 12, 13, and 14""",Exposure 7
 05/17/2021,Fraserview Learning Centre,Mission,75,Fraser Health Authority,"""May 10, 14""",Exposure 1
 05/17/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""May 11, 12, 13""",Exposure 23
 05/17/2021,Hugh Boyd Secondary,Richmond,38,Vancouver Coastal Health,"""May 10, 11, 12, 13, and 14""",Exposure 7
@@ -47,6 +33,20 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/17/2021,St Patrick Regional Secondary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 11,Exposure 12
 05/17/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,May 7,Exposure 10
 05/17/2021,Our Lady of Fatima,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,May 7,Exposure 6
+05/17/2021,Ecole Irvine Elementary,Port Coquitlam,43,Fraser Health Authority,May 11 and 12,Exposure 5
+05/17/2021,Henry Bose Elementary,Surrey,36,Fraser Health Authority,May 10,Exposure 8
+05/17/2021,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""May 12, 13, and 14""",Letter is dated differently than the previous exposure with the same dates.
+05/17/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,"""May 7, 10, and 11""",Exposure 4
+05/17/2021,St Thomas More Collegiate,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,May 10,Exposure 10
+05/17/2021,St. James and St. Anns Elementary,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,May 6,Exposure 5
+05/17/2021,St Catherines School,Langley,35,Fraser Health Authority,May 12 and 13,Exposure 3
+05/17/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,May 12,Exposure 11
+05/17/2021,Janice Churchill Elementary,Surrey,36,Fraser Health Authority,"""May 13, 14""",Exposure 5
+05/17/2021,Hollyburn StrongStart Centre,West Vancouver,45,Vancouver Coastal Health,May 10,Exposure 1
+05/17/2021,Our Lady of Fatima,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""May 12, 13, and 14""",Exposure 7
+05/17/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 17
+05/17/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""May 4, 5, 6, 11, and 12""",Exposure 13
+05/17/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,May 13,Exposure 13
 05/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""April 27, 28, 29, 30, May 1, 2, 3, 4, and 5""",Exposure 9
 05/16/2021,West Sechelt Elementary,Sechelt,46,Vancouver Coastal Health,May 11,Exposure 1
 05/16/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,May 10 and 11,Exposure 14
