@@ -28,13 +28,25 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/17/2021,Champlain Heights Community Elementary,Vancouver,39,Vancouver Coastal Health,May 14,Exposure 4
 05/17/2021,Prince Charles Elementary (Surrey),Surrey,36,Fraser Health Authority,"""May 11, 12, and 13""",One class has been asked to self-isolate (documentation on file).
 05/17/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""May 10, 11""",Exposure 4
+05/17/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,May 12 and 13,Exposure 9
+05/17/2021,Windermere Community Secondary,Vancouver,39,Vancouver Coastal Health,May 10 and 11,Exposure 11
+05/17/2021,St Patrick Regional Secondary,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,May 11,Exposure 12
+05/17/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,May 7,Exposure 10
+05/17/2021,Our Lady of Fatima,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,May 7,Exposure 6
 05/17/2021,Heritage Woods Secondary,Port Moody,43,Fraser Health Authority,"""May 11, 12, 13""",Exposure 23
 05/17/2021,Hugh Boyd Secondary,Richmond,38,Vancouver Coastal Health,"""May 10, 11, 12, 13, and 14""",Exposure 7
 05/17/2021,Hugh Boyd Secondary,Richmond,38,Vancouver Coastal Health,May 6 and 7,Exposure 6
 05/17/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,May 12,Exposure 8
 05/17/2021,James Gilmore Elementary,Richmond,38,Vancouver Coastal Health,May 11,Exposure 6
-05/17/2021,Admiral Seymour Elementary,Vancouver,39,Vancouver Coastal Health,May 12 and 13,Exposure 9
-05/17/2021,Windermere Community Secondary,Vancouver,39,Vancouver Coastal Health,May 10 and 11,Exposure 11
+05/17/2021,Lord Kelvin Elementary,New Westminster,40,Fraser Health Authority,May 10,Exposure 4
+05/17/2021,St Thomas More Collegiate,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,May 10,Exposure 10
+05/17/2021,St. James and St. Anns Elementary,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,May 6,Exposure 5
+05/17/2021,St Catherines School,Langley,35,Fraser Health Authority,May 12 and 13,Exposure 3
+05/17/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,May 12,Exposure 11
+05/17/2021,Janice Churchill Elementary,Surrey,36,Fraser Health Authority,"""May 13, 14""",Exposure 5
+05/17/2021,Hollyburn StrongStart Centre,West Vancouver,45,Vancouver Coastal Health,May 10,Exposure 1
+05/17/2021,Our Lady of Fatima,Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""May 12, 13, and 14""",Exposure 7
+05/17/2021,Fraserview Learning Centre,Mission,75,Fraser Health Authority,"""May 10, 14""",Exposure 1
 05/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""April 27, 28, 29, 30, May 1, 2, 3, 4, and 5""",Exposure 9
 05/16/2021,West Sechelt Elementary,Sechelt,46,Vancouver Coastal Health,May 11,Exposure 1
 05/16/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,May 10 and 11,Exposure 14
@@ -96,9 +108,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/15/2021,Sa-hali Secondary,Kamloops,73,Interior Health Authority,"""May 10, 11, 12, and 13""",Exposure 14
 05/15/2021,G T Cunningham Elementary,Vancouver,39,Vancouver Coastal Health,May 12,Exposure 6
 05/15/2021,Brookswood Secondary,Langley,35,Fraser Health Authority,May 12,Exposure 17
-05/15/2021,George Elliot Secondary,,23,Interior Health Authority,Not provided,Exposure 8
 05/15/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 11, 12, and 13""",Exposure 4
 05/15/2021,Windsor Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 6
+05/15/2021,George Elliot Secondary,,23,Interior Health Authority,May 6 and 7 (Dates on the BCCDC webpage),Exposure 8
 05/14/2021,Parkcrest Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""May 7, 10""",Exposure 3
 05/14/2021,Lord Tweedsmuir Elementary,New Westminster,40,Fraser Health Authority,"""May 3, 5, 6""",Exposure 7
 05/14/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,May 12,Exposure 12
@@ -171,7 +183,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/13/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 23
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,May 4,Exposure 3
 05/13/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,"""May 6, 7""",Exposure 3
-05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""May 6, 7""",The High School is closed on Friday May 14th for deep cleaning.(Documentation on file)
 05/13/2021,Harry Sayers Elementary,Abbotsford,34,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 12
 05/13/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 7,Exposure 14
 05/13/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,May 6,Expsoure 49
@@ -181,6 +192,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/13/2021,City Central Learning Centre,Surrey,36,Fraser Health Authority,May 6,Exposure 5
 05/13/2021,North Surrey Learning Centre,Surrey,36,Fraser Health Authority,May 4,Exposure 5
 05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,May 10 and 11 (Documentation on file),The High School is closed on Friday May 14th for deep cleaning.
+05/13/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""May 6, 7""",One class is moving to home learning from Tuesday May 18th to Tuesday May 25th and will return to on-site classes on the 26th. (Documentation on file)
 05/12/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 8
 05/12/2021,Hatzic Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 5
 05/12/2021,Woodland Park Elementary,Surrey,36,Fraser Health Authority,"""May 3, 4, 5, 6, and 7""",Exposure 5
