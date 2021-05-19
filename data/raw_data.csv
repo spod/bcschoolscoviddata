@@ -73,7 +73,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/17/2021,Lord Kelvin Elementary,New Westminster,40,Fraser Health Authority,May 10,Exposure 4
 05/17/2021,College Heights Secondary,Prince George,57,Northern Health,"""May 10, 11""",Exposure 8
 05/17/2021,Abbotsford Traditional Senior Secondary,Abbotsford,34,Fraser Health Authority,May 13,Exposure 23
-05/17/2021,Highland Secondary,Comox,71,Vancouver Island Health Authority,"""May 3, 4, 5, 6, 7, 10, 11, 12, 13, and 14""",Exposure 2
 05/17/2021,Rose-des-vents,Vancouver,93,Vancouver Coastal Health,"""May 12, 13, and 14""",Exposure 1
 05/17/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,May 14,Exposure 38
 05/17/2021,Delview Secondary,Delta,37,Fraser Health Authority,May 12,Exposure 23
@@ -99,6 +98,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/17/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 17
 05/17/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""May 4, 5, 6, 11, and 12""",Exposure 13
 05/17/2021,Southpointe Academy,Delta,Independent Schools in Fraser Health,Fraser Health Authority,May 13,Exposure 13
+05/17/2021,Highland Secondary,Comox,71,Vancouver Island Health Authority,"""May 3, 4, 5, 6, 7, 10, 11, 12, 13, and 14""",Exposure 2  - This is listed as a Cluster on the BCCDC webpage
 05/16/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""April 27, 28, 29, 30, May 1, 2, 3, 4, and 5""",Exposure 9
 05/16/2021,West Sechelt Elementary,Sechelt,46,Vancouver Coastal Health,May 11,Exposure 1
 05/16/2021,Bonaccord Elementary,Surrey,36,Fraser Health Authority,May 10 and 11,Exposure 14
