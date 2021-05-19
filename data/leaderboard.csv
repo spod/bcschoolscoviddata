@@ -1,5 +1,5 @@
 Rank,School,School District,Health Region,Exposures
-1,Tamanawis Secondary,36,Fraser Health Authority,61
+1,Tamanawis Secondary,36,Fraser Health Authority,62
 2,Panorama Ridge Secondary,36,Fraser Health Authority,59
 3,Queen Elizabeth Secondary,36,Fraser Health Authority,53
 4,Frank Hurt Secondary,36,Fraser Health Authority,52
@@ -76,6 +76,7 @@ Rank,School,School District,Health Region,Exposures
 26,H D Stafford Middle,35,Fraser Health Authority,16
 26,Cindrich Elementary,36,Fraser Health Authority,16
 26,Fraser Heights Secondary,36,Fraser Health Authority,16
+26,Burnsview Secondary,37,Fraser Health Authority,16
 26,Britannia Community Secondary,39,Vancouver Coastal Health,16
 26,Vancouver Technical Secondary,39,Vancouver Coastal Health,16
 26,Burnaby South Secondary,41,Fraser Health Authority,16
@@ -90,7 +91,6 @@ Rank,School,School District,Health Region,Exposures
 27,Walnut Grove Secondary,35,Fraser Health Authority,15
 27,Rosemary Heights Elementary,36,Fraser Health Authority,15
 27,Surrey Traditional,36,Fraser Health Authority,15
-27,Burnsview Secondary,37,Fraser Health Authority,15
 27,Ecole Citadel Middle,43,Fraser Health Authority,15
 27,Ecole Riverside Secondary,43,Fraser Health Authority,15
 27,Sa-hali Secondary,73,Interior Health Authority,15
@@ -134,6 +134,7 @@ Rank,School,School District,Health Region,Exposures
 30,Abbotsford Middle School,34,Fraser Health Authority,12
 30,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,12
 30,Harry Sayers Elementary,34,Fraser Health Authority,12
+30,Beaver Creek Elementary,36,Fraser Health Authority,12
 30,Cedar Hills Elementary,36,Fraser Health Authority,12
 30,Creekside Elementary,36,Fraser Health Authority,12
 30,Ecole Riverdale Elementary,36,Fraser Health Authority,12
@@ -159,7 +160,6 @@ Rank,School,School District,Health Region,Exposures
 30,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,12
 30,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,12
 31,École KLO Middle School,23,Interior Health Authority,11
-31,Beaver Creek Elementary,36,Fraser Health Authority,11
 31,Chimney Hill Elementary,36,Fraser Health Authority,11
 31,George Greenaway Elementary,36,Fraser Health Authority,11
 31,Goldstone Park Elementary,36,Fraser Health Authority,11
@@ -205,6 +205,7 @@ Rank,School,School District,Health Region,Exposures
 32,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,10
 32,St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,10
 32,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,10
+33,George Elliot Secondary,23,Interior Health Authority,9
 33,A D Rundle Middle School,33,Fraser Health Authority,9
 33,Chilliwack Middle School,33,Fraser Health Authority,9
 33,Mount Slesse Middle School,33,Fraser Health Authority,9
@@ -231,7 +232,6 @@ Rank,School,School District,Health Region,Exposures
 33,Valleyview Secondary,73,Interior Health Authority,9
 33,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 34,Canyon Falls Middle School,23,Interior Health Authority,8
-34,George Elliot Secondary,23,Interior Health Authority,8
 34,Pearson Road Elementary,23,Interior Health Authority,8
 34,Vedder Elementary,33,Fraser Health Authority,8
 34,ASIA - North Poplar,34,Fraser Health Authority,8
@@ -498,6 +498,7 @@ Rank,School,School District,Health Region,Exposures
 38,Peachland Elementary,23,Interior Health Authority,4
 38,Watson Road Elementary,23,Interior Health Authority,4
 38,Nesika Elementary,27,Interior Health Authority,4
+38,Quesnel Junior High School,28,Northern Health,4
 38,Rosedale Traditional Community,33,Fraser Health Authority,4
 38,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,4
 38,Dr Thomas A Swift Elementary,34,Fraser Health Authority,4
@@ -625,7 +626,6 @@ Rank,School,School District,Health Region,Exposures
 39,South Kelowna Elementary,23,Interior Health Authority,3
 39,Springvalley Elementary School,23,Interior Health Authority,3
 39,Mountview Elementary,27,Interior Health Authority,3
-39,Quesnel Junior High School,28,Northern Health,3
 39,Robertson Elementary,33,Fraser Health Authority,3
 39,ASIA - Sumas Mountain 6-8,34,Fraser Health Authority,3
 39,Dormick Park Elementary,34,Fraser Health Authority,3
@@ -762,6 +762,7 @@ Rank,School,School District,Health Region,Exposures
 40,South Rutland Elementary,23,Interior Health Authority,2
 40,Cataline Elementary,27,Interior Health Authority,2
 40,Skyline Alternate School,27,Interior Health Authority,2
+40,Correlieu Secondary School,28,Northern Health,2
 40,Cheam Elementary,33,Fraser Health Authority,2
 40,Bakerview Ctr for Learning,34,Fraser Health Authority,2
 40,Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
@@ -934,7 +935,6 @@ Rank,School,School District,Health Region,Exposures
 41,Peter Skene Ogden Secondary,27,Interior Health Authority,1
 41,Sacred Heart Catholic School (Williams Lake),27,Interior Health Authority,1
 41,Bouchie Lake Elementary School,28,Northern Health,1
-41,Correlieu Secondary School,28,Northern Health,1
 41,Kersley Elementary School,28,Northern Health,1
 41,McNaughton Centre,28,Northern Health,1
 41,Voyageur Elementary School,28,Northern Health,1
