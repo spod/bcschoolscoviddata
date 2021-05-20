@@ -7,6 +7,18 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/19/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,"""May 11, 12, 13, 14, and 17""",Exposure 16
 05/19/2021,George Elliot Secondary,,23,Interior Health Authority,May 14 and 17,Exposure 9
 05/19/2021,West Sechelt Elementary,Sechelt,46,Vancouver Coastal Health,May 10 and 11,Exposure 2
+05/19/2021,Continuing Ed SD 36,Surrey,36,Fraser Health Authority,May 12,Expsoure 1
+05/19/2021,Barlow Creek Elementary,Quesnel,28,Northern Health,"""May 4, 5, 6, and 7""",Exposure 1
+05/19/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12 and 13,Exposure 33
+05/19/2021,Lord Kelvin Elementary,New Westminster,40,Fraser Health Authority,"""May 12, 13, 14""",Exposure 5
+05/19/2021,Ecole Maple Creek Middle,Port Coquitlam,43,Fraser Health Authority,"""May 11, 13, and 14""",Exposure 7
+05/19/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,May 13,Exposure 15
+05/19/2021,Rutland Middle School,Kelowna,23,Northern Health,"""May 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, and 14""",Exposure 6
+05/19/2021,Chilliwack Secondary,Chilliwack,33,Fraser Health Authority,May 14,Exposure 23
+05/19/2021,William F. Davidson Elementary,Surrey,36,Fraser Health Authority,May 11,Exposure 7
+05/19/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,May 14,Exposure 19
+05/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6,Exposure 11
+05/19/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""May 10, 12, and 13""",Exposure 10
 05/19/2021,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,May 17,Exposure 12
 05/19/2021,Aspenwood Elementary,Port Moody,43,Fraser Health Authority,May 13 and 14,Exposure 5
 05/19/2021,Queensborough Middle School,New Westminster,40,Fraser Health Authority,"""May 12, 13, and 14""",Exposure 8
@@ -27,18 +39,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/19/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,May 14,Exposure 18
 05/19/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,May 13 and 14,Exposure 25
 05/19/2021,Nechako Valley Secondary,Vanderhoof,91,Northern Health,May 11 and 12,Exposure 1
-05/19/2021,Continuing Ed SD 36,Surrey,36,Fraser Health Authority,May 12,Expsoure 1
-05/19/2021,Barlow Creek Elementary,Quesnel,28,Northern Health,"""May 4, 5, 6, and 7""",Exposure 1
-05/19/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12 and 13,Exposure 33
-05/19/2021,Lord Kelvin Elementary,New Westminster,40,Fraser Health Authority,"""May 12, 13, 14""",Exposure 5
-05/19/2021,Ecole Maple Creek Middle,Port Coquitlam,43,Fraser Health Authority,"""May 11, 13, and 14""",Exposure 7
-05/19/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,May 13,Exposure 15
-05/19/2021,Rutland Middle School,Kelowna,23,Northern Health,"""May 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, and 14""",Exposure 6
-05/19/2021,Chilliwack Secondary,Chilliwack,33,Fraser Health Authority,May 14,Exposure 23
-05/19/2021,William F. Davidson Elementary,Surrey,36,Fraser Health Authority,May 11,Exposure 7
-05/19/2021,Moscrop Secondary,Burnaby,41,Fraser Health Authority,May 14,Exposure 19
-05/19/2021,Pacific Academy Primary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,May 6,Exposure 11
-05/19/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""May 10, 12, and 13""",Exposure 10
 05/18/2021,Elgin Park Secondary,Surrey,36,Fraser Health Authority,"""May 12, 13, and 14""",Exposure 15
 05/18/2021,Quesnel Junior High School,Quesnel,28,Northern Health,May 4 and 5,Exposure 3
 05/18/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,May 11,Exposure 4
