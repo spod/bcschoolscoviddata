@@ -1,6 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 05/21/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""May 7, 10, 11, 12, 13, 14, and 17""",Exposure 54
-05/21/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
 05/21/2021,W L Seaton Secondary,Vernon,22,Interior Health Authority,"""May 14, 17, and 18""",Exposure 6
 05/21/2021,Chalmers Elementary,Delta,37,Fraser Health Authority,May 17 and 18,Exposure 17
 05/21/2021,R C Macdonald Elementary,Coquitlam,43,Fraser Health Authority,May 17 and 18,Exposure 2
@@ -9,13 +8,18 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/21/2021,Springvalley Middle School,Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
 05/21/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""May 17, 18, and 19""",Exposure 64
 05/21/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,"""May 10, 11, 12, 13, 14, 17, 18, and 19""",Exposure 14
+05/21/2021,Beaver Creek Elementary,Surrey,36,Fraser Health Authority,"""May 17, 18, 19""",Exposure 13
+05/21/2021,Simon Fraser Elementary,Vancouver,39,Fraser Health Authority,"""May 17, 18, 19""",Exposure 3
 05/21/2021,Kalamalka Secondary,Vernon,22,Interior Health Authority,May 17 and 18,Exposure 3
 05/21/2021,King George Secondary,Vancouver,39,Vancouver Coastal Health,"""May 12, 13, and 14""",Exposure 14
 05/21/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,May 17 and 18,Exposure 39
-05/21/2021,Beaver Creek Elementary,Surrey,36,Fraser Health Authority,"""May 17, 18, 19""",Exposure 13
-05/21/2021,Simon Fraser Elementary,Vancouver,39,Fraser Health Authority,"""May 17, 18, 19""",Exposure 3
 05/21/2021,Christine Morrison Elementary,Mission,75,Fraser Health Authority,"""May 17, 18""",Exposure 4
 05/21/2021,King Traditional Elementary,Abbotsford,34,Fraser Health Authority,"""May 12, 13, 14""",Exposure 8
+05/21/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,May 11,Exposure 13
+05/21/2021,Semiahmoo Trail Elementary,Surrey,36,Fraser Health Authority,May 17,Exposure 2
+05/21/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,May 14 (Dates on the BCCDC webpage),https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
+05/21/2021,Academic Night School at New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12,Exposure 1
+05/21/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,May 17 and 18,Exposure 14
 05/20/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,May 17,Exposure 9
 05/20/2021,Abbotsford Traditional Middle School,Abbotsford,34,Fraser Health Authority,May 17 and 18,Exposure 15
 05/20/2021,Abbotsford Traditional Middle School,Abbotsford,34,Fraser Health Authority,May 14,Exposure 14
