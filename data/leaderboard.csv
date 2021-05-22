@@ -21,14 +21,15 @@ Rank,School,School District,Health Region,Exposures
 14,R E Mountain Secondary,35,Fraser Health Authority,28
 14,Kwantlen Park Secondary,36,Fraser Health Authority,28
 14,Killarney Secondary,39,Vancouver Coastal Health,28
+14,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,28
 14,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,28
 15,W J Mouat Secondary,34,Fraser Health Authority,27
 15,Yale Secondary,34,Fraser Health Authority,27
-15,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,27
 16,Byrne Creek Community Secondary,41,Fraser Health Authority,26
 17,Rick Hansen Secondary,34,Fraser Health Authority,25
 18,GW Graham Secondary,33,Fraser Health Authority,24
 18,Lena Shaw Elementary,36,Fraser Health Authority,24
+19,Rutland Senior Secondary,23,Interior Health Authority,23
 19,Chilliwack Secondary,33,Fraser Health Authority,23
 19,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
 19,Earl Marriott Secondary,36,Fraser Health Authority,23
@@ -38,7 +39,6 @@ Rank,School,School District,Health Region,Exposures
 19,Heritage Woods Secondary,43,Fraser Health Authority,23
 19,Carson Graham Secondary,44,Vancouver Coastal Health,23
 19,North Peace Secondary,60,Northern Health,23
-20,Rutland Senior Secondary,23,Interior Health Authority,22
 20,Woodward Hill Elementary,36,Fraser Health Authority,22
 20,Gladstone Secondary,39,Vancouver Coastal Health,22
 20,Kitsilano Secondary,39,Vancouver Coastal Health,22
