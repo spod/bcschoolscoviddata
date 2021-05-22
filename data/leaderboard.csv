@@ -176,6 +176,7 @@ Rank,School,School District,Health Region,Exposures
 31,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,11
 31,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,11
 32,École Dr. Knox Middle School,23,Interior Health Authority,10
+32,Dave Kandal Elementary School,34,Fraser Health Authority,10
 32,Langley Fine Arts School,35,Fraser Health Authority,10
 32,Peter Ewart Middle School,35,Fraser Health Authority,10
 32,Simonds Elementary,35,Fraser Health Authority,10
@@ -215,7 +216,6 @@ Rank,School,School District,Health Region,Exposures
 33,Abbotsford Traditional Middle School,34,Fraser Health Authority,9
 33,Centennial Park Elementary,34,Fraser Health Authority,9
 33,Clayburn Middle School,34,Fraser Health Authority,9
-33,Dave Kandal Elementary School,34,Fraser Health Authority,9
 33,Ross Elementary,34,Fraser Health Authority,9
 33,Ten Broeck Elementary,34,Fraser Health Authority,9
 33,Willoughby Elementary,35,Fraser Health Authority,9
@@ -588,6 +588,7 @@ Rank,School,School District,Health Region,Exposures
 38,Majagaleehl Gali Aks Elementary,82,Northern Health,4
 38,Parkside Secondary,82,Northern Health,4
 38,Uplands Elementary,82,Northern Health,4
+38,Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,4
 38,Salmon Arm Secondary (Jackson),83,Interior Health Authority,4
 38,South Canoe Outdoor learning school,83,Interior Health Authority,4
 38,William Konkin Elementary,91,Northern Health,4
@@ -734,7 +735,6 @@ Rank,School,School District,Health Region,Exposures
 39,Thornhill Elementary,82,Northern Health,3
 39,M.V. Beattie Elementary,83,Interior Health Authority,3
 39,Pleasant Valley Secondary,83,Interior Health Authority,3
-39,Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,3
 39,Shuswap Middle School,83,Interior Health Authority,3
 39,David Hoy Elementary,91,Northern Health,3
 39,Decker Lake Elementary,91,Northern Health,3
@@ -837,6 +837,7 @@ Rank,School,School District,Health Region,Exposures
 40,Steeples Elementary,5,Interior Health Authority,2
 40,Sk'aadgaa Naay Elementary,50,Northern Health,2
 40,Oliver Elementary,53,Interior Health Authority,2
+40,Osoyoos Elementary,53,Interior Health Authority,2
 40,Osoyoos Secondary,53,Interior Health Authority,2
 40,Southern Okanagan Secondary,53,Interior Health Authority,2
 40,Silverthorne Elementary,54,Northern Health,2
@@ -1080,7 +1081,6 @@ Rank,School,School District,Health Region,Exposures
 41,Grand Forks Secondary,51,Interior Health Authority,1
 41,Pineridge Elementary,52,Northern Health,1
 41,Port Edward Elementary,52,Northern Health,1
-41,Osoyoos Elementary,53,Interior Health Authority,1
 41,Sen Pok Chin,53,Interior Health Authority,1
 41,Muheim Memorial Elementary,54,Northern Health,1
 41,Telkwa Elementary,54,Northern Health,1
