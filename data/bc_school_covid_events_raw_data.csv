@@ -1,15 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 05/22/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,May 10,This exposure took place in the Elementary school.
 05/22/2021,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""May 14, 18 and 19""",Exposure 24
-05/21/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""May 7, 10, 11, 12, 13, 14, and 17""",Exposure 54
-05/21/2021,W L Seaton Secondary,Vernon,22,Interior Health Authority,"""May 14, 17, and 18""",Exposure 6
-05/21/2021,Chalmers Elementary,Delta,37,Fraser Health Authority,May 17 and 18,Exposure 17
-05/21/2021,R C Macdonald Elementary,Coquitlam,43,Fraser Health Authority,May 17 and 18,Exposure 2
-05/21/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,May 13,Exposure 23
-05/21/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,May 17,Exposure 5
-05/21/2021,Springvalley Middle School,Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
-05/21/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""May 17, 18, and 19""",Exposure 64
-05/21/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,"""May 10, 11, 12, 13, 14, 17, 18, and 19""",Exposure 14
+05/22/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,Not provided,This school has an 'administrative closure' which has been extended until May 28th. Students can return to in class learning on May 31st. (Documentation on file).
+05/22/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,Not provided,This school has an 'administrative closure' which has been extended until May 28th. Students can return to in class learning on May 31st. (Documentation on file).
+05/22/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,Not provided,This school has an 'administrative closure' which has been extended until May 28th. Students can return to in class learning on May 31st. (Documentation on file).
+05/22/2021,Clinton Elementary,Burnaby,41,Fraser Health Authority,May 17 and 18,Exposure 6
 05/21/2021,Beaver Creek Elementary,Surrey,36,Fraser Health Authority,"""May 17, 18, 19""",Exposure 13
 05/21/2021,Simon Fraser Elementary,Vancouver,39,Fraser Health Authority,"""May 17, 18, 19""",Exposure 3
 05/21/2021,Kalamalka Secondary,Vernon,22,Interior Health Authority,May 17 and 18,Exposure 3
@@ -22,6 +17,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/21/2021,Pearson Road Elementary,Kelowna,23,Interior Health Authority,May 14 (Dates on the BCCDC webpage),https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
 05/21/2021,Academic Night School at New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12,Exposure 1
 05/21/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,May 17 and 18,Exposure 14
+05/21/2021,W L Seaton Secondary,Vernon,22,Interior Health Authority,"""May 14, 17, and 18""",Exposure 6
+05/21/2021,Chalmers Elementary,Delta,37,Fraser Health Authority,May 17 and 18,Exposure 17
+05/21/2021,R C Macdonald Elementary,Coquitlam,43,Fraser Health Authority,May 17 and 18,Exposure 2
+05/21/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,May 13,Exposure 23
+05/21/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,May 17,Exposure 5
+05/21/2021,Springvalley Middle School,Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/Kelowna/334626/Interior-Health-confirmed-four-schools-with-COVID-19-exposures
+05/21/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""May 17, 18, and 19""",Exposure 64
+05/21/2021,Sir Winston Churchill Secondary,Vancouver,39,Vancouver Coastal Health,"""May 10, 11, 12, 13, 14, 17, 18, and 19""",Exposure 14
+05/21/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""May 7, 10, 11, 12, 13, 14, and 17""",Exposure 54
 05/20/2021,Walter Moberly Elementary,Vancouver,39,Vancouver Coastal Health,May 17,Exposure 9
 05/20/2021,Abbotsford Traditional Middle School,Abbotsford,34,Fraser Health Authority,May 17 and 18,Exposure 15
 05/20/2021,Abbotsford Traditional Middle School,Abbotsford,34,Fraser Health Authority,May 14,Exposure 14
@@ -142,10 +146,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/18/2021,Mission Senior Secondary,Mission,75,Fraser Health Authority,May 11,Exposure 14
 05/18/2021,Hollyburn Elementary,West Vancouver,45,Vancouver Coastal Health,May 10,Exposure 7
 05/18/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,May 11 and 12,Exposure 17
-05/18/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 12, 13, 14""",Exposure 3
 05/18/2021,Lavington Elementary,Vernon,22,Interior Health Authority,May 14,Exposure 1
 05/18/2021,Highland Secondary,Comox,71,Vancouver Island Health Authority,"""May 3, 4, 5, 6, 7, 10, 11, 12, 13, 14 and 17""",Documentation on file showing that there are additional cases associated with the Exposure 2 notification. We have listed the additional cases as Exposure 3 and 4. (Documentation on file)
 05/18/2021,Highland Secondary,Comox,71,Vancouver Island Health Authority,"""May 3, 4, 5, 6, 7, 10, 11, 12, 13, 14 and 17""",Documentation on file showing that there are additional cases associated with the Exposure 2 notification. We have listed the additional cases as Exposure 3 and 4. (Documentation on file)
+05/18/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 12, 13, 14""",This school has an 'administrative closure' which has been extended until May 28th. Students can return to in class learning on May 31st. (Documentation on file).
 05/17/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 12,Exposure 32
 05/17/2021,Secondaire Jules-Verne,Vancouver,93,Vancouver Coastal Health,"""May 7, 13, 14""",Exposure 8
 05/17/2021,Okanagan Mission Secondary,Kelowna,23,Interior Health Authority,"""May 10, 11, 13""",Exposure 16
@@ -288,7 +292,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/14/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,May 10 and 11,Exposure 15
 05/14/2021,Cameron Elementary,Burnaby,41,Fraser Health Authority,May 10,Exposure 7
 05/14/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,May 6,Exposure 24
-05/14/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 3, 4, 5, 7, 10, and 11""",Exposure 2
 05/14/2021,Cascade Heights Elementary,Burnaby,41,Fraser Health Authority,"""May 10, 11, and 12""",Exposure 5
 05/14/2021,King George Secondary,Vancouver,39,Fraser Health Authority,May 7,Exposure 12
 05/14/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""May 10, 11""",Exposure 6
@@ -296,6 +299,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/14/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,May 11,Exposure 5
 05/14/2021,Elphinstone Secondary,Gibsons,46,Vancouver Coastal Health,May 10,Exposure 4
 05/14/2021,Fawkes Academy,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,May 10 and 12 (Dates on the BCCDC webpage),Exposure 2
+05/14/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""May 3, 4, 5, 7, 10, and 11""",This school has an 'administrative closure' which has been extended until May 28th. Students can return to in class learning on May 31st. (Documentation on file).
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,"""May 3, 5, 6, and 7""",Exposure 2
 05/13/2021,False Creek Elementary,Vancouver,39,Vancouver Coastal Health,May 10,Exposure 4
 05/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,May 10,Exposure 15
