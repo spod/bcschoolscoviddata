@@ -434,6 +434,7 @@ Rank,School,School District,Health Region,Exposures
 38,Kingswood Elementary,38,Vancouver Coastal Health,5
 38,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,5
 38,William Cook Elementary,38,Vancouver Coastal Health,5
+38,False Creek Elementary,39,Vancouver Coastal Health,5
 38,John Henderson Elementary,39,Vancouver Coastal Health,5
 38,Lord Byng Secondary,39,Vancouver Coastal Health,5
 38,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
@@ -489,6 +490,7 @@ Rank,School,School District,Health Region,Exposures
 38,Hatzic Elementary,75,Fraser Health Authority,5
 38,Fort Nelson Secondary,81,Northern Health,5
 38,Suwilaawks Community School,82,Northern Health,5
+38,Salmon Arm Secondary (Jackson),83,Interior Health Authority,5
 38,BC Muslim School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 38,Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 38,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,5
@@ -533,7 +535,6 @@ Rank,School,School District,Health Region,Exposures
 39,William Bridge Elementary,38,Vancouver Coastal Health,4
 39,Champlain Heights Community Elementary,39,Vancouver Coastal Health,4
 39,Dr H N MacCorkindale Elementary,39,Vancouver Coastal Health,4
-39,False Creek Elementary,39,Vancouver Coastal Health,4
 39,Lord Beaconsfield Elementary,39,Vancouver Coastal Health,4
 39,Nootka Community Elementary,39,Vancouver Coastal Health,4
 39,Quilchena Elementary,39,Vancouver Coastal Health,4
@@ -592,7 +593,6 @@ Rank,School,School District,Health Region,Exposures
 39,Parkside Secondary,82,Northern Health,4
 39,Uplands Elementary,82,Northern Health,4
 39,Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,4
-39,Salmon Arm Secondary (Jackson),83,Interior Health Authority,4
 39,Shuswap Middle School,83,Interior Health Authority,4
 39,South Canoe Outdoor learning school,83,Interior Health Authority,4
 39,William Konkin Elementary,91,Northern Health,4
@@ -1076,6 +1076,7 @@ Rank,School,School District,Health Region,Exposures
 42,Brooks Secondary,47,Vancouver Coastal Health,1
 42,Partners in Education Program (PIE),47,Vancouver Coastal Health,1
 42,Nusatsum Elementary,49,Vancouver Coastal Health,1
+42,Frank J Mitchell Elementary,5,Interior Health Authority,1
 42,Kootenay Christian Academy,5,Interior Health Authority,1
 42,Laurie Middle School,5,Interior Health Authority,1
 42,Gidgalang Kuuyas Naay,50,Northern Health,1
