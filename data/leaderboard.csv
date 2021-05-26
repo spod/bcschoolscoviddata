@@ -125,6 +125,7 @@ Rank,School,School District,Health Region,Exposures
 31,École KLO Middle School,23,Interior Health Authority,13
 31,Promontory Heights Community Elementary,33,Fraser Health Authority,13
 31,Blue Jay Elementary,34,Fraser Health Authority,13
+31,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,13
 31,Beaver Creek Elementary,36,Fraser Health Authority,13
 31,Boundary Park Elementary,36,Fraser Health Authority,13
 31,Cambridge Elementary,36,Fraser Health Authority,13
@@ -140,7 +141,6 @@ Rank,School,School District,Health Region,Exposures
 31,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 31,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,13
 32,Abbotsford Middle School,34,Fraser Health Authority,12
-32,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,12
 32,Harry Sayers Elementary,34,Fraser Health Authority,12
 32,Cedar Hills Elementary,36,Fraser Health Authority,12
 32,Chimney Hill Elementary,36,Fraser Health Authority,12
@@ -159,6 +159,7 @@ Rank,School,School District,Health Region,Exposures
 32,Caledonia Secondary,82,Northern Health,12
 32,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,12
 32,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,12
+32,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,12
 32,Langley Christian (Middle and High),Independent Schools in Fraser Health,Fraser Health Authority,12
 32,Mennonite Educational Institute Middle School,Independent Schools in Fraser Health,Fraser Health Authority,12
 32,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,12
@@ -180,7 +181,6 @@ Rank,School,School District,Health Region,Exposures
 33,Ecole Pitt River Middle,43,Fraser Health Authority,11
 33,Minnekhada Middle School,43,Fraser Health Authority,11
 33,Pinetree Secondary,43,Fraser Health Authority,11
-33,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,11
 33,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,11
 33,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,11
 34,École Dr. Knox Middle School,23,Interior Health Authority,10
@@ -1251,6 +1251,7 @@ Rank,School,School District,Health Region,Exposures
 43,Valley Christian School,Independent Schools in Fraser Health,Fraser Health Authority,1
 43,Aberdeen Hall Middle/Senior School,Independent Schools in Interior Health,Interior Health Authority,1
 43,Aberdeen Hall Preschool,Independent Schools in Interior Health,Fraser Health Authority,1
+43,Cariboo Adventist Academy,Independent Schools in Interior Health,Interior Health Authority,1
 43,Claro Learning Centre (Kelowna),Independent Schools in Interior Health,Interior Health Authority,1
 43,Immaculata Regional High School,Independent Schools in Interior Health,Fraser Health Authority,1
 43,Our Lady of Lourdes Elementary,Independent Schools in Interior Health,Interior Health Authority,1
