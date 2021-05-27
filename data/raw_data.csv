@@ -20,6 +20,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/26/2021,du Bois-Joli,Delta,93,Fraser Health Authority,May 20,Exposure 1
 05/26/2021,St Joseph's School (Smithers),Smithers,Independent Schools in Northern Health,Northern Health,"""May 10, 11, 12, and 13""",Exposure 2
 05/26/2021,W L Seaton Secondary,Vernon,22,Interior Health Authority,"""May 18, 19, and 20""",Exposure 7
+05/26/2021,Chilliwack Landing,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""May 5, 7, 10, 12 and 14""",Preschool and Kindergarten
 05/26/2021,Credo Christian High School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""May 17, 18, and 20""",Exposure 14
 05/26/2021,La Grande-ourse,Smithers,93,Northern Health,"""May 10, 11, 12, and 13""",Exposure 1
 05/26/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,May 20,Exposure 62
@@ -1998,7 +1999,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/16/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,April 12 and 13,"""Letter states 3 cases - we have listed them as Exposures 7, 8 and 9"""
 04/16/2021,Ecole Frank Ross Elementary,Dawson Creek,59,Northern Health,"""April 6, 7, 8, and 9""",Exposure 5
 04/16/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,April 12,Exposure 15
-04/16/2021,Houston Christian School,Houston,Independent Schools in Northern Health,Northern Health,"""April 7, 8, 9, 12, and 13""",Exposure 2
 04/16/2021,Houston Christian School,Houston,Independent Schools in Northern Health,Northern Health,"""April 7, 8, 9, 12, and 13""",Exposure 2
 04/16/2021,Traditional Learning Academy Online,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 7,Exposure 2
 04/16/2021,Ross Road Elementary,North Vancouver,44,Vancouver Coastal Health,April 12,Exposure 2

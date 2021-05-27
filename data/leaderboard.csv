@@ -754,7 +754,6 @@ Rank,School,School District,Health Region,Exposures
 41,Sacred Heart Elementary (Delta),Independent Schools in Fraser Health,Fraser Health Authority,3
 41,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 41,St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,3
-41,Houston Christian School,Independent Schools in Northern Health,Northern Health,3
 41,Sacred Heart (Prince George),Independent Schools in Northern Health,Northern Health,3
 42,J Lloyd Crowe Secondary,20,Interior Health Authority,2
 42,BX Elementary,22,Interior Health Authority,2
@@ -924,6 +923,7 @@ Rank,School,School District,Health Region,Exposures
 42,Discover Montessori School (Nanaimo),Independent Schools in Island Health,Vancouver Island Health Authority,2
 42,Pacific Christian School (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,2
 42,Annunciation School,Independent Schools in Northern Health,Northern Health,2
+42,Houston Christian School,Independent Schools in Northern Health,Northern Health,2
 42,Kispiox Community School,Independent Schools in Northern Health,Northern Health,2
 42,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 42,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
@@ -1241,6 +1241,7 @@ Rank,School,School District,Health Region,Exposures
 43,St. John's School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 43,Al-Hidayah School,Independent Schools in Fraser Health,Fraser Health Authority,1
 43,Children of Integrity Montessori,Independent Schools in Fraser Health,Fraser Health Authority,1
+43,Chilliwack Landing,Independent Schools in Fraser Health,Fraser Health Authority,1
 43,Fawkes Academy,Independent Schools in Fraser Health,Fraser Health Authority,1
 43,Fawkes Academy,Independent Schools in Fraser Health,Vancouver Coastal Health,1
 43,Global Montessori,Independent Schools in Fraser Health,Vancouver Coastal Health,1
