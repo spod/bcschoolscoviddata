@@ -242,6 +242,7 @@ Rank,School,School District,Health Region,Exposures
 36,Secondaire Jules-Verne,93,Vancouver Coastal Health,9
 36,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 36,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,9
+37,Clarence Fulton Secondary,22,Interior Health Authority,8
 37,W L Seaton Secondary,22,Interior Health Authority,8
 37,Canyon Falls Middle School,23,Interior Health Authority,8
 37,Rutland Middle School,23,Interior Health Authority,8
@@ -278,7 +279,6 @@ Rank,School,School District,Health Region,Exposures
 37,St Michael’s Elementary (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,8
 37,Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
 38,Nakusp Elementary,10,Interior Health Authority,7
-38,Clarence Fulton Secondary,22,Interior Health Authority,7
 38,Vernon Secondary,22,Interior Health Authority,7
 38,Casorso Elementary School,23,Interior Health Authority,7
 38,Hudson Road Elementary,23,Interior Health Authority,7
@@ -780,6 +780,7 @@ Rank,School,School District,Health Region,Exposures
 43,Jackson Elementary,34,Fraser Health Authority,2
 43,Upper Sumas Elementary,34,Fraser Health Authority,2
 43,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
+43,Langley Education Centre,35,Fraser Health Authority,2
 43,Nicomekl Elementary,35,Fraser Health Authority,2
 43,Dogwood Elementary,36,Fraser Health Authority,2
 43,Ellendale Elementary,36,Fraser Health Authority,2
@@ -977,7 +978,6 @@ Rank,School,School District,Health Region,Exposures
 44,Blacklock Fine Arts Elementary,35,Fraser Health Authority,1
 44,Fort Langley Elementary,35,Fraser Health Authority,1
 44,Glenwood Elementary (Langley),35,Fraser Health Authority,1
-44,Langley Education Centre,35,Fraser Health Authority,1
 44,Langley Online and Distributed Learning,35,Fraser Health Authority,1
 44,North Otter Elementary,35,Fraser Health Authority,1
 44,Topham Elementary,35,Fraser Health Authority,1
