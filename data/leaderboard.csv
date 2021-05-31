@@ -15,12 +15,12 @@ Rank,School,School District,Health Region,Exposures
 14,Johnston Heights Secondary,36,Fraser Health Authority,33
 14,New Westminster Secondary,40,Fraser Health Authority,33
 15,R E Mountain Secondary,35,Fraser Health Authority,30
+15,John Oliver Secondary,39,Vancouver Coastal Health,30
 15,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,30
 16,Abbotsford Senior Secondary School,34,Fraser Health Authority,29
 16,W J Mouat Secondary,34,Fraser Health Authority,29
 16,North Surrey Secondary,36,Fraser Health Authority,29
 16,Semiahmoo Secondary,36,Fraser Health Authority,29
-16,John Oliver Secondary,39,Vancouver Coastal Health,29
 17,Kwantlen Park Secondary,36,Fraser Health Authority,28
 17,Killarney Secondary,39,Vancouver Coastal Health,28
 17,Byrne Creek Community Secondary,41,Fraser Health Authority,28
@@ -108,6 +108,7 @@ Rank,School,School District,Health Region,Exposures
 30,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,15
 31,Mount Boucherie Secondary School,23,Interior Health Authority,14
 31,Vedder Middle School,33,Fraser Health Authority,14
+31,Abbotsford Middle School,34,Fraser Health Authority,14
 31,Chief Dan George Middle,34,Fraser Health Authority,14
 31,William A. Fraser Middle School,34,Fraser Health Authority,14
 31,Richard Bulpitt Elementary,35,Fraser Health Authority,14
@@ -128,7 +129,6 @@ Rank,School,School District,Health Region,Exposures
 31,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
 32,École KLO Middle School,23,Interior Health Authority,13
 32,Promontory Heights Community Elementary,33,Fraser Health Authority,13
-32,Abbotsford Middle School,34,Fraser Health Authority,13
 32,Blue Jay Elementary,34,Fraser Health Authority,13
 32,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,13
 32,Beaver Creek Elementary,36,Fraser Health Authority,13
@@ -374,6 +374,7 @@ Rank,School,School District,Health Region,Exposures
 39,Richmond Secondary School,38,Vancouver Coastal Health,6
 39,Edith Cavell Elementary,39,Vancouver Coastal Health,6
 39,J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,6
+39,John Henderson Elementary,39,Vancouver Coastal Health,6
 39,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,6
 39,Lord Byng Secondary,39,Vancouver Coastal Health,6
 39,Lord Roberts Annex,39,Vancouver Coastal Health,6
@@ -439,7 +440,6 @@ Rank,School,School District,Health Region,Exposures
 40,Robert Alexander McMath Secondary,38,Vancouver Coastal Health,5
 40,William Cook Elementary,38,Vancouver Coastal Health,5
 40,False Creek Elementary,39,Vancouver Coastal Health,5
-40,John Henderson Elementary,39,Vancouver Coastal Health,5
 40,Lord Tennyson Elementary,39,Vancouver Coastal Health,5
 40,Mount Pleasant Elementary,39,Vancouver Coastal Health,5
 40,Point Grey Secondary,39,Vancouver Coastal Health,5
