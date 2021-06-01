@@ -1,5 +1,12 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 05/31/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,May 25 and 26,Exposure 6
+05/31/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,May 25 and 27,Exposure 19
+05/31/2021,Academic Night School at New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 25,Exposure 2
+05/31/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""May 26, 27, 28""",Exposure 53
+05/31/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""May 26, 27""",Exposure 29
+05/31/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,May 25 and 27,Exposure 6
+05/31/2021,Barlow Creek Elementary,Quesnel,28,Northern Health,May 25,Exposure 2
+05/31/2021,Walter Lee Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
 05/31/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,May 17 and 19,Exposure 10
 05/31/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""May 25, 26, and 27""",Exposure 30
 05/31/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,May 27 and 28,Exposure 1
@@ -7,13 +14,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/31/2021,Harry Hooge Elementary,Maple Ridge,42,Fraser Health Authority,May 25,Exposure 1
 05/31/2021,Holly Elementary (Surrey),Surrey,36,Fraser Health Authority,"""May 25, 26, and 27""",Exposure 15
 05/31/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""May 19, 21, 25, 26, 27, and 28""",Exposure 26
-05/31/2021,Barlow Creek Elementary,Quesnel,28,Northern Health,May 25,Exposure 2
-05/31/2021,Walter Lee Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
-05/31/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,May 25 and 27,Exposure 19
-05/31/2021,Academic Night School at New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 25,Exposure 2
-05/31/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""May 26, 27, 28""",Exposure 53
-05/31/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""May 26, 27""",Exposure 29
-05/31/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,May 25 and 27,Exposure 6
 05/31/2021,Fort Nelson Secondary,Fort Nelson,81,Northern Health,May 18,Exposure 6
 05/31/2021,Voyageur Elementary School,Quesnel,28,Northern Health,May 26 and 27,Exposure 2
 05/31/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,May 19 and 20,Exposure 9
