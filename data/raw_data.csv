@@ -1,10 +1,19 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+06/01/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,May 28,Exposure 67
+06/01/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,May 27,Exposure 55
+06/01/2021,Heritage Christian School,Kelowna,23,Interior Health Authority,"""May 25, 26, 27, and 28""",Exposure 3
+06/01/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""May 26, 27, and 28""",Exposure 29
+06/01/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,May 25 and 26,Exposure 12
+06/01/2021,Kalamalka Secondary,Coldstream,22,Interior Health Authority,May 18 and 19,Exposure 4
+06/01/2021,Westridge Elementary,Burnaby,41,Fraser Health Authority,"""May 25, 26, 27, and 28""",Exposure 5
+06/01/2021,Chief Dan George Middle,Abbotsford,34,Fraser Health Authority,May 27 and 28,Exposure 15
+06/01/2021,Hyland Elementary,Surrey,36,Fraser Health Authority,"""May 27, 28""",Exposure 9
+06/01/2021,Dr Thomas A Swift Elementary,Abbotsford,34,Fraser Health Authority,"""May 26, 27""",Exposure 5
 05/31/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,May 25 and 26,Exposure 6
 05/31/2021,West Vancouver Secondary,West Vancouver,45,Vancouver Coastal Health,May 25 and 27,Exposure 19
 05/31/2021,Academic Night School at New Westminster Secondary,New Westminster,40,Fraser Health Authority,May 25,Exposure 2
 05/31/2021,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""May 26, 27, 28""",Exposure 53
 05/31/2021,Kwantlen Park Secondary,Surrey,36,Fraser Health Authority,"""May 26, 27""",Exposure 29
-05/31/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,May 25 and 27,Exposure 6
 05/31/2021,Barlow Creek Elementary,Quesnel,28,Northern Health,May 25,Exposure 2
 05/31/2021,Walter Lee Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
 05/31/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,May 17 and 19,Exposure 10
@@ -18,6 +27,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/31/2021,Voyageur Elementary School,Quesnel,28,Northern Health,May 26 and 27,Exposure 2
 05/31/2021,H.J. Cambie Secondary School,Richmond,38,Vancouver Coastal Health,May 19 and 20,Exposure 9
 05/31/2021,Graham Bruce Community Elementary,Vancouver,39,Vancouver Coastal Health,May 26,Exposure 2
+05/31/2021,Noel Booth Elementary,Langley,35,Fraser Health Authority,May 25 and 27,One class has been asked to self-isolate. (Documentation on file).
 05/30/2021,Clarence Fulton Secondary,Vernon,22,Interior Health Authority,"""May 19, 20, 21, 25, 26, and 27""",Exposure 8
 05/30/2021,Langley Education Centre,Langley,35,Fraser Health Authority,May 26,Exposure 2
 05/30/2021,John Henderson Elementary,Vancouver,39,Vancouver Coastal Health,May 25,Exposure 6
