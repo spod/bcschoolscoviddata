@@ -1,6 +1,6 @@
 Rank,School,School District,Health Region,Exposures
 1,Tamanawis Secondary,36,Fraser Health Authority,66
-2,Panorama Ridge Secondary,36,Fraser Health Authority,62
+2,Panorama Ridge Secondary,36,Fraser Health Authority,63
 3,Queen Elizabeth Secondary,36,Fraser Health Authority,55
 4,Frank Hurt Secondary,36,Fraser Health Authority,53
 4,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,53
@@ -68,6 +68,7 @@ Rank,School,School District,Health Region,Exposures
 26,Sa-hali Secondary,73,Interior Health Authority,18
 26,Hatzic Middle School,75,Fraser Health Authority,18
 27,Okanagan Mission Secondary,23,Interior Health Authority,17
+27,Godson Elementary,34,Fraser Health Authority,17
 27,Langley Secondary,35,Fraser Health Authority,17
 27,Cindrich Elementary,36,Fraser Health Authority,17
 27,Green Timbers Elementary,36,Fraser Health Authority,17
@@ -81,7 +82,6 @@ Rank,School,School District,Health Region,Exposures
 27,Dawson Creek Secondary,59,Northern Health,17
 27,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,17
 27,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,17
-28,Godson Elementary,34,Fraser Health Authority,16
 28,Robert Bateman Secondary,34,Fraser Health Authority,16
 28,D W Poppy Secondary,35,Fraser Health Authority,16
 28,H D Stafford Middle,35,Fraser Health Authority,16
@@ -273,6 +273,7 @@ Rank,School,School District,Health Region,Exposures
 36,Heather Park Elementary,57,Northern Health,8
 36,Energetic Learning Campus,60,Northern Health,8
 36,Margaret Ma Murray Community School,60,Northern Health,8
+36,Mission Central Elementary,75,Fraser Health Authority,8
 36,Skeena Middle,82,Northern Health,8
 36,Fort St James Secondary,91,Northern Health,8
 36,de l'Anse-au-sable,93,Interior Health Authority,8
@@ -340,7 +341,6 @@ Rank,School,School District,Health Region,Exposures
 37,Ecole Frank Ross Elementary,59,Northern Health,7
 37,Dr Kearney Middle School,60,Northern Health,7
 37,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
-37,Mission Central Elementary,75,Fraser Health Authority,7
 37,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 37,Cornerstone Montessori School,Independent Schools in Fraser Health,Fraser Health Authority,7
 37,Immaculate Conception School (Delta),Independent Schools in Fraser Health,Fraser Health Authority,7
