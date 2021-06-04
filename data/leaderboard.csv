@@ -11,7 +11,7 @@ Rank,School,School District,Health Region,Exposures
 9,North Delta Secondary,37,Fraser Health Authority,40
 10,Guildford Park Secondary,36,Fraser Health Authority,39
 11,Lord Tweedsmuir Secondary,36,Fraser Health Authority,37
-12,Kelowna Secondary School,23,Interior Health Authority,35
+12,Kelowna Secondary School,23,Interior Health Authority,36
 13,Johnston Heights Secondary,36,Fraser Health Authority,33
 13,New Westminster Secondary,40,Fraser Health Authority,33
 14,Abbotsford Senior Secondary School,34,Fraser Health Authority,30
@@ -22,10 +22,10 @@ Rank,School,School District,Health Region,Exposures
 14,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,30
 15,Kwantlen Park Secondary,36,Fraser Health Authority,29
 15,Semiahmoo Secondary,36,Fraser Health Authority,29
+16,Rutland Senior Secondary,23,Interior Health Authority,28
 16,Killarney Secondary,39,Vancouver Coastal Health,28
 16,Byrne Creek Community Secondary,41,Fraser Health Authority,28
 16,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,28
-17,Rutland Senior Secondary,23,Interior Health Authority,27
 17,Rick Hansen Secondary,34,Fraser Health Authority,27
 17,Yale Secondary,34,Fraser Health Authority,27
 17,Burnaby Central Secondary,41,Fraser Health Authority,27
@@ -352,6 +352,7 @@ Rank,School,School District,Health Region,Exposures
 37,Timothy Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 37,Aberdeen Hall Preparatory School (Junior School),Independent Schools in Interior Health,Interior Health Authority,7
 38,Constable Neil Bruce Middle School,23,Interior Health Authority,6
+38,Davidson Road Elementary,23,Interior Health Authority,6
 38,Glenrosa Middle School,23,Interior Health Authority,6
 38,North Glenmore Elementary,23,Interior Health Authority,6
 38,Little Mountain Elementary,33,Fraser Health Authority,6
@@ -421,7 +422,6 @@ Rank,School,School District,Health Region,Exposures
 38,Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,6
 39,Kalamalka Secondary,22,Interior Health Authority,5
 39,Chute Lake Elementary,23,Interior Health Authority,5
-39,Davidson Road Elementary,23,Interior Health Authority,5
 39,Ellison Elementary,23,Interior Health Authority,5
 39,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,5
 39,Unsworth Elementary,33,Fraser Health Authority,5
