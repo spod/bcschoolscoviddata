@@ -54,19 +54,20 @@ Rank,School,School District,Health Region,Exposures
 24,Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,20
 25,Aldergrove Community Secondary,35,Fraser Health Authority,19
 25,Clayton Heights Secondary,36,Fraser Health Authority,19
+25,Fraser Heights Secondary,36,Fraser Health Authority,19
 25,Chalmers Elementary,37,Fraser Health Authority,19
 25,Gleneagle Secondary,43,Fraser Health Authority,19
 25,West Vancouver Secondary,45,Vancouver Coastal Health,19
 26,Sardis Secondary,33,Fraser Health Authority,18
 26,Brookswood Secondary,35,Fraser Health Authority,18
 26,David Brankin Elementary,36,Fraser Health Authority,18
-26,Fraser Heights Secondary,36,Fraser Health Authority,18
 26,Seaquam Secondary,37,Fraser Health Authority,18
 26,Ecole Glenbrook Middle School,40,Fraser Health Authority,18
 26,Burnaby South Secondary,41,Fraser Health Authority,18
 26,Windsor Secondary,44,Vancouver Coastal Health,18
 26,Sa-hali Secondary,73,Interior Health Authority,18
 26,Hatzic Middle School,75,Fraser Health Authority,18
+26,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,18
 27,Okanagan Mission Secondary,23,Interior Health Authority,17
 27,Godson Elementary,34,Fraser Health Authority,17
 27,Langley Secondary,35,Fraser Health Authority,17
@@ -91,7 +92,6 @@ Rank,School,School District,Health Region,Exposures
 28,Ecole Citadel Middle,43,Fraser Health Authority,16
 28,Sentinel Secondary,45,Vancouver Coastal Health,16
 28,Howe Sound Secondary,48,Vancouver Coastal Health,16
-28,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,16
 28,St. George's Senior School,Independent Schools in Coastal Health,Vancouver Coastal Health,16
 28,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,16
 28,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Fraser Health Authority,16
@@ -306,6 +306,7 @@ Rank,School,School District,Health Region,Exposures
 37,Sunshine Hills Elementary,37,Fraser Health Authority,7
 37,Hugh Boyd Secondary,38,Vancouver Coastal Health,7
 37,Kathleen McNeely Elementary,38,Vancouver Coastal Health,7
+37,Richmond Secondary School,38,Vancouver Coastal Health,7
 37,G T Cunningham Elementary,39,Vancouver Coastal Health,7
 37,John Norquay Elementary,39,Vancouver Coastal Health,7
 37,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,7
@@ -372,7 +373,6 @@ Rank,School,School District,Health Region,Exposures
 38,Henry Anderson Elementary,38,Vancouver Coastal Health,6
 38,James Gilmore Elementary,38,Vancouver Coastal Health,6
 38,John G Diefenbaker Elementary,38,Vancouver Coastal Health,6
-38,Richmond Secondary School,38,Vancouver Coastal Health,6
 38,Edith Cavell Elementary,39,Vancouver Coastal Health,6
 38,J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,6
 38,John Henderson Elementary,39,Vancouver Coastal Health,6
@@ -386,6 +386,7 @@ Rank,School,School District,Health Region,Exposures
 38,Twelfth Avenue Elementary,41,Fraser Health Authority,6
 38,Windsor Elementary,41,Fraser Health Authority,6
 38,Alexander Robinson Elementary,42,Fraser Health Authority,6
+38,Garibaldi Secondary,42,Fraser Health Authority,6
 38,Highland Park Elementary,42,Fraser Health Authority,6
 38,Pitt Meadows Elementary,42,Fraser Health Authority,6
 38,Yennadon Elementary,42,Fraser Health Authority,6
@@ -461,7 +462,6 @@ Rank,School,School District,Health Region,Exposures
 39,Westridge Elementary,41,Fraser Health Authority,5
 39,Albion Elementary,42,Fraser Health Authority,5
 39,Edith McDermott Elementary,42,Fraser Health Authority,5
-39,Garibaldi Secondary,42,Fraser Health Authority,5
 39,Laity View Elementary,42,Fraser Health Authority,5
 39,Aspenwood Elementary,43,Fraser Health Authority,5
 39,Eagle Ridge Elementary,43,Fraser Health Authority,5
@@ -678,6 +678,7 @@ Rank,School,School District,Health Region,Exposures
 41,Florence Nightingale Elementary,39,Vancouver Coastal Health,3
 41,General Brock Elementary,39,Vancouver Coastal Health,3
 41,General Gordon Elementary,39,Vancouver Coastal Health,3
+41,Graham Bruce Community Elementary,39,Vancouver Coastal Health,3
 41,Hastings Community Elementary,39,Vancouver Coastal Health,3
 41,Laura Secord Elementary,39,Vancouver Coastal Health,3
 41,Lord Kitchener Elementary,39,Vancouver Coastal Health,3
@@ -811,7 +812,6 @@ Rank,School,School District,Health Region,Exposures
 42,Tomekichi Homma Elementary,38,Vancouver Coastal Health,2
 42,W D Ferris Elementary,38,Vancouver Coastal Health,2
 42,David Lloyd George Elementary (Vancouver),39,Vancouver Coastal Health,2
-42,Graham Bruce Community Elementary,39,Vancouver Coastal Health,2
 42,Grandview/¿Uuqinak’uuh Elementary,39,Vancouver Coastal Health,2
 42,Kerrisdale Elementary,39,Vancouver Coastal Health,2
 42,Lord Selkirk Annex,39,Vancouver Coastal Health,2
@@ -911,6 +911,7 @@ Rank,School,School District,Health Region,Exposures
 42,St Edmund's,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 42,St Joseph the Worker,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 42,St. Mary's Elementary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,2
+42,The Westside School,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 42,Tsleil-Waututh Nation School,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 42,Whistler Waldorf School,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 42,Alif Academy Education,Independent Schools in Fraser Health,Fraser Health Authority,2
@@ -1047,7 +1048,6 @@ Rank,School,School District,Health Region,Exposures
 43,St George's School,39,Vancouver Coastal Health,1
 43,Street Front Alternative Program (Britannia Secondary),39,Vancouver Coastal Health,1
 43,Tecumseh Elementary,39,Vancouver Coastal Health,1
-43,The Westside School,39,Vancouver Coastal Health,1
 43,Tillicum Community Annex,39,Vancouver Coastal Health,1
 43,Total Education,39,Vancouver Coastal Health,1
 43,University Hill Elementary,39,Vancouver Coastal Health,1

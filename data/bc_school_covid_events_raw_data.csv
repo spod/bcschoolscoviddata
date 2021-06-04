@@ -3,8 +3,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/03/2021,Kalamalka Secondary,Coldstream,22,Interior Health Authority,May 31,Exposure 5
 06/03/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,"""May 28, 31, and June 1""",Exposure 27
 06/03/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,May 26 and 27,Exposure 11
-06/03/2021,Charles Dickens Elementary,Vancouver,39,Vancouver Coastal Health,May 31,Exposure 5
 06/03/2021,Harwood Elementary,Vernon,22,Interior Health Authority,"""May 26, 27, and/or 28""",Exposure 3
+06/03/2021,Charles Dickens Elementary,Vancouver,39,Vancouver Coastal Health,May 31,Exposure 5
+06/03/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided.,Exposure 17
+06/03/2021,Garibaldi Secondary,Maple Ridge,42,Fraser Health Authority,May 28,Exposure 6
+06/03/2021,Collingwood School (Morven Campus),West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 18
+06/03/2021,Richmond Secondary School,Richmond,38,Vancouver Coastal Health,May 31,Exposure 6
+06/03/2021,Fraser Heights Secondary,Surrey,36,Fraser Health Authority,"""May 25, 26, 27, 28""",Exposure 19
+06/03/2021,Graham Bruce Community Elementary,Vancouver,39,Vancouver Coastal Health,"""May 27, 31""",Exposure 3
+06/03/2021,The Westside School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""May 17, 18, 19, 20, 21, 25, 26, 27, 28""",Exposure 2
 06/02/2021,Cape Horn Elementary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 1
 06/02/2021,Heath Traditional Elementary,Delta,37,Fraser Health Authority,May 27 and 28,Exposure 8
 06/02/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,May 27 and 28,Exposure 8
@@ -14,7 +21,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/02/2021,R C Palmer Secondary,Richmond,38,Vancouver Coastal Health,May 27 and 28,Exposure 7
 06/02/2021,Argyle Secondary,North Vancouver,44,Vancouver Coastal Health,May 25,Exposure 17
 06/02/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 2
-06/02/2021,Pinetree Secondary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 15
 06/02/2021,Montroyal Elementary,North Vancouver,44,Vancouver Coastal Health,May 26,Exposure 3
 06/02/2021,Vernon Secondary,Vernon,22,Interior Health Authority,May 28,Exposure 8
 06/02/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,May 31,Exposure 26
@@ -22,6 +28,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/02/2021,Mission Central Elementary,Mission,75,Fraser Health Authority,"""May 25, 26, 27, 28""",Exposure 8
 06/02/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""May 26, 27""",Exposure 64
 06/02/2021,Godson Elementary,Abbotsford,34,Fraser Health Authority,May 26,Exposure 17
+06/02/2021,Pinetree Secondary,Coquitlam,43,Fraser Health Authority,"""May 28, 31""",Exposure 15
 06/01/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,May 28,Exposure 67
 06/01/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,May 27,Exposure 55
 06/01/2021,Heritage Christian School,Kelowna,23,Interior Health Authority,"""May 25, 26, 27, and 28""",Exposure 3
@@ -2247,7 +2254,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/15/2021,Brookside Elementary,Surrey,36,Fraser Health Authority,April 12,Exposure 12
 04/15/2021,Silverthorne Elementary,Houston,54,Northern Health,"""April 7, 8, 9, 12 and 13""",Exposure 2
 04/15/2021,North Star Montessori Elementary School,North Vancouver,44,Vancouver Coastal Health,"""April 6, 7, 8, 9, and 14""",Exposure 1
-04/15/2021,The Westside School,Vancouver,39,Vancouver Coastal Health,April 7 and 8,Exposure 1
+04/15/2021,The Westside School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,April 7 and 8,Exposure 1
 04/15/2021,BC Muslim School,Richmond,Independent Schools in Coastal Health,Vancouver Coastal Health,April 12,Exposure 4
 04/15/2021,Britannia Community Elementary,Vancouver,39,Vancouver Coastal Health,April 13,Exposure 3
 04/15/2021,Penticton Christian School,Penticton,67,Interior Health Authority,April 6 and 7,Exposure 2
