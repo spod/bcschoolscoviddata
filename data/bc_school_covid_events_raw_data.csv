@@ -2,7 +2,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/06/2021,Christina Lake Elementary,,51,Interior Health Authority,June 2,Exposure 1
 06/06/2021,Grand Forks Secondary,Grand Forks,51,Interior Health Authority,"""May 24, 25, and 26""",Exposure 3
 06/06/2021,W L Seaton Secondary,Vernon,22,Interior Health Authority,"""May 31, June 1 and 2""",Exposure 9
-06/05/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,"""May 31, June 1""",Exposure 19
 06/05/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""May 31, June 1""",Expousre 15
 06/05/2021,Ecole Irvine Elementary,Port Coquitlam,43,Fraser Health Authority,"""May 27, 28, 31""",Exposure 6
 06/05/2021,Grand Forks Secondary,Grand Forks,51,Interior Health Authority,"""May 25, 27, 28, 31, June 1, 2, 3""",Exposure 2
@@ -14,6 +13,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/05/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,"""May 20, 25, 26, 27, 28, June 1""",Exposure 18
 06/05/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""May 27, 28, 31, June 1, 2""",Exposure 15
 06/05/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,June 2,Exposure 28
+06/05/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,"""May 31, June 1""",Exposure 19
 06/04/2021,Rutland Senior Secondary,Kelowna,23,Interior Health Authority,"""May 26, 27, and 28""",Exposure 29
 06/04/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,"""June 1, 2""",Exposure 40
 06/04/2021,Killarney Secondary,Vancouver,39,Vancouver Coastal Health,"""May 27, 28, 31, June 1, 2""",Exposure 29
