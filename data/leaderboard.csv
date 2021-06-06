@@ -216,6 +216,7 @@ Rank,School,School District,Health Region,Exposures
 33,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,10
 33,Holy Cross Regional High School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,10
 33,St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,10
+34,W L Seaton Secondary,22,Interior Health Authority,9
 34,A D Rundle Middle School,33,Fraser Health Authority,9
 34,Mount Slesse Middle School,33,Fraser Health Authority,9
 34,Sardis Elementary,33,Fraser Health Authority,9
@@ -246,7 +247,6 @@ Rank,School,School District,Health Region,Exposures
 34,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,9
 35,Clarence Fulton Secondary,22,Interior Health Authority,8
 35,Vernon Secondary,22,Interior Health Authority,8
-35,W L Seaton Secondary,22,Interior Health Authority,8
 35,Canyon Falls Middle School,23,Interior Health Authority,8
 35,Rutland Middle School,23,Interior Health Authority,8
 35,Vedder Elementary,33,Fraser Health Authority,8
@@ -721,6 +721,7 @@ Rank,School,School District,Health Region,Exposures
 40,Ridgeway Elementary,44,Vancouver Coastal Health,3
 40,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
 40,Mount Baker Secondary,5,Interior Health Authority,3
+40,Grand Forks Secondary,51,Interior Health Authority,3
 40,Pacific Coast School,52,Northern Health,3
 40,Similkameen Elem-Secondary,53,Interior Health Authority,3
 40,Pinewood Elementary (Prince George),57,Northern Health,3
@@ -852,7 +853,6 @@ Rank,School,School District,Health Region,Exposures
 41,Rocky Mountain Elementary,5,Interior Health Authority,2
 41,Steeples Elementary,5,Interior Health Authority,2
 41,Sk'aadgaa Naay Elementary,50,Northern Health,2
-41,Grand Forks Secondary,51,Interior Health Authority,2
 41,Oliver Elementary,53,Interior Health Authority,2
 41,Osoyoos Elementary,53,Interior Health Authority,2
 41,Osoyoos Secondary,53,Interior Health Authority,2
