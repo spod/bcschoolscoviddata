@@ -91,6 +91,7 @@ Rank,School,School District,Health Region,Exposures
 28,Walnut Grove Secondary,35,Fraser Health Authority,16
 28,Holly Elementary (Surrey),36,Fraser Health Authority,16
 28,Surrey Traditional,36,Fraser Health Authority,16
+28,Samuel Robertson Technical Secondary,42,Fraser Health Authority,16
 28,Ecole Citadel Middle,43,Fraser Health Authority,16
 28,Sentinel Secondary,45,Vancouver Coastal Health,16
 28,Howe Sound Secondary,48,Vancouver Coastal Health,16
@@ -106,7 +107,6 @@ Rank,School,School District,Health Region,Exposures
 29,Simon Cunningham Elementary,36,Fraser Health Authority,15
 29,Ecole Alpha Secondary,41,Fraser Health Authority,15
 29,Maple Ridge Secondary,42,Fraser Health Authority,15
-29,Samuel Robertson Technical Secondary,42,Fraser Health Authority,15
 29,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,15
 29,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,15
 29,Pinetree Secondary,43,Fraser Health Authority,15
@@ -373,6 +373,7 @@ Rank,School,School District,Health Region,Exposures
 38,Yorkson Creek Middle School,35,Fraser Health Authority,6
 38,Crescent Park Elementary (Surrey),36,Fraser Health Authority,6
 38,Don Christian Elementary,36,Fraser Health Authority,6
+38,Edgewood Elementary (Surrey),36,Fraser Health Authority,6
 38,Ocean Cliff Elementary,36,Fraser Health Authority,6
 38,Jarvis Traditional Elementary,37,Fraser Health Authority,6
 38,Pinewood Elementary (Delta),37,Fraser Health Authority,6
@@ -441,7 +442,6 @@ Rank,School,School District,Health Region,Exposures
 39,City Central Learning Centre,36,Fraser Health Authority,5
 39,Cloverdale Traditional (Surrey),36,Fraser Health Authority,5
 39,Coyote Creek Elementary,36,Fraser Health Authority,5
-39,Edgewood Elementary (Surrey),36,Fraser Health Authority,5
 39,Janice Churchill Elementary,36,Fraser Health Authority,5
 39,Kennedy Trail Elementary,36,Fraser Health Authority,5
 39,North Surrey Learning Centre,36,Fraser Health Authority,5
