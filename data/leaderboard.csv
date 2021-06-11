@@ -64,6 +64,7 @@ Rank,School,School District,Health Region,Exposures
 26,Godson Elementary,34,Fraser Health Authority,18
 26,Brookswood Secondary,35,Fraser Health Authority,18
 26,David Brankin Elementary,36,Fraser Health Authority,18
+26,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,18
 26,Vancouver Technical Secondary,39,Vancouver Coastal Health,18
 26,Ecole Glenbrook Middle School,40,Fraser Health Authority,18
 26,Burnaby South Secondary,41,Fraser Health Authority,18
@@ -79,7 +80,6 @@ Rank,School,School District,Health Region,Exposures
 27,T E Scott Elementary,36,Fraser Health Authority,17
 27,Burnsview Secondary,37,Fraser Health Authority,17
 27,Britannia Community Secondary,39,Vancouver Coastal Health,17
-27,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,17
 27,Ecole Riverside Secondary,43,Fraser Health Authority,17
 27,Argyle Secondary,44,Vancouver Coastal Health,17
 27,Dawson Creek Secondary,59,Northern Health,17
