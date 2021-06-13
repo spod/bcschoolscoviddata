@@ -433,6 +433,7 @@ Rank,School,School District,Health Region,Exposures
 39,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,5
 39,Chute Lake Elementary,23,Interior Health Authority,5
 39,Ellison Elementary,23,Interior Health Authority,5
+39,Watson Road Elementary,23,Interior Health Authority,5
 39,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,5
 39,Unsworth Elementary,33,Fraser Health Authority,5
 39,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
@@ -525,7 +526,6 @@ Rank,School,School District,Health Region,Exposures
 40,A S Matheson Elementary,23,Interior Health Authority,4
 40,George Pringle Elementary,23,Interior Health Authority,4
 40,Peachland Elementary,23,Interior Health Authority,4
-40,Watson Road Elementary,23,Interior Health Authority,4
 40,Nesika Elementary,27,Interior Health Authority,4
 40,Quesnel Junior High School,28,Northern Health,4
 40,Rosedale Traditional Community,33,Fraser Health Authority,4
