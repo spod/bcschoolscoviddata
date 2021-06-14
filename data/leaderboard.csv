@@ -729,6 +729,7 @@ Rank,School,School District,Health Region,Exposures
 41,Similkameen Elem-Secondary,53,Interior Health Authority,3
 41,Pinewood Elementary (Prince George),57,Northern Health,3
 41,Spruceland Traditional,57,Northern Health,3
+41,Merritt Central Elementary,58,Interior Health Authority,3
 41,Canalta Elementary,59,Northern Health,3
 41,Robert Ogilvie Elementary,60,Northern Health,3
 41,Upper Pine Elem-Jr Secondary,60,Northern Health,3
@@ -871,7 +872,6 @@ Rank,School,School District,Health Region,Exposures
 42,Heritage Elementary,57,Northern Health,2
 42,Valemount Secondary,57,Northern Health,2
 42,Westwood Elementary (Prince George),57,Northern Health,2
-42,Merritt Central Elementary,58,Interior Health Authority,2
 42,Chetwynd Secondary,59,Northern Health,2
 42,Devereaux Elementary,59,Northern Health,2
 42,Hudson's Hope School,60,Northern Health,2
