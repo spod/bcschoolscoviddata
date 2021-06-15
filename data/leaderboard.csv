@@ -360,6 +360,7 @@ Rank,School,School District,Health Region,Exposures
 39,Timothy Christian School,Independent Schools in Fraser Health,Fraser Health Authority,7
 39,Aberdeen Hall Preparatory School (Junior School),Independent Schools in Interior Health,Interior Health Authority,7
 40,Kalamalka Secondary,22,Interior Health Authority,6
+40,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,6
 40,Constable Neil Bruce Middle School,23,Interior Health Authority,6
 40,Davidson Road Elementary,23,Interior Health Authority,6
 40,North Glenmore Elementary,23,Interior Health Authority,6
@@ -430,7 +431,6 @@ Rank,School,School District,Health Region,Exposures
 40,Duncan Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,6
 40,Nak'albun Elementary School,Independent Schools in Northern Health,Northern Health,6
 40,Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,6
-41,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,5
 41,Chute Lake Elementary,23,Interior Health Authority,5
 41,Ellison Elementary,23,Interior Health Authority,5
 41,Watson Road Elementary,23,Interior Health Authority,5
@@ -452,6 +452,7 @@ Rank,School,School District,Health Region,Exposures
 41,South Meridian Elementary,36,Fraser Health Authority,5
 41,Woodland Park Elementary,36,Fraser Health Authority,5
 41,Annieville Elementary,37,Fraser Health Authority,5
+41,Gray Elementary,37,Fraser Health Authority,5
 41,Donald E McKay Elementary (Richmond),38,Vancouver Coastal Health,5
 41,Hamilton Elementary,38,Vancouver Coastal Health,5
 41,Kingswood Elementary,38,Vancouver Coastal Health,5
@@ -541,7 +542,6 @@ Rank,School,School District,Health Region,Exposures
 42,Mountainview Montessori,36,Fraser Health Authority,4
 42,Peace Arch Elementary,36,Fraser Health Authority,4
 42,William Watson Elementary,36,Fraser Health Authority,4
-42,Gray Elementary,37,Fraser Health Authority,4
 42,Hawthorne Elementary,37,Fraser Health Authority,4
 42,James McKinney Elementary,38,Vancouver Coastal Health,4
 42,James Whiteside Elementary,38,Vancouver Coastal Health,4
