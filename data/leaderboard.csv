@@ -592,6 +592,7 @@ Rank,School,School District,Health Region,Exposures
 42,Anne Roberts Young Elementary,60,Northern Health,4
 42,Charlie Lake Elementary,60,Northern Health,4
 42,Cedar Hill Middle,61,Vancouver Island Health Authority,4
+42,Colquitz Middle School,61,Vancouver Island Health Authority,4
 42,Spectrum Community,61,Vancouver Island Health Authority,4
 42,Summerland Middle School,67,Interior Health Authority,4
 42,John Barsby Secondary School,68,Vancouver Island Health Authority,4
@@ -737,7 +738,6 @@ Rank,School,School District,Health Region,Exposures
 43,Chetwynd Secondary,59,Northern Health,3
 43,Robert Ogilvie Elementary,60,Northern Health,3
 43,Upper Pine Elem-Jr Secondary,60,Northern Health,3
-43,Colquitz Middle School,61,Vancouver Island Health Authority,3
 43,Oaklands Elementary,61,Vancouver Island Health Authority,3
 43,David Cameron Elementary,62,Vancouver Island Health Authority,3
 43,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
@@ -1165,6 +1165,7 @@ Rank,School,School District,Health Region,Exposures
 45,Sir James Douglas Elementary (Victoria),61,Vancouver Island Health Authority,1
 45,South Park Family School (Victoria),61,Vancouver Island Health Authority,1
 45,Strawberry Vale Elementary,61,Vancouver Island Health Authority,1
+45,Tillicum Community School,61,Vancouver Island Health Authority,1
 45,Victoria High,61,Vancouver Island Health Authority,1
 45,Victoria West Elementary,61,Vancouver Island Health Authority,1
 45,Edward Milne Community School,62,Vancouver Island Health Authority,1
