@@ -1,5 +1,14 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 06/18/2021,Lord Nelson Elementary,Vancouver,39,Vancouver Coastal Health,June 14 and 15,Exposure 2
+06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
+06/18/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,"""June 9, 14""",Exposure 9
+06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
+06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
+06/18/2021,Windermere Elementary,,6,Interior Health Authority,Not provided,Exposure 2
+06/18/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,June 14,Exposure 48
+06/18/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""June 14, 15, 16""",Exposure 13
+06/18/2021,Xpey' Elementary,Vancouver,39,Vancouver Coastal Health,"""June 9, 10, and 11""",Exposure 4
+06/18/2021,St Joseph Elementary School (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,June 11,Exposure 1
 06/17/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""June 7, 8, 11 and 14""",Exposure 17
 06/17/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""June 9, 10 and 14""",Exposure 30
 06/17/2021,David Thompson Secondary (Invermere),Invermere,6,Interior Health Authority,June 10,Exposure 2
@@ -8,11 +17,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/17/2021,Invermere School District Board Office,Invermere,6,Interior Health Authority,"""June 9, 10 and 11""",Exposure 1
 06/17/2021,Colquitz Middle School,Victoria,61,Vancouver Island Health Authority,June 14,Exposure 4
 06/17/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,June 14,Exposure 1
-06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7, 8, 9""",Exposure 4
-06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7, 8, 9""",Exposure 2
-06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7, 8, 9""",Exposure 3
 06/17/2021,Cheam Elementary,Chilliwack,33,Fraser Health Authority,June 14,Exposure 4
 06/17/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,June 14,Exposure 52
+06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 2
+06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 4
+06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 3
 06/16/2021,South Park Elementary (Delta),Delta,37,Fraser Health Authority,June 11,Exposure 3
 06/16/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,June 14,Exposure 4
 06/16/2021,Westview Secondary,Maple Ridge,42,Fraser Health Authority,June 11,Exposure 6
@@ -789,7 +798,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 05/13/2021,Edwin S Richards Elementary,Mission,75,Fraser Health Authority,"""May 5, 6, and 7""",Exposure 4
 05/13/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 28
 05/13/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,"""May 6, 7, and 10""",There is a 'functional closure' of this school. It will re-open Tuesday May 25th. (Documentation on file)
-05/13/2021,Windermere Elementary,,6,Vancouver Coastal Health,"""May 10, 11""",Exposure 11
 05/13/2021,Morley Elementary,Burnaby,41,Fraser Health Authority,"""May 4, 5, and 6""",Exposure 7
 05/13/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,May 6,Exposure 23
 05/13/2021,Pinewood Elementary (Delta),Delta,37,Fraser Health Authority,May 4,Exposure 3
