@@ -231,6 +231,7 @@ Rank,School,School District,Health Region,Exposures
 36,Centennial Park Elementary,34,Fraser Health Authority,9
 36,Clayburn Middle School,34,Fraser Health Authority,9
 36,King Traditional Elementary,34,Fraser Health Authority,9
+36,McMillan Elementary,34,Fraser Health Authority,9
 36,Ross Elementary,34,Fraser Health Authority,9
 36,Ten Broeck Elementary,34,Fraser Health Authority,9
 36,Willoughby Elementary,35,Fraser Health Authority,9
@@ -257,7 +258,6 @@ Rank,School,School District,Health Region,Exposures
 37,Rutland Middle School,23,Interior Health Authority,8
 37,Vedder Elementary,33,Fraser Health Authority,8
 37,Clearbrook Elementary,34,Fraser Health Authority,8
-37,McMillan Elementary,34,Fraser Health Authority,8
 37,Betty Gilbert Middle,35,Fraser Health Authority,8
 37,Douglas Park Community,35,Fraser Health Authority,8
 37,Henry Bose Elementary,36,Fraser Health Authority,8
@@ -287,6 +287,7 @@ Rank,School,School District,Health Region,Exposures
 37,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,8
 37,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,8
 37,Cascade Christian School,Independent Schools in Fraser Health,Fraser Health Authority,8
+37,Highroad Academy,Independent Schools in Fraser Health,Fraser Health Authority,8
 37,Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health Authority,8
 37,St Michael’s Elementary (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,8
 37,Centennial Christian School,Independent Schools in Northern Health,Northern Health,8
@@ -352,7 +353,6 @@ Rank,School,School District,Health Region,Exposures
 38,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 38,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 38,Cornerstone Montessori School,Independent Schools in Fraser Health,Fraser Health Authority,7
-38,Highroad Academy,Independent Schools in Fraser Health,Fraser Health Authority,7
 38,Immaculate Conception School (Delta),Independent Schools in Fraser Health,Fraser Health Authority,7
 38,John Calvin School,Independent Schools in Fraser Health,Fraser Health Authority,7
 38,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,7
