@@ -705,6 +705,7 @@ Rank,School,School District,Health Region,Exposures
 42,Sir Wilfred Laurier Elementary,39,Vancouver Coastal Health,3
 42,St John's School,39,Vancouver Coastal Health,3
 42,Vancouver Montessori School,39,Vancouver Coastal Health,3
+42,Herbert Spencer Elementary,40,Fraser Health Authority,3
 42,Ecole Inman Elementary,41,Fraser Health Authority,3
 42,Gilmore Community Elementary,41,Fraser Health Authority,3
 42,Our Lady of Mercy,41,Fraser Health Authority,3
@@ -837,7 +838,6 @@ Rank,School,School District,Health Region,Exposures
 43,Vancouver Hebrew Academy,39,Vancouver Coastal Health,2
 43,Academic Night School at New Westminster Secondary,40,Fraser Health Authority,2
 43,F W Howay Elementary,40,Fraser Health Authority,2
-43,Herbert Spencer Elementary,40,Fraser Health Authority,2
 43,Aubrey Elementary,41,Fraser Health Authority,2
 43,Burnaby Youth HUB,41,Fraser Health Authority,2
 43,Capitol Hill Elementary,41,Fraser Health Authority,2
