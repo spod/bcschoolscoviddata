@@ -196,6 +196,7 @@ Rank,School,School District,Health Region,Exposures
 35,École Dr. Knox Middle School,23,Interior Health Authority,10
 35,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
 35,Langley Fine Arts School,35,Fraser Health Authority,10
+35,Willoughby Elementary,35,Fraser Health Authority,10
 35,Adams Road Elementary,36,Fraser Health Authority,10
 35,Bear Creek Elementary,36,Fraser Health Authority,10
 35,Colebrook Elementary,36,Fraser Health Authority,10
@@ -234,7 +235,6 @@ Rank,School,School District,Health Region,Exposures
 36,McMillan Elementary,34,Fraser Health Authority,9
 36,Ross Elementary,34,Fraser Health Authority,9
 36,Ten Broeck Elementary,34,Fraser Health Authority,9
-36,Willoughby Elementary,35,Fraser Health Authority,9
 36,A J McLellan Elementary,36,Fraser Health Authority,9
 36,Hyland Elementary,36,Fraser Health Authority,9
 36,K B Woodward Elementary,36,Fraser Health Authority,9
@@ -584,6 +584,7 @@ Rank,School,School District,Health Region,Exposures
 41,Myrtle Philip Community School,48,Vancouver Coastal Health,4
 41,Spring Creek Community School,48,Vancouver Coastal Health,4
 41,Isabella Dicken Elementary,5,Interior Health Authority,4
+41,Mount Baker Secondary,5,Interior Health Authority,4
 41,Grand Forks Secondary,51,Interior Health Authority,4
 41,Roosevelt Park Elementary,52,Northern Health,4
 41,Houston Secondary,54,Northern Health,4
@@ -711,6 +712,7 @@ Rank,School,School District,Health Region,Exposures
 42,Our Lady of Mercy,41,Fraser Health Authority,3
 42,Parkcrest Elementary (Burnaby),41,Fraser Health Authority,3
 42,Suncrest Elementary,41,Fraser Health Authority,3
+42,Davie Jones Elementary,42,Fraser Health Authority,3
 42,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,3
 42,Como Lake Middle School,43,Fraser Health Authority,3
 42,Coquitlam Alternate Basic Education,43,Fraser Health Authority,3
@@ -730,7 +732,6 @@ Rank,School,School District,Health Region,Exposures
 42,Queensbury Elementary,44,Vancouver Coastal Health,3
 42,Ridgeway Elementary,44,Vancouver Coastal Health,3
 42,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
-42,Mount Baker Secondary,5,Interior Health Authority,3
 42,Parkland Middle School,5,Interior Health Authority,3
 42,Pacific Coast School,52,Northern Health,3
 42,Similkameen Elem-Secondary,53,Interior Health Authority,3
@@ -847,7 +848,6 @@ Rank,School,School District,Health Region,Exposures
 43,St Francis de Sales,41,Fraser Health Authority,2
 43,Stride Avenue Community Elementary,41,Fraser Health Authority,2
 43,University Highlands Elementary,41,Fraser Health Authority,2
-43,Davie Jones Elementary,42,Fraser Health Authority,2
 43,Hammond Elementary,42,Fraser Health Authority,2
 43,Kanaka Creek Elementary,42,Fraser Health Authority,2
 43,Blakeburn Elementary,43,Fraser Health Authority,2

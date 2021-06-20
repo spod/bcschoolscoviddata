@@ -1,6 +1,8 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+06/20/2021,Mount Baker Secondary,Cranbrook,5,Interior Health Authority,June 11,Exposure 4
+06/20/2021,Willoughby Elementary,Langley,35,Fraser Health Authority,June 11,Exposure 10
 06/19/2021,Herbert Spencer Elementary,New Westminster,40,Fraser Health Authority,June 14,Exposure 3
-06/18/2021,Lord Nelson Elementary,Vancouver,39,Vancouver Coastal Health,June 14 and 15,Exposure 2
+06/19/2021,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,June 14,Exposure 3
 06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
 06/18/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,"""June 9, 14""",Exposure 9
 06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
@@ -8,15 +10,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/18/2021,Windermere Elementary,,6,Interior Health Authority,Not provided,Exposure 2
 06/18/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,June 14,Exposure 48
 06/18/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""June 14, 15, 16""",Exposure 13
+06/18/2021,Lord Nelson Elementary,Vancouver,39,Vancouver Coastal Health,June 14 and 15,Exposure 2
 06/18/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""June 14, 15""",Exposure 9
 06/18/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""June 9, 10, and 11""",Exposure 8
 06/18/2021,St Joseph Elementary School (Kelowna),Kelowna,Independent Schools in Interior Health,Interior Health Authority,June 11,Exposure 1
 06/18/2021,Xpey' Elementary,Vancouver,39,Vancouver Coastal Health,"""June 9, 10, and 11""",Exposure 4
-06/17/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""June 7, 8, 11 and 14""",Exposure 17
-06/17/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""June 9, 10 and 14""",Exposure 30
-06/17/2021,David Thompson Secondary (Invermere),Invermere,6,Interior Health Authority,June 10,Exposure 2
-06/17/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,June 14,Exposure 7
-06/17/2021,Invermere School District Board Office,Invermere,6,Interior Health Authority,"""June 9, 10 and 11""",Exposure 1
 06/17/2021,Colquitz Middle School,Victoria,61,Vancouver Island Health Authority,June 14,Exposure 4
 06/17/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,June 14,Exposure 1
 06/17/2021,Cheam Elementary,Chilliwack,33,Fraser Health Authority,June 14,Exposure 4
@@ -24,15 +22,20 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 2
 06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 4
 06/17/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 3, 4, 7""",Exposure 3
+06/17/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""June 7, 8, 11 and 14""",Exposure 17
+06/17/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""June 9, 10 and 14""",Exposure 30
+06/17/2021,David Thompson Secondary (Invermere),Invermere,6,Interior Health Authority,June 10,Exposure 2
+06/17/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,June 14,Exposure 7
+06/17/2021,Invermere School District Board Office,Invermere,6,Interior Health Authority,"""June 9, 10 and 11""",Exposure 1
 06/17/2021,Ecole Rochester Elementary,Coquitlam,43,Fraser Health Authority,June 10 and 11,Exposure 4
+06/16/2021,Selkirk Secondary School,Kimberley,6,Interior Health Authority,June 10 and 11 (Dates on the BCCDC),Exposure 1
+06/16/2021,Beairsto Elementary,Vernon,22,Interior Health Authority,"""June 7, 8, 9, and 10""",Exposure 3
+06/16/2021,Maple Ridge Secondary,Maple Ridge,42,Fraser Health Authority,"""June 4, 7, 8, 9, 10, and 11""",Exposure 17
 06/16/2021,South Park Elementary (Delta),Delta,37,Fraser Health Authority,June 11,Exposure 3
 06/16/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,June 14,Exposure 4
 06/16/2021,Westview Secondary,Maple Ridge,42,Fraser Health Authority,June 11,Exposure 6
 06/16/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,June 11,Expousre 15
 06/16/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""June 9, 10, 11""",Exposure 15
-06/16/2021,Selkirk Secondary School,Kimberley,6,Interior Health Authority,June 10 and 11 (Dates on the BCCDC),Exposure 1
-06/16/2021,Beairsto Elementary,Vernon,22,Interior Health Authority,"""June 7, 8, 9, and 10""",Exposure 3
-06/16/2021,Maple Ridge Secondary,Maple Ridge,42,Fraser Health Authority,"""June 4, 7, 8, 9, 10, and 11""",Exposure 17
 06/15/2021,Gray Elementary,Delta,37,Fraser Health Authority,June 9 and 10,Exposure 5
 06/15/2021,Vernon Secondary,Vernon,22,Interior Health Authority,June 10 and 11,Exposure 12
 06/15/2021,Yennadon Elementary,Maple Ridge,42,Fraser Health Authority,June 10,Exposure 11
