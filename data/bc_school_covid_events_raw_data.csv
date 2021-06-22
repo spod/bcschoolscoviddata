@@ -1,11 +1,18 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 06/21/2021,McGowan Park Elementary,Kamloops,73,Interior Health Authority,June 16,https://cfjctoday.com/2021/06/21/mcgowan-park-elementary-joins-ih-covid-19-exposure-list
 06/21/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""June 15, 16, 17, and 18""",Exposure 6
+06/21/2021,Kingswood Elementary,Richmond,38,Vancouver Coastal Health,"""June 2, 3, 4, 7, 8, 9, 10, 11, and 14""",Exposure 6
+06/21/2021,Queen Mary Community Elementary,North Vancouver,44,Vancouver Coastal Health,June 14 and 16,Exposure 4
+06/21/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,June 15 and 16,Exposure 6
+06/21/2021,Windermere Elementary,Windermere,6,Interior Health Authority,June 18,Exposure 5
+06/21/2021,St Joseph School (Vancouver),Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,June 15 and 16,Exposure 2
+06/21/2021,William Cook Elementary,Richmond,38,Vancouver Coastal Health,June 15,Exposure 6
+06/21/2021,Bert Bowes Middle School,,60,Northern Health,"""June 7, 8, 9, 10, 11, 14, and 15""",Exposure 12
+06/21/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""June 9, 10, 11, 14, 15, and 17""",Exposure 25
+06/21/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/West-Kelowna/337699/COVID-19-exposure-reported-at-West-Kelowna-school
 06/20/2021,Bernard Elementary,Chilliwack,33,Fraser Health Authority,June 15,Exposure 1
 06/20/2021,Gilpin Elementary,Burnaby,41,Fraser Health Authority,"""June 3, 4, 8, 9, 10, 14, and 15""",Exposure 8
 06/20/2021,Hazelgrove Elementary,Surrey,36,Fraser Health Authority,"""June 14, 15, 16""",Exposure 12
-06/20/2021,Cape Horn Elementary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 2
-06/20/2021,Ecole Rochester Elementary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 5
 06/20/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,"""June 8, 9, and 10""",Exposure 5
 06/20/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 8, 9, and 10""",Exposure 5
 06/20/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,June 15 and 17,Exposure 5
@@ -20,6 +27,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/20/2021,Willoughby Elementary,Langley,35,Fraser Health Authority,June 11,Exposure 10
 06/20/2021,"""Central School (Central Program and Services, Richter Site)""",Kelowna,23,Interior Health Authority,June 17,Exposure 7
 06/20/2021,Watson Elementary,Chilliwack,33,Fraser Health Authority,June 14,Exposure 1
+06/20/2021,Ecole Rochester Elementary,Coquitlam,43,Fraser Health Authority,"""June 9, 14, 15, 16, and 17""",Exposure 5
+06/20/2021,Cape Horn Elementary,Coquitlam,43,Fraser Health Authority,June 16 and 17 (Dates on the BCCDC webpage),Exposure 2
 06/19/2021,Herbert Spencer Elementary,New Westminster,40,Fraser Health Authority,June 14,Exposure 3
 06/19/2021,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,June 14,Exposure 3
 06/18/2021,J Alfred Laird Elementary,Invermere,6,Interior Health Authority,"""June 2, 3, 4, and 7""","""Attached letter indicates 3 cases. We have listed them as Exposure 2, 3, and 4."""
