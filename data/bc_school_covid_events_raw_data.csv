@@ -2,10 +2,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 06/22/2021,J.W. Sexsmith Community Elementary,Vancouver,39,Vancouver Coastal Health,"""June 14, 15, 16, 17, 18""",Exposure 7
 06/22/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""June 14, 15, and 16""",Exposure 32
 06/22/2021,Aberdeen Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,"""June 14, 15, 16, and 17""",Exposure 5
-06/21/2021,McGowan Park Elementary,Kamloops,73,Interior Health Authority,June 16,https://cfjctoday.com/2021/06/21/mcgowan-park-elementary-joins-ih-covid-19-exposure-list
-06/21/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""June 15, 16, 17, and 18""",Exposure 6
 06/21/2021,Centennial Secondary School,Coquitlam,43,Fraser Health Authority,"""June 9, 10, 11, 14, 15, and 17""",Exposure 25
 06/21/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,Not provided,https://www.castanet.net/news/West-Kelowna/337699/COVID-19-exposure-reported-at-West-Kelowna-school
+06/21/2021,McGowan Park Elementary,Kamloops,73,Interior Health Authority,June 16,https://cfjctoday.com/2021/06/21/mcgowan-park-elementary-joins-ih-covid-19-exposure-list
+06/21/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""June 15, 16, 17, and 18""",Exposure 6
 06/21/2021,Kingswood Elementary,Richmond,38,Vancouver Coastal Health,"""June 2, 3, 4, 7, 8, 9, 10, 11, and 14""",Exposure 6
 06/21/2021,Queen Mary Community Elementary,North Vancouver,44,Vancouver Coastal Health,June 14 and 16,Exposure 4
 06/21/2021,Lord Tennyson Elementary,Vancouver,39,Vancouver Coastal Health,June 15 and 16,Exposure 6
@@ -5462,6 +5462,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/14/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Jan 11,Exposure 26
 01/13/2021,Barriere Elementary,Barriere,73,Interior Health Authority,"""Jan 5, 7, and 8""",Exposure 4
 01/13/2021,South Canoe Outdoor learning school,Salmon Arm,83,Interior Health Authority,Not provided,https://www.saobserver.net/news/salmon-arm-principal-self-isolating-after-covid-19-confirmation/?fbclid=IwAR1c9sfF927qGfA8xxRT3YraIuVNc2m0Tx3K5RARSlCGRq_Utm2NcZTSssQ
+01/13/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,"""June 15, 16, 17, and 18""",https://www.castanet.net/news/West-Kelowna/321710/COVID-19-exposure-at-Shannon-Lake-Elementary
 01/13/2021,Queensborough Middle School,New Westminster,40,Fraser Health Authority,Jan 11,Exposure 4
 01/13/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,Jan 7,Exposure 27
 01/13/2021,Johnston Heights Secondary,Surrey,36,Fraser Health Authority,"""Jan 4, 5, and 8""",Exposure 17
@@ -5482,7 +5483,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 01/13/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,Jan 12,Exposure 5
 01/13/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""Jan 5, 6, 7""",Exposure 4
 01/13/2021,Hatzic Elementary,Mission,75,Fraser Health Authority,Jan 11,Exposure 2
-01/13/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,"""June 15, 16, 17, and 18""",https://www.castanet.net/news/West-Kelowna/321710/COVID-19-exposure-at-Shannon-Lake-Elementary
 01/12/2021,Credo Christian Elementary School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,Jan 8,Exposure 1
 01/12/2021,Sikh Academy (Newton),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Jan 6, 7, and 8""",Exposure 5
 01/12/2021,Harry Sayers Elementary,Abbotsford,34,Fraser Health Authority,Jan 5,Exposure 3
