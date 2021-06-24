@@ -225,6 +225,7 @@ Rank,School,School District,Health Region,Exposures
 36,St Thomas More Collegiate,Independent Schools in Fraser Health,Fraser Health Authority,10
 37,W L Seaton Secondary,22,Interior Health Authority,9
 37,Canyon Falls Middle School,23,Interior Health Authority,9
+37,Rutland Middle School,23,Interior Health Authority,9
 37,A D Rundle Middle School,33,Fraser Health Authority,9
 37,Mount Slesse Middle School,33,Fraser Health Authority,9
 37,Sardis Elementary,33,Fraser Health Authority,9
@@ -255,7 +256,6 @@ Rank,School,School District,Health Region,Exposures
 37,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,9
 38,Clarence Fulton Secondary,22,Interior Health Authority,8
 38,Hudson Road Elementary,23,Interior Health Authority,8
-38,Rutland Middle School,23,Interior Health Authority,8
 38,Vedder Elementary,33,Fraser Health Authority,8
 38,Clearbrook Elementary,34,Fraser Health Authority,8
 38,Betty Gilbert Middle,35,Fraser Health Authority,8
@@ -413,6 +413,7 @@ Rank,School,School District,Health Region,Exposures
 40,Ecole Cedardale,45,Vancouver Coastal Health,6
 40,Chatelech Secondary,46,Vancouver Coastal Health,6
 40,Mamquam Elementary,48,Vancouver Coastal Health,6
+40,Isabella Dicken Elementary,5,Interior Health Authority,6
 40,Prince Rupert Middle,52,Northern Health,6
 40,Smithers Secondary,54,Northern Health,6
 40,Central Elementary (Ft. St John),60,Northern Health,6
@@ -496,7 +497,6 @@ Rank,School,School District,Health Region,Exposures
 41,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 41,Signal Hill Elementary,48,Vancouver Coastal Health,5
 41,Valleycliffe Elementary,48,Vancouver Coastal Health,5
-41,Isabella Dicken Elementary,5,Interior Health Authority,5
 41,D P Todd Secondary,57,Northern Health,5
 41,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 41,Tremblay Elementary,59,Northern Health,5
@@ -936,6 +936,7 @@ Rank,School,School District,Health Region,Exposures
 44,Cornerstone Christian School,Independent Schools in Fraser Health,Fraser Health Authority,2
 44,Global Montessori,Independent Schools in Fraser Health,Fraser Health Authority,2
 44,John Knox Christian - Elementary Campus,Independent Schools in Fraser Health,Fraser Health Authority,2
+44,John Knox Christian - Secondary Campus,Independent Schools in Fraser Health,Fraser Health Authority,2
 44,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,2
 44,Pacific Christian School (Abbotsford),Independent Schools in Fraser Health,Fraser Health Authority,2
 44,Pivot Point Family Growth Centre,Independent Schools in Fraser Health,Fraser Health Authority,2
@@ -1272,7 +1273,6 @@ Rank,School,School District,Health Region,Exposures
 45,Fawkes Academy,Independent Schools in Fraser Health,Vancouver Coastal Health,1
 45,Global Montessori,Independent Schools in Fraser Health,Vancouver Coastal Health,1
 45,Guru Angand Dev Elementary,Independent Schools in Fraser Health,Interior Health Authority,1
-45,John Knox Christian - Secondary Campus,Independent Schools in Fraser Health,Fraser Health Authority,1
 45,Khalsa Primary School,Independent Schools in Fraser Health,Fraser Health Authority,1
 45,Our Lady of the Assumption,Independent Schools in Fraser Health,Fraser Health Authority,1
 45,PALS Autism Society (School Program) (New West),Independent Schools in Fraser Health,Fraser Health Authority,1
@@ -1287,6 +1287,7 @@ Rank,School,School District,Health Region,Exposures
 45,Aberdeen Hall Preschool,Independent Schools in Interior Health,Fraser Health Authority,1
 45,Claro Learning Centre (Kelowna),Independent Schools in Interior Health,Interior Health Authority,1
 45,Immaculata Regional High School,Independent Schools in Interior Health,Fraser Health Authority,1
+45,Mountain Ridge Academy,Independent Schools in Interior Health,Interior Health Authority,1
 45,Our Lady of Lourdes Elementary,Independent Schools in Interior Health,Interior Health Authority,1
 45,Summerland Montessori School,Independent Schools in Interior Health,Interior Health Authority,1
 45,Sxoxomic Community School,Independent Schools in Interior Health,Interior Health Authority,1
