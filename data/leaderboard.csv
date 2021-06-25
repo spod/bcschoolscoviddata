@@ -295,6 +295,7 @@ Rank,School,School District,Health Region,Exposures
 39,Nakusp Elementary,10,Interior Health Authority,7
 39,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,7
 39,Casorso Elementary School,23,Interior Health Authority,7
+39,Davidson Road Elementary,23,Interior Health Authority,7
 39,Glenrosa Middle School,23,Interior Health Authority,7
 39,Rose Valley Elementary,23,Interior Health Authority,7
 39,Springvalley Middle School,23,Interior Health Authority,7
@@ -336,6 +337,7 @@ Rank,School,School District,Health Region,Exposures
 39,Eric Langton Elementary,42,Fraser Health Authority,7
 39,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,7
 39,Golden Ears Elementary,42,Fraser Health Authority,7
+39,Laity View Elementary,42,Fraser Health Authority,7
 39,Castle Park Elementary,43,Fraser Health Authority,7
 39,Cedar Drive Elementary,43,Fraser Health Authority,7
 39,Central Community Elementary,43,Fraser Health Authority,7
@@ -365,7 +367,6 @@ Rank,School,School District,Health Region,Exposures
 39,St Joseph Elementary School (Kelowna),Independent Schools in Interior Health,Interior Health Authority,7
 40,Kalamalka Secondary,22,Interior Health Authority,6
 40,Constable Neil Bruce Middle School,23,Interior Health Authority,6
-40,Davidson Road Elementary,23,Interior Health Authority,6
 40,North Glenmore Elementary,23,Interior Health Authority,6
 40,Little Mountain Elementary,33,Fraser Health Authority,6
 40,John MacLure Community School,34,Fraser Health Authority,6
@@ -402,7 +403,6 @@ Rank,School,School District,Health Region,Exposures
 40,Edith McDermott Elementary,42,Fraser Health Authority,6
 40,Garibaldi Secondary,42,Fraser Health Authority,6
 40,Highland Park Elementary,42,Fraser Health Authority,6
-40,Laity View Elementary,42,Fraser Health Authority,6
 40,Pitt Meadows Elementary,42,Fraser Health Authority,6
 40,Westview Secondary,42,Fraser Health Authority,6
 40,Ecole Kilmer Elementary,43,Fraser Health Authority,6
@@ -469,6 +469,7 @@ Rank,School,School District,Health Region,Exposures
 41,Mount Pleasant Elementary,39,Vancouver Coastal Health,5
 41,Point Grey Secondary,39,Vancouver Coastal Health,5
 41,Sir James Douglas Elementary (Vancouver),39,Vancouver Coastal Health,5
+41,Sir Sandford Fleming Elementary,39,Vancouver Coastal Health,5
 41,Tyee Elementary,39,Vancouver Coastal Health,5
 41,Lord Kelvin Elementary,40,Fraser Health Authority,5
 41,Brantford Elementary,41,Fraser Health Authority,5
@@ -562,7 +563,6 @@ Rank,School,School District,Health Region,Exposures
 42,Quilchena Elementary,39,Vancouver Coastal Health,4
 42,Sir Alexander Mackenzie Elementary,39,Vancouver Coastal Health,4
 42,Sir Charles Kingsford-Smith,39,Vancouver Coastal Health,4
-42,Sir Sandford Fleming Elementary,39,Vancouver Coastal Health,4
 42,Waverley Elementary,39,Vancouver Coastal Health,4
 42,Xpey' Elementary,39,Vancouver Coastal Health,4
 42,Queen Elizabeth Elementary (New Westminster),40,Fraser Health Authority,4
