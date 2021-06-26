@@ -105,6 +105,7 @@ Rank,School,School District,Health Region,Exposures
 31,Mount Boucherie Secondary School,23,Interior Health Authority,15
 31,Abbotsford Middle School,34,Fraser Health Authority,15
 31,Chief Dan George Middle,34,Fraser Health Authority,15
+31,William A. Fraser Middle School,34,Fraser Health Authority,15
 31,Elgin Park Secondary,36,Fraser Health Authority,15
 31,Rosemary Heights Elementary,36,Fraser Health Authority,15
 31,Simon Cunningham Elementary,36,Fraser Health Authority,15
@@ -119,7 +120,6 @@ Rank,School,School District,Health Region,Exposures
 31,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,15
 32,Vedder Middle School,33,Fraser Health Authority,14
 32,Blue Jay Elementary,34,Fraser Health Authority,14
-32,William A. Fraser Middle School,34,Fraser Health Authority,14
 32,Richard Bulpitt Elementary,35,Fraser Health Authority,14
 32,Bonaccord Elementary,36,Fraser Health Authority,14
 32,Brookside Elementary,36,Fraser Health Authority,14
@@ -196,6 +196,7 @@ Rank,School,School District,Health Region,Exposures
 35,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,11
 35,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,11
 36,École Dr. Knox Middle School,23,Interior Health Authority,10
+36,A D Rundle Middle School,33,Fraser Health Authority,10
 36,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
 36,Langley Fine Arts School,35,Fraser Health Authority,10
 36,Willoughby Elementary,35,Fraser Health Authority,10
@@ -226,7 +227,6 @@ Rank,School,School District,Health Region,Exposures
 37,W L Seaton Secondary,22,Interior Health Authority,9
 37,Canyon Falls Middle School,23,Interior Health Authority,9
 37,Rutland Middle School,23,Interior Health Authority,9
-37,A D Rundle Middle School,33,Fraser Health Authority,9
 37,Mount Slesse Middle School,33,Fraser Health Authority,9
 37,Sardis Elementary,33,Fraser Health Authority,9
 37,ASIA - North Poplar,34,Fraser Health Authority,9
