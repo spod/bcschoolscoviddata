@@ -416,6 +416,7 @@ Rank,School,School District,Health Region,Exposures
 40,Isabella Dicken Elementary,5,Interior Health Authority,6
 40,Prince Rupert Middle,52,Northern Health,6
 40,Smithers Secondary,54,Northern Health,6
+40,Eileen Madson Primary School,6,Interior Health Authority,6
 40,Central Elementary (Ft. St John),60,Northern Health,6
 40,Belmont Secondary,62,Vancouver Island Health Authority,6
 40,Dunsmuir Middle School,62,Vancouver Island Health Authority,6
@@ -501,7 +502,6 @@ Rank,School,School District,Health Region,Exposures
 41,D P Todd Secondary,57,Northern Health,5
 41,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 41,Tremblay Elementary,59,Northern Health,5
-41,Eileen Madson Primary School,6,Interior Health Authority,5
 41,J Alfred Laird Elementary,6,Interior Health Authority,5
 41,Windermere Elementary,6,Interior Health Authority,5
 41,Duncan Cran Elementary,60,Northern Health,5
