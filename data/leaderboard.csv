@@ -198,6 +198,7 @@ Rank,School,School District,Health Region,Exposures
 36,École Dr. Knox Middle School,23,Interior Health Authority,10
 36,A D Rundle Middle School,33,Fraser Health Authority,10
 36,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
+36,McMillan Elementary,34,Fraser Health Authority,10
 36,Langley Fine Arts School,35,Fraser Health Authority,10
 36,Willoughby Elementary,35,Fraser Health Authority,10
 36,Adams Road Elementary,36,Fraser Health Authority,10
@@ -233,7 +234,6 @@ Rank,School,School District,Health Region,Exposures
 37,Centennial Park Elementary,34,Fraser Health Authority,9
 37,Clayburn Middle School,34,Fraser Health Authority,9
 37,King Traditional Elementary,34,Fraser Health Authority,9
-37,McMillan Elementary,34,Fraser Health Authority,9
 37,Ross Elementary,34,Fraser Health Authority,9
 37,Ten Broeck Elementary,34,Fraser Health Authority,9
 37,A J McLellan Elementary,36,Fraser Health Authority,9
@@ -1217,6 +1217,7 @@ Rank,School,School District,Health Region,Exposures
 45,Savona Elementary,73,Interior Health Authority,1
 45,Summit Elementary,73,Interior Health Authority,1
 45,Westsyde Elementary,73,Interior Health Authority,1
+45,Kumsheen Elem-Secondary,74,Interior Health Authority,1
 45,Cherry Hill Elementary,75,Fraser Health Authority,1
 45,Deroche Elementary,75,Fraser Health Authority,1
 45,Dewdney Elementary,75,Fraser Health Authority,1
