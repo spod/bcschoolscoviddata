@@ -18,8 +18,8 @@ Rank,School,School District,Health Region,Exposures
 14,Abbotsford Senior Secondary School,34,Fraser Health Authority,32
 15,W J Mouat Secondary,34,Fraser Health Authority,31
 15,North Surrey Secondary,36,Fraser Health Authority,31
+15,John Oliver Secondary,39,Vancouver Coastal Health,31
 16,R E Mountain Secondary,35,Fraser Health Authority,30
-16,John Oliver Secondary,39,Vancouver Coastal Health,30
 16,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,30
 17,Kwantlen Park Secondary,36,Fraser Health Authority,29
 17,Semiahmoo Secondary,36,Fraser Health Authority,29
@@ -322,6 +322,7 @@ Rank,School,School District,Health Region,Exposures
 39,J.W. Sexsmith Community Elementary,39,Vancouver Coastal Health,7
 39,John Norquay Elementary,39,Vancouver Coastal Health,7
 39,Lord Strathcona Community Elementary,39,Vancouver Coastal Health,7
+39,Lord Tennyson Elementary,39,Vancouver Coastal Health,7
 39,Thunderbird Elementary,39,Vancouver Coastal Health,7
 39,University Hill Secondary,39,Vancouver Coastal Health,7
 39,Ecole Qayqayt Elementary,40,Fraser Health Authority,7
@@ -393,7 +394,6 @@ Rank,School,School District,Health Region,Exposures
 40,L'Ecole Bilingue Elementary,39,Vancouver Coastal Health,6
 40,Lord Byng Secondary,39,Vancouver Coastal Health,6
 40,Lord Roberts Annex,39,Vancouver Coastal Health,6
-40,Lord Tennyson Elementary,39,Vancouver Coastal Health,6
 40,Sir Wilfred Grenfell Elementary,39,Vancouver Coastal Health,6
 40,Clinton Elementary,41,Fraser Health Authority,6
 40,Sperling Elementary,41,Fraser Health Authority,6
@@ -499,6 +499,7 @@ Rank,School,School District,Health Region,Exposures
 41,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 41,Signal Hill Elementary,48,Vancouver Coastal Health,5
 41,Valleycliffe Elementary,48,Vancouver Coastal Health,5
+41,Grand Forks Secondary,51,Interior Health Authority,5
 41,D P Todd Secondary,57,Northern Health,5
 41,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 41,Tremblay Elementary,59,Northern Health,5
@@ -589,7 +590,6 @@ Rank,School,School District,Health Region,Exposures
 42,Myrtle Philip Community School,48,Vancouver Coastal Health,4
 42,Spring Creek Community School,48,Vancouver Coastal Health,4
 42,Mount Baker Secondary,5,Interior Health Authority,4
-42,Grand Forks Secondary,51,Interior Health Authority,4
 42,Roosevelt Park Elementary,52,Northern Health,4
 42,Houston Secondary,54,Northern Health,4
 42,Walnut Park Elementary,54,Northern Health,4
@@ -906,6 +906,7 @@ Rank,School,School District,Health Region,Exposures
 44,Ecole Lloyd George Elementary (Kamloops),73,Interior Health Authority,2
 44,Marion Schilling Elementary,73,Interior Health Authority,2
 44,Twin Rivers Education Centre,73,Interior Health Authority,2
+44,Kumsheen Elem-Secondary,74,Interior Health Authority,2
 44,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 44,Cowichan Secondary,79,Vancouver Island Health Authority,2
 44,Drinkwater Elementary,79,Vancouver Island Health Authority,2
@@ -1217,7 +1218,6 @@ Rank,School,School District,Health Region,Exposures
 45,Savona Elementary,73,Interior Health Authority,1
 45,Summit Elementary,73,Interior Health Authority,1
 45,Westsyde Elementary,73,Interior Health Authority,1
-45,Kumsheen Elem-Secondary,74,Interior Health Authority,1
 45,Cherry Hill Elementary,75,Fraser Health Authority,1
 45,Deroche Elementary,75,Fraser Health Authority,1
 45,Dewdney Elementary,75,Fraser Health Authority,1
