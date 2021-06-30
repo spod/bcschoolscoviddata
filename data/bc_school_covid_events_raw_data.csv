@@ -1,6 +1,7 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 06/29/2021,Laity View Elementary,Maple Ridge,42,Fraser Health Authority,June 22,Exposure 8
 06/29/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,June 23,Exposure 6
+06/29/2021,St Bernadette,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,June 23 and 24,Exposure 3
 06/28/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,"""June 14, 15, 16, 17, and 18""",Letter states 'Members' plural so we have added as Exposure 7 and 8 on the database.
 06/28/2021,Isabella Dicken Elementary,Fernie,5,Interior Health Authority,"""June 14, 15, 16, 17, and 18""",Letter states 'members' plural so we have listed as Exposure 7 and 8 on the database.
 06/28/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""June 21, 22, and 24""",Exposure 36
