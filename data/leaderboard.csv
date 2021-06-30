@@ -276,6 +276,7 @@ Rank,School,School District,Health Region,Exposures
 37,Lakeview Elementary,41,Fraser Health Authority,8
 37,Morley Elementary,41,Fraser Health Authority,8
 37,Second Street Community Elementary,41,Fraser Health Authority,8
+37,Laity View Elementary,42,Fraser Health Authority,8
 37,Carisbrooke Elementary,44,Vancouver Coastal Health,8
 37,Isabella Dicken Elementary,5,Interior Health Authority,8
 37,College Heights Secondary,57,Northern Health,8
@@ -339,7 +340,6 @@ Rank,School,School District,Health Region,Exposures
 38,Eric Langton Elementary,42,Fraser Health Authority,7
 38,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,7
 38,Golden Ears Elementary,42,Fraser Health Authority,7
-38,Laity View Elementary,42,Fraser Health Authority,7
 38,Castle Park Elementary,43,Fraser Health Authority,7
 38,Cedar Drive Elementary,43,Fraser Health Authority,7
 38,Central Community Elementary,43,Fraser Health Authority,7
@@ -400,6 +400,7 @@ Rank,School,School District,Health Region,Exposures
 39,Sperling Elementary,41,Fraser Health Authority,6
 39,Twelfth Avenue Elementary,41,Fraser Health Authority,6
 39,Windsor Elementary,41,Fraser Health Authority,6
+39,Albion Elementary,42,Fraser Health Authority,6
 39,Alexander Robinson Elementary,42,Fraser Health Authority,6
 39,Edith McDermott Elementary,42,Fraser Health Authority,6
 39,Garibaldi Secondary,42,Fraser Health Authority,6
@@ -478,7 +479,6 @@ Rank,School,School District,Health Region,Exposures
 40,Maywood Community Elementary,41,Fraser Health Authority,5
 40,Taylor Park Elementary,41,Fraser Health Authority,5
 40,Westridge Elementary,41,Fraser Health Authority,5
-40,Albion Elementary,42,Fraser Health Authority,5
 40,Aspenwood Elementary,43,Fraser Health Authority,5
 40,Eagle Ridge Elementary,43,Fraser Health Authority,5
 40,Ecole Coquitlam River Elementary,43,Fraser Health Authority,5
