@@ -415,6 +415,7 @@ Rank,School,School District,Health Region,Exposures
 39,Ecole Cedardale,45,Vancouver Coastal Health,6
 39,Chatelech Secondary,46,Vancouver Coastal Health,6
 39,Mamquam Elementary,48,Vancouver Coastal Health,6
+39,Grand Forks Secondary,51,Interior Health Authority,6
 39,Prince Rupert Middle,52,Northern Health,6
 39,Smithers Secondary,54,Northern Health,6
 39,Eileen Madson Primary School,6,Interior Health Authority,6
@@ -500,7 +501,6 @@ Rank,School,School District,Health Region,Exposures
 40,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 40,Signal Hill Elementary,48,Vancouver Coastal Health,5
 40,Valleycliffe Elementary,48,Vancouver Coastal Health,5
-40,Grand Forks Secondary,51,Interior Health Authority,5
 40,D P Todd Secondary,57,Northern Health,5
 40,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 40,Tremblay Elementary,59,Northern Health,5
