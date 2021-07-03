@@ -176,6 +176,7 @@ Rank,School,School District,Health Region,Exposures
 33,Pearson Road Elementary,23,Interior Health Authority,11
 33,Chilliwack Middle School,33,Fraser Health Authority,11
 33,Dave Kandal Elementary School,34,Fraser Health Authority,11
+33,McMillan Elementary,34,Fraser Health Authority,11
 33,Peter Ewart Middle School,35,Fraser Health Authority,11
 33,Simonds Elementary,35,Fraser Health Authority,11
 33,Dr F D Sinclair Elementary,36,Fraser Health Authority,11
@@ -198,7 +199,6 @@ Rank,School,School District,Health Region,Exposures
 34,École Dr. Knox Middle School,23,Interior Health Authority,10
 34,A D Rundle Middle School,33,Fraser Health Authority,10
 34,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
-34,McMillan Elementary,34,Fraser Health Authority,10
 34,Langley Fine Arts School,35,Fraser Health Authority,10
 34,Willoughby Elementary,35,Fraser Health Authority,10
 34,Adams Road Elementary,36,Fraser Health Authority,10
