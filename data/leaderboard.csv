@@ -928,6 +928,7 @@ Rank,School,School District,Health Region,Exposures
 43,Randerson Ridge Elementary,68,Vancouver Island Health Authority,2
 43,Errington Elementary,69,Vancouver Island Health Authority,2
 43,Oceanside Elementary,69,Vancouver Island Health Authority,2
+43,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 43,Wood Elementary,70,Vancouver Island Health Authority,2
 43,Valley View Elementary,71,Vancouver Island Health Authority,2
 43,Arthur Hatton Elementary,73,Interior Health Authority,2
@@ -1210,7 +1211,6 @@ Rank,School,School District,Health Region,Exposures
 44,Uplands Park Elementary,68,Vancouver Island Health Authority,1
 44,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 44,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
-44,A W Neill Elementary,70,Vancouver Island Health Authority,1
 44,Alberni Elementary,70,Vancouver Island Health Authority,1
 44,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 44,Eric J Dunn Elementary,70,Vancouver Island Health Authority,1
