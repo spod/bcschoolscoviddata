@@ -1,4 +1,6 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+09/21/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 15, 16, 2021""",Email confirmation on file.
+09/21/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,"""Spet. 7, 8, 2021""",Email confirmation is on file.
 09/20/2021,Alex Aitken,Duncan,79,Vancouver Island Health Authority,"""September 13 and 14, 2021""",Exposure 4
 09/20/2021,Tyson Elementary,Chilliwack,33,Fraser Health Authority,"""September 17, 2021""",Exposure 2
 09/20/2021,St. George's Junior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""September 17, 2021""",Exposure 1
@@ -10,8 +12,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/20/2021,Hillcrest Elementary (Surrey),Surrey,36,Fraser Health Authority,"""Sept 12, 13, 14, 2021""",Email confirmation on file.
 09/20/2021,Cloverdale Traditional Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept 13, 14, 2021""",Email confirmation on file.
-09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 16,a nd 17, 2021""",Exposure 7
-09/20/2021,Discovery School (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""Sept 14, 15 16, 2021""",Exposure 5
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 14, 2021""",Exposure 5
 09/20/2021,Clayton Elementary,Surrey,36,Fraser Health Authority,"""Sept 14, 15, 2021""",Email confirmation on file.
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 8, 9, 10, 13, 14, 15, 16, and 17, 2021""","""Once class has been asked to self isolate until September 28th, 2021 (documentation on file)"""
@@ -21,12 +21,14 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,David Brankin Elementary,Surrey,36,Fraser Health Authority,"""Sept. 7, 8, 9, 2021""",Exposure 1
 09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13 and 14, 2021""",Exposure 6
 09/20/2021,Rosemont Elementary School,Nelson,8,Interior Health Authority,"""Sept 14, 15.""",Email confirmation on file.
-09/20/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""September 13, 2021""",Exposure 1
-09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 15, 16, and 17, 2021""",Confirmation email on file.
 09/20/2021,St Ann's Academy,Kamloops,Independent Schools in Interior Health,Interior Health Authority,"""September 10, 2021""",Exposure 1
 09/20/2021,Khowhemun Elementary,Duncan,79,Vancouver Island Health Authority,"""Sept, 13, 14 15, 16, 2021""",Exposure 3
 09/20/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,"Letter says ""cases"" so we have added 2 exposures to the database for now."
 09/20/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,"Letter says ""cases"" so we have added 2 exposures to the database."
+09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 16,a nd 17, 2021""",Exposure 7
+09/20/2021,Discovery School (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""Sept 14, 15 16, 2021""",Exposure 5
+09/20/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""September 13, 2021""",Exposure 1
+09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 15, 16, and 17, 2021""",Confirmation email on file.
 09/19/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,Not provided.,Exposure 2
 09/19/2021,Alex Aitken,Duncan,79,Vancouver Island Health Authority,"""Sept. 7, 8, 2021""","Email indicates ""cases"" (Plural) so we have added two and waiting to hear and validate others."
 09/19/2021,Fort Langley Elementary,,35,Fraser Health Authority,"""Sept 13, 2021""",Confirmation email on file.

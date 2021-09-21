@@ -158,6 +158,7 @@ Rank,School,School District,Health Region,Exposures
 33,Creekside Elementary,36,Fraser Health Authority,12
 33,Ecole Riverdale Elementary,36,Fraser Health Authority,12
 33,Ecole Salish Secondary,36,Fraser Health Authority,12
+33,George Greenaway Elementary,36,Fraser Health Authority,12
 33,Georges Vanier Elementary,36,Fraser Health Authority,12
 33,Hazelgrove Elementary,36,Fraser Health Authority,12
 33,Martha Jane Norris Elementary,36,Fraser Health Authority,12
@@ -182,7 +183,6 @@ Rank,School,School District,Health Region,Exposures
 34,Peter Ewart Middle School,35,Fraser Health Authority,11
 34,Simonds Elementary,35,Fraser Health Authority,11
 34,Dr F D Sinclair Elementary,36,Fraser Health Authority,11
-34,George Greenaway Elementary,36,Fraser Health Authority,11
 34,Goldstone Park Elementary,36,Fraser Health Authority,11
 34,M B Sanford Elementary,36,Fraser Health Authority,11
 34,W E Kinvig Elementary,36,Fraser Health Authority,11
@@ -783,6 +783,7 @@ Rank,School,School District,Health Region,Exposures
 42,Juniper Ridge Elementary,73,Interior Health Authority,3
 42,Twin Rivers Education Centre,73,Interior Health Authority,3
 42,Westmount Elementary,73,Interior Health Authority,3
+42,Windebank Elementary,75,Fraser Health Authority,3
 42,Agassiz Elem-Secondary,78,Fraser Health Authority,3
 42,Coquihalla Elementary,78,Fraser Health Authority,3
 42,Chemainus Secondary,79,Vancouver Island Health Authority,3
@@ -935,7 +936,6 @@ Rank,School,School District,Health Region,Exposures
 43,Marion Schilling Elementary,73,Interior Health Authority,2
 43,Kumsheen Elem-Secondary,74,Interior Health Authority,2
 43,Cherry Hill Elementary,75,Fraser Health Authority,2
-43,Windebank Elementary,75,Fraser Health Authority,2
 43,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 43,Bench Elementary,79,Vancouver Island Health Authority,2
 43,Tansor Elementary,79,Vancouver Island Health Authority,2
