@@ -3,8 +3,8 @@ name: update
 on:
   workflow_dispatch:
 #  push:
-#  schedule:
-#  - cron: "20 */2 * * *"
+  schedule:
+    - cron: "20 */2 * * *"
 
 jobs:
   build:
