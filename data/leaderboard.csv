@@ -182,6 +182,7 @@ Rank,School,School District,Health Region,Exposures
 34,McMillan Elementary,34,Fraser Health Authority,11
 34,Peter Ewart Middle School,35,Fraser Health Authority,11
 34,Simonds Elementary,35,Fraser Health Authority,11
+34,Adams Road Elementary,36,Fraser Health Authority,11
 34,Dr F D Sinclair Elementary,36,Fraser Health Authority,11
 34,Goldstone Park Elementary,36,Fraser Health Authority,11
 34,M B Sanford Elementary,36,Fraser Health Authority,11
@@ -205,7 +206,6 @@ Rank,School,School District,Health Region,Exposures
 35,Clayburn Middle School,34,Fraser Health Authority,10
 35,Langley Fine Arts School,35,Fraser Health Authority,10
 35,Willoughby Elementary,35,Fraser Health Authority,10
-35,Adams Road Elementary,36,Fraser Health Authority,10
 35,Bear Creek Elementary,36,Fraser Health Authority,10
 35,Colebrook Elementary,36,Fraser Health Authority,10
 35,Hjorth Road Elementary,36,Fraser Health Authority,10
@@ -380,6 +380,7 @@ Rank,School,School District,Health Region,Exposures
 39,Little Mountain Elementary,33,Fraser Health Authority,6
 39,John MacLure Community School,34,Fraser Health Authority,6
 39,James Hill Elementary,35,Fraser Health Authority,6
+39,Langley Fundamental Elementary,35,Fraser Health Authority,6
 39,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,6
 39,Noel Booth Elementary,35,Fraser Health Authority,6
 39,Peterson Road Elementary,35,Fraser Health Authority,6
@@ -463,7 +464,6 @@ Rank,School,School District,Health Region,Exposures
 40,Alice Brown Elementary,35,Fraser Health Authority,5
 40,Belmont Elementary,35,Fraser Health Authority,5
 40,Dorothy Peacock Elementary,35,Fraser Health Authority,5
-40,Langley Fundamental Elementary,35,Fraser Health Authority,5
 40,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,5
 40,Betty Huff Elementary,36,Fraser Health Authority,5
 40,Bothwell Elementary School,36,Fraser Health Authority,5
@@ -535,7 +535,7 @@ Rank,School,School District,Health Region,Exposures
 40,Edwin S Richards Elementary,75,Fraser Health Authority,5
 40,Hatzic Elementary,75,Fraser Health Authority,5
 40,Cowichan Secondary,79,Vancouver Island Health Authority,5
-40,Discovery School (Shawnigan Lake),79,Vancouver Island Health Authority,5
+40,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,5
 40,Drinkwater Elementary,79,Vancouver Island Health Authority,5
 40,Lake Cowichan School,79,Vancouver Island Health Authority,5
 40,Quamichan School,79,Vancouver Island Health Authority,5
@@ -630,7 +630,7 @@ Rank,School,School District,Health Region,Exposures
 41,Hillside Traditional Academy,75,Fraser Health Authority,4
 41,West Heights Elementary,75,Fraser Health Authority,4
 41,Hope Secondary,78,Fraser Health Authority,4
-41,Alex Aitken,79,Vancouver Island Health Authority,4
+41,Alex Aitken Elementary,79,Vancouver Island Health Authority,4
 41,Khowhemun Elementary,79,Vancouver Island Health Authority,4
 41,R L Angus Elementary,81,Northern Health,4
 41,Ecole Mountainview Elementary (Terrace),82,Northern Health,4
@@ -945,6 +945,7 @@ Rank,School,School District,Health Region,Exposures
 43,Mount Elizabeth Middle/Secondary,82,Northern Health,2
 43,Bastion Elementary,83,Interior Health Authority,2
 43,Len Wood Middle School,83,Interior Health Authority,2
+43,Parkview Elementary School,83,Interior Health Authority,2
 43,Ranchero Elementary Junior,83,Interior Health Authority,2
 43,Lakes District Secondary,91,Northern Health,2
 43,La Vallee,93,Vancouver Coastal Health,2
@@ -1051,6 +1052,7 @@ Rank,School,School District,Health Region,Exposures
 44,Delta Christian School,37,Fraser Health Authority,1
 44,Delta Manor Education Centre,37,Fraser Health Authority,1
 44,English Bluff Elementary,37,Fraser Health Authority,1
+44,Alfred B Dixon Elementary,38,Vancouver Coastal Health,1
 44,Archibald Blair Elementary,38,Vancouver Coastal Health,1
 44,Daniel Woodward Elementary,38,Vancouver Coastal Health,1
 44,Garden City Elementary,38,Vancouver Coastal Health,1
@@ -1211,6 +1213,7 @@ Rank,School,School District,Health Region,Exposures
 44,Uplands Park Elementary,68,Vancouver Island Health Authority,1
 44,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 44,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
+44,Springwood Elementary,69,Vancouver Island Health Authority,1
 44,Alberni Elementary,70,Vancouver Island Health Authority,1
 44,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 44,Eric J Dunn Elementary,70,Vancouver Island Health Authority,1
@@ -1265,7 +1268,6 @@ Rank,School,School District,Health Region,Exposures
 44,Carlin Elementary Middle,83,Interior Health Authority,1
 44,Eagle River Secondary,83,Interior Health Authority,1
 44,North Canoe Elementary,83,Interior Health Authority,1
-44,Parkview Elementary School,83,Interior Health Authority,1
 44,Salmon Arm West Elementary,83,Interior Health Authority,1
 44,Silver Creek Elementary Secondary (Salmon Arm),83,Interior Health Authority,1
 44,Sorrento Elementary,83,Interior Health Authority,1
