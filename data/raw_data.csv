@@ -2,7 +2,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/21/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,"""Spet. 7, 8, 2021""",Email confirmation is on file.
 09/21/2021,Tsuma-as Elementary (formerly AW Neill),Port Alberni,70,Vancouver Island Health Authority,"""September 15, 2021""",Exposure 1
 09/21/2021,Langley Fundamental Elementary,Langley,35,Fraser Health Authority,Sept. 10,Exposure 2
-09/21/2021,Rutland Elementary,Kelowna,23,Interior Health Authority,"""Sept 14, 2021""",Exposure 1
 09/21/2021,Victoria West Elementary,Victoria,61,Vancouver Island Health Authority,"""September 16 and 17, 2021""",Exposure 2
 09/21/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 15, 16, 2021""",Email confirmation on file.
 09/21/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""September 17, 2021""",Emailed confirmation on file.
@@ -15,6 +14,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/21/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""September 16 and 17, 2021""",Emailed confirmation on file.
 09/21/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""Sept, 15, 16, 17, 2021""",Confirmation email on file.
 09/21/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,Exposure 1
+09/21/2021,Rutland Elementary,Kelowna,23,Interior Health Authority,"""Sept 14, 2021""",Exposure 1
 09/20/2021,Tyson Elementary,Chilliwack,33,Fraser Health Authority,"""September 17, 2021""",Exposure 2
 09/20/2021,St. George's Junior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""September 17, 2021""",Exposure 1
 09/20/2021,Maple Lane Elementary,Richmond,38,Vancouver Coastal Health,"""September 13, 14, 15, and 16, 2021""",Confirmation email on file.
@@ -23,7 +23,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Quamichan School,Duncan,79,Vancouver Island Health Authority,Not provided,Exposure 2
 09/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/20/2021,Hillcrest Elementary (Surrey),Surrey,36,Fraser Health Authority,"""Sept 12, 13, 14, 2021""",Email confirmation on file.
-09/20/2021,Cloverdale Traditional Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept 13, 14, 2021""",Email confirmation on file.
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 14, 2021""",Exposure 5
 09/20/2021,Clayton Elementary,Surrey,36,Fraser Health Authority,"""Sept 14, 15, 2021""",Email confirmation on file.
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 8, 9, 10, 13, 14, 15, 16, and 17, 2021""","""Once class has been asked to self isolate until September 28th, 2021 (documentation on file)"""
@@ -43,6 +42,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 15, 16, and 17, 2021""",Confirmation email on file.
 09/20/2021,Alex Aitken Elementary,Duncan,79,Vancouver Island Health Authority,"""September 13 and 14, 2021""",Exposure 4
 09/20/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""Sept 14, 15 16, 2021""",Exposure 5
+09/20/2021,Cloverdale Traditional Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/19/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,Not provided.,Exposure 2
 09/19/2021,Fort Langley Elementary,,35,Fraser Health Authority,"""Sept 13, 2021""",Confirmation email on file.
 09/19/2021,Errington Elementary,Errington,69,Vancouver Island Health Authority,"""Sept 10, 2021""",Exposure 1
