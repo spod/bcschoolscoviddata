@@ -379,6 +379,7 @@ Rank,School,School District,Health Region,Exposures
 39,North Glenmore Elementary,23,Interior Health Authority,6
 39,Little Mountain Elementary,33,Fraser Health Authority,6
 39,John MacLure Community School,34,Fraser Health Authority,6
+39,Alice Brown Elementary,35,Fraser Health Authority,6
 39,James Hill Elementary,35,Fraser Health Authority,6
 39,Langley Fundamental Elementary,35,Fraser Health Authority,6
 39,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,6
@@ -462,7 +463,6 @@ Rank,School,School District,Health Region,Exposures
 40,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
 40,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
 40,Terry Fox Elementary,34,Fraser Health Authority,5
-40,Alice Brown Elementary,35,Fraser Health Authority,5
 40,Belmont Elementary,35,Fraser Health Authority,5
 40,Dorothy Peacock Elementary,35,Fraser Health Authority,5
 40,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,5
@@ -924,6 +924,7 @@ Rank,School,School District,Health Region,Exposures
 43,Penticton Secondary,67,Interior Health Authority,2
 43,Departure Bay Elementary,68,Vancouver Island Health Authority,2
 43,Dover Bay Secondary School,68,Vancouver Island Health Authority,2
+43,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,2
 43,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,2
 43,Randerson Ridge Elementary,68,Vancouver Island Health Authority,2
 43,Errington Elementary,69,Vancouver Island Health Authority,2
@@ -1193,6 +1194,7 @@ Rank,School,School District,Health Region,Exposures
 44,Strawberry Vale Elementary,61,Vancouver Island Health Authority,1
 44,Tillicum Community School,61,Vancouver Island Health Authority,1
 44,Victoria High,61,Vancouver Island Health Authority,1
+44,Ecole Poirier Elementary,62,Vancouver Island Health Authority,1
 44,Edward Milne Community School,62,Vancouver Island Health Authority,1
 44,John Stubbs Elementary and Middle,62,Vancouver Island Health Authority,1
 44,Journey Middle School,62,Vancouver Island Health Authority,1
@@ -1204,7 +1206,6 @@ Rank,School,School District,Health Region,Exposures
 44,Gulf Islands Secondary,64,Vancouver Island Health Authority,1
 44,Coal Tyee Elementary,68,Vancouver Island Health Authority,1
 44,Dover Bay Secondary,68,Vancouver Island Health Authority,1
-44,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,1
 44,Forest Park Elementary,68,Vancouver Island Health Authority,1
 44,Frank J Ney,68,Vancouver Island Health Authority,1
 44,Learning Alternatives (John Barsby site),68,Vancouver Island Health Authority,1
