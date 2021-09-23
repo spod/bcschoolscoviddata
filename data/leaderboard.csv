@@ -565,6 +565,7 @@ Rank,School,School District,Health Region,Exposures
 43,Cheam Elementary,33,Fraser Health Authority,4
 43,Strathcona Elementary,33,Fraser Health Authority,4
 43,Sandy Hill Elementary,34,Fraser Health Authority,4
+43,Fort Langley Elementary,35,Fraser Health Authority,4
 43,Gordon Greenwood Elementary,35,Fraser Health Authority,4
 43,Berkshire Park Elementary,36,Fraser Health Authority,4
 43,Bridgeview Elementary,36,Fraser Health Authority,4
@@ -690,7 +691,6 @@ Rank,School,School District,Health Region,Exposures
 44,Dormick Park Elementary,34,Fraser Health Authority,3
 44,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,3
 44,Alex Hope Elementary,35,Fraser Health Authority,3
-44,Fort Langley Elementary,35,Fraser Health Authority,3
 44,James Kennedy Elementary,35,Fraser Health Authority,3
 44,Langley Meadows Elementary,35,Fraser Health Authority,3
 44,Shortreed Community School,35,Fraser Health Authority,3
@@ -707,6 +707,7 @@ Rank,School,School District,Health Region,Exposures
 44,Holly Elementary (Delta),37,Fraser Health Authority,3
 44,Ladner Elementary,37,Fraser Health Authority,3
 44,South Park Elementary (Delta),37,Fraser Health Authority,3
+44,Alfred B Dixon Elementary,38,Vancouver Coastal Health,3
 44,Blundell Elementary,38,Vancouver Coastal Health,3
 44,Lord Byng Elementary,38,Vancouver Coastal Health,3
 44,Maple Lane Elementary,38,Vancouver Coastal Health,3
@@ -1056,7 +1057,6 @@ Rank,School,School District,Health Region,Exposures
 46,Delta Christian School,37,Fraser Health Authority,1
 46,Delta Manor Education Centre,37,Fraser Health Authority,1
 46,English Bluff Elementary,37,Fraser Health Authority,1
-46,Alfred B Dixon Elementary,38,Vancouver Coastal Health,1
 46,Archibald Blair Elementary,38,Vancouver Coastal Health,1
 46,Daniel Woodward Elementary,38,Vancouver Coastal Health,1
 46,Garden City Elementary,38,Vancouver Coastal Health,1

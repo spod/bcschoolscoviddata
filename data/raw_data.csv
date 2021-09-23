@@ -15,6 +15,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/22/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,"""One class has been closed and all students and their siblings are being asked to get tested. The class will return to in-class learning on Monday September 27, 2021."""
 09/22/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Sept 17, 2021""",Confirmation email on file.
 09/22/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,"""One class has been closed and all students and their siblings are being asked to get tested. The class will return to in-class learning on Monday September 27, 2021."""
+09/22/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 14, 15, and 16, 2021""",Exposure 2
 09/22/2021,Ecole Mount Prevost Elementary,Duncan,79,Vancouver Island Health Authority,"""September 7, 8, 9, and 13, 2021""",Exposure 1
 09/22/2021,Whonnock Elementary,Maple Ridge,42,Fraser Health Authority,"""Spet 15, 16, 17, 2021""",Confirmation email on file.
 09/22/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,"""September 13 and 14, 2021""",Exposure 1
@@ -23,7 +24,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/22/2021,Ecole Panorama Heights Elementary,Coquitlam,43,Fraser Health Authority,"""Sept, 7, 8, 9, 10., 13, 14, 15, 2021""",Exposure 1
 09/22/2021,Park Avenue Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 8, 9, and 10, 2021""",Exposure 1
 09/22/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Sept. 16, 17, 2021""",Exposure 2
-09/22/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 14, 15, and 16, 2021""",Exposure 2
 09/22/2021,Hastings Community Elementary,Vancouver,39,Vancouver Coastal Health,Waiting on confirmation,Exposure 2
 09/22/2021,Quamichan School,Duncan,79,Vancouver Island Health Authority,Not provided,Exposure 3
 09/22/2021,Ecole Quadra Elementary,Victoria,61,Vancouver Island Health Authority,"""Sept 16, 17, 2021""",Confirmation email on file.
@@ -35,6 +35,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/22/2021,Sullivan Elementary,Surrey,36,Fraser Health Authority,"""September 13, 14, 15, 16, and 17, 2021""",Exposure 1
 09/22/2021,Sullivan Elementary,Surrey,36,Fraser Health Authority,"""September 13, 14, and 15, 2021""",Exposure 2
 09/22/2021,Prince Charles Elementary (Surrey),Surrey,36,Fraser Health Authority,"""The positive test was on Sept 22, 2021""",Exposure 1
+09/22/2021,Alfred B Dixon Elementary,Richmond,38,Vancouver Coastal Health,Waiting confirmation on dates,Confirmation email on file.
+09/22/2021,Alfred B Dixon Elementary,Richmond,38,Vancouver Coastal Health,Waiting for confirmation on dates,Exposure 3
+09/22/2021,Fort Langley Elementary,,35,Fraser Health Authority,"""Sept 16, 2021""",Exposure 3
 09/22/2021,Tomekichi Homma Elementary,Richmond,38,Vancouver Coastal Health,"""September 20 and 21, 2021""",Confirmation email on file
 09/21/2021,George Greenaway Elementary,Surrey,36,Fraser Health Authority,"""Spet. 7, 8, 2021""",Email confirmation is on file.
 09/21/2021,Tsuma-as Elementary (formerly AW Neill),Port Alberni,70,Vancouver Island Health Authority,"""September 15, 2021""",Exposure 1
@@ -81,7 +84,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Cloverdale Traditional Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/20/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 15, 16, and 17, 2021""",Confirmation email on file.
 09/19/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,Not provided.,Exposure 2
-09/19/2021,Fort Langley Elementary,,35,Fraser Health Authority,"""Sept 13, 2021""",Confirmation email on file.
 09/19/2021,Errington Elementary,Errington,69,Vancouver Island Health Authority,"""Sept 10, 2021""",Exposure 1
 09/19/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 17, 2021""",Public health letter is also on file.
 09/19/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,"""September 13, 2021""",Exposure 1
@@ -90,6 +92,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/19/2021,Alex Aitken Elementary,Duncan,79,Vancouver Island Health Authority,Public health letter on file as well.,Exposure 1
 09/19/2021,Alex Aitken Elementary,Duncan,79,Vancouver Island Health Authority,"""Sept. 7, 8, 2021""","Email indicates ""cases"" (Plural) so we have added two and waiting to hear and validate others."
 09/19/2021,Alex Aitken Elementary,Duncan,79,Vancouver Island Health Authority,"""Sept 14, 2021""",Exposure 3
+09/19/2021,Fort Langley Elementary,,35,Fraser Health Authority,"""Sept 13, 2021""",Confirmation email on file.
 09/18/2021,Coal Tyee Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Sept. 15, 2021.""",Exposure 1
 09/18/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept. 13, 14, 2021""","Declared a ""cluster"""
 09/18/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept. 13, 14, 15, 2021""",Exposure 4
