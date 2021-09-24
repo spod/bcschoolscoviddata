@@ -128,6 +128,7 @@ Rank,School,School District,Health Region,Exposures
 33,Brookside Elementary,36,Fraser Health Authority,14
 33,Cambridge Elementary,36,Fraser Health Authority,14
 33,Chimney Hill Elementary,36,Fraser Health Authority,14
+33,Martha Currie Elementary,36,Fraser Health Authority,14
 33,Panorama Park Elementary,36,Fraser Health Authority,14
 33,Sands Secondary,37,Fraser Health Authority,14
 33,Steveston-London Secondary School,38,Vancouver Coastal Health,14
@@ -139,7 +140,6 @@ Rank,School,School District,Health Region,Exposures
 34,Beaver Creek Elementary,36,Fraser Health Authority,13
 34,Boundary Park Elementary,36,Fraser Health Authority,13
 34,Latimer Road Elementary,36,Fraser Health Authority,13
-34,Martha Currie Elementary,36,Fraser Health Authority,13
 34,Senator Reid Elementary,36,Fraser Health Authority,13
 34,Cougar Canyon Elementary,37,Fraser Health Authority,13
 34,McCloskey Elementary,37,Fraser Health Authority,13
@@ -634,6 +634,7 @@ Rank,School,School District,Health Region,Exposures
 43,Summerland Middle School,67,Interior Health Authority,4
 43,Brechin Elementary,68,Vancouver Island Health Authority,4
 43,John Barsby Secondary School,68,Vancouver Island Health Authority,4
+43,Pleasant Valley Elementary,68,Vancouver Island Health Authority,4
 43,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,4
 43,Rock City Elementary,68,Vancouver Island Health Authority,4
 43,Highland Secondary,71,Vancouver Island Health Authority,4
@@ -780,7 +781,6 @@ Rank,School,School District,Health Region,Exposures
 44,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
 44,Skaha Lake Middle School,67,Interior Health Authority,3
 44,Trout Creek Elementary,67,Interior Health Authority,3
-44,Pleasant Valley Elementary,68,Vancouver Island Health Authority,3
 44,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
 44,Alberni District Secondary School,70,Vancouver Island Health Authority,3
 44,Carihi Secondary,72,Vancouver Island Health Authority,3
@@ -1197,6 +1197,7 @@ Rank,School,School District,Health Region,Exposures
 46,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,1
 46,Monterey Middle School,61,Vancouver Island Health Authority,1
 46,Northridge Elementary (Victoria),61,Vancouver Island Health Authority,1
+46,Shoreline Community Middle School,61,Vancouver Island Health Authority,1
 46,South Park Family School (Victoria),61,Vancouver Island Health Authority,1
 46,Strawberry Vale Elementary,61,Vancouver Island Health Authority,1
 46,Tillicum Community School,61,Vancouver Island Health Authority,1
