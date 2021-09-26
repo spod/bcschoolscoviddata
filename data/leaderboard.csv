@@ -30,9 +30,9 @@ Rank,School,School District,Health Region,Exposures
 19,Yale Secondary,34,Fraser Health Authority,28
 19,Byrne Creek Community Secondary,41,Fraser Health Authority,28
 20,Rick Hansen Secondary,34,Fraser Health Authority,27
+20,Lena Shaw Elementary,36,Fraser Health Authority,27
 20,North Peace Secondary,60,Northern Health,27
 21,GW Graham Secondary,33,Fraser Health Authority,26
-21,Lena Shaw Elementary,36,Fraser Health Authority,26
 22,Centennial Secondary School,43,Fraser Health Authority,25
 23,Chilliwack Secondary,33,Fraser Health Authority,24
 23,Earl Marriott Secondary,36,Fraser Health Authority,24
@@ -781,6 +781,7 @@ Rank,School,School District,Health Region,Exposures
 44,Oaklands Elementary,61,Vancouver Island Health Authority,3
 44,Victoria West Elementary,61,Vancouver Island Health Authority,3
 44,David Cameron Elementary,62,Vancouver Island Health Authority,3
+44,Ecole Poirier Elementary,62,Vancouver Island Health Authority,3
 44,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
 44,Skaha Lake Middle School,67,Interior Health Authority,3
 44,Trout Creek Elementary,67,Interior Health Authority,3
@@ -920,6 +921,7 @@ Rank,School,School District,Health Region,Exposures
 45,Devereaux Elementary,59,Northern Health,2
 45,David Thompson Secondary (Invermere),6,Interior Health Authority,2
 45,Hudson's Hope School,60,Northern Health,2
+45,Central Middle School,61,Vancouver Island Health Authority,2
 45,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,2
 45,Esquimalt High,61,Vancouver Island Health Authority,2
 45,George Jay Elementary,61,Vancouver Island Health Authority,2
@@ -929,7 +931,6 @@ Rank,School,School District,Health Region,Exposures
 45,Oak Bay Secondary,61,Vancouver Island Health Authority,2
 45,Torquay Elementary,61,Vancouver Island Health Authority,2
 45,View Royal Elementary,61,Vancouver Island Health Authority,2
-45,Ecole Poirier Elementary,62,Vancouver Island Health Authority,2
 45,Penticton Christian School,67,Interior Health Authority,2
 45,Penticton Secondary,67,Interior Health Authority,2
 45,Departure Bay Elementary,68,Vancouver Island Health Authority,2
@@ -1191,7 +1192,6 @@ Rank,School,School District,Health Region,Exposures
 46,Freedom Thinkers Education,60,Northern Health,1
 46,Key Learning Centre,60,Northern Health,1
 46,Taylor Elementary,60,Northern Health,1
-46,Central Middle School,61,Vancouver Island Health Authority,1
 46,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,1
 46,Ecole Quadra Elementary,61,Vancouver Island Health Authority,1
 46,Frank Hobbs Elementary,61,Vancouver Island Health Authority,1
