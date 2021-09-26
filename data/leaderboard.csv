@@ -511,6 +511,7 @@ Rank,School,School District,Health Region,Exposures
 42,Ecole Rochester Elementary,43,Fraser Health Authority,5
 42,Harbour View Elementary,43,Fraser Health Authority,5
 42,Hazel Trembath Elementary,43,Fraser Health Authority,5
+42,Lord Baden-Powell Elementary,43,Fraser Health Authority,5
 42,Roy Stibbs Elementary,43,Fraser Health Authority,5
 42,Smiling Creek Elementary,43,Fraser Health Authority,5
 42,Brooksbank Elementary,44,Vancouver Coastal Health,5
@@ -608,7 +609,6 @@ Rank,School,School District,Health Region,Exposures
 43,Ecole Nestor Elementary,43,Fraser Health Authority,4
 43,Hillcrest Middle School,43,Fraser Health Authority,4
 43,Leigh Elementary,43,Fraser Health Authority,4
-43,Lord Baden-Powell Elementary,43,Fraser Health Authority,4
 43,Miller Park Community School,43,Fraser Health Authority,4
 43,Moody Elementary,43,Fraser Health Authority,4
 43,Mountain Meadows Elementary,43,Fraser Health Authority,4
@@ -626,6 +626,7 @@ Rank,School,School District,Health Region,Exposures
 43,Duchess Park Secondary,57,Northern Health,4
 43,Kelly Road/Shas ti Secondary,57,Northern Health,4
 43,Peden Hill Elementary,57,Northern Health,4
+43,Pinewood Elementary (Prince George),57,Northern Health,4
 43,Southridge Elementary,57,Northern Health,4
 43,Alwin Holland Elementary,60,Northern Health,4
 43,Anne Roberts Young Elementary,60,Northern Health,4
@@ -770,7 +771,6 @@ Rank,School,School District,Health Region,Exposures
 44,Parkland Middle School,5,Interior Health Authority,3
 44,Pacific Coast School,52,Northern Health,3
 44,Similkameen Elem-Secondary,53,Interior Health Authority,3
-44,Pinewood Elementary (Prince George),57,Northern Health,3
 44,Spruceland Traditional,57,Northern Health,3
 44,Merritt Central Elementary,58,Interior Health Authority,3
 44,Canalta Elementary,59,Northern Health,3
@@ -1269,6 +1269,7 @@ Rank,School,School District,Health Region,Exposures
 46,Mill Bay Nature School,79,Vancouver Island Health Authority,1
 46,Adam Robertson Elementary,8,Interior Health Authority,1
 46,Brent Kennedy Elementary,8,Interior Health Authority,1
+46,Mount Sentinel Secondary,8,Interior Health Authority,1
 46,G W Carlson Elementary,81,Northern Health,1
 46,Bear Valley School,82,Northern Health,1
 46,Kitwanga Elementary,82,Northern Health,1
