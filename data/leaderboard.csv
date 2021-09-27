@@ -226,6 +226,7 @@ Rank,School,School District,Health Region,Exposures
 38,Walnut Road Elementary,36,Fraser Health Authority,10
 38,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,10
 38,Templeton Secondary,39,Vancouver Coastal Health,10
+38,Ecole Marlborough Elementary,41,Fraser Health Authority,10
 38,Eagle Mountain Middle School,43,Fraser Health Authority,10
 38,Ecole Panorama Heights Elementary,43,Fraser Health Authority,10
 38,Summit Middle School,43,Fraser Health Authority,10
@@ -257,7 +258,6 @@ Rank,School,School District,Health Region,Exposures
 39,Hugh McRoberts Secondary,38,Vancouver Coastal Health,9
 39,Admiral Seymour Elementary,39,Vancouver Coastal Health,9
 39,Walter Moberly Elementary,39,Vancouver Coastal Health,9
-39,Ecole Marlborough Elementary,41,Fraser Health Authority,9
 39,Seycove Secondary Community,44,Vancouver Coastal Health,9
 39,Conrad Street Elementary,52,Northern Health,9
 39,Valleyview Secondary,73,Interior Health Authority,9
@@ -632,6 +632,7 @@ Rank,School,School District,Health Region,Exposures
 44,Myrtle Philip Community School,48,Vancouver Coastal Health,4
 44,Spring Creek Community School,48,Vancouver Coastal Health,4
 44,Mount Baker Secondary,5,Interior Health Authority,4
+44,T M Roberts Elementary,5,Interior Health Authority,4
 44,Roosevelt Park Elementary,52,Northern Health,4
 44,Houston Secondary,54,Northern Health,4
 44,Duchess Park Secondary,57,Northern Health,4
@@ -775,7 +776,6 @@ Rank,School,School District,Health Region,Exposures
 45,Ridgeway Elementary,44,Vancouver Coastal Health,3
 45,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
 45,Parkland Middle School,5,Interior Health Authority,3
-45,T M Roberts Elementary,5,Interior Health Authority,3
 45,Pacific Coast School,52,Northern Health,3
 45,Similkameen Elem-Secondary,53,Interior Health Authority,3
 45,Pinewood Elementary (Prince George),57,Northern Health,3

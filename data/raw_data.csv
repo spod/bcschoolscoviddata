@@ -2,6 +2,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/27/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""September 20, 2021""",One full class has been asked to self-isolate (documentation on file)
 09/27/2021,Pleasant Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 22, 2021""",Exposure 5
 09/27/2021,Royston Elementary,Royston,71,Vancouver Island Health Authority,"""September 20, 2021""",Exposure 1
+09/27/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Not provided,Exposure 1
+09/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""September 23, 2021""",Exposure 3
 09/26/2021,Lord Baden-Powell Elementary,Coquitlam,43,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
 09/26/2021,Mount Sentinel Secondary,South Slocan,8,Interior Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/26/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""September 13, 14, and 16, 2021""",Exposure 1
@@ -22,7 +24,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""September 16, 17, and 20, 2021""",Exposure 1
 09/26/2021,Malaspina Elementary,Prince George,57,Northern Health,"""Sept 15, 16, 17, 2021""",Confirmation email on file.
 09/26/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,"""Sept 21, 22, 23, 2021""",Confirmation email on file.
-09/26/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 17, 2021""",Exposure 1
 09/26/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,Waiting on cofirmation of dates.,Confirmation email on file.
 09/26/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""Sept 14, 15 2021""",Exposure 1
 09/26/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,"""Sept 22, 23, 24, 2021""",Confirmation email on file.
@@ -79,6 +80,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
 09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
 09/26/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,"""September 22, 23, 24, 2021""",Confirmation email on file.
+09/26/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 17, 2021""",Exposure 2
 09/25/2021,Langley Fundamental Middle/Secondary Sch,Langley,35,Fraser Health Authority,"""September 9, 10, 13, and 14, 2021""",Exposure 1
 09/25/2021,Delta Secondary,Delta,37,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
 09/25/2021,St Catherines School,Langley,35,Fraser Health Authority,"""September 13, 16, and 17, 2021""",Exposure 1
