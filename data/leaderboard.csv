@@ -437,7 +437,6 @@ Rank,School,School District,Health Region,Exposures
 42,Grand Forks Secondary,51,Interior Health Authority,6
 42,Prince Rupert Middle,52,Northern Health,6
 42,Smithers Secondary,54,Northern Health,6
-42,Southridge Elementary,57,Northern Health,6
 42,Eileen Madson Primary School,6,Interior Health Authority,6
 42,Central Elementary (Ft. St John),60,Northern Health,6
 42,Tillicum Community School,61,Vancouver Island Health Authority,6
@@ -536,6 +535,7 @@ Rank,School,School District,Health Region,Exposures
 43,Walnut Park Elementary,54,Northern Health,5
 43,D P Todd Secondary,57,Northern Health,5
 43,Heritage Elementary,57,Northern Health,5
+43,Southridge Elementary,57,Northern Health,5
 43,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 43,Tremblay Elementary,59,Northern Health,5
 43,J Alfred Laird Elementary,6,Interior Health Authority,5

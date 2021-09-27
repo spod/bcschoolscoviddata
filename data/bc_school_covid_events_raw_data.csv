@@ -10,8 +10,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Dr D A Perley Elementary,Grand Forks,51,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
 09/26/2021,James Cameron School,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 2021""",Confirmation email on file.
 09/26/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
-09/26/2021,Southridge Elementary,Prince George,57,Northern Health,Waiting on confirmation of dates,Email confirmation on file.
-09/26/2021,Southridge Elementary,Prince George,57,Northern Health,Waiting on confirmation of dates,Confirmation email on file.
 09/26/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""September 13, 14, and 16, 2021""",Exposure 1
 09/26/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""Sept 21, 22, 23, 2021""",Exposure 3
 09/26/2021,Journey Middle School,Sooke,62,Vancouver Island Health Authority,"""September 20, 2021""",Exposure 2
@@ -62,8 +60,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,Not provided,Promontory Heights Outbreak
 09/26/2021,Sandy Hill Elementary,Abbotsford,34,Fraser Health Authority,"""September 20, 2021""",Exposure 2
 09/26/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
-09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,Waiting on date confirmation,Confirmation email on file.
-09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,Waiting on date confirmation,Confirmation email on file.
 09/26/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,Waiting on date confirmation.,Confirmation email on file.
 09/26/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,Waiting on confirmation of dates,Email confirmation on file.
 09/26/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,Waiting on date confirmation,Confirmation email on file.
@@ -77,6 +73,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Khowhemun Elementary,Duncan,79,Vancouver Island Health Authority,Not provided,Attached documentation indicates 2 cases (We have listed them as Exposure 4 and 5)
 09/26/2021,Laity View Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 15, 16, 17, 2021""",Exposure 2
 09/26/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""Sept 20, 2021""",Confirmation email on file.
+09/26/2021,Southridge Elementary,Prince George,57,Northern Health,"""September 20, 2021""",Email confirmation on file.
+09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,Waiting on date confirmation,Confirmation email on file.
+09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,Waiting on date confirmation,Confirmation email on file.
 09/25/2021,Langley Fundamental Middle/Secondary Sch,Langley,35,Fraser Health Authority,"""September 9, 10, 13, and 14, 2021""",Exposure 1
 09/25/2021,Delta Secondary,Delta,37,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
 09/25/2021,St Catherines School,Langley,35,Fraser Health Authority,"""September 13, 16, and 17, 2021""",Exposure 1
