@@ -374,6 +374,7 @@ Rank,School,School District,Health Region,Exposures
 41,Dr Kearney Middle School,60,Northern Health,7
 41,Dunsmuir Middle School,62,Vancouver Island Health Authority,7
 41,Ecole Poirier Elementary,62,Vancouver Island Health Authority,7
+41,Pleasant Valley Elementary,68,Vancouver Island Health Authority,7
 41,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 41,Albert McMahon Elementary,75,Fraser Health Authority,7
 41,Victor-Brodeur,93,Vancouver Island Health Authority,7
@@ -443,7 +444,6 @@ Rank,School,School District,Health Region,Exposures
 42,Belmont Secondary,62,Vancouver Island Health Authority,6
 42,Bayview Elementary,68,Vancouver Island Health Authority,6
 42,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
-42,Pleasant Valley Elementary,68,Vancouver Island Health Authority,6
 42,NorKam Secondary School,73,Interior Health Authority,6
 42,South Kamloops Secondary,73,Interior Health Authority,6
 42,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,6
@@ -830,6 +830,7 @@ Rank,School,School District,Health Region,Exposures
 45,St Bernadette,Independent Schools in Fraser Health,Fraser Health Authority,3
 45,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,3
 45,Valley Christian School,Independent Schools in Fraser Health,Fraser Health Authority,3
+45,Kootenay Christian Academy,Independent Schools in Interior Health,Interior Health Authority,3
 45,St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,3
 45,Sacred Heart (Prince George),Independent Schools in Northern Health,Northern Health,3
 46,J Lloyd Crowe Secondary,20,Interior Health Authority,2
@@ -996,7 +997,6 @@ Rank,School,School District,Health Region,Exposures
 46,Traditional Learning Academy Online,Independent Schools in Fraser Health,Fraser Health Authority,2
 46,Urban Academy Junior,Independent Schools in Fraser Health,Fraser Health Authority,2
 46,Cariboo Adventist Academy,Independent Schools in Interior Health,Interior Health Authority,2
-46,Kootenay Christian Academy,Independent Schools in Interior Health,Interior Health Authority,2
 46,OKIB Cultural Immersion,Independent Schools in Interior Health,Interior Health Authority,2
 46,Our Lady of Perpetual Help (OLPH)-Kamloops,Independent Schools in Interior Health,Interior Health Authority,2
 46,Shuswap SDA,Independent Schools in Interior Health,Interior Health Authority,2
@@ -1248,6 +1248,7 @@ Rank,School,School District,Health Region,Exposures
 47,Miracle Beach Elementary,71,Vancouver Island Health Authority,1
 47,Navigate - NIDES (DL Program),71,Vancouver Island Health Authority,1
 47,Queneesh Elementary,71,Vancouver Island Health Authority,1
+47,Royston Elementary,71,Vancouver Island Health Authority,1
 47,Ecole Phoenix Middle,72,Vancouver Island Health Authority,1
 47,Ecole des Deux Mondes Elementary,72,Vancouver Island Health Authority,1
 47,Penfield Elementary,72,Vancouver Island Health Authority,1
