@@ -2,6 +2,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Lord Baden-Powell Elementary,Coquitlam,43,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
 09/26/2021,Pinewood Elementary (Prince George),Prince George,57,Northern Health,"""September 7, 8, 10, 13, 14, 15, 16, and 17, 2021""",Exposure 1
 09/26/2021,Mount Sentinel Secondary,,8,Interior Health Authority,"""September 16 and 17, 2021""",Exposure 1
+09/26/2021,Frances Kelsey Secondary School,Mill Bay,79,Vancouver Island Health Authority,Not provided,Exposure 2
+09/26/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 15, 16, 17, 20, and 21, 2021""",Exposure 10
+09/26/2021,Ecole Quadra Elementary,Victoria,61,Vancouver Island Health Authority,"""September 17, 2021""",Exposure 2
 09/25/2021,Langley Fundamental Middle/Secondary Sch,Langley,35,Fraser Health Authority,"""September 9, 10, 13, and 14, 2021""",Exposure 1
 09/25/2021,Delta Secondary,Delta,37,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
 09/25/2021,St Catherines School,Langley,35,Fraser Health Authority,"""September 13, 16, and 17, 2021""",Exposure 1
@@ -2995,6 +2998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/13/2021,Windsor Secondary,North Vancouver,44,Vancouver Coastal Health,April 9,Exposure 6
 04/13/2021,Mulgrave School,West Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Not provided,Exposure 7
 04/13/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,April 9,Exposure 13
+04/13/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""April 7, 8, 9""",Exposure 43
 04/13/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""April 7, 8, 9""",Exposure 43
 04/13/2021,Burnsview Secondary,Delta,37,Fraser Health Authority,"""April 7, 8, 9""",Exposure 12
 04/13/2021,Seaquam Secondary,Delta,37,Fraser Health Authority,"""April 7, 8, 9""",Exposure 14
