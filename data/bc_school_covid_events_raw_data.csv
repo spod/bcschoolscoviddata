@@ -2,6 +2,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/28/2021,D W Poppy Secondary,Langley,35,Fraser Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/28/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,"""September 20 and 21, 2021""",Exposure 1
 09/28/2021,Steeples Elementary,Cranbrook,5,Interior Health Authority,Not provided,Exposure 1
+09/28/2021,T E Scott Elementary,Surrey,36,Fraser Health Authority,"""September 20, 2021""",Exposure 1
+09/28/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""September 13, 14, and 15, 2021""",Exposure 1
 09/27/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Not provided,Exposure 1
 09/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""September 23, 2021""",Exposure 3
 09/27/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""September 22, 23, and 24, 2021""",Exposure 7
@@ -291,7 +293,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Erma Stephenson Elementary,Surrey,36,Fraser Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/20/2021,Hillcrest Elementary (Surrey),Surrey,36,Fraser Health Authority,"""Sept 12, 13, 14, 2021""",Email confirmation on file.
 09/20/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 15, 16, and 17, 2021""",Confirmation email on file.
-09/20/2021,Clayton Elementary,Surrey,36,Fraser Health Authority,"""Sept 14, 15, 2021""",Email confirmation on file.
 09/20/2021,Victor-Brodeur,Victoria,93,Vancouver Island Health Authority,"""Sept 7, 8, 9, 13, 16, 17, 2021""",Exposure 2
 09/20/2021,Cumberland Community School,Cumberland,71,Vancouver Island Health Authority,"""September 9 and 10, 2021""",Exposure 1
 09/20/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""September 13, 14, 15, and 16, 2021""",Exposure 5
@@ -310,6 +311,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/20/2021,Cloverdale Traditional Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""Sept 13, 14, 2021""",Exposure 1
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 8, 9, 10, 13, 14, 15, 16, and 17, 2021""","""One class has been asked to self isolate until September 28th, 2021 (documentation on file)"""
 09/20/2021,Campus View Elementary,Victoria,61,Vancouver Island Health Authority,"""September 14, 2021""",Exposure 4
+09/20/2021,Clayton Elementary,Surrey,36,Fraser Health Authority,"""Sept 14, 2021""",Email confirmation on file.
 09/19/2021,Errington Elementary,Errington,69,Vancouver Island Health Authority,"""Sept 10, 2021""",Exposure 1
 09/19/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 17, 2021""",Public health letter is also on file.
 09/19/2021,Chilliwack Middle School,Chilliwack,33,Fraser Health Authority,"""September 13, 2021""",Exposure 1
