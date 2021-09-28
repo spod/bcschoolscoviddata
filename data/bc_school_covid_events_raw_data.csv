@@ -1,15 +1,15 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+09/28/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""September 13, 14, and 15, 2021""",Exposure 1
+09/28/2021,T E Scott Elementary,Surrey,36,Fraser Health Authority,"""September 20, 2021""",Exposure 1
 09/28/2021,D W Poppy Secondary,Langley,35,Fraser Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/28/2021,Harold Bishop Elementary,Surrey,36,Fraser Health Authority,"""September 20 and 21, 2021""",Exposure 1
 09/28/2021,Steeples Elementary,Cranbrook,5,Interior Health Authority,Not provided,Exposure 1
-09/28/2021,T E Scott Elementary,Surrey,36,Fraser Health Authority,"""September 20, 2021""",Exposure 1
-09/28/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""September 13, 14, and 15, 2021""",Exposure 1
-09/27/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Not provided,Exposure 1
-09/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""September 23, 2021""",Exposure 3
-09/27/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""September 22, 23, and 24, 2021""",Exposure 7
 09/27/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""September 20, 2021""",One full class has been asked to self-isolate (documentation on file)
 09/27/2021,Pleasant Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 22, 2021""",Exposure 5
 09/27/2021,Royston Elementary,Royston,71,Vancouver Island Health Authority,"""September 20, 2021""",Exposure 1
+09/27/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Not provided,Exposure 1
+09/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""September 23, 2021""",Exposure 3
+09/27/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""September 22, 23, and 24, 2021""",Exposure 7
 09/27/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,Not provided. letter states two cases.,Exposure 8
 09/27/2021,Ecole Coquitlam River Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 13, 14, 15, 2021""",Exposure 1
 09/27/2021,White Rock Elementary,White Rock,36,Fraser Health Authority,"""September 20, 21, 22, and 23, 2021""",Exposure 2
@@ -49,20 +49,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/27/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,"""Sept 16, 17, 20, 2021""",Expsoure 12
 09/27/2021,Alouette Elementary,Maple Ridge,42,Fraser Health Authority,Not provided,Exposure 1
 09/27/2021,Walnut Grove Secondary,Langley,35,Fraser Health Authority,"""Sept 20, 21, 2021""",Exposure 1
-09/26/2021,Lord Baden-Powell Elementary,Coquitlam,43,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
-09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
-09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
-09/26/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,"""September 22, 23, 24, 2021""",Confirmation email on file.
-09/26/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,"""Sept 20, 21, 2021""",Attached documentation indicates 2 new cases. We have listed them as Exposures 4 and 5.
-09/26/2021,des Grands-cedres,Port Alberni,93,Vancouver Island Health Authority,"""Sept 14, 2021""",Exposure 1
-09/26/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Sept 17, 20, 2021""",Confirmation email on file.
-09/26/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,"""Sept 15, 16, 17, 20, 21, 22, 23, 2021""",Email confirmation on file.
-09/26/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
-09/26/2021,Mount Sentinel Secondary,South Slocan,8,Interior Health Authority,"""Sept 14, 15, 16, 17, 2021""",Exposure 2
-09/26/2021,Dr D A Perley Elementary,Grand Forks,51,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
-09/26/2021,James Cameron School,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 2021""",Confirmation email on file.
-09/26/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
-09/26/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 17, 2021""",Exposure 2
 09/26/2021,Mount Sentinel Secondary,South Slocan,8,Interior Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/26/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""September 13, 14, and 16, 2021""",Exposure 1
 09/26/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""Sept 21, 22, 23, 2021""",Exposure 3
@@ -123,7 +109,24 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Khowhemun Elementary,Duncan,79,Vancouver Island Health Authority,Not provided,Attached documentation indicates 2 cases (We have listed them as Exposure 4 and 5)
 09/26/2021,Khowhemun Elementary,Duncan,79,Vancouver Island Health Authority,Not provided,Attached documentation indicates 2 cases (We have listed them as Exposure 4 and 5)
 09/26/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""Sept 20, 2021""",Confirmation email on file.
+09/26/2021,Lord Baden-Powell Elementary,Coquitlam,43,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
+09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
+09/26/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Confirmation email on file.
+09/26/2021,Mary Jane Shannon Elementary,Surrey,36,Fraser Health Authority,"""September 22, 23, 24, 2021""",Confirmation email on file.
+09/26/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,"""Sept 20, 21, 2021""",Attached documentation indicates 2 new cases. We have listed them as Exposures 4 and 5.
+09/26/2021,des Grands-cedres,Port Alberni,93,Vancouver Island Health Authority,"""Sept 14, 2021""",Exposure 1
+09/26/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Sept 17, 20, 2021""",Confirmation email on file.
+09/26/2021,General Currie Elementary,Richmond,38,Vancouver Coastal Health,"""Sept 15, 16, 17, 20, 21, 22, 23, 2021""",Email confirmation on file.
+09/26/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
+09/26/2021,Mount Sentinel Secondary,South Slocan,8,Interior Health Authority,"""Sept 14, 15, 16, 17, 2021""",Exposure 2
+09/26/2021,Dr D A Perley Elementary,Grand Forks,51,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
+09/26/2021,James Cameron School,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 2021""",Confirmation email on file.
+09/26/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
+09/26/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 17, 2021""",Exposure 2
 09/26/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 17, 2021""",Confirmation email on file.
+09/25/2021,Central Middle School,Victoria,61,Vancouver Island Health Authority,"""September 16 and 17, 2021""",Exposure 1
+09/25/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 16 and 17, 2021""",This has been declared a cluster by Island Health
+09/25/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""September 8, 9, 10, and 13, 2021""",Exposure 1
 09/25/2021,Langley Fundamental Middle/Secondary Sch,Langley,35,Fraser Health Authority,"""September 9, 10, 13, and 14, 2021""",Exposure 1
 09/25/2021,Delta Secondary,Delta,37,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
 09/25/2021,St Catherines School,Langley,35,Fraser Health Authority,"""September 13, 16, and 17, 2021""",Exposure 1
@@ -131,9 +134,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/25/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 20, 2021""",Emailed documentation on file.
 09/25/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""September 15, 16, and 17, 2021""",Emailed documentation on file
 09/25/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 16, 17, 20, and 21, 2021""",This has been identified as a cluster by Island Health.
-09/25/2021,Central Middle School,Victoria,61,Vancouver Island Health Authority,"""September 16 and 17, 2021""",Exposure 1
-09/25/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 16 and 17, 2021""",This has been declared a cluster by Island Health
-09/25/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""September 8, 9, 10, and 13, 2021""",Exposure 1
 09/24/2021,Shoreline Community Middle School,Victoria,61,Vancouver Island Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/24/2021,Pleasant Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 13, 14, 15, 16, 17, and 20, 2021""",Exposure 2
 09/24/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""September 13, 14, 15, and 16, 2021""",Exposure 3
@@ -189,9 +189,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school
 09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school
 09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school
+09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""September 15, 16, 17, 20, and 21, 2021""",https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school/
 09/24/2021,Brooklyn Elementary,Comox,71,Vancouver Island Health Authority,"""September 17 and 20, 2021""",Island Health has declared that this is a cluster (Documentation on the BCCDC webpage - September 25)
 09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""September 14, 15, 16, 17, 20, 21, 22, 23, and 24""",https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school/
-09/24/2021,Maple Ridge Christian School,Maple Ridge,Independent Schools in Fraser Health,Fraser Health Authority,"""September 15, 16, 17, 20, and 21, 2021""",https://www.mapleridgenews.com/news/covid-outbreak-sees-32-cases-at-maple-ridge-school/
 09/23/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,"""September 20 and 21, 2021""",Confirmation email on file.
 09/23/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""September 13, 14, 15, 16, and 17, 2021""",Notification letter indicates 'members' (plural) so we have listed this as Exposure 1 and 2.
 09/23/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""September 13, 14, 15, 16, and 17, 2021""",Notification letter indicates 'members' (plural) so we have listed this as Exposure 1 and 2.
