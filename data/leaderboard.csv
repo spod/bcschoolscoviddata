@@ -78,6 +78,7 @@ Rank,School,School District,Health Region,Exposures
 29,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,18
 30,Okanagan Mission Secondary,23,Interior Health Authority,17
 30,Vedder Middle School,33,Fraser Health Authority,17
+30,D W Poppy Secondary,35,Fraser Health Authority,17
 30,Langley Secondary,35,Fraser Health Authority,17
 30,Walnut Grove Secondary,35,Fraser Health Authority,17
 30,Cindrich Elementary,36,Fraser Health Authority,17
@@ -96,7 +97,6 @@ Rank,School,School District,Health Region,Exposures
 31,Abbotsford Middle School,34,Fraser Health Authority,16
 31,Robert Bateman Secondary,34,Fraser Health Authority,16
 31,William A. Fraser Middle School,34,Fraser Health Authority,16
-31,D W Poppy Secondary,35,Fraser Health Authority,16
 31,H D Stafford Middle,35,Fraser Health Authority,16
 31,Holly Elementary (Surrey),36,Fraser Health Authority,16
 31,Surrey Traditional,36,Fraser Health Authority,16
@@ -270,6 +270,7 @@ Rank,School,School District,Health Region,Exposures
 39,Vedder Elementary,33,Fraser Health Authority,8
 39,Betty Gilbert Middle,35,Fraser Health Authority,8
 39,Douglas Park Community,35,Fraser Health Authority,8
+39,Harold Bishop Elementary,36,Fraser Health Authority,8
 39,Henry Bose Elementary,36,Fraser Health Authority,8
 39,Kirkbride Elementary,36,Fraser Health Authority,8
 39,Laronde Elementary,36,Fraser Health Authority,8
@@ -328,7 +329,6 @@ Rank,School,School District,Health Region,Exposures
 40,R C Garnett Demonstration Elementary,35,Fraser Health Authority,7
 40,A H P Matthew Elementary,36,Fraser Health Authority,7
 40,Frost Road Elementary,36,Fraser Health Authority,7
-40,Harold Bishop Elementary,36,Fraser Health Authority,7
 40,McLeod Road Traditional,36,Fraser Health Authority,7
 40,Old Yale Road Elementary,36,Fraser Health Authority,7
 40,Sunnyside Elementary,36,Fraser Health Authority,7
@@ -778,6 +778,7 @@ Rank,School,School District,Health Region,Exposures
 44,Ridgeway Elementary,44,Vancouver Coastal Health,3
 44,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
 44,Parkland Middle School,5,Interior Health Authority,3
+44,Steeples Elementary,5,Interior Health Authority,3
 44,Pacific Coast School,52,Northern Health,3
 44,Similkameen Elem-Secondary,53,Interior Health Authority,3
 44,Pinewood Elementary (Prince George),57,Northern Health,3
@@ -907,7 +908,6 @@ Rank,School,School District,Health Region,Exposures
 45,West Sechelt Elementary,46,Vancouver Coastal Health,2
 45,Pemberton Secondary,48,Vancouver Coastal Health,2
 45,Rocky Mountain Elementary,5,Interior Health Authority,2
-45,Steeples Elementary,5,Interior Health Authority,2
 45,Sk'aadgaa Naay Elementary,50,Northern Health,2
 45,Osoyoos Elementary,53,Interior Health Authority,2
 45,Osoyoos Secondary,53,Interior Health Authority,2
