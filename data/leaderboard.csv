@@ -384,6 +384,7 @@ Rank,School,School District,Health Region,Exposures
 40,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 40,Juniper Ridge Elementary,73,Interior Health Authority,7
 40,Albert McMahon Elementary,75,Fraser Health Authority,7
+40,Windebank Elementary,75,Fraser Health Authority,7
 40,Victor-Brodeur,93,Vancouver Island Health Authority,7
 40,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 40,Cornerstone Montessori School,Independent Schools in Fraser Health,Fraser Health Authority,7
@@ -564,7 +565,6 @@ Rank,School,School District,Health Region,Exposures
 42,Edwin S Richards Elementary,75,Fraser Health Authority,5
 42,Hatzic Elementary,75,Fraser Health Authority,5
 42,Hillside Traditional Academy,75,Fraser Health Authority,5
-42,Windebank Elementary,75,Fraser Health Authority,5
 42,Cowichan Secondary,79,Vancouver Island Health Authority,5
 42,Drinkwater Elementary,79,Vancouver Island Health Authority,5
 42,Lake Cowichan School,79,Vancouver Island Health Authority,5
@@ -727,6 +727,7 @@ Rank,School,School District,Health Region,Exposures
 44,Jessie Lee Elementary,36,Fraser Health Authority,3
 44,Morgan Elementary,36,Fraser Health Authority,3
 44,Port Kells Elementary,36,Fraser Health Authority,3
+44,Semiahmoo Trail Elementary,36,Fraser Health Authority,3
 44,Holly Elementary (Delta),37,Fraser Health Authority,3
 44,South Park Elementary (Delta),37,Fraser Health Authority,3
 44,Alfred B Dixon Elementary,38,Vancouver Coastal Health,3
@@ -868,7 +869,6 @@ Rank,School,School District,Health Region,Exposures
 45,Dogwood Elementary,36,Fraser Health Authority,2
 45,Ellendale Elementary,36,Fraser Health Authority,2
 45,Fraser Wood Elementary,36,Fraser Health Authority,2
-45,Semiahmoo Trail Elementary,36,Fraser Health Authority,2
 45,South Surrey/White Rock Learning Centre,36,Fraser Health Authority,2
 45,Devon Gardens Elementary,37,Fraser Health Authority,2
 45,Pebble Hill Traditional Elementary,37,Fraser Health Authority,2
@@ -1182,6 +1182,7 @@ Rank,School,School District,Health Region,Exposures
 46,Ecole Lac des Bois,57,Northern Health,1
 46,Foothills Elementary,57,Northern Health,1
 46,Giscome Elementary,57,Northern Health,1
+46,Glenview Elementary,57,Northern Health,1
 46,Malaspina Elementary,57,Northern Health,1
 46,Morfee Elementary,57,Northern Health,1
 46,Pineview Elementary,57,Northern Health,1

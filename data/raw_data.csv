@@ -8,7 +8,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/28/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 15, 2021""",Exposure 4
 09/28/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""Sept 22, 2021""",Confirmation email on file.
 09/28/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,Not provided.,Exposure 1
-09/28/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
 09/28/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,"""September 20, 21, and 22, 2021""",Exposure 2
 09/28/2021,Evans Elementary,Chilliwack,33,Fraser Health Authority,"""September 28, 2021""",Exposure 2
 09/28/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,"""September 28, 2021""",Exposure 4
@@ -26,8 +25,22 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/28/2021,Ranch Park Elementary,Coquitlam,43,Fraser Health Authority,Not provided,Exposure 1
 09/28/2021,Traditional Learning Academy Online,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Sept 22, 2021.""",Exposure 1
 09/28/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,Not provided,Exposure 2
-09/28/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,"""Sept 23, 24, 2021""",Confirmation email on file.
 09/28/2021,Evans Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 22, 23, 24, 2021""",Confirmation email on file.
+09/28/2021,St. James School (Vernon),Vernon,Independent Schools in Interior Health,Interior Health Authority,"""September 21, 22, 23, and 24, 2021""",Exposure 1
+09/28/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
+09/28/2021,Cheam Elementary,Chilliwack,33,Fraser Health Authority,"""September 21 and 22, 2021""",Exposure 2
+09/28/2021,James Kennedy Elementary,Langley,35,Fraser Health Authority,Not provided,Expsoure 2
+09/28/2021,Heritage Elementary,Prince George,57,Northern Health,"""Sept 22, 23, 2021.""",Confirmation email on file.
+09/28/2021,Heritage Christian School,Kelowna,23,Interior Health Authority,"""September 17, 20, and 21, 2021""",Exposure 1
+09/28/2021,Journey Middle School,Sooke,62,Vancouver Island Health Authority,Not provided.,Confirmation email on file.
+09/28/2021,St Michael's Elementary (Trail),Trail,Independent Schools in Interior Health,Interior Health Authority,"""September 14, 15, 16, 17, and 21, 2021""",Exposure 1
+09/28/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""Sept 15, 16, 17, 20, 2021""",Exposure 1
+09/28/2021,Dorothy Peacock Elementary,Langley,35,Fraser Health Authority,"""Sept 20, 2021""",Exposure 1
+09/28/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""September 21, 2021""",Exposure 4
+09/28/2021,Topham Elementary,Langley,35,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
+09/28/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,"""September 14, 15, 16, 17, and 20, 2021""",Exposure 1
+09/28/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 14, 2021""",Exposure 7
+09/28/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 21, 22, 2021""",Exposure 6
 09/28/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
 09/28/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""September 24, 2021""",Exposure 5
 09/28/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""September 20, 21, and 22, 2021""",Exposure 5
@@ -36,32 +49,23 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/28/2021,Cherryville Elementary,,22,Interior Health Authority,Not provided.,Confirmation email on file.
 09/28/2021,École KLO Middle School,Kelowna,23,Interior Health Authority,"""September 15, 16, and 17, 2021""",Exposure 2
 09/28/2021,Beaverdell Elementary,,51,Interior Health Authority,"""September 19, 20, 21, and 22, 2021""",Exposure 1
-09/28/2021,Burnaby South Secondary,Burnaby,41,Fraser Health Authority,"""September 14, 15, 16, 17, and 20, 2021""",Exposure 1
 09/28/2021,Cataline Elementary,Williams Lake,27,Interior Health Authority,"""September 20, 21, 22, and 23, 2021""",Exposure 3
 09/28/2021,Cataline Elementary,Williams Lake,27,Interior Health Authority,"""September 15, 2021""",Exposure 2
 09/28/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""September 17, 2021""",Exposure 4
-09/28/2021,Aberdeen Elementary (Kamloops),Kamloops,73,Interior Health Authority,"""September 16, 17, 20, 21, 22, and 23, 2021""",Exposure 1
-09/28/2021,Forsyth Road Elementary,Surrey,36,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
-09/28/2021,St Michael's Elementary (Trail),Trail,Independent Schools in Interior Health,Interior Health Authority,"""September 14, 15, 16, 17, and 21, 2021""",Exposure 1
-09/28/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""Sept 15, 16, 17, 20, 2021""",Exposure 1
-09/28/2021,Dorothy Peacock Elementary,Langley,35,Fraser Health Authority,"""Sept 20, 2021""",Exposure 1
-09/28/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""September 21, 2021""",Exposure 4
-09/28/2021,Topham Elementary,Langley,35,Fraser Health Authority,"""September 15, 16, and 17, 2021""",Exposure 1
-09/28/2021,Heritage Christian School,Kelowna,23,Interior Health Authority,"""September 17, 20, and 21, 2021""",Exposure 1
-09/28/2021,Journey Middle School,Sooke,62,Vancouver Island Health Authority,Not provided.,Confirmation email on file.
-09/28/2021,de l'Anse-au-sable,Kelowna,93,Interior Health Authority,Not provided.,Confirmation email on file.
 09/28/2021,Kelowna Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""September 14, 15, 16, 17, 20, 21, 22, and 23, 2021""",Exposure 1
 09/28/2021,Cinnabar Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Sept 23, 24, 2021""",Confirmation email on file.
 09/28/2021,West Boundary Elementary,Rock Creek,51,Interior Health Authority,"""September 20, 21, and 22, 2021""",Exposure 2
-09/28/2021,St. James School (Vernon),Vernon,Independent Schools in Interior Health,Interior Health Authority,"""September 21, 22, 23, and 24, 2021""",Exposure 1
-09/28/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
-09/28/2021,Cheam Elementary,Chilliwack,33,Fraser Health Authority,"""September 21 and 22, 2021""",Exposure 2
-09/28/2021,James Kennedy Elementary,Langley,35,Fraser Health Authority,Not provided,Expsoure 2
-09/28/2021,Heritage Elementary,Prince George,57,Northern Health,"""Sept 22, 23, 2021.""",Confirmation email on file.
+09/28/2021,Aberdeen Elementary (Kamloops),Kamloops,73,Interior Health Authority,"""September 16, 17, 20, 21, 22, and 23, 2021""",Exposure 1
+09/28/2021,Forsyth Road Elementary,Surrey,36,Fraser Health Authority,"""September 14, 15, and 16, 2021""",Exposure 1
+09/28/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Confirmation email on file.
+09/28/2021,de l'Anse-au-sable,Kelowna,93,Interior Health Authority,Not provided.,Confirmation email on file.
 09/28/2021,Southridge Elementary,Prince George,57,Northern Health,Not provided,https://ckpgtoday.ca/2021/09/28/northern-health-issues-statement-following-covid-19-cases-at-southridge-elementary
 09/28/2021,Southridge Elementary,Prince George,57,Northern Health,Not provided,https://ckpgtoday.ca/2021/09/28/northern-health-issues-statement-following-covid-19-cases-at-southridge-elementary
 09/28/2021,Southridge Elementary,Prince George,57,Northern Health,Not provided,https://ckpgtoday.ca/2021/09/28/northern-health-issues-statement-following-covid-19-cases-at-southridge-elementary
 09/28/2021,Southridge Elementary,Prince George,57,Northern Health,Not provided,https://ckpgtoday.ca/2021/09/28/northern-health-issues-statement-following-covid-19-cases-at-southridge-elementary
+09/28/2021,Semiahmoo Trail Elementary,Surrey,36,Fraser Health Authority,"""Sept 13, 14, 15, 16, 17, 2021""",Exposure 1
+09/28/2021,Capilano Elementary,North Vancouver,44,Vancouver Coastal Health,"""Sept 23, 24, 2021""",Confirmation email on file.
+09/28/2021,Glenview Elementary,Prince George,57,Northern Health,"""Sept 21, 22, 23, 2021""",Email confirmation on file.
 09/27/2021,Pleasant Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 22, 2021""",Exposure 5
 09/27/2021,Royston Elementary,Royston,71,Vancouver Island Health Authority,"""September 20, 2021""",Exposure 1
 09/27/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,Not provided,Exposure 1
@@ -105,8 +109,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/27/2021,Walnut Grove Secondary,Langley,35,Fraser Health Authority,"""Sept 20, 21, 2021""",Exposure 1
 09/27/2021,North Saanich Middle School,North Saanich,63,Vancouver Island Health Authority,"""September 20, 21, and 22, 2021""",Confirmation email on file.
 09/27/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""Sept 21, 22, 24, 2021""",.
-09/27/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""September 15, 16, 17, and 20, 2021 (Dates are on the Interior Health Webpage)""",One full class has been asked to self-isolate (documentation on file)
 09/27/2021,Parkland Elementary,Coquitlam,43,Fraser Health Authority,"""Sept 22, 23, 24, 2021""",Email Confirmation on file.
+09/27/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""September 15, 16, 17, and 20, 2021 (Dates are on the Interior Health Webpage)""",One full class has been asked to self-isolate (documentation on file)
 09/26/2021,Mount Sentinel Secondary,South Slocan,8,Interior Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/26/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""September 13, 14, and 16, 2021""",Exposure 1
 09/26/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""Sept 21, 22, 23, 2021""",Exposure 3
@@ -180,8 +184,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/26/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
 09/26/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 17, 2021""",Exposure 2
 09/26/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 17, 2021""",Confirmation email on file.
-09/26/2021,Kootenay Orchards Elementary,Cranbrook,5,Interior Health Authority,"""September 15, 16, and 17, 2021 (Dates on the Interior Health webpage)""",Once class has been asked to self isolate.
 09/26/2021,James Cameron School,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 2021""",Confirmation email on file.
+09/26/2021,Kootenay Orchards Elementary,Cranbrook,5,Interior Health Authority,"""September 15, 16, and 17, 2021 (Dates on the Interior Health webpage)""",Once class has been asked to self isolate.
 09/25/2021,Central Middle School,Victoria,61,Vancouver Island Health Authority,"""September 16 and 17, 2021""",Exposure 1
 09/25/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""September 16 and 17, 2021""",This has been declared a cluster by Island Health
 09/25/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""September 8, 9, 10, and 13, 2021""",Exposure 1
@@ -283,10 +287,10 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/23/2021,Garibaldi Secondary,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 2021""",Confirmation email on file.
 09/23/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,"""Sept 16, 17, 2021""",Confirmation email on file.
 09/23/2021,Laity View Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 15, 16, 17, 2021""",Exposure 1
+09/23/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,"""September 20, 21, and 22, 2021""",Email confirmation on file.
 09/23/2021,Oliver Elementary,Oliver,53,Interior Health Authority,"""September 17 and 20, 2021 (Dates on Interior Health webpage)""",This has been declared a cluster and one class is self-isolating until October 1
 09/23/2021,Oliver Elementary,Oliver,53,Interior Health Authority,"""September 17 and 20, 2021 (Dates on Interior Health webpage)""",This has been declared a cluster and one class is self-isolating until October 1
 09/23/2021,West Boundary Elementary,Rock Creek,51,Interior Health Authority,"""September 14, 15, and 16, 2021 (Dates on the Interior Health Webpage)""",Exposure 1
-09/23/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,"""September 20, 21, and 22, 2021""",Email confirmation on file.
 09/22/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Not provided,"""One class has been closed and all students and their siblings are being asked to get tested. The class will return to in-class learning on Monday September 27, 2021."""
 09/22/2021,Hastings Community Elementary,Vancouver,39,Vancouver Coastal Health,Waiting on confirmation,Exposure 2
 09/22/2021,Quamichan School,Duncan,79,Vancouver Island Health Authority,Not provided,Exposure 3
