@@ -412,6 +412,7 @@ Rank,School,School District,Health Region,Exposures
 41,North Glenmore Elementary,23,Interior Health Authority,6
 41,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,6
 41,Cheam Elementary,33,Fraser Health Authority,6
+41,Evans Elementary,33,Fraser Health Authority,6
 41,Little Mountain Elementary,33,Fraser Health Authority,6
 41,Sandy Hill Elementary,34,Fraser Health Authority,6
 41,Belmont Elementary,35,Fraser Health Authority,6
@@ -499,7 +500,6 @@ Rank,School,School District,Health Region,Exposures
 42,Watson Road Elementary,23,Interior Health Authority,5
 42,Cataline Elementary,27,Interior Health Authority,5
 42,Nesika Elementary,27,Interior Health Authority,5
-42,Evans Elementary,33,Fraser Health Authority,5
 42,Rosedale Traditional Community,33,Fraser Health Authority,5
 42,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,5
 42,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
@@ -808,6 +808,7 @@ Rank,School,School District,Health Region,Exposures
 44,Arbutus Global Middle School,61,Vancouver Island Health Authority,3
 44,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,3
 44,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,3
+44,George Jay Elementary,61,Vancouver Island Health Authority,3
 44,Oaklands Elementary,61,Vancouver Island Health Authority,3
 44,Torquay Elementary,61,Vancouver Island Health Authority,3
 44,Victoria West Elementary,61,Vancouver Island Health Authority,3
@@ -955,7 +956,6 @@ Rank,School,School District,Health Region,Exposures
 45,Hudson's Hope School,60,Northern Health,2
 45,Central Middle School,61,Vancouver Island Health Authority,2
 45,Esquimalt High,61,Vancouver Island Health Authority,2
-45,George Jay Elementary,61,Vancouver Island Health Authority,2
 45,Glanford Middle School,61,Vancouver Island Health Authority,2
 45,Gordon Head Middle School,61,Vancouver Island Health Authority,2
 45,Lansdowne Middle School,61,Vancouver Island Health Authority,2
