@@ -918,6 +918,7 @@ Rank,School,School District,Health Region,Exposures
 45,F W Howay Elementary,40,Fraser Health Authority,2
 45,Aubrey Elementary,41,Fraser Health Authority,2
 45,Burnaby Youth HUB,41,Fraser Health Authority,2
+45,Confederation Park Elementary,41,Fraser Health Authority,2
 45,Rosser Elementary,41,Fraser Health Authority,2
 45,South Slope Elementary,41,Fraser Health Authority,2
 45,St Francis de Sales,41,Fraser Health Authority,2
@@ -1070,6 +1071,7 @@ Rank,School,School District,Health Region,Exposures
 46,F G Leary Fine Arts Elementary,33,Fraser Health Authority,1
 46,Greendale Elementary,33,Fraser Health Authority,1
 46,Kwiyeqel Secondary,33,Fraser Health Authority,1
+46,McCammon Traditional Elementary,33,Fraser Health Authority,1
 46,Yarrow Community School,33,Fraser Health Authority,1
 46,Auguston Traditional Elementary,34,Fraser Health Authority,1
 46,Barrowtown Elementary,34,Fraser Health Authority,1
@@ -1155,7 +1157,6 @@ Rank,School,School District,Health Region,Exposures
 46,Queen Elizabeth Elementary (New Westminster),40,Vancouver Coastal Health,1
 46,Burnaby South Community & Continuing Education,41,Fraser Health Authority,1
 46,Canada Way Learning Centre,41,Fraser Health Authority,1
-46,Confederation Park Elementary,41,Fraser Health Authority,1
 46,Lyndhurst Elementary,41,Fraser Health Authority,1
 46,Nelson Elementary,41,Fraser Health Authority,1
 46,Outlook Secondary Program,41,Fraser Health Authority,1
