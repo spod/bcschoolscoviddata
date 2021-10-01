@@ -308,6 +308,7 @@ Rank,School,School District,Health Region,Exposures
 39,Heather Park Elementary,57,Northern Health,8
 39,Energetic Learning Campus,60,Northern Health,8
 39,Margaret Ma Murray Community School,60,Northern Health,8
+39,Dunsmuir Middle School,62,Vancouver Island Health Authority,8
 39,Juniper Ridge Elementary,73,Interior Health Authority,8
 39,Mission Central Elementary,75,Fraser Health Authority,8
 39,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,8
@@ -388,7 +389,6 @@ Rank,School,School District,Health Region,Exposures
 40,Ecole Frank Ross Elementary,59,Northern Health,7
 40,Dr Kearney Middle School,60,Northern Health,7
 40,Tillicum Community School,61,Vancouver Island Health Authority,7
-40,Dunsmuir Middle School,62,Vancouver Island Health Authority,7
 40,Ecole Poirier Elementary,62,Vancouver Island Health Authority,7
 40,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 40,Albert McMahon Elementary,75,Fraser Health Authority,7
@@ -1245,7 +1245,6 @@ Rank,School,School District,Health Region,Exposures
 46,South Park Family School (Victoria),61,Vancouver Island Health Authority,1
 46,Strawberry Vale Elementary,61,Vancouver Island Health Authority,1
 46,Victoria High,61,Vancouver Island Health Authority,1
-46,Dunsmuir Middle School,62,Fraser Health Authority,1
 46,Edward Milne Community School,62,Vancouver Island Health Authority,1
 46,John Stubbs Elementary and Middle,62,Vancouver Island Health Authority,1
 46,Lakewood Elementary,62,Vancouver Island Health Authority,1
