@@ -221,6 +221,7 @@ Rank,School,School District,Health Region,Exposures
 37,J T Brown Elementary,36,Fraser Health Authority,10
 37,James Ardiel Elementary,36,Fraser Health Authority,10
 37,Katzie Elementary,36,Fraser Health Authority,10
+37,Maple Green Elementary,36,Fraser Health Authority,10
 37,Newton Elementary,36,Fraser Health Authority,10
 37,Prince Charles Elementary (Surrey),36,Fraser Health Authority,10
 37,Royal Heights Elementary,36,Fraser Health Authority,10
@@ -258,7 +259,6 @@ Rank,School,School District,Health Region,Exposures
 38,Henry Bose Elementary,36,Fraser Health Authority,9
 38,Hyland Elementary,36,Fraser Health Authority,9
 38,K B Woodward Elementary,36,Fraser Health Authority,9
-38,Maple Green Elementary,36,Fraser Health Authority,9
 38,Mary Jane Shannon Elementary,36,Fraser Health Authority,9
 38,Serpentine Heights Elementary,36,Fraser Health Authority,9
 38,William F. Davidson Elementary,36,Fraser Health Authority,9
@@ -299,6 +299,7 @@ Rank,School,School District,Health Region,Exposures
 39,Second Street Community Elementary,41,Fraser Health Authority,8
 39,Alouette Elementary,42,Fraser Health Authority,8
 39,Eric Langton Elementary,42,Fraser Health Authority,8
+39,Whonnock Elementary,42,Fraser Health Authority,8
 39,Castle Park Elementary,43,Fraser Health Authority,8
 39,Carisbrooke Elementary,44,Vancouver Coastal Health,8
 39,Don Ross Middle School,48,Vancouver Coastal Health,8
@@ -373,7 +374,6 @@ Rank,School,School District,Health Region,Exposures
 40,Albion Elementary,42,Fraser Health Authority,7
 40,Garibaldi Secondary,42,Fraser Health Authority,7
 40,Golden Ears Elementary,42,Fraser Health Authority,7
-40,Whonnock Elementary,42,Fraser Health Authority,7
 40,Cedar Drive Elementary,43,Fraser Health Authority,7
 40,Central Community Elementary,43,Fraser Health Authority,7
 40,Ecole Glenayre Elementary,43,Fraser Health Authority,7
@@ -679,6 +679,7 @@ Rank,School,School District,Health Region,Exposures
 43,West Heights Elementary,75,Fraser Health Authority,4
 43,Hope Secondary,78,Fraser Health Authority,4
 43,Alex Aitken Elementary,79,Vancouver Island Health Authority,4
+43,George Bonner Elementary,79,Vancouver Island Health Authority,4
 43,R L Angus Elementary,81,Northern Health,4
 43,Ecole Mountainview Elementary (Terrace),82,Northern Health,4
 43,Majagaleehl Gali Aks Elementary,82,Northern Health,4
@@ -993,7 +994,6 @@ Rank,School,School District,Health Region,Exposures
 45,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 45,Bench Elementary,79,Vancouver Island Health Authority,2
 45,Frances Kelsey Secondary School,79,Vancouver Island Health Authority,2
-45,George Bonner Elementary,79,Vancouver Island Health Authority,2
 45,Erickson Elementary,8,Interior Health Authority,2
 45,Mount Sentinel Secondary,8,Interior Health Authority,2
 45,Chalo School,81,Northern Health,2
