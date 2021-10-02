@@ -4,10 +4,29 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/01/2021,Confederation Park Elementary,Burnaby,41,Fraser Health Authority,"""September 22, 23, and 24, 2021""",Exposure 1
 10/01/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""September 24, 2021""",Exposure 1
 10/01/2021,George Jay Elementary,Victoria,61,Vancouver Island Health Authority,"""September 21, 22, and 23, 2021""",Exposure 3
-10/01/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,,Exposure dates are not provided
 10/01/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,"""September 20 and 21, 2021""",Exposure 2
-10/01/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,,Exposure dates are not provided
 10/01/2021,Whonnock Elementary,Maple Ridge,42,Fraser Health Authority,"""September 27 and 28, 2021""",Exposure 7
+10/01/2021,Bridgeview Elementary,Surrey,36,Fraser Health Authority,"""Sept 20, 2021""",Exposure 3
+10/01/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 21, 22, 23, 27, 2021""",Exposure 8
+10/01/2021,Samuel Robertson Technical Secondary,Maple Ridge,42,Fraser Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
+10/01/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""Sept 22, 23, 2021""",Exposure 8
+10/01/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""Sept. 20, 22, 23, 24, 2021""",Exposure 3
+10/01/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,"""Sept. 28, 2021.""",Exposure 3
+10/01/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""Sept. 20, 22, 23, 24, 2021.""","""This has been declared a cluster, as per the attached documentation and one class will be asked to self-isolate."""
+10/01/2021,Walnut Grove Secondary,Langley,35,Fraser Health Authority,"""September 21, 22, and 23, 2021""",Exposure 2
+10/01/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""Sept 23, 2021""",Exposure 6
+10/01/2021,Alexander Robinson Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 23, 24, 2021""",Confirmation email on file.
+10/01/2021,Parkland Elementary,Coquitlam,43,Fraser Health Authority,"""September 23, 27, 28, and October 1, 2021""",Exposure 5
+10/01/2021,Edith McDermott Elementary,Pitt Meadows,42,Fraser Health Authority,"""Sept 21, 22, 23, 2021""",Exposure 1
+10/01/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""September 21, 22, and 23, 2021""",Exposure 2
+10/01/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 5
+10/01/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 22, 23, 2021""",Exposure 4
+10/01/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""September 22, 23, and 24, 2021""",Exposure 5
+10/01/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 2
+10/01/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""Sept 27, 2021""",Confirmation email on file.
+10/01/2021,McCammon Traditional Elementary,Chilliwack,33,Fraser Health Authority,"""September 20, 2021""",Exposure 2
+10/01/2021,Kent Elementary,Agassiz,78,Fraser Health Authority,"""September 23 and 24, 2021""",Exposure 1
+10/01/2021,Nesika Elementary,Williams Lake,27,Interior Health Authority,"""Sept 23, 2021""",Exposure 2
 09/30/2021,Whonnock Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept. 20, 2021""",Exposure 6
 09/30/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept 24, 2021""",It states the last day of exposure was the 24th.
 09/30/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""Sept. 24, 2021""",Letter says last day of exposure was the 24th.
@@ -4979,6 +4998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 02/24/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,Feb 18,Exposure 15
 02/24/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,Feb 16 and 17,Exposure 12
 02/24/2021,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""Feb 15, 16, 17, and 18""",Exposure 15
+02/24/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Feb 17 and 18,Exposure 36
 02/24/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,Feb 17 and 18,Exposure 36
 02/24/2021,Beattie Elementary,Kamloops,73,Interior Health Authority,Feb 17 and 18,Exposure 2
 02/24/2021,NorKam Secondary School,Kamloops,73,Interior Health Authority,Feb 18 and 19,Exposure 3
