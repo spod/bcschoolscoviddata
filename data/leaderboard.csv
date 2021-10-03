@@ -207,6 +207,7 @@ Rank,School,School District,Health Region,Exposures
 36,Minnekhada Middle School,43,Fraser Health Authority,11
 36,Prince George Secondary,57,Northern Health,11
 36,Bert Bowes Middle School,60,Northern Health,11
+36,Ecole Poirier Elementary,62,Vancouver Island Health Authority,11
 36,de l'Anse-au-sable,93,Interior Health Authority,11
 36,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,11
 36,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,11
@@ -242,7 +243,6 @@ Rank,School,School District,Health Region,Exposures
 37,Braemar Elementary,44,Vancouver Coastal Health,10
 37,Sutherland Secondary,44,Vancouver Coastal Health,10
 37,Whistler Secondary,48,Vancouver Coastal Health,10
-37,Ecole Poirier Elementary,62,Vancouver Island Health Authority,10
 37,Pleasant Valley Elementary,68,Vancouver Island Health Authority,10
 37,Pleasant Valley Secondary,83,Interior Health Authority,10
 37,Vancouver College,Independent Schools in Coastal Health,Vancouver Coastal Health,10
