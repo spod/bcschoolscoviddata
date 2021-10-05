@@ -67,6 +67,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/04/2021,Uplands Elementary (Penticton),Penticton,67,Interior Health Authority,"""September 23, 2021""",Exposure 1
 10/04/2021,Dallas Elementary,Kamloops,73,Interior Health Authority,"""September 27, 28, 29, 2021""",Exposure 4
 10/04/2021,Logan Lake Elementary,Logan Lake,73,Interior Health Authority,"""September 28, 2021""",Exposure 2
+10/04/2021,Unisus School,Summerland,67,Interior Health Authority,"""September 27 and 28, 2021""",Exposure 1
+10/04/2021,St Michael's Elementary (Trail),Trail,Independent Schools in Interior Health,Interior Health Authority,"""September 28 and 29, 2021""",Exposure 3
 10/04/2021,A E Perry Elementary,Kamloops,73,Interior Health Authority,"""September 21, 2021""",Exposure 1
 10/04/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Sept 29, 2021""",Confirmation email on file.
 10/04/2021,Kamloops School of the Arts,Kamloops,73,Interior Health Authority,"""September 28, 2021""",Exposure 1
@@ -74,8 +76,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/04/2021,Grindrod Elementary,,83,Interior Health Authority,"""September 27 and 28, 2021""",Exposure 1
 10/04/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""September 21, 22, 23, 24, and 27, 2021""",Exposure 1
 10/04/2021,de l'Anse-au-sable,Kelowna,93,Interior Health Authority,"""September 27, 2021""",Exposure 2
-10/04/2021,St Michael's Elementary (Trail),Trail,Independent Schools in Interior Health,Interior Health Authority,"""September 28 and 29, 2021""",Exposure 3
-10/04/2021,Unisus School,Summerland,67,Interior Health Authority,"""September 27 and 28, 2021""",Exposure 1
 10/03/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 2
 10/03/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 27, 2021""",Exposure 12
 10/03/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 24, 27, 2021""",Exposure 9
