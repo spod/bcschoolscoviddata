@@ -3,6 +3,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/04/2021,Alexander Robinson Elementary,Maple Ridge,42,Fraser Health Authority,"""September 28 and 29, 2021""",Exposure 2
 10/04/2021,Little Mountain Elementary,Chilliwack,33,Fraser Health Authority,"""September 23, 2021""",Exposure 2
 10/04/2021,Rosemary Heights Elementary,Surrey,36,Fraser Health Authority,"""September 30 and October 1, 2021""",Exposure 2
+10/04/2021,Springwood Elementary,Parksville,69,Vancouver Island Health Authority,"""Sept 27, 29, 2021""",Exposure 3
+10/04/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 29, 2021""",Confirmation email on file.
+10/04/2021,Gordon Head Middle School,Victoria,61,Vancouver Island Health Authority,"""Sept 24, 29, 2021""",Exposure 2
+10/04/2021,Royal Bay Secondary,Victoria,62,Vancouver Island Health Authority,,Exposure dates not provided.
+10/04/2021,Ecole Red Bluff Lhtako Elementary,Quesnel,28,Northern Health,"""Sept 21, 22, 23, 2021""",Confirmation email on file.
 10/03/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 2
 10/03/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 27, 2021""",Exposure 12
 10/03/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 24, 27, 2021""",Exposure 9
@@ -332,7 +337,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/29/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""September 16 and 17, 2021""",Exposure 2
 09/29/2021,Heritage Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""September 15 and 16, 2021""",Exposure 2
 09/29/2021,Valleyview Secondary,Kamloops,73,Interior Health Authority,"""Sept 20, 21, 22, 23, 2021""",Exposure 3
-09/29/2021,St Ann's Academy,Kamloops,Independent Schools in Interior Health,Interior Health Authority,"""September 21, 22, and 23, 2021""",Exposure 4
 09/29/2021,Pitt Meadows Secondary,Pitt Meadows,42,Fraser Health Authority,"""Sept 22, 23, 2021.""",Different then exposure 3
 09/29/2021,Bulkley Valley Christian School,Smithers,54,Northern Health,"""September 20, 21, 22, 23, and 24, 2021""",Exposure 2
 09/29/2021,Bulkley Valley Christian School,Smithers,54,Northern Health,"""September 14, 15, 16, and 17, 2021""",Exposure 1
@@ -365,6 +369,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 09/29/2021,Parkland Elementary,Coquitlam,43,Fraser Health Authority,"""Sept 17, 20, 21, 22, 2021""",Confirmation email on file.
 09/29/2021,Ellison Elementary (Vernon),Vernon,22,Interior Health Authority,"""September 23 and 24, 2021""",Exposure 1
 09/29/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""September 20, 21, and 22, 2021""",Exposure 1
+09/29/2021,St Ann's Academy,Kamloops,Independent Schools in Interior Health,Interior Health Authority,"""September 21, 22, and 23, 2021""",Exposure 4
 09/28/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""September 13, 14, and 15, 2021""",Exposure 1
 09/28/2021,T E Scott Elementary,Surrey,36,Fraser Health Authority,"""September 20, 2021""",Exposure 1
 09/28/2021,D W Poppy Secondary,Langley,35,Fraser Health Authority,"""September 16 and 17, 2021""",Exposure 1

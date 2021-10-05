@@ -655,6 +655,7 @@ Rank,School,School District,Health Region,Exposures
 44,Kitchener Elementary,41,Fraser Health Authority,4
 44,Parkcrest Elementary (Burnaby),41,Fraser Health Authority,4
 44,Maple Ridge Elementary,42,Fraser Health Authority,4
+44,Blakeburn Elementary,43,Fraser Health Authority,4
 44,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
 44,Ecole Montgomery Middle,43,Fraser Health Authority,4
 44,Ecole Nestor Elementary,43,Fraser Health Authority,4
@@ -793,7 +794,6 @@ Rank,School,School District,Health Region,Exposures
 45,Davie Jones Elementary,42,Fraser Health Authority,3
 45,Glenwood Elementary (Maple Ridge),42,Fraser Health Authority,3
 45,Hammond Elementary,42,Fraser Health Authority,3
-45,Blakeburn Elementary,43,Fraser Health Authority,3
 45,Como Lake Middle School,43,Fraser Health Authority,3
 45,Ecole Banting Middle,43,Fraser Health Authority,3
 45,Ecole Maillard Middle,43,Fraser Health Authority,3
@@ -823,10 +823,12 @@ Rank,School,School District,Health Region,Exposures
 45,Arbutus Global Middle School,61,Vancouver Island Health Authority,3
 45,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,3
 45,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,3
+45,Gordon Head Middle School,61,Vancouver Island Health Authority,3
 45,Oaklands Elementary,61,Vancouver Island Health Authority,3
 45,Victoria West Elementary,61,Vancouver Island Health Authority,3
 45,David Cameron Elementary,62,Vancouver Island Health Authority,3
 45,Journey Middle School,62,Vancouver Island Health Authority,3
+45,Royal Bay Secondary,62,Vancouver Island Health Authority,3
 45,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
 45,Skaha Lake Middle School,67,Interior Health Authority,3
 45,Trout Creek Elementary,67,Interior Health Authority,3
@@ -835,6 +837,7 @@ Rank,School,School District,Health Region,Exposures
 45,Randerson Ridge Elementary,68,Vancouver Island Health Authority,3
 45,Errington Elementary,69,Vancouver Island Health Authority,3
 45,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
+45,Springwood Elementary,69,Vancouver Island Health Authority,3
 45,Alberni District Secondary School,70,Vancouver Island Health Authority,3
 45,Carihi Secondary,72,Vancouver Island Health Authority,3
 45,Ecole Willow Point Elementary,72,Vancouver Island Health Authority,3
@@ -970,12 +973,10 @@ Rank,School,School District,Health Region,Exposures
 46,Central Middle School,61,Vancouver Island Health Authority,2
 46,Esquimalt High,61,Vancouver Island Health Authority,2
 46,Glanford Middle School,61,Vancouver Island Health Authority,2
-46,Gordon Head Middle School,61,Vancouver Island Health Authority,2
 46,Lansdowne Middle School,61,Vancouver Island Health Authority,2
 46,Mount Douglas Secondary,61,Vancouver Island Health Authority,2
 46,Oak Bay Secondary,61,Vancouver Island Health Authority,2
 46,View Royal Elementary,61,Vancouver Island Health Authority,2
-46,Royal Bay Secondary,62,Vancouver Island Health Authority,2
 46,Bayside Middle School,63,Vancouver Island Health Authority,2
 46,Brentwood Elementary,63,Vancouver Island Health Authority,2
 46,Deep Cove Elementary,63,Vancouver Island Health Authority,2
@@ -988,7 +989,6 @@ Rank,School,School District,Health Region,Exposures
 46,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,2
 46,Park Avenue Elementary,68,Vancouver Island Health Authority,2
 46,Oceanside Elementary,69,Vancouver Island Health Authority,2
-46,Springwood Elementary,69,Vancouver Island Health Authority,2
 46,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 46,Wood Elementary,70,Vancouver Island Health Authority,2
 46,Valley View Elementary,71,Vancouver Island Health Authority,2
@@ -1074,6 +1074,7 @@ Rank,School,School District,Health Region,Exposures
 47,PSO Outback Storefront,27,Interior Health Authority,1
 47,Bouchie Lake Elementary School,28,Northern Health,1
 47,Carson Elementary School,28,Northern Health,1
+47,Ecole Red Bluff Lhtako Elementary,28,Northern Health,1
 47,Kersley Elementary School,28,Northern Health,1
 47,Lakeview Elementary (Quesnel),28,Northern Health,1
 47,McNaughton Centre,28,Northern Health,1
