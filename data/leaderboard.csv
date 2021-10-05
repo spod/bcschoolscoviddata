@@ -62,6 +62,7 @@ Rank,School,School District,Health Region,Exposures
 28,Moscrop Secondary,41,Fraser Health Authority,20
 28,Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,20
 28,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,20
+29,Abbotsford Middle School,34,Fraser Health Authority,19
 29,Godson Elementary,34,Fraser Health Authority,19
 29,Robert Bateman Secondary,34,Fraser Health Authority,19
 29,William A. Fraser Middle School,34,Fraser Health Authority,19
@@ -75,6 +76,7 @@ Rank,School,School District,Health Region,Exposures
 29,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,19
 30,Sardis Secondary,33,Fraser Health Authority,18
 30,Brookswood Secondary,35,Fraser Health Authority,18
+30,Langley Secondary,35,Fraser Health Authority,18
 30,Walnut Grove Secondary,35,Fraser Health Authority,18
 30,T E Scott Elementary,36,Fraser Health Authority,18
 30,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,18
@@ -87,9 +89,8 @@ Rank,School,School District,Health Region,Exposures
 30,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,18
 30,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,18
 31,Okanagan Mission Secondary,23,Interior Health Authority,17
-31,Abbotsford Middle School,34,Fraser Health Authority,17
 31,D W Poppy Secondary,35,Fraser Health Authority,17
-31,Langley Secondary,35,Fraser Health Authority,17
+31,Richard Bulpitt Elementary,35,Fraser Health Authority,17
 31,Cindrich Elementary,36,Fraser Health Authority,17
 31,Green Timbers Elementary,36,Fraser Health Authority,17
 31,North Ridge Elementary (Surrey),36,Fraser Health Authority,17
@@ -105,7 +106,6 @@ Rank,School,School District,Health Region,Exposures
 31,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,17
 32,École KLO Middle School,23,Interior Health Authority,16
 32,H D Stafford Middle,35,Fraser Health Authority,16
-32,Richard Bulpitt Elementary,35,Fraser Health Authority,16
 32,Holly Elementary (Surrey),36,Fraser Health Authority,16
 32,Simon Cunningham Elementary,36,Fraser Health Authority,16
 32,Surrey Traditional,36,Fraser Health Authority,16
@@ -263,6 +263,7 @@ Rank,School,School District,Health Region,Exposures
 39,King Traditional Elementary,34,Fraser Health Authority,9
 39,Ross Elementary,34,Fraser Health Authority,9
 39,Ten Broeck Elementary,34,Fraser Health Authority,9
+39,Dorothy Peacock Elementary,35,Fraser Health Authority,9
 39,Douglas Park Community,35,Fraser Health Authority,9
 39,A J McLellan Elementary,36,Fraser Health Authority,9
 39,Cloverdale Traditional (Surrey),36,Fraser Health Authority,9
@@ -294,7 +295,6 @@ Rank,School,School District,Health Region,Exposures
 40,Margaret Stenersen Elementary,34,Fraser Health Authority,8
 40,Belmont Elementary,35,Fraser Health Authority,8
 40,Betty Gilbert Middle,35,Fraser Health Authority,8
-40,Dorothy Peacock Elementary,35,Fraser Health Authority,8
 40,Langley Fundamental Elementary,35,Fraser Health Authority,8
 40,R C Garnett Demonstration Elementary,35,Fraser Health Authority,8
 40,Edgewood Elementary (Surrey),36,Fraser Health Authority,8
@@ -550,6 +550,7 @@ Rank,School,School District,Health Region,Exposures
 43,Westridge Elementary,41,Fraser Health Authority,5
 43,Aspenwood Elementary,43,Fraser Health Authority,5
 43,Coquitlam Alternate Basic Education,43,Fraser Health Authority,5
+43,Ecole Mary Hill Elementary,43,Fraser Health Authority,5
 43,Ecole Rochester Elementary,43,Fraser Health Authority,5
 43,Harbour View Elementary,43,Fraser Health Authority,5
 43,Hazel Trembath Elementary,43,Fraser Health Authority,5
@@ -659,7 +660,6 @@ Rank,School,School District,Health Region,Exposures
 44,Parkcrest Elementary (Burnaby),41,Fraser Health Authority,4
 44,Maple Ridge Elementary,42,Fraser Health Authority,4
 44,Blakeburn Elementary,43,Fraser Health Authority,4
-44,Ecole Mary Hill Elementary,43,Fraser Health Authority,4
 44,Ecole Montgomery Middle,43,Fraser Health Authority,4
 44,Ecole Nestor Elementary,43,Fraser Health Authority,4
 44,Hampton Park Elementary,43,Fraser Health Authority,4
@@ -756,6 +756,7 @@ Rank,School,School District,Health Region,Exposures
 45,Upper Sumas Elementary,34,Fraser Health Authority,3
 45,Alex Hope Elementary,35,Fraser Health Authority,3
 45,Langley Meadows Elementary,35,Fraser Health Authority,3
+45,Topham Elementary,35,Fraser Health Authority,3
 45,Chantrell Creek Elementary,36,Fraser Health Authority,3
 45,Coast Meridian Elementary,36,Fraser Health Authority,3
 45,Douglas Elementary,36,Fraser Health Authority,3
@@ -912,7 +913,6 @@ Rank,School,School District,Health Region,Exposures
 46,Coghlan Fundamental Elementary,35,Fraser Health Authority,2
 46,Langley Education Centre,35,Fraser Health Authority,2
 46,Nicomekl Elementary,35,Fraser Health Authority,2
-46,Topham Elementary,35,Fraser Health Authority,2
 46,Uplands Elementary/Uplands Montessori (Langley),35,Fraser Health Authority,2
 46,Bayridge Elementary,36,Fraser Health Authority,2
 46,Dogwood Elementary,36,Fraser Health Authority,2

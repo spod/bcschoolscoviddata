@@ -1,6 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 10/04/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""September 28, 2021""",Exposure 2
-10/04/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 22, 23, 2021""",Exposure 3
 10/04/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,Sept 28. 29. 2021,Exposure 9
 10/04/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 29, 2021""",Confirmation email on file.
 10/04/2021,Gordon Head Middle School,Victoria,61,Vancouver Island Health Authority,"""Sept 24, 29, 2021""",Exposure 2
@@ -76,6 +75,14 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/04/2021,Grindrod Elementary,,83,Interior Health Authority,"""September 27 and 28, 2021""",Exposure 1
 10/04/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""September 21, 22, 23, 24, and 27, 2021""",Exposure 1
 10/04/2021,de l'Anse-au-sable,Kelowna,93,Interior Health Authority,"""September 27, 2021""",Exposure 2
+10/04/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""Sept 23, 24, 2021""",Exposure 4
+10/04/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""Sept. 29, 2021""",Exposure 3
+10/04/2021,Ecole Mary Hill Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 20, 21, 22, 2021""",Exposure 1
+10/04/2021,Dorothy Peacock Elementary,Langley,35,Fraser Health Authority,"""Sept 22, 2021""",Exposure 4
+10/04/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 22, 23, 24 2021""",Exposure 3
+10/04/2021,Langley Secondary,Langley,35,Fraser Health Authority,"""Sept 20, 21, 22, 23, 2021""",Exposure 1
+10/04/2021,Richard Bulpitt Elementary,Langley,35,Fraser Health Authority,"""Sept 27, 2021""",Exposure 3
+10/04/2021,Topham Elementary,Langley,35,Fraser Health Authority,"""Sept 21, 22, 2021""",Exposure 2
 10/03/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 2
 10/03/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 27, 2021""",Exposure 12
 10/03/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 24, 27, 2021""",Exposure 9
