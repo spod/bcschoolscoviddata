@@ -142,6 +142,7 @@ Rank,School,School District,Health Region,Exposures
 34,Chimney Hill Elementary,36,Fraser Health Authority,14
 34,Panorama Park Elementary,36,Fraser Health Authority,14
 34,White Rock Elementary,36,Fraser Health Authority,14
+34,Delta Secondary,37,Fraser Health Authority,14
 34,McCloskey Elementary,37,Fraser Health Authority,14
 34,Sands Secondary,37,Fraser Health Authority,14
 34,Steveston-London Secondary School,38,Vancouver Coastal Health,14
@@ -162,7 +163,6 @@ Rank,School,School District,Health Region,Exposures
 35,Martha Jane Norris Elementary,36,Fraser Health Authority,13
 35,Senator Reid Elementary,36,Fraser Health Authority,13
 35,Cougar Canyon Elementary,37,Fraser Health Authority,13
-35,Delta Secondary,37,Fraser Health Authority,13
 35,King George Secondary,39,Vancouver Coastal Health,13
 35,Lord Roberts Elementary,39,Vancouver Coastal Health,13
 35,Armstrong Elementary (Burnaby),41,Fraser Health Authority,13
@@ -273,6 +273,7 @@ Rank,School,School District,Health Region,Exposures
 39,K B Woodward Elementary,36,Fraser Health Authority,9
 39,Serpentine Heights Elementary,36,Fraser Health Authority,9
 39,William F. Davidson Elementary,36,Fraser Health Authority,9
+39,Richardson Elementary,37,Fraser Health Authority,9
 39,H.J. Cambie Secondary School,38,Vancouver Coastal Health,9
 39,Hugh McRoberts Secondary,38,Vancouver Coastal Health,9
 39,Admiral Seymour Elementary,39,Vancouver Coastal Health,9
@@ -305,7 +306,6 @@ Rank,School,School District,Health Region,Exposures
 40,Old Yale Road Elementary,36,Fraser Health Authority,8
 40,Gibson Elementary (Delta),37,Fraser Health Authority,8
 40,Heath Traditional Elementary,37,Fraser Health Authority,8
-40,Richardson Elementary,37,Fraser Health Authority,8
 40,Sunshine Hills Elementary,37,Fraser Health Authority,8
 40,Hugh Boyd Secondary,38,Vancouver Coastal Health,8
 40,Elsie Roy Elementary,39,Vancouver Coastal Health,8
@@ -507,6 +507,7 @@ Rank,School,School District,Health Region,Exposures
 43,Harwood Elementary,22,Interior Health Authority,5
 43,Chute Lake Elementary,23,Interior Health Authority,5
 43,Ellison Elementary (Kelowna),23,Interior Health Authority,5
+43,Quigley Elementary,23,Interior Health Authority,5
 43,Raymer Elementary,23,Interior Health Authority,5
 43,Rutland Elementary,23,Interior Health Authority,5
 43,Shannon Lake Elementary,23,Interior Health Authority,5
@@ -748,7 +749,6 @@ Rank,School,School District,Health Region,Exposures
 45,Mission Hill Elementary,22,Interior Health Authority,3
 45,Dorothea Walker Elementary,23,Interior Health Authority,3
 45,Glenrosa Elementary,23,Interior Health Authority,3
-45,Quigley Elementary,23,Interior Health Authority,3
 45,South Kelowna Elementary,23,Interior Health Authority,3
 45,South Rutland Elementary,23,Interior Health Authority,3
 45,Springvalley Elementary School,23,Interior Health Authority,3
