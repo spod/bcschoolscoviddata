@@ -6,11 +6,20 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/05/2021,Cherryville Elementary,,22,Interior Health Authority,"""September 29, 2021""",Exposure 3
 10/05/2021,Quigley Elementary,Kelowna,23,Interior Health Authority,,Dates not provided.
 10/05/2021,Quigley Elementary,Kelowna,23,Interior Health Authority,,Dates not provided.
+10/05/2021,Braefoot Elementary,Victoria,61,Vancouver Island Health Authority,"""Sept 28, 2021""",Exposure 1
+10/05/2021,Evans Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 27, 28, 29, Oct 1, 4, 5, 2021""",Exposure 6
+10/05/2021,Ecole Irvine Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 27, 28, 2021""",Confirmation email on file.
+10/05/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""Sept 23, 24, 2021""",Exposure 12
+10/05/2021,Cordova Bay Elementary,Victoria,63,Vancouver Island Health Authority,"""September 28 and 29, 2021""",Exposure 1
+10/05/2021,F G Leary Fine Arts Elementary,Chilliwack,33,Fraser Health Authority,"""Sept 27, 2021""",Exposure 1
+10/05/2021,Ecole Inman Elementary,Burnaby,41,Fraser Health Authority,"""Sept 29, 30, Oct 1, 2021""",Exposure 2
+10/05/2021,Forest Grove Elementary,Burnaby,41,Fraser Health Authority,"""Sept 28, 29, Oct 1, 2021""",Confiirmation email on file.
+10/05/2021,Centennial Christian School,Terrace,Independent Schools in Northern Health,Northern Health,"""Sept 27, 28, 2021""",Exposure 1
+10/05/2021,Shortreed Community School,Langley,35,Fraser Health Authority,"""Sept 27, 28, 29, Oct. 1, 4 5, 2021""",Exposure 2
 10/04/2021,Albion Elementary,Maple Ridge,42,Fraser Health Authority,"""September 28, 2021""",Exposure 2
 10/04/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,Sept 28. 29. 2021,Exposure 9
 10/04/2021,Blakeburn Elementary,Port Coquitlam,43,Fraser Health Authority,"""Sept 29, 2021""",Confirmation email on file.
 10/04/2021,Gordon Head Middle School,Victoria,61,Vancouver Island Health Authority,"""Sept 24, 29, 2021""",Exposure 2
-10/04/2021,Royal Bay Secondary,Victoria,62,Vancouver Island Health Authority,,Exposure dates not provided.
 10/04/2021,Carson Elementary School,Quesnel,28,Northern Health,"""Sept 23, 24, 27, 28, 2021""",Email confirmation on file.
 10/04/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,"""September 27, 28, 29, October 1 and 4, 2021""",Exposure 5
 10/04/2021,Lakeview Elementary (Quesnel),Quesnel,28,Northern Health,"""Sept 23, 24, 27, 28, 2021""",Confirmation email on file.
@@ -101,6 +110,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/04/2021,Silverdale Elementary,Mission,75,Fraser Health Authority,"""Sept 27, 29, 2021""",Exposure 3
 10/04/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""Sept 28, 2021""",Exposure 2
 10/04/2021,Hazelgrove Elementary,Surrey,36,Fraser Health Authority,Sept 28 2021,Exposure 1
+10/04/2021,Royal Bay Secondary,Victoria,62,Vancouver Island Health Authority,"""Sept 24, 2021""",Exposure dates not provided.
 10/03/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 2
 10/03/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 27, 2021""",Exposure 12
 10/03/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Sept 24, 27, 2021""",Exposure 9
