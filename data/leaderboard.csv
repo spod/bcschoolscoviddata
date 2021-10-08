@@ -76,6 +76,7 @@ Rank,School,School District,Health Region,Exposures
 26,Burnaby South Secondary,41,Fraser Health Authority,19
 26,West Vancouver Secondary,45,Vancouver Coastal Health,19
 26,Sa-hali Secondary,73,Interior Health Authority,19
+26,Mission Senior Secondary,75,Fraser Health Authority,19
 27,Sardis Secondary,33,Fraser Health Authority,18
 27,Brookswood Secondary,35,Fraser Health Authority,18
 27,Richard Bulpitt Elementary,35,Fraser Health Authority,18
@@ -88,7 +89,6 @@ Rank,School,School District,Health Region,Exposures
 27,Ecole Riverside Secondary,43,Fraser Health Authority,18
 27,Capilano Elementary,44,Vancouver Coastal Health,18
 27,Windsor Secondary,44,Vancouver Coastal Health,18
-27,Mission Senior Secondary,75,Fraser Health Authority,18
 27,Collingwood School (Morven Campus),Independent Schools in Coastal Health,Vancouver Coastal Health,18
 27,Credo Christian High School(Langley),Independent Schools in Fraser Health,Fraser Health Authority,18
 28,Okanagan Mission Secondary,23,Interior Health Authority,17
@@ -107,6 +107,7 @@ Rank,School,School District,Health Region,Exposures
 28,Pacific Academy Middle School,Independent Schools in Fraser Health,Fraser Health Authority,17
 28,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,17
 29,École KLO Middle School,23,Interior Health Authority,16
+29,Chilliwack Middle School,33,Fraser Health Authority,16
 29,Unsworth Elementary,33,Fraser Health Authority,16
 29,Alice Brown Elementary,35,Fraser Health Authority,16
 29,H D Stafford Middle,35,Fraser Health Authority,16
@@ -127,7 +128,6 @@ Rank,School,School District,Health Region,Exposures
 29,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,16
 30,Mount Boucherie Secondary School,23,Interior Health Authority,15
 30,A D Rundle Middle School,33,Fraser Health Authority,15
-30,Chilliwack Middle School,33,Fraser Health Authority,15
 30,Chief Dan George Middle,34,Fraser Health Authority,15
 30,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,15
 30,Bonaccord Elementary,36,Fraser Health Authority,15
@@ -489,6 +489,7 @@ Rank,School,School District,Health Region,Exposures
 39,Ecole Cedardale,45,Vancouver Coastal Health,6
 39,Ecole Pauline Johnson Elementary,45,Vancouver Coastal Health,6
 39,Chatelech Secondary,46,Vancouver Coastal Health,6
+39,Ecole Squamish Elementary,48,Vancouver Coastal Health,6
 39,Mamquam Elementary,48,Vancouver Coastal Health,6
 39,Mount Baker Secondary,5,Interior Health Authority,6
 39,Steeples Elementary,5,Interior Health Authority,6
@@ -580,7 +581,6 @@ Rank,School,School District,Health Region,Exposures
 40,Ridgeview Elementary,45,Vancouver Coastal Health,5
 40,Westcot Elementary,45,Vancouver Coastal Health,5
 40,Elphinstone Secondary,46,Vancouver Coastal Health,5
-40,Ecole Squamish Elementary,48,Vancouver Coastal Health,5
 40,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 40,Signal Hill Elementary,48,Vancouver Coastal Health,5
 40,Valleycliffe Elementary,48,Vancouver Coastal Health,5
