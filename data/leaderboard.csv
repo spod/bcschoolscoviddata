@@ -1078,6 +1078,7 @@ Rank,School,School District,Health Region,Exposures
 43,Kispiox Community School,Independent Schools in Northern Health,Northern Health,2
 43,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 43,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
+43,Veritas Catholic,Independent Schools in Northern Health,Northern Health,2
 44,Burton Elementary,10,Interior Health Authority,1
 44,Lucerne Elem-Secondary,10,Interior Health Authority,1
 44,Begbie View Elementary,19,Interior Health Authority,1
@@ -1302,8 +1303,10 @@ Rank,School,School District,Health Region,Exposures
 44,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 44,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
 44,Alberni Elementary,70,Vancouver Island Health Authority,1
+44,Bamfield Community School,70,Vancouver Island Health Authority,1
 44,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 44,Maquinna Elementary,70,Vancouver Island Health Authority,1
+44,Wickaninnish Community School,70,Vancouver Island Health Authority,1
 44,Aspen Park Elementary,71,Vancouver Island Health Authority,1
 44,Courtenay Elementary,71,Vancouver Island Health Authority,1
 44,Cumberland Community School,71,Vancouver Island Health Authority,1
@@ -1414,4 +1417,3 @@ Rank,School,School District,Health Region,Exposures
 44,Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,1
 44,Haisla Community School,Independent Schools in Northern Health,Northern Health,1
 44,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
-44,Veritas Catholic,Independent Schools in Northern Health,Northern Health,1
