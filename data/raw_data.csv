@@ -41,32 +41,41 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/08/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""October 1, 2021""",Exposure 3
 10/08/2021,Pacific Christian School (Victoria),Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,"""October 1 and 4, 2021""",Exposure 3
 10/08/2021,Wickaninnish Community School,Tofino,70,Vancouver Island Health Authority,"""September 29, 2021""",Dates on the BCCDC webpage
-10/08/2021,Betty Gilbert Middle,,35,Fraser Health Authority,"""October 1, 2021""",Exposure 2
-10/08/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,"""Sept 29, 2021""",Exposure 5
-10/08/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""October 4, 2021""",Exposure 1
 10/08/2021,Hazelgrove Elementary,Surrey,36,Fraser Health Authority,"""Oct 4, 2021""",Exposure 2
+10/08/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 1, 2021""",Exposure 3
+10/08/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""September 29, 2021""",Exposure 1
+10/08/2021,Lake City Secondary (Columneetza Campus),Williams Lake,27,Interior Health Authority,"""Oct 1, 2021""",Exposure 3
+10/08/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""Sept 27, 28, 2021""",Exposure 4
+10/08/2021,Cedar Hills Elementary,Surrey,36,Fraser Health Authority,"""October 1, 2021""",Exposure 2
 10/08/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,"""October 4, 2021""",Exposure 2
 10/08/2021,Sardis Elementary,Chilliwack,33,Fraser Health Authority,"""October 7, 2021""",Exposure 6
 10/08/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""September 29, 2021""",Exposure 12
 10/08/2021,King's Christian School,Salmon Arm,Independent Schools in Interior Health,Interior Health Authority,"""Oct 1, 2021""",Exposure 5
 10/08/2021,Edgewood Elementary (Surrey),Surrey,36,Fraser Health Authority,"""Sept 29, 2021""",Exposure 3
-10/08/2021,Mountain Elementary,Abbotsford,34,Fraser Health Authority,"""October 1, 2021""",Exposure 1
-10/08/2021,Confederation Park Elementary,Burnaby,41,Fraser Health Authority,"""September 29, October 1 and 4, 2021""",Exposure 2
-10/08/2021,Dallas Elementary,Kamloops,73,Interior Health Authority,"""Oct. 1, 2021""",Exposure 5
-10/08/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""Oct 1, 2021""",Exposure 6
-10/08/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,"""Oct 1, 2021""",Exposure 2
+10/08/2021,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 1, 2021""",Exposure 3
+10/08/2021,Regent Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""September 27, 2021""",Exposure 2
+10/08/2021,Agassiz Elem-Secondary,Agassiz,78,Fraser Health Authority,"""September 27, 28, and 29, 2021""",Exposure 1
+10/08/2021,Timothy Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""September 22, 23, 27, and October 1""",Exposure 2
+10/08/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""September 30, and October 1, 2021""",Exposure 4
+10/08/2021,Delta Christian School,Delta,Independent Schools in Fraser Health,Fraser Health Authority,"""September 29 and October 1, 2021""",Exposure 2
 10/08/2021,James L Webster Elementary,Trail,20,Interior Health Authority,"""Sept 27, 2021""",Exposure 7
 10/08/2021,Capitol Hill Elementary,Burnaby,41,Fraser Health Authority,"""September 23, 28, and 29, 2021""",Exposure 3
 10/08/2021,Chilcotin Road Elementary,Williams Lake,27,Interior Health Authority,"""Oct 1, 2021""",Exposure 2
 10/08/2021,Ecole Marlborough Elementary,Burnaby,41,Fraser Health Authority,"""October 7, 2021""",Exposure 3
 10/08/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""Sept 29, 30, 2021""",Exposure 3
 10/08/2021,Kelowna Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Sept 27, 28, 29, 2021""",Exposure 2
-10/08/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""September 29, 2021""",Exposure 1
-10/08/2021,Lake City Secondary (Columneetza Campus),Williams Lake,27,Interior Health Authority,"""Oct 1, 2021""",Exposure 3
-10/08/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""Sept 27, 28, 2021""",Exposure 4
-10/08/2021,Agassiz Elem-Secondary,Agassiz,78,Fraser Health Authority,"""September 27, 28, and 29, 2021""",Exposure 1
+10/08/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 4, 2021""",Exposure 4
 10/08/2021,Greendale Elementary,Chilliwack,33,Fraser Health Authority,"""September 29 and 30, 2021""",Exposure 3
 10/08/2021,Agassiz Centre for Education,Agassiz,78,Fraser Health Authority,"""October 1, 2021""",Exposure 1
+10/08/2021,Mountain Elementary,Abbotsford,34,Fraser Health Authority,"""October 1, 2021""",Exposure 1
+10/08/2021,Confederation Park Elementary,Burnaby,41,Fraser Health Authority,"""September 29, October 1 and 4, 2021""",Exposure 2
+10/08/2021,Dallas Elementary,Kamloops,73,Interior Health Authority,"""Oct. 1, 2021""",Exposure 5
+10/08/2021,Kootenay Christian Academy,Cranbrook,Independent Schools in Interior Health,Interior Health Authority,"""Oct 1, 2021""",Exposure 6
+10/08/2021,Fleetwood Park Secondary,Surrey,36,Fraser Health Authority,"""Oct 1, 2021""",Exposure 2
+10/08/2021,Betty Gilbert Middle,,35,Fraser Health Authority,"""October 1, 2021""",Exposure 2
+10/08/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,"""Sept 29, 2021""",Exposure 5
+10/08/2021,La Verendrye,Chilliwack,93,Fraser Health Authority,"""October 4, 2021""",Exposure 1
+10/08/2021,Ecole Riverdale Elementary,Surrey,36,Fraser Health Authority,"""September 29, 2021""",Exposure 5
 10/07/2021,Ecole Glenbrook Middle School,New Westminster,40,Fraser Health Authority,"""September 25, 26, 28, 29, and October 1, 2021""",Exposure 1
 10/07/2021,Skwo:wech Elementary (formerly Richard McBride Elementary - New Westminster),New Westminster,40,Fraser Health Authority,"""September 23, 24, 27, 28, and 29, 2021""",Exposure 1
 10/07/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""September 27, 28, 29, and October 1, 2021""",Exposure 3
@@ -226,7 +235,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/06/2021,Ucluelet Elementary,Ucluelet,70,Vancouver Island Health Authority,"""Sept 28, 2021""",Exposure 2
 10/06/2021,Forest Grove Elementary,Burnaby,41,Fraser Health Authority,"""September 27, 2021""",Exposure 5
 10/06/2021,Shortreed Community School,Langley,35,Fraser Health Authority,"""Sept 29, 2021""",Exposure 3
-10/06/2021,Brookes Westshore,Victoria,62,Vancouver Island Health Authority,"""Oct 1, 2021""",Confirmation email on file.
+10/06/2021,Brookes Westshore,Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,"""Oct 1, 2021""",Confirmation email on file.
 10/06/2021,John Stubbs Elementary and Middle,Victoria,62,Vancouver Island Health Authority,"""Oct. 1, 2021""",Confirmation email on file.
 10/06/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,"""Sept 24, 2021""",Two full classed in isolation.
 10/06/2021,Fairview Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,"""Sept 27, 28, 29, 30, 2021""",Two full classed in isolation.
