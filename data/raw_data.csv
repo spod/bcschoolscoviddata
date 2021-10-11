@@ -1,4 +1,12 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+10/10/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""October 4, 2021""",Exposure 9
+10/10/2021,Frank J Ney Elementary,Nanaimo,68,Vancouver Island Health Authority,"""September 22, 23, 24, 30, and October 4, 2021""",Exposure 1
+10/10/2021,Lynn Fripps Elementary,Langley,35,Fraser Health Authority,"""October 1, 4, 5, and 6, 2021""",Exposure 3
+10/10/2021,Oaklands Elementary,Victoria,61,Vancouver Island Health Authority,"""October 4, 5, and 6, 2021""",Exposure 2
+10/10/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""October 4, 2021""",Exposure 5
+10/10/2021,Ecole Maple Creek Middle,Port Coquitlam,43,Fraser Health Authority,"""September 22, 23, 24, 29, and October 1, 2021""",Exposure 2
+10/10/2021,Boundary Park Elementary,Surrey,36,Fraser Health Authority,"""October 4 and 5, 2021""",Exposure 1
+10/10/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""October 1, 2021""",Exposure 2
 10/09/2021,Oaklands Elementary,Victoria,61,Vancouver Island Health Authority,"""October 4, 2021""",Exposure 1
 10/09/2021,Lena Shaw Elementary,Surrey,36,Fraser Health Authority,"""October 4, 2021""",Exposure 5
 10/09/2021,Springwood Elementary,Parksville,69,Vancouver Island Health Authority,"""September 23, 24, 28, 29, 30, October 1, 4, and 5, 2021""",Exposure 4
@@ -8284,7 +8292,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/15/2020,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,Nov 4,Exposure 2
 11/15/2020,St. George's Junior School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""Nov 9, 10, 13""",Exposure 1
 11/15/2020,Hamilton Elementary,Richmond,38,Vancouver Coastal Health,"""Nov 4, 5, 9. 10""",Exposure 2
-11/15/2020,Frank J Ney,Nanaimo,68,Vancouver Island Health Authority,Nov 12,
 11/15/2020,Randerson Ridge Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Nov 4, 5, 6, 9, and 10""",This has been called a cluster
 11/15/2020,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 4, 5, 6, 9, and 10""",Middle school staff and students are self-isolating for 14 days (Nov 9 - 23)
 11/15/2020,Hazel Trembath Elementary,Port Coquitlam,43,Fraser Health Authority,"""Nov 3, 4, 5, and 6""",Exposure 2
@@ -8296,6 +8303,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/15/2020,Burnsview Secondary,Delta,37,Fraser Health Authority,"""Nov 3,4,5""",Exposure 1
 11/15/2020,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""Nov 9, 10.""",Exposure 1
 11/15/2020,Central Community Elementary (Port Coquitlam),Port Coquitlam,43,Fraser Health Authority,"""Nov 2,3,4""",Exposure 1
+11/15/2020,Frank J Ney Elementary,Nanaimo,68,Vancouver Island Health Authority,Nov 12,
 11/14/2020,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,Exposure dates Nov 9 and 10,Exposure 2
 11/14/2020,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,Nov 10,Exposure 2
 11/14/2020,Georges Vanier Elementary,Surrey,36,Fraser Health Authority,Nov 5,Exposure 4
