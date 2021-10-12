@@ -165,6 +165,7 @@ Rank,School,School District,Health Region,Exposures
 32,Charles Hays Secondary,52,Northern Health,14
 32,Windebank Elementary,75,Fraser Health Authority,14
 32,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
+33,McMillan Elementary,34,Fraser Health Authority,13
 33,Peter Ewart Middle School,35,Fraser Health Authority,13
 33,Creekside Elementary,36,Fraser Health Authority,13
 33,George Greenaway Elementary,36,Fraser Health Authority,13
@@ -185,7 +186,6 @@ Rank,School,School District,Health Region,Exposures
 34,Vernon Secondary,22,Interior Health Authority,12
 34,George Elliot Secondary,23,Interior Health Authority,12
 34,Harry Sayers Elementary,34,Fraser Health Authority,12
-34,McMillan Elementary,34,Fraser Health Authority,12
 34,Simonds Elementary,35,Fraser Health Authority,12
 34,Ecole Salish Secondary,36,Fraser Health Authority,12
 34,Katzie Elementary,36,Fraser Health Authority,12
