@@ -509,6 +509,7 @@ Rank,School,School District,Health Region,Exposures
 40,Central Elementary (Ft. St John),60,Northern Health,6
 40,Bayview Elementary,68,Vancouver Island Health Authority,6
 40,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
+40,Eric J Dunn Elementary,70,Vancouver Island Health Authority,6
 40,Aberdeen Elementary (Kamloops),73,Interior Health Authority,6
 40,Arthur Stevenson Elementary,73,Interior Health Authority,6
 40,NorKam Secondary School,73,Interior Health Authority,6
@@ -544,6 +545,7 @@ Rank,School,School District,Health Region,Exposures
 41,Tyson Elementary,33,Fraser Health Authority,5
 41,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
 41,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
+41,Coghlan Fundamental Elementary,35,Fraser Health Authority,5
 41,Fort Langley Elementary,35,Fraser Health Authority,5
 41,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,5
 41,City Central Learning Centre,36,Fraser Health Authority,5
@@ -667,7 +669,6 @@ Rank,School,School District,Health Region,Exposures
 42,East Chilliwack Elementary,33,Fraser Health Authority,4
 42,Dormick Park Elementary,34,Fraser Health Authority,4
 42,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,4
-42,Coghlan Fundamental Elementary,35,Fraser Health Authority,4
 42,Gordon Greenwood Elementary,35,Fraser Health Authority,4
 42,Langley Meadows Elementary,35,Fraser Health Authority,4
 42,Uplands Elementary/Uplands Montessori (Langley),35,Fraser Health Authority,4
@@ -737,7 +738,6 @@ Rank,School,School District,Health Region,Exposures
 42,Cinnabar Valley Elementary,68,Vancouver Island Health Authority,4
 42,John Barsby Secondary School,68,Vancouver Island Health Authority,4
 42,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,4
-42,Eric J Dunn Elementary,70,Vancouver Island Health Authority,4
 42,Highland Secondary,71,Vancouver Island Health Authority,4
 42,Westmount Elementary,73,Interior Health Authority,4
 42,Silverdale Elementary,75,Fraser Health Authority,4
@@ -1318,6 +1318,7 @@ Rank,School,School District,Health Region,Exposures
 45,Bamfield Community School,70,Vancouver Island Health Authority,1
 45,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 45,Maquinna Elementary,70,Vancouver Island Health Authority,1
+45,Ucluelet Secondary,70,Vancouver Island Health Authority,1
 45,Aspen Park Elementary,71,Vancouver Island Health Authority,1
 45,Courtenay Elementary,71,Vancouver Island Health Authority,1
 45,Cumberland Community School,71,Vancouver Island Health Authority,1
