@@ -51,6 +51,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/12/2021,Fulford Community Elementary,,64,Vancouver Island Health Authority,"""October 4, 6, and 7, 2021""",Exposure 1
 10/12/2021,Gabrielle-Roy,Surrey,93,Fraser Health Authority,"""October 4, 5, 6, and 7, 2021""",Attached letter indicates 2 cases so we have listed them as Exposure 4 and 5.
 10/12/2021,Holly Elementary (Delta),Delta,37,Fraser Health Authority,"""October 8, 2021""",Exposure 3
+10/12/2021,Robson Community School,,20,Interior Health Authority,"""October 4, 5, 7, and 8, 2021""",Exposure 4
+10/12/2021,Davidson Road Elementary,Lake Country,23,Interior Health Authority,"""October 4, 5, 6, and 7, 2021""",Exposure 1
+10/12/2021,Credo Christian Elementary School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7, 2021""",Exposure 3
 10/12/2021,Mennonite Educational Institute Middle School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 4, 5, 7, 2021""",Exposure 2
 10/12/2021,Regent Christian Academy,Surrey,Independent Schools in Fraser Health,Interior Health Authority,"""October 4 and 5, 2021""",Exposure 3
 10/12/2021,Surrey Christian (Cloverdale Campus),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 6, 2021""",Exposure 1
@@ -72,9 +75,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/12/2021,Langley Fundamental Elementary,Langley,35,Fraser Health Authority,"""Oct 6, 2021""",Confirmation email on file.
 10/12/2021,Oliver Elementary,Oliver,53,Interior Health Authority,"""October 5 and 6, 2021""",Exposure 3
 10/12/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""October 4, 2021""",Exposure 2
-10/12/2021,Robson Community School,,20,Interior Health Authority,"""October 4, 5, 7, and 8, 2021""",Exposure 4
-10/12/2021,Davidson Road Elementary,Lake Country,23,Interior Health Authority,"""October 4, 5, 6, and 7, 2021""",Exposure 1
-10/12/2021,Credo Christian Elementary School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7, 2021""",Exposure 3
 10/11/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,"""Oct 4, 5, 6, 2021""",Exposure 1
 10/11/2021,Springwood Elementary,Parksville,69,Vancouver Island Health Authority,"""Oct 6, 2021""",Exposure 5
 10/11/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Oct 8, 2021""",Confirmation email on file.
