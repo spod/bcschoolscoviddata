@@ -14,6 +14,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/12/2021,Fulford Community Elementary,,64,Vancouver Island Health Authority,"""October 4, 6, and 7, 2021""",Exposure 1
 10/12/2021,Gabrielle-Roy,Surrey,93,Fraser Health Authority,"""October 4, 5, 6, and 7, 2021""",Attached letter indicates 2 cases so we have listed them as Exposure 4 and 5.
 10/12/2021,Holly Elementary (Delta),Delta,37,Fraser Health Authority,"""October 8, 2021""",Exposure 3
+10/12/2021,Park Avenue Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Oct 1, 6, 7, 2021""",Exposure 1
 10/11/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,"""Oct 4, 5, 6, 2021""",Exposure 1
 10/11/2021,Springwood Elementary,Parksville,69,Vancouver Island Health Authority,"""Oct 6, 2021""",Exposure 5
 10/11/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Oct 8, 2021""",Confirmation email on file.
@@ -2997,6 +2998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/28/2021,Sir Richard McBride Elementary (Vancouver),Vancouver,39,Vancouver Coastal Health,April 28,Exposure 10
 04/28/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,"""April 16, 19, and 20""",Exposure 7
 04/28/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,April 21,Exposure 10
+04/28/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,"""April 16, 19, 20, and 21""",Exposure 40
 04/28/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,"""April 16, 19, 20, and 21""",Exposure 40
 04/28/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,"""April 19, 20, 21, 22, and 23""",Exposure 6
 04/28/2021,Gleneagle Secondary,Coquitlam,43,Fraser Health Authority,April 20 and 22,Exposure 14

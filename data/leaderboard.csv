@@ -6,7 +6,7 @@ Rank,School,School District,Health Region,Exposures
 5,Princess Margaret Secondary School (Surrey),36,Fraser Health Authority,55
 5,Sullivan Heights Secondary,36,Fraser Health Authority,55
 6,Enver Creek Secondary,36,Fraser Health Authority,53
-7,L A Matheson Secondary,36,Fraser Health Authority,48
+7,L A Matheson Secondary,36,Fraser Health Authority,49
 8,Guildford Park Secondary,36,Fraser Health Authority,46
 9,Fleetwood Park Secondary,36,Fraser Health Authority,44
 9,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,44
@@ -886,6 +886,7 @@ Rank,School,School District,Health Region,Exposures
 43,Trout Creek Elementary,67,Interior Health Authority,3
 43,Departure Bay Elementary,68,Vancouver Island Health Authority,3
 43,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,3
+43,Park Avenue Elementary,68,Vancouver Island Health Authority,3
 43,Randerson Ridge Elementary,68,Vancouver Island Health Authority,3
 43,Errington Elementary,69,Vancouver Island Health Authority,3
 43,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
@@ -1031,7 +1032,6 @@ Rank,School,School District,Health Region,Exposures
 44,Frank J Ney Elementary,68,Vancouver Island Health Authority,2
 44,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,2
 44,North Oyster Elementary,68,Vancouver Island Health Authority,2
-44,Park Avenue Elementary,68,Vancouver Island Health Authority,2
 44,Oceanside Elementary,69,Vancouver Island Health Authority,2
 44,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 44,Wickaninnish Community School,70,Vancouver Island Health Authority,2
