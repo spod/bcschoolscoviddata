@@ -12,7 +12,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/13/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""Oct 8, 2021""",Exposure 4
 10/13/2021,St Anthony's (Kitimat),Kitimat,82,Northern Health,"""Oct 4, 5, 2021""",Confirmation email on file.
 10/13/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,"""October 8, 2021""",Exposure 1
-10/13/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,"""Oct 6, 2021""",Exposure 4
 10/13/2021,Edith McDermott Elementary,Pitt Meadows,42,Fraser Health Authority,"""October 6 and 8, 2021""",Exposure 2
 10/13/2021,Armstrong Elementary (Burnaby),Burnaby,41,Fraser Health Authority,"""October 6 and 7, 2021""",Exposure 3
 10/13/2021,Rick Hansen Secondary,Abbotsford,34,Fraser Health Authority,"""October 7 and 8, 2021""",Exposure 1
@@ -20,6 +19,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/13/2021,Glenwood Elementary (Langley),Langley,35,Fraser Health Authority,"""October 7 and 8, 2021""",Exposure 7
 10/13/2021,Ecole Squamish Elementary,Squamish,48,Vancouver Coastal Health,"""Oct 6, 7, 8, 2021""",Exposure 3
 10/13/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,,Exposure date not provided
+10/13/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,"""Oct 6, 2021""",Exposure 4
 10/13/2021,Vanway Elementary,Prince George,57,Northern Health,"""Sept 28, 29, 2021""",Exposure 1
 10/13/2021,St Anthony's (Kitimat),Kitimat,82,Northern Health,"""Sept.17, 20, 24, 27, 29, Oct 1, 2021""",Document indicates 'several' cases so we have listed them as Exposure 2 and 3.
 10/13/2021,Ecole Secondaire Ballenas Secondary,Parksville,69,Fraser Health Authority,"""Oct 6, 7, 2021""",Exposure 1
