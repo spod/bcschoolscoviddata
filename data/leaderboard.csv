@@ -742,6 +742,7 @@ Rank,School,School District,Health Region,Exposures
 41,Campus View Elementary,61,Vancouver Island Health Authority,4
 41,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,4
 41,Colquitz Middle School,61,Vancouver Island Health Authority,4
+41,Oak Bay Secondary,61,Vancouver Island Health Authority,4
 41,Spectrum Community,61,Vancouver Island Health Authority,4
 41,Skaha Lake Middle School,67,Interior Health Authority,4
 41,Summerland Middle School,67,Interior Health Authority,4
@@ -881,7 +882,6 @@ Rank,School,School District,Health Region,Exposures
 42,Arbutus Global Middle School,61,Vancouver Island Health Authority,3
 42,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,3
 42,Gordon Head Middle School,61,Vancouver Island Health Authority,3
-42,Oak Bay Secondary,61,Vancouver Island Health Authority,3
 42,Victoria West Elementary,61,Vancouver Island Health Authority,3
 42,View Royal Elementary,61,Vancouver Island Health Authority,3
 42,David Cameron Elementary,62,Vancouver Island Health Authority,3
@@ -1063,6 +1063,7 @@ Rank,School,School District,Health Region,Exposures
 43,Silver Creek Elementary (Hope),78,Fraser Health Authority,2
 43,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,2
 43,Bench Elementary,79,Vancouver Island Health Authority,2
+43,Chemainus Elementary Community School,79,Vancouver Island Health Authority,2
 43,Frances Kelsey Secondary School,79,Vancouver Island Health Authority,2
 43,Mount Sentinel Secondary,8,Interior Health Authority,2
 43,Chalo School,81,Northern Health,2
@@ -1358,7 +1359,6 @@ Rank,School,School District,Health Region,Exposures
 44,Dewdney Elementary,75,Fraser Health Authority,1
 44,Fraserview Learning Centre,75,Fraser Health Authority,1
 44,Agassiz Centre for Education,78,Fraser Health Authority,1
-44,Chemainus Elementary Community School,79,Vancouver Island Health Authority,1
 44,Cowichan Valley Open Learning Co-op,79,Vancouver Island Health Authority,1
 44,Crofton Elementary Community School,79,Vancouver Island Health Authority,1
 44,Maple Bay Elementary,79,Vancouver Island Health Authority,1
