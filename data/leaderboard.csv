@@ -393,6 +393,7 @@ Rank,School,School District,Health Region,Exposures
 39,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,7
 39,John MacLure Community School,34,Fraser Health Authority,7
 39,Sandy Hill Elementary,34,Fraser Health Authority,7
+39,Glenwood Elementary (Langley),35,Fraser Health Authority,7
 39,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,7
 39,Noel Booth Elementary,35,Fraser Health Authority,7
 39,Shortreed Community School,35,Fraser Health Authority,7
@@ -466,7 +467,6 @@ Rank,School,School District,Health Region,Exposures
 40,Shannon Lake Elementary,23,Interior Health Authority,6
 40,Strathcona Elementary,33,Fraser Health Authority,6
 40,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
-40,Glenwood Elementary (Langley),35,Fraser Health Authority,6
 40,James Hill Elementary,35,Fraser Health Authority,6
 40,James Kennedy Elementary,35,Fraser Health Authority,6
 40,Yorkson Creek Middle School,35,Fraser Health Authority,6
@@ -672,6 +672,8 @@ Rank,School,School District,Health Region,Exposures
 42,Peter Skene Ogden Secondary,27,Interior Health Authority,4
 42,Quesnel Junior High School,28,Northern Health,4
 42,East Chilliwack Elementary,33,Fraser Health Authority,4
+42,McCammon Traditional Elementary,33,Fraser Health Authority,4
+42,Bakerview Ctr for Learning,34,Fraser Health Authority,4
 42,Dormick Park Elementary,34,Fraser Health Authority,4
 42,Gordon Greenwood Elementary,35,Fraser Health Authority,4
 42,Langley Meadows Elementary,35,Fraser Health Authority,4
@@ -799,8 +801,6 @@ Rank,School,School District,Health Region,Exposures
 43,Mountview Elementary,27,Interior Health Authority,3
 43,Central Elementary Community (Chilliwack),33,Fraser Health Authority,3
 43,F G Leary Fine Arts Elementary,33,Fraser Health Authority,3
-43,McCammon Traditional Elementary,33,Fraser Health Authority,3
-43,Bakerview Ctr for Learning,34,Fraser Health Authority,3
 43,Upper Sumas Elementary,34,Fraser Health Authority,3
 43,Alex Hope Elementary,35,Fraser Health Authority,3
 43,Chantrell Creek Elementary,36,Fraser Health Authority,3
@@ -891,6 +891,7 @@ Rank,School,School District,Health Region,Exposures
 43,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,3
 43,Park Avenue Elementary,68,Vancouver Island Health Authority,3
 43,Randerson Ridge Elementary,68,Vancouver Island Health Authority,3
+43,Seaview Elementary (Lantzville),68,Vancouver Island Health Authority,3
 43,Errington Elementary,69,Vancouver Island Health Authority,3
 43,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
 43,Alberni District Secondary School,70,Vancouver Island Health Authority,3
@@ -1315,7 +1316,6 @@ Rank,School,School District,Health Region,Exposures
 45,Learning Alternatives (John Barsby site),68,Vancouver Island Health Authority,1
 45,McGirr Elementary,68,Vancouver Island Health Authority,1
 45,Quarterway Elementary,68,Vancouver Island Health Authority,1
-45,Seaview Elementary (Lantzville),68,Vancouver Island Health Authority,1
 45,Uplands Park Elementary (Nanaimo),68,Vancouver Island Health Authority,1
 45,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 45,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
