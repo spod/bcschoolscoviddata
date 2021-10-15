@@ -936,6 +936,7 @@ Rank,School,School District,Health Region,Exposures
 44,Lucerne Elem-Secondary,10,Interior Health Authority,2
 44,Alexis Park Elementary,22,Interior Health Authority,2
 44,BX Elementary,22,Interior Health Authority,2
+44,Charles Bloom Elementary Secondary,22,Fraser Health Authority,2
 44,Charles Bloom Elementary Secondary,22,Interior Health Authority,2
 44,J W Inglis Elementary,22,Interior Health Authority,2
 44,Kidston Elementary,22,Interior Health Authority,2
@@ -1013,7 +1014,7 @@ Rank,School,School District,Health Region,Exposures
 44,Kootenay Orchards Elementary,5,Interior Health Authority,2
 44,Rocky Mountain Elementary,5,Interior Health Authority,2
 44,Sk'aadgaa Naay Elementary,50,Northern Health,2
-44,Cawston Elementary,53,Interior Health Authority,2
+44,Cawston Primary,53,Interior Health Authority,2
 44,Osoyoos Secondary,53,Interior Health Authority,2
 44,Muheim Memorial Elementary,54,Northern Health,2
 44,Telkwa Elementary,54,Northern Health,2
@@ -1118,7 +1119,6 @@ Rank,School,School District,Health Region,Exposures
 45,Begbie View Elementary,19,Interior Health Authority,1
 45,Kinnaird Elementary,20,Interior Health Authority,1
 45,Rossland Summit School,20,Interior Health Authority,1
-45,Charles Bloom Elementary Secondary,22,Fraser Health Authority,1
 45,Coldstream Elementary,22,Interior Health Authority,1
 45,Canyon Falls Middle School,23,Fraser Health Authority,1
 45,Ecole Glenmore Elementary,23,Interior Health Authority,1
