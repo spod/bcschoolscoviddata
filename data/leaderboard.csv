@@ -526,6 +526,7 @@ Rank,School,School District,Health Region,Exposures
 40,Bayview Elementary,68,Vancouver Island Health Authority,6
 40,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,6
 40,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
+40,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,6
 40,Eric J Dunn Elementary,70,Vancouver Island Health Authority,6
 40,Ucluelet Elementary,70,Vancouver Island Health Authority,6
 40,Aberdeen Elementary (Kamloops),73,Interior Health Authority,6
@@ -567,6 +568,7 @@ Rank,School,School District,Health Region,Exposures
 41,Quigley Elementary,23,Interior Health Authority,5
 41,Rutland Elementary,23,Interior Health Authority,5
 41,Chilcotin Road Elementary,27,Interior Health Authority,5
+41,McCammon Traditional Elementary,33,Fraser Health Authority,5
 41,Robertson Elementary,33,Fraser Health Authority,5
 41,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
 41,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
@@ -640,7 +642,6 @@ Rank,School,School District,Health Region,Exposures
 41,Cedar Elementary (Nanaimo),68,Vancouver Island Health Authority,5
 41,Rock City Elementary,68,Vancouver Island Health Authority,5
 41,Wellington Secondary,68,Vancouver Island Health Authority,5
-41,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,5
 41,Springwood Elementary,69,Vancouver Island Health Authority,5
 41,Brooklyn Elementary,71,Vancouver Island Health Authority,5
 41,Dallas Elementary,73,Interior Health Authority,5
@@ -680,7 +681,6 @@ Rank,School,School District,Health Region,Exposures
 42,Quesnel Junior High School,28,Northern Health,4
 42,East Chilliwack Elementary,33,Fraser Health Authority,4
 42,F G Leary Fine Arts Elementary,33,Fraser Health Authority,4
-42,McCammon Traditional Elementary,33,Fraser Health Authority,4
 42,Bakerview Ctr for Learning,34,Fraser Health Authority,4
 42,Dormick Park Elementary,34,Fraser Health Authority,4
 42,Upper Sumas Elementary,34,Fraser Health Authority,4
@@ -1013,6 +1013,7 @@ Rank,School,School District,Health Region,Exposures
 44,Kootenay Orchards Elementary,5,Interior Health Authority,2
 44,Rocky Mountain Elementary,5,Interior Health Authority,2
 44,Sk'aadgaa Naay Elementary,50,Northern Health,2
+44,Cawston Elementary,53,Interior Health Authority,2
 44,Osoyoos Secondary,53,Interior Health Authority,2
 44,Muheim Memorial Elementary,54,Northern Health,2
 44,Telkwa Elementary,54,Northern Health,2
@@ -1257,7 +1258,6 @@ Rank,School,School District,Health Region,Exposures
 45,John A. Hutton Elementary,51,Interior Health Authority,1
 45,Pineridge Elementary,52,Northern Health,1
 45,Port Edward Elementary,52,Northern Health,1
-45,Cawston Elementary,53,Interior Health Authority,1
 45,Sen Pok Chin,53,Interior Health Authority,1
 45,Tuc-el-Nuit Elementary,53,Interior Health Authority,1
 45,College Heights Elementary,57,Northern Health,1
@@ -1323,7 +1323,6 @@ Rank,School,School District,Health Region,Exposures
 45,Quarterway Elementary,68,Vancouver Island Health Authority,1
 45,Uplands Park Elementary (Nanaimo),68,Vancouver Island Health Authority,1
 45,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
-45,Ecole Secondaire Ballenas Secondary,69,Fraser Health Authority,1
 45,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
 45,Alberni Elementary,70,Vancouver Island Health Authority,1
 45,Bamfield Community School,70,Vancouver Island Health Authority,1
