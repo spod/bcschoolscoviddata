@@ -1,7 +1,12 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 10/15/2021,McCammon Traditional Elementary,Chilliwack,33,Fraser Health Authority,"""October 1, 4, 5, 6, 7, 8, 12, 13, and 14, 2021""",Exposure 5
+10/15/2021,Gabriola Elementary,,68,Vancouver Island Health Authority,"""October 8, 2021""",https://soundernews.com/parents-of-ges-students-alerted-to-possible-covid-exposure-in-single-classroom
 10/15/2021,Cawston Primary,,53,Interior Health Authority,"""October 7, 2021""",Exposure 2
-10/15/2021,Charles Bloom Elementary Secondary,Lumby,22,Fraser Health Authority,"""October 4, 5, 6, 7, and 8, 2021""",Exposure 3
+10/15/2021,Vanway Elementary,Prince George,57,Northern Health,"""October 4 and 5, 2021""",Exposure 2
+10/15/2021,Ecole Dr Charles Best Secondary,Coquitlam,43,Fraser Health Authority,"""October 4, 5, 6, 7, and 8, 2021""",Exposure 3
+10/15/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""September 30, October 1, 4, 5, 6, 7, and 8, 2021""",Exposure 5
+10/15/2021,Fruitvale Elementary,Fruitvale,20,Interior Health Authority,"""October 12, 2021""",Exposure 1
+10/15/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""October 8, 2021""",Exposure 1
 10/14/2021,Oak Bay Secondary,Victoria,61,Vancouver Island Health Authority,,Dates not provided.
 10/14/2021,Chemainus Elementary Community School,Chemainus,79,Vancouver Island Health Authority,,Exposure dates not provided
 10/14/2021,Minnekhada Middle School,Port Coquitlam,43,Fraser Health Authority,"""Oct 4, 5, 6, 2021""",Exposure 1
@@ -8993,6 +8998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/22/2020,Princess Margaret Secondary School (Surrey),Surrey,36,Fraser Health Authority,"""Oct 15, 16""",Exposure 3
 10/22/2020,W E Kinvig Elementary,Surrey,36,Fraser Health Authority,"""Oct 14, 15, 16""",Exposure 2
 10/21/2020,Churchill Secondary (Ideal Mini School),Vancouver,39,Vancouver Coastal Health,Oct 16,Exposure 1
+10/21/2020,West Point Grey Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Oct 16,Exposure 1
 10/21/2020,West Point Grey Academy,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,Oct 16,Exposure 1
 10/21/2020,Ecole Banting Middle,Coquitlam,43,Fraser Health Authority,Oct 13 and 14,Exposure 1
 10/21/2020,Port Moody Secondary,Port Moody,43,Fraser Health Authority,Oct 13,Exposure 1
