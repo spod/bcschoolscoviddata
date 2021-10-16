@@ -243,6 +243,7 @@ Rank,School,School District,Health Region,Exposures
 36,Canyon Falls Middle School,23,Interior Health Authority,10
 36,Springvalley Middle School,23,Interior Health Authority,10
 36,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
+36,Margaret Stenersen Elementary,34,Fraser Health Authority,10
 36,Belmont Elementary,35,Fraser Health Authority,10
 36,Betty Gilbert Middle,35,Fraser Health Authority,10
 36,Langley Fine Arts School,35,Fraser Health Authority,10
@@ -289,7 +290,6 @@ Rank,School,School District,Health Region,Exposures
 37,Centennial Park Elementary,34,Fraser Health Authority,9
 37,Clearbrook Elementary,34,Fraser Health Authority,9
 37,King Traditional Elementary,34,Fraser Health Authority,9
-37,Margaret Stenersen Elementary,34,Fraser Health Authority,9
 37,Mountain Elementary,34,Fraser Health Authority,9
 37,Ross Elementary,34,Fraser Health Authority,9
 37,Ten Broeck Elementary,34,Fraser Health Authority,9
@@ -321,7 +321,6 @@ Rank,School,School District,Health Region,Exposures
 37,Conrad Street Elementary,52,Northern Health,9
 37,Mission Central Elementary,75,Fraser Health Authority,9
 37,Secondaire Jules-Verne,93,Vancouver Coastal Health,9
-37,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 37,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
 37,Khalsa School of the Fraser Valley,Independent Schools in Fraser Health,Fraser Health Authority,9
 37,Kootenay Christian Academy,Independent Schools in Interior Health,Interior Health Authority,9
@@ -333,6 +332,7 @@ Rank,School,School District,Health Region,Exposures
 38,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,8
 38,Marie Sharpe Elementary,27,Interior Health Authority,8
 38,Rosedale Traditional Community,33,Fraser Health Authority,8
+38,Coghlan Fundamental Elementary,35,Fraser Health Authority,8
 38,Glenwood Elementary (Langley),35,Fraser Health Authority,8
 38,A H P Matthew Elementary,36,Fraser Health Authority,8
 38,Betty Huff Elementary,36,Fraser Health Authority,8
@@ -383,6 +383,7 @@ Rank,School,School District,Health Region,Exposures
 38,École Anne-Hèbert Elementary School,93,Vancouver Coastal Health,8
 38,Mulgrave School,Independent Schools in Coastal Health,Vancouver Coastal Health,8
 38,St. George's Junior School,Independent Schools in Coastal Health,Vancouver Coastal Health,8
+38,West Point Grey Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,8
 38,Pacific Academy High School,Independent Schools in Fraser Health,Fraser Health Authority,8
 38,Regent Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,8
 38,St Catherines School,Independent Schools in Fraser Health,Fraser Health Authority,8
@@ -401,7 +402,6 @@ Rank,School,School District,Health Region,Exposures
 39,Tyson Elementary,33,Fraser Health Authority,7
 39,John MacLure Community School,34,Fraser Health Authority,7
 39,Sandy Hill Elementary,34,Fraser Health Authority,7
-39,Coghlan Fundamental Elementary,35,Fraser Health Authority,7
 39,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,7
 39,Noel Booth Elementary,35,Fraser Health Authority,7
 39,Shortreed Community School,35,Fraser Health Authority,7
@@ -568,6 +568,7 @@ Rank,School,School District,Health Region,Exposures
 41,Quigley Elementary,23,Interior Health Authority,5
 41,Rutland Elementary,23,Interior Health Authority,5
 41,Chilcotin Road Elementary,27,Interior Health Authority,5
+41,F G Leary Fine Arts Elementary,33,Fraser Health Authority,5
 41,McCammon Traditional Elementary,33,Fraser Health Authority,5
 41,Robertson Elementary,33,Fraser Health Authority,5
 41,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
@@ -680,7 +681,6 @@ Rank,School,School District,Health Region,Exposures
 42,Peter Skene Ogden Secondary,27,Interior Health Authority,4
 42,Quesnel Junior High School,28,Northern Health,4
 42,East Chilliwack Elementary,33,Fraser Health Authority,4
-42,F G Leary Fine Arts Elementary,33,Fraser Health Authority,4
 42,Bakerview Ctr for Learning,34,Fraser Health Authority,4
 42,Dormick Park Elementary,34,Fraser Health Authority,4
 42,Upper Sumas Elementary,34,Fraser Health Authority,4
