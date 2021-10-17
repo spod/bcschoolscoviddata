@@ -1,4 +1,9 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+10/17/2021,Fulford Community Elementary,Salt Spring Island,64,Vancouver Island Health Authority,"""October 4 and 5, 2021""",Exposure 4
+10/17/2021,Prince Charles Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,"""October 12, 2021""",Exposure 3
+10/17/2021,Glenwood Elementary (Langley),Langley,35,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 8
+10/17/2021,John Muir Elementary,Sooke,62,Vancouver Island Health Authority,"""October 4, 5, 6, and 13, 2021""",Exposure 1
+10/17/2021,Douglas Park Community,Langley,35,Fraser Health Authority,"""September 13, 14, 15, 16, 17, 20, 21, and 22, 2021""",Exposure 2
 10/16/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""October 5, 7, and 8, 2021""",Exposure 11
 10/16/2021,John G Diefenbaker Elementary,Richmond,38,Vancouver Coastal Health,,Letter describes a 'cluster' so we have listed it as two cases (Exposures 2 and 3).
 10/16/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 5
@@ -17,7 +22,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/15/2021,Ecole Dr Charles Best Secondary,Coquitlam,43,Fraser Health Authority,"""October 4, 5, 6, 7, and 8, 2021""",Exposure 3
 10/15/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""September 30, October 1, 4, 5, 6, 7, and 8, 2021""",Exposure 5
 10/15/2021,Fruitvale Elementary,Fruitvale,20,Interior Health Authority,"""October 12, 2021""",Exposure 1
-10/15/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 4 and 6, 2021""",Exposure 1
 10/15/2021,Pacific Christian School (Victoria),Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,"""October 8, 2021""",BCCDC indicates that this was on the 'Elementary Side'.
 10/15/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""October 11 and 12, 2021""",Exposure 7
 10/15/2021,Sir James Douglas Elementary (Victoria),Victoria,61,Vancouver Island Health Authority,"""October 6 and 7, 2021""",Exposure 12
@@ -51,6 +55,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/15/2021,Ecole Squamish Elementary,Squamish,48,Vancouver Coastal Health,"""Oct 12, 2021""",Confirmation email on file.
 10/15/2021,Ecole Squamish Elementary,Squamish,48,Vancouver Coastal Health,"""Oct 8, 2021""",Confirmation email on file.
 10/15/2021,Coghlan Fundamental Elementary,Aldergrove,35,Fraser Health Authority,"""October 4, 5 and 6, 2021""",Exposure 6
+10/15/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 4 and 6, 2021""",This exposure occurred at the North Campus (documentation on file).
 10/14/2021,Oak Bay Secondary,Victoria,61,Vancouver Island Health Authority,,Dates not provided.
 10/14/2021,Minnekhada Middle School,Port Coquitlam,43,Fraser Health Authority,"""Oct 4, 5, 6, 2021""",Exposure 1
 10/14/2021,Parkside Centennial Elementary (Langley),Langley,35,Fraser Health Authority,"""Oct 8, 2021""",Exposure 1

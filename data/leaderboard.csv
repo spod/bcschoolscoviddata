@@ -249,6 +249,7 @@ Rank,School,School District,Health Region,Exposures
 36,Belmont Elementary,35,Fraser Health Authority,10
 36,Betty Gilbert Middle,35,Fraser Health Authority,10
 36,Coghlan Fundamental Elementary,35,Fraser Health Authority,10
+36,Douglas Park Community,35,Fraser Health Authority,10
 36,Langley Fine Arts School,35,Fraser Health Authority,10
 36,Willoughby Elementary,35,Fraser Health Authority,10
 36,Bear Creek Elementary,36,Fraser Health Authority,10
@@ -297,7 +298,7 @@ Rank,School,School District,Health Region,Exposures
 37,Ten Broeck Elementary,34,Fraser Health Authority,9
 37,Terry Fox Elementary,34,Fraser Health Authority,9
 37,Dorothy Peacock Elementary,35,Fraser Health Authority,9
-37,Douglas Park Community,35,Fraser Health Authority,9
+37,Glenwood Elementary (Langley),35,Fraser Health Authority,9
 37,Peterson Road Elementary,35,Fraser Health Authority,9
 37,R C Garnett Demonstration Elementary,35,Fraser Health Authority,9
 37,A J McLellan Elementary,36,Fraser Health Authority,9
@@ -336,7 +337,6 @@ Rank,School,School District,Health Region,Exposures
 38,Marie Sharpe Elementary,27,Interior Health Authority,8
 38,Rosedale Traditional Community,33,Fraser Health Authority,8
 38,Tyson Elementary,33,Fraser Health Authority,8
-38,Glenwood Elementary (Langley),35,Fraser Health Authority,8
 38,A H P Matthew Elementary,36,Fraser Health Authority,8
 38,Betty Huff Elementary,36,Fraser Health Authority,8
 38,Bridgeview Elementary,36,Fraser Health Authority,8
@@ -479,6 +479,7 @@ Rank,School,School District,Health Region,Exposures
 40,Greendale Elementary,33,Fraser Health Authority,6
 40,Strathcona Elementary,33,Fraser Health Authority,6
 40,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
+40,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,6
 40,James Hill Elementary,35,Fraser Health Authority,6
 40,James Kennedy Elementary,35,Fraser Health Authority,6
 40,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,6
@@ -574,7 +575,6 @@ Rank,School,School District,Health Region,Exposures
 41,Robertson Elementary,33,Fraser Health Authority,5
 41,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
 41,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
-41,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,5
 41,Fort Langley Elementary,35,Fraser Health Authority,5
 41,City Central Learning Centre,36,Fraser Health Authority,5
 41,Clayton Elementary,36,Fraser Health Authority,5
@@ -752,6 +752,7 @@ Rank,School,School District,Health Region,Exposures
 42,Colquitz Middle School,61,Vancouver Island Health Authority,4
 42,Oak Bay Secondary,61,Vancouver Island Health Authority,4
 42,Spectrum Community,61,Vancouver Island Health Authority,4
+42,Fulford Community Elementary,64,Vancouver Island Health Authority,4
 42,Skaha Lake Middle School,67,Interior Health Authority,4
 42,Summerland Middle School,67,Interior Health Authority,4
 42,Brechin Elementary,68,Vancouver Island Health Authority,4
@@ -892,7 +893,6 @@ Rank,School,School District,Health Region,Exposures
 43,David Cameron Elementary,62,Vancouver Island Health Authority,3
 43,Journey Middle School,62,Vancouver Island Health Authority,3
 43,Royal Bay Secondary,62,Vancouver Island Health Authority,3
-43,Fulford Community Elementary,64,Vancouver Island Health Authority,3
 43,Columbia Elementary,67,Interior Health Authority,3
 43,Penticton Secondary,67,Interior Health Authority,3
 43,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
@@ -1306,6 +1306,7 @@ Rank,School,School District,Health Region,Exposures
 45,Victoria High,61,Vancouver Island Health Authority,1
 45,Edward Milne Community School,62,Vancouver Island Health Authority,1
 45,Happy Valley Elementary,62,Vancouver Island Health Authority,1
+45,John Muir Elementary,62,Vancouver Island Health Authority,1
 45,Lakewood Elementary,62,Vancouver Island Health Authority,1
 45,Ruth King Elementary,62,Vancouver Island Health Authority,1
 45,Keating Elementary,63,Vancouver Island Health Authority,1
