@@ -173,6 +173,7 @@ Rank,School,School District,Health Region,Exposures
 32,Windebank Elementary,75,Fraser Health Authority,14
 32,Highroad Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
 32,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
+33,Vernon Secondary,22,Interior Health Authority,13
 33,George Elliot Secondary,23,Interior Health Authority,13
 33,Peter Ewart Middle School,35,Fraser Health Authority,13
 33,Creekside Elementary,36,Fraser Health Authority,13
@@ -190,7 +191,6 @@ Rank,School,School District,Health Region,Exposures
 33,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 33,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 33,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,13
-34,Vernon Secondary,22,Interior Health Authority,12
 34,W L Seaton Secondary,22,Interior Health Authority,12
 34,Cheam Elementary,33,Fraser Health Authority,12
 34,Harry Sayers Elementary,34,Fraser Health Authority,12
