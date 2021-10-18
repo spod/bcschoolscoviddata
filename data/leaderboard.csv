@@ -41,6 +41,7 @@ Rank,School,School District,Health Region,Exposures
 23,Burnaby North Secondary,41,Fraser Health Authority,24
 24,Vedder Middle School,33,Fraser Health Authority,23
 24,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
+24,Robert Bateman Secondary,34,Fraser Health Authority,23
 24,Delview Secondary,37,Fraser Health Authority,23
 24,Gladstone Secondary,39,Vancouver Coastal Health,23
 24,Kitsilano Secondary,39,Vancouver Coastal Health,23
@@ -50,7 +51,6 @@ Rank,School,School District,Health Region,Exposures
 24,Terry Fox Secondary,43,Fraser Health Authority,23
 24,Carson Graham Secondary,44,Vancouver Coastal Health,23
 24,Handsworth Secondary,44,Vancouver Coastal Health,23
-25,Robert Bateman Secondary,34,Fraser Health Authority,22
 25,Langley Secondary,35,Fraser Health Authority,22
 25,Clayton Heights Secondary,36,Fraser Health Authority,22
 25,Woodward Hill Elementary,36,Fraser Health Authority,22
@@ -247,6 +247,7 @@ Rank,School,School District,Health Region,Exposures
 37,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
 37,King Traditional Elementary,34,Fraser Health Authority,10
 37,Margaret Stenersen Elementary,34,Fraser Health Authority,10
+37,Terry Fox Elementary,34,Fraser Health Authority,10
 37,Belmont Elementary,35,Fraser Health Authority,10
 37,Betty Gilbert Middle,35,Fraser Health Authority,10
 37,Coghlan Fundamental Elementary,35,Fraser Health Authority,10
@@ -298,7 +299,6 @@ Rank,School,School District,Health Region,Exposures
 38,Mountain Elementary,34,Fraser Health Authority,9
 38,Ross Elementary,34,Fraser Health Authority,9
 38,Ten Broeck Elementary,34,Fraser Health Authority,9
-38,Terry Fox Elementary,34,Fraser Health Authority,9
 38,Dorothy Peacock Elementary,35,Fraser Health Authority,9
 38,Glenwood Elementary (Langley),35,Fraser Health Authority,9
 38,Peterson Road Elementary,35,Fraser Health Authority,9
@@ -480,6 +480,7 @@ Rank,School,School District,Health Region,Exposures
 41,Shannon Lake Elementary,23,Interior Health Authority,6
 41,Watson Road Elementary,23,Interior Health Authority,6
 41,Greendale Elementary,33,Fraser Health Authority,6
+41,McCammon Traditional Elementary,33,Fraser Health Authority,6
 41,Strathcona Elementary,33,Fraser Health Authority,6
 41,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
 41,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,6
@@ -575,7 +576,6 @@ Rank,School,School District,Health Region,Exposures
 42,Chilcotin Road Elementary,27,Interior Health Authority,5
 42,East Chilliwack Elementary,33,Fraser Health Authority,5
 42,F G Leary Fine Arts Elementary,33,Fraser Health Authority,5
-42,McCammon Traditional Elementary,33,Fraser Health Authority,5
 42,Robertson Elementary,33,Fraser Health Authority,5
 42,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,5
 42,Dr Thomas A Swift Elementary,34,Fraser Health Authority,5
@@ -1272,7 +1272,6 @@ Rank,School,School District,Health Region,Exposures
 46,Malaspina Elementary,57,Northern Health,1
 46,Morfee Elementary,57,Northern Health,1
 46,Pineview Elementary,57,Northern Health,1
-46,Polaris Montessori Elementary,57,Northern Health,1
 46,Ron Brent Elementary,57,Northern Health,1
 46,Valemount Elementary,57,Northern Health,1
 46,Van Bien Elementary,57,Northern Health,1
