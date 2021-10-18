@@ -15,7 +15,7 @@ Rank,School,School District,Health Region,Exposures
 12,Kelowna Secondary School,23,Interior Health Authority,39
 12,Lord Tweedsmuir Secondary,36,Fraser Health Authority,39
 12,Maple Ridge Christian School,Independent Schools in Fraser Health,Fraser Health Authority,39
-13,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,36
+13,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,37
 14,Promontory Heights Community Elementary,33,Fraser Health Authority,35
 14,Abbotsford Senior Secondary School,34,Fraser Health Authority,35
 14,Johnston Heights Secondary,36,Fraser Health Authority,35
@@ -71,6 +71,7 @@ Rank,School,School District,Health Region,Exposures
 27,Brookswood Secondary,35,Fraser Health Authority,20
 27,Moscrop Secondary,41,Fraser Health Authority,20
 27,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,20
+27,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,20
 28,Sardis Elementary,33,Fraser Health Authority,19
 28,Sardis Secondary,33,Fraser Health Authority,19
 28,Godson Elementary,34,Fraser Health Authority,19
@@ -82,7 +83,6 @@ Rank,School,School District,Health Region,Exposures
 28,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,19
 28,West Vancouver Secondary,45,Vancouver Coastal Health,19
 28,Sa-hali Secondary,73,Interior Health Authority,19
-28,Unity Christian School,Independent Schools in Fraser Health,Fraser Health Authority,19
 29,Unsworth Elementary,33,Fraser Health Authority,18
 29,D W Poppy Secondary,35,Fraser Health Authority,18
 29,Walnut Grove Secondary,35,Fraser Health Authority,18
@@ -174,6 +174,7 @@ Rank,School,School District,Health Region,Exposures
 33,Charles Hays Secondary,52,Northern Health,14
 33,Windebank Elementary,75,Fraser Health Authority,14
 33,Highroad Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
+33,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,14
 33,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
 34,George Elliot Secondary,23,Interior Health Authority,13
 34,Peter Ewart Middle School,35,Fraser Health Authority,13
@@ -191,7 +192,6 @@ Rank,School,School District,Health Region,Exposures
 34,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
 34,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 34,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
-34,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,13
 35,Vernon Secondary,22,Interior Health Authority,12
 35,W L Seaton Secondary,22,Interior Health Authority,12
 35,Cheam Elementary,33,Fraser Health Authority,12
@@ -672,6 +672,7 @@ Rank,School,School District,Health Region,Exposures
 42,St. Anthony's School (West Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,5
 42,Vancouver Talmud Torah Elementary,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 42,Cloverdale Catholic School,Independent Schools in Fraser Health,Fraser Health Authority,5
+42,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,5
 42,Southridge School,Independent Schools in Fraser Health,Fraser Health Authority,5
 42,Traditional Learning Academy Online,Independent Schools in Fraser Health,Fraser Health Authority,5
 42,Chief Matthews School,Independent Schools in Northern Health,Northern Health,5
@@ -793,7 +794,6 @@ Rank,School,School District,Health Region,Exposures
 43,West Coast Christian School,Independent Schools in Coastal Health,Vancouver Coastal Health,4
 43,Fraser Valley Elementary,Independent Schools in Fraser Health,Fraser Health Authority,4
 43,Meadowridge School,Independent Schools in Fraser Health,Fraser Health Authority,4
-43,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,4
 43,St Helen's,Independent Schools in Fraser Health,Fraser Health Authority,4
 43,St. Mary's School (Chilliwack),Independent Schools in Fraser Health,Fraser Health Authority,4
 43,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,4
