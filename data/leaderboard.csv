@@ -220,6 +220,7 @@ Rank,School,School District,Health Region,Exposures
 36,Pearson Road Elementary,23,Interior Health Authority,11
 36,École Dr. Knox Middle School,23,Interior Health Authority,11
 36,Dave Kandal Elementary School,34,Fraser Health Authority,11
+36,King Traditional Elementary,34,Fraser Health Authority,11
 36,Douglas Park Community,35,Fraser Health Authority,11
 36,Lynn Fripps Elementary,35,Fraser Health Authority,11
 36,Dr F D Sinclair Elementary,36,Fraser Health Authority,11
@@ -245,7 +246,6 @@ Rank,School,School District,Health Region,Exposures
 37,Canyon Falls Middle School,23,Interior Health Authority,10
 37,Springvalley Middle School,23,Interior Health Authority,10
 37,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
-37,King Traditional Elementary,34,Fraser Health Authority,10
 37,Margaret Stenersen Elementary,34,Fraser Health Authority,10
 37,Terry Fox Elementary,34,Fraser Health Authority,10
 37,Belmont Elementary,35,Fraser Health Authority,10
@@ -643,6 +643,7 @@ Rank,School,School District,Health Region,Exposures
 42,Cedar Hill Middle,61,Vancouver Island Health Authority,5
 42,Ecole Quadra Elementary,61,Vancouver Island Health Authority,5
 42,Oaklands Elementary,61,Vancouver Island Health Authority,5
+42,Fulford Community Elementary,64,Vancouver Island Health Authority,5
 42,Giant's Head Elementary,67,Interior Health Authority,5
 42,Summerland Secondary,67,Interior Health Authority,5
 42,Cedar Elementary (Nanaimo),68,Vancouver Island Health Authority,5
@@ -754,7 +755,6 @@ Rank,School,School District,Health Region,Exposures
 43,Colquitz Middle School,61,Vancouver Island Health Authority,4
 43,Oak Bay Secondary,61,Vancouver Island Health Authority,4
 43,Spectrum Community,61,Vancouver Island Health Authority,4
-43,Fulford Community Elementary,64,Vancouver Island Health Authority,4
 43,Skaha Lake Middle School,67,Interior Health Authority,4
 43,Summerland Middle School,67,Interior Health Authority,4
 43,Brechin Elementary,68,Vancouver Island Health Authority,4
