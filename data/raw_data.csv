@@ -24,6 +24,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/17/2021,Tomsett Elementary,Richmond,38,Vancouver Coastal Health,,Exposure dates not provided. Letter indicates this is a cluster so 2 exposures have been added.
 10/17/2021,Edward Milne Community School,Sooke,62,Vancouver Island Health Authority,"""October 5 and 6, 2021""",Exposure 1
 10/17/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,"""October 12, 13, and 14, 2021""",Exposure 3
+10/17/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7, 8, 12, and 13, 2021""",Exposure 5
+10/17/2021,Seabird Island Community,Agassiz,Independent Schools in Fraser Health,Fraser Health Authority,"""September 27, October 1, 4, 5, 6, 7, and 8, 2021""",Exposure 3
+10/17/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 4
+10/17/2021,Sardis Elementary,Chilliwack,33,Fraser Health Authority,"""October 11 and 12, 2021""",Exposure 10
+10/17/2021,Douglas Park Community,Langley,35,Fraser Health Authority,"""Oct 8, 2021""",Exposure 3
+10/17/2021,Ecole des Voyageurs,Langley,93,Fraser Health Authority,"""Oct 14, 2021""",Confirmation email on file.
 10/17/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12 and 13, 2021""",This exposure was at the Middle-Secondary Campus.
 10/17/2021,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 15, 2021""",Exposure 7
 10/17/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12, 13, and 14, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle or Secondary Campus. We have listed it as Elementary but if you know differently, please let us know."""
@@ -39,12 +45,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/17/2021,Goldstone Park Elementary,Surrey,36,Fraser Health Authority,"""October 5 and 6, 2021""",Exposure 1
 10/17/2021,Brackendale Elementary,Brackendale,48,Vancouver Coastal Health,"""Oct 6, 7, 8, 12, 2021""",Exposure 2
 10/17/2021,Yorkson Creek Middle School,Langley,35,Fraser Health Authority,"""October 12, 2021""",Exposure 1
-10/17/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 4
-10/17/2021,Sardis Elementary,Chilliwack,33,Fraser Health Authority,"""October 11 and 12, 2021""",Exposure 10
-10/17/2021,Douglas Park Community,Langley,35,Fraser Health Authority,"""Oct 8, 2021""",Exposure 3
-10/17/2021,Ecole des Voyageurs,Langley,93,Fraser Health Authority,"""Oct 14, 2021""",Confirmation email on file.
-10/17/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7, 8, 12, and 13, 2021""",Exposure 5
-10/17/2021,Seabird Island Community,Agassiz,Independent Schools in Fraser Health,Fraser Health Authority,"""September 27, October 1, 4, 5, 6, 7, and 8, 2021""",Exposure 3
 10/16/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""October 5, 7, and 8, 2021""",Exposure 11
 10/16/2021,John G Diefenbaker Elementary,Richmond,38,Vancouver Coastal Health,,Letter describes a 'cluster' so we have listed it as two cases (Exposures 2 and 3).
 10/16/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 5
