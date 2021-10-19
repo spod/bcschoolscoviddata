@@ -735,7 +735,7 @@ Rank,School,School District,Health Region,Exposures
 43,Leigh Elementary,43,Fraser Health Authority,4
 43,Moody Elementary,43,Fraser Health Authority,4
 43,Mountain Meadows Elementary,43,Fraser Health Authority,4
-43,Highlands Elementary,44,Vancouver Coastal Health,4
+43,Highlands Elementary (North Vancouver),44,Vancouver Coastal Health,4
 43,Larson Elementary,44,Vancouver Coastal Health,4
 43,Queen Mary Community Elementary,44,Vancouver Coastal Health,4
 43,Irwin Park Elementary,45,Vancouver Coastal Health,4
@@ -1247,7 +1247,6 @@ Rank,School,School District,Health Region,Exposures
 46,Heritage Mountain Elementary,43,Fraser Health Authority,1
 46,Meadowbrook Elementary,43,Fraser Health Authority,1
 46,Brockton Preparatory School,44,Vancouver Coastal Health,1
-46,Highlands Elementary,44,Interior Health Authority,1
 46,North Star Montessori Elementary School,44,Vancouver Coastal Health,1
 46,St Pius X Elementary School,44,Vancouver Coastal Health,1
 46,Upper Lynn Elementary,44,Fraser Health Authority,1
@@ -1261,6 +1260,7 @@ Rank,School,School District,Health Region,Exposures
 46,Signal Hill StrongStart Centre,48,Vancouver Coastal Health,1
 46,Nusatsum Elementary,49,Vancouver Coastal Health,1
 46,Frank J Mitchell Elementary,5,Interior Health Authority,1
+46,Highlands Elementary (Cranbrook),5,Interior Health Authority,1
 46,Sparwood Secondary,5,Interior Health Authority,1
 46,Gidgalang Kuuyas Naay,50,Northern Health,1
 46,Gudangaay Tlaats'gaa Naay,50,Northern Health,1
