@@ -4,8 +4,30 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/18/2021,Fulford Community Elementary,Salt Spring Island,64,Vancouver Island Health Authority,"""October 12 and 13, 2021""",Exposure 5
 10/18/2021,King Traditional Elementary,Abbotsford,34,Fraser Health Authority,"""September 24, 27, 28, 29, October 4, 5, 6, 7, 8, 12, and 13, 2021""",Exposure 2
 10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""October 12, 2021""",Exposure 5
-10/18/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 11, 12, and 13, 2021""",This exposure occurred at the North Campus.
 10/18/2021,East Kensington Elementary,Surrey,36,Fraser Health Authority,"""October 12, 14, and 15, 2021""",Time provided for the exposure is 8:30am - 12:30pm. (details in attached documentation
+10/18/2021,Greendale Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 6
+10/18/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 11, 12, and 13, 2021""",This exposure occurred at the North Campus.
+10/18/2021,Oaklands Elementary,Victoria,61,Vancouver Island Health Authority,"""Oct 14, 15, 2021""",Exposure 3
+10/18/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""Oct 13, 14, 2021""",Confirmation email on file.
+10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""Oct 18, 2021""",Exposure 6
+10/18/2021,Ecole Poirier Elementary,Sooke,62,Vancouver Island Health Authority,"""Oct 8, 2021""",Exposure 16
+10/18/2021,Torquay Elementary,Victoria,61,Vancouver Island Health Authority,"""Oct 7, 8, 13, 14, 2021""",Exposure 5
+10/18/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 6, 2021""",Exposure 2
+10/18/2021,Ecole Pitt River Middle,Port Coquitlam,43,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 1
+10/18/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12, 2021""",Exposure 9
+10/18/2021,Lynn Fripps Elementary,Langley,35,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 6
+10/18/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct, 6, 7, 8, 12, 13, 14, 15, 18, 2021""",Exposure 8
+10/18/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 2021""",Exposure 7
+10/18/2021,Kay Bingham Elementary,Kamloops,73,Interior Health Authority,"""Oct 12, 2021""",Exposure 1
+10/18/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,,Exposure dates not provided.
+10/18/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 12, 2021""",Exposure 10
+10/18/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""October 14, 2021""",Exposure 3
+10/18/2021,Torquay Elementary,Victoria,61,Vancouver Island Health Authority,"""October 6, 2021""",Exposure 6
+10/18/2021,Pacific Christian School (Victoria),Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,"""October 12 and 13, 2021""","BCCDC indicates the exposure was on the ""Elementary Side""."
+10/18/2021,Chilcotin Road Elementary,Williams Lake,27,Interior Health Authority,"""Oct 14, 2021""",Documentation on file.
+10/18/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Full class in isolation.
+10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""Oct, 12, 14, 14, 15, 18, 2021""",Expsoure 7
+10/18/2021,John Muir Elementary,Sooke,62,Vancouver Island Health Authority,"""October 12, 2021""",Exposure 2
 10/17/2021,Tomsett Elementary,Richmond,38,Vancouver Coastal Health,,Exposure dates not provided. Letter indicates this is a cluster so 2 exposures have been added.
 10/17/2021,Tomsett Elementary,Richmond,38,Vancouver Coastal Health,,Exposure dates not provided. Letter indicates this is a cluster so 2 exposures have been added.
 10/17/2021,Edward Milne Community School,Sooke,62,Vancouver Island Health Authority,"""October 5 and 6, 2021""",Exposure 1
@@ -21,7 +43,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/17/2021,Park Avenue Elementary,Nanaimo,68,Vancouver Island Health Authority,"""Oct 12, 13, 2021""",Exposure 4
 10/17/2021,Foothills Elementary,Prince George,57,Northern Health,"""Oct 12, 2021""",Confirmation email on file.
 10/17/2021,Foothills Elementary,Prince George,57,Northern Health,"""Oct 8, 2021""",Confirmation email on file.
-10/17/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""Oct 12, 13, 14, 15, 2021""",Confirmation email on file.
 10/17/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""Oct 12, 2021""",Confirmation email on file.
 10/17/2021,Pacific Spirit School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,,letter indicates 4 cases.
 10/17/2021,Pacific Spirit School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,,letter indicates 4 cases.
@@ -52,6 +73,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/17/2021,Brackendale Elementary,Brackendale,48,Vancouver Coastal Health,"""Oct 6, 7, 8, 12, 2021""",Exposure 2
 10/17/2021,Yorkson Creek Middle School,Langley,35,Fraser Health Authority,"""October 12, 2021""",Exposure 1
 10/17/2021,Douglas Park Community,Langley,35,Fraser Health Authority,"""September 13, 14, 15, 16, 17, 20, 21, and 22, 2021""",Exposure 2
+10/17/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""Oct 12, 13, 14, 2021""",Exposure 3
 10/16/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""October 5, 7, and 8, 2021""",Exposure 11
 10/16/2021,John G Diefenbaker Elementary,Richmond,38,Vancouver Coastal Health,,Letter describes a 'cluster' so we have listed it as two cases (Exposures 2 and 3).
 10/16/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 5
