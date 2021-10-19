@@ -7,6 +7,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/19/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""Oct 13, 14, 2021""",Confirmation email on file.
 10/19/2021,Prince Charles Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,"""Oct 12, 2021""",Exposure 4
 10/19/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Oct 14, 2021""",Exposure 6
+10/19/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""October 14, 2021""",Exposure 11
 10/18/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""October 6, 7, 8, and 12, 2021""",Exposure 7
 10/18/2021,McCammon Traditional Elementary,Chilliwack,33,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 6
 10/18/2021,East Kensington Elementary,Surrey,36,Fraser Health Authority,"""October 12, 14, and 15, 2021""",Time provided for the exposure is 8:30am - 12:30pm. (details in attached documentation
@@ -182,7 +183,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/14/2021,Oak Bay Secondary,Victoria,61,Vancouver Island Health Authority,,Dates not provided.
 10/14/2021,Minnekhada Middle School,Port Coquitlam,43,Fraser Health Authority,"""Oct 4, 5, 6, 2021""",Exposure 1
 10/14/2021,Parkside Centennial Elementary (Langley),Langley,35,Fraser Health Authority,"""Oct 8, 2021""",Exposure 1
-10/14/2021,Foothills Elementary,Prince George,57,Northern Health,"""Oct 6, 7, 8, 2021""",Confirmation email on file.
 10/14/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 6, 2021""",Exposure 1
 10/14/2021,Edwin S Richards Elementary,Mission,75,Fraser Health Authority,"""Oct 7, 2021""",Exposure 1
 10/14/2021,Parkland Middle School,Cranbrook,5,Interior Health Authority,"""Oct 6, 2021""",Exposure 3
@@ -231,6 +231,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/14/2021,Maywood Community Elementary,Burnaby,41,Fraser Health Authority,"""October 5, 2021""",Exposure 1
 10/14/2021,Cultus Lake Community School,,33,Fraser Health Authority,"""October 7 and 8, 2021""",Exposure 2
 10/14/2021,Chemainus Elementary Community School,Chemainus,79,Vancouver Island Health Authority,"""October 4, 5, 6, 7, and 8, 2021""",Dates on the BCCDC webpage
+10/14/2021,Foothills Elementary,Prince George,57,Northern Health,"""Oct 6, 7, 8, 2021""",Confirmation email on file.
 10/13/2021,Glenwood Elementary (Langley),Langley,35,Fraser Health Authority,"""October 4, 5, 6, 7, and 8, 2021""",Exposure 6
 10/13/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,,Emailed confirmation on file.
 10/13/2021,Seaview Elementary (Lantzville),Lantzville,68,Vancouver Island Health Authority,,Emailed confirmation on file.

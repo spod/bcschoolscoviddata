@@ -193,6 +193,7 @@ Rank,School,School District,Health Region,Exposures
 34,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
 34,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 34,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
+34,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,13
 35,Vernon Secondary,22,Interior Health Authority,12
 35,W L Seaton Secondary,22,Interior Health Authority,12
 35,École Dr. Knox Middle School,23,Interior Health Authority,12
@@ -219,7 +220,6 @@ Rank,School,School District,Health Region,Exposures
 35,Valleyview Secondary,73,Interior Health Authority,12
 35,Caledonia Secondary,82,Northern Health,12
 35,Holy Cross Elementary School (Burnaby),Independent Schools in Fraser Health,Fraser Health Authority,12
-35,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,12
 35,Pacific Academy Primary School,Independent Schools in Fraser Health,Fraser Health Authority,12
 36,Canyon Falls Middle School,23,Interior Health Authority,11
 36,Hudson Road Elementary,23,Interior Health Authority,11
