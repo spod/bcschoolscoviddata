@@ -1,12 +1,17 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+10/19/2021,Watson Elementary,Chilliwack,33,Fraser Health Authority,"""October 12, 13, 14, and 15, 2021""",Exposure 2
+10/19/2021,Fraser River Middle,New Westminster,40,Fraser Health Authority,"""Oct, 7, 8, 12, 13, 14, 15, 2021""",Exposure 1
+10/19/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""Oct 13, 15, 2021""",Confirmation email on file.
+10/19/2021,Andre-Piolat,North Vancouver,93,Vancouver Coastal Health,"""Oct 12, 13, 14, 15, 2021""",Exposure 1
+10/19/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""Oct 13, 14, 2021""",Confirmation email on file.
+10/19/2021,Prince Charles Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,"""Oct 12, 2021""",Exposure 4
+10/19/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Oct 14, 2021""",Exposure 6
+10/19/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""Oct 15, 2021""",Confirmation email on file.
 10/18/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""October 6, 7, 8, and 12, 2021""",Exposure 7
 10/18/2021,McCammon Traditional Elementary,Chilliwack,33,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 6
 10/18/2021,Fulford Community Elementary,Salt Spring Island,64,Vancouver Island Health Authority,"""October 12 and 13, 2021""",Exposure 5
 10/18/2021,King Traditional Elementary,Abbotsford,34,Fraser Health Authority,"""September 24, 27, 28, 29, October 4, 5, 6, 7, 8, 12, and 13, 2021""",Exposure 2
 10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""October 12, 2021""",Exposure 5
-10/18/2021,East Kensington Elementary,Surrey,36,Fraser Health Authority,"""October 12, 14, and 15, 2021""",Time provided for the exposure is 8:30am - 12:30pm. (details in attached documentation
-10/18/2021,Greendale Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 6
-10/18/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 11, 12, and 13, 2021""",This exposure occurred at the North Campus.
 10/18/2021,Oaklands Elementary,Victoria,61,Vancouver Island Health Authority,"""Oct 14, 15, 2021""",Exposure 3
 10/18/2021,Abbotsford Middle School,Abbotsford,34,Fraser Health Authority,"""Oct 13, 14, 2021""",Confirmation email on file.
 10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""Oct 18, 2021""",Exposure 6
@@ -15,6 +20,16 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/18/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 6, 2021""",Exposure 2
 10/18/2021,Ecole Pitt River Middle,Port Coquitlam,43,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 1
 10/18/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12, 2021""",Exposure 9
+10/18/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""October 13 and 14, 2021""",Exposure dates on the BCCDC webpage.
+10/18/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12 and 13, 2021""",This exposure was at the Elementary Campus.
+10/18/2021,Our Lady of Good Counsel,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7 and 8, 2021""",Exposure 1
+10/18/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""Oct,  8, 12, 13, 2021""",Exposure 3
+10/18/2021,Lynn Fripps Elementary,Langley,35,Fraser Health Authority,"""Oct 14, 15, 2021""",Exposure 7
+10/18/2021,Willway Elementary,Victoria,62,Vancouver Island Health Authority,"""October 13 and 14, 2021""",Exposure 1
+10/18/2021,Highlands Elementary (Cranbrook),Cranbrook,5,Interior Health Authority,"""October 12, 13, and 14, 2021""",Exposure 1
+10/18/2021,East Kensington Elementary,Surrey,36,Fraser Health Authority,"""October 12, 14, and 15, 2021""",Time provided for the exposure is 8:30am - 12:30pm. (details in attached documentation
+10/18/2021,Greendale Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 6
+10/18/2021,Lansdowne Middle School,Victoria,61,Vancouver Island Health Authority,"""October 11, 12, and 13, 2021""",This exposure occurred at the North Campus.
 10/18/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 2021""",Exposure 7
 10/18/2021,Kay Bingham Elementary,Kamloops,73,Interior Health Authority,"""Oct 12, 2021""",Exposure 1
 10/18/2021,John Muir Elementary,Sooke,62,Vancouver Island Health Authority,"""October 12, 2021""",Exposure 2
@@ -24,7 +39,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/18/2021,Chilcotin Road Elementary,Williams Lake,27,Interior Health Authority,"""Oct 14, 2021""",Documentation on file.
 10/18/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 12, 2021""",Exposure 10
 10/18/2021,Hawthorne Elementary,Delta,37,Fraser Health Authority,"""October 5, 12, 13, and 14, 2021""",Exposure 3
-10/18/2021,Honour Secondary School,Surrey,36,Fraser Health Authority,"""October 12, 2021""",Exposure 1
+10/18/2021,Honour Secondary School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12, 2021""",Exposure 1
 10/18/2021,Margaret Stenersen Elementary,Abbotsford,34,Fraser Health Authority,"""October 13, 2021""",Exposure 4
 10/18/2021,Beach Grove Elementary,Delta,37,Fraser Health Authority,"""October 12, 2021""",Exposure 1
 10/18/2021,Ecole des Pionniers-de-Maillardville,Port Coquitlam,93,Fraser Health Authority,"""October 7, 8, 12, and 13, 2021""",Exposure 2
@@ -64,13 +79,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/18/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""Oct, 12, 13, 14, 15, 18, 2021""",Expsoure 7
 10/18/2021,Greendale Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 12, 13, 14, 15, 2021""",Exposure 8
 10/18/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""October 14, 2021""",Exposure 3
-10/18/2021,Promontory Heights Community Elementary,Chilliwack,33,Fraser Health Authority,"""October 13 and 14, 2021""",Exposure dates on the BCCDC webpage.
-10/18/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12 and 13, 2021""",This exposure was at the Elementary Campus.
-10/18/2021,Our Lady of Good Counsel,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 7 and 8, 2021""",Exposure 1
-10/18/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""Oct,  8, 12, 13, 2021""",Exposure 3
-10/18/2021,Lynn Fripps Elementary,Langley,35,Fraser Health Authority,"""Oct 14, 15, 2021""",Exposure 7
-10/18/2021,Willway Elementary,Victoria,62,Vancouver Island Health Authority,"""October 13 and 14, 2021""",Exposure 1
-10/18/2021,Highlands Elementary (Cranbrook),Cranbrook,5,Interior Health Authority,"""October 12, 13, and 14, 2021""",Exposure 1
 10/17/2021,Tomsett Elementary,Richmond,38,Vancouver Coastal Health,,Exposure dates not provided. Letter indicates this is a cluster so 2 exposures have been added.
 10/17/2021,Tomsett Elementary,Richmond,38,Vancouver Coastal Health,,Exposure dates not provided. Letter indicates this is a cluster so 2 exposures have been added.
 10/17/2021,Edward Milne Community School,Sooke,62,Vancouver Island Health Authority,"""October 5 and 6, 2021""",Exposure 1
@@ -330,7 +338,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/12/2021,Twelfth Avenue Elementary,Burnaby,41,Fraser Health Authority,"""Oct 4, 2021""",Exposure 1
 10/12/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""Oct 6, 7, 8, 2021""",Exposure 3
 10/12/2021,Sands Secondary,Delta,37,Fraser Health Authority,"""October 8, 2021""",Exposure 1
-10/12/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""October 7 and 8, 2021""",Exposure 2
 10/12/2021,Langley Fundamental Elementary,Langley,35,Fraser Health Authority,"""Oct 6, 2021""",Confirmation email on file.
 10/12/2021,Oliver Elementary,Oliver,53,Interior Health Authority,"""October 5 and 6, 2021""",Exposure 3
 10/12/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""October 4, 2021""",Exposure 2
@@ -377,6 +384,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/12/2021,Arden Elementary,Courtenay,71,Vancouver Island Health Authority,"""October 6, 7, and 8, 2021""",Exposure 1
 10/12/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""October 7 and 8, 2021""",Dates on the BCCDC webpage
 10/12/2021,Cawston Primary,Cawston,53,Interior Health Authority,"""September 29, 2021""",Exposure 1
+10/12/2021,Upper Lynn Elementary,North Vancouver,44,Vancouver Coastal Health,"""October 7 and 8, 2021""",Exposure 3
 10/11/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Sept 29, 2021""",Exposure 5
 10/11/2021,F G Leary Fine Arts Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 6, 2021""",Exposure 2
 10/11/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""Oct 5, 6, 7, 2021""",Exposure 1
