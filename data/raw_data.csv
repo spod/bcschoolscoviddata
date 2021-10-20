@@ -26,12 +26,26 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/19/2021,Alice Brown Elementary,Langley,35,Fraser Health Authority,"""Oct 15, 2021""",Exposure 13
 10/19/2021,Alexander Elementary (Duncan),Duncan,79,Vancouver Island Health Authority,"""October 5, 6, and 7, 2021""",Exposure 1
 10/19/2021,Alexander Elementary (Duncan),Duncan,79,Vancouver Island Health Authority,"""October 13, 2021""",Exposure 2
-10/19/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,,Dates not provided.
 10/19/2021,Sperling Elementary,Burnaby,41,Fraser Health Authority,"""October 12, 13, and 14, 2021""",Exposure 1
+10/19/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 14 and 15, 2021""",This exposure happened at the Middle/Secondary Campus.
+10/19/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 14 and 15, 2021""",Exposure 6
+10/19/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""October 12, 13, and 14, 2021""",Exposure 7
+10/19/2021,Timothy Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 12, 13, 14, and 15, 2021""",Exposure 5
 10/19/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,"""October 12 and 13, 2021""",Exposure 4
 10/19/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""October 7, and 8, 2021""",Exposure 6
-10/19/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""October 12, 13, and 14, 2021""",Exposure 7
-10/19/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 14 and 15, 2021""",This exposure happened at the Middle/Secondary Campus.
+10/19/2021,Shuswap SDA,Salmon Arm,Independent Schools in Interior Health,Interior Health Authority,"""Oct 12, 13, 14, 2021""",Exposure 1
+10/19/2021,Raymer Elementary,Kelowna,23,Interior Health Authority,"""Oct 12, 13, 14, 15, 2021""",Exposure 4
+10/19/2021,Eileen Madson Primary School,Invermere,6,Interior Health Authority,On BCCDC,Dates not provided.
+10/19/2021,Highlands Elementary (Cranbrook),Cranbrook,5,Interior Health Authority,"""Oct 15, 2021""",Exposure 2
+10/19/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""Oct 14, 2021""",Exposure 4
+10/19/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""October 13, 2021""",Exposure 4
+10/19/2021,Woodland Park Elementary,Surrey,36,Fraser Health Authority,"""October 4, 5, 6, 11, 12, 13, 14, and 15, 2021""",Exposure 1
+10/19/2021,Enver Creek Secondary,Surrey,36,Fraser Health Authority,"""October 6 and 8, 2021""",Exposure 2
+10/19/2021,Okanagan Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Oct 13, 2021""",Exposure 5
+10/19/2021,A E Perry Elementary,Kamloops,73,Interior Health Authority,"""Oct 12, 13, 14, 2021""",Exposure 4
+10/19/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""Oct 12, 13, 14, 2021""",Exposure 2
+10/19/2021,South Kelowna Elementary,Kelowna,23,Interior Health Authority,"""Oct 14, 15, 2021""",Exposure 1
+10/19/2021,100 Mile House Elementary,100 Mile House,27,Interior Health Authority,"""Oct 11, 12, 13, 2021""",Exposure 2
 10/18/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""October 6, 7, 8, and 12, 2021""",Exposure 7
 10/18/2021,McCammon Traditional Elementary,Chilliwack,33,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 6
 10/18/2021,East Kensington Elementary,Surrey,36,Fraser Health Authority,"""October 12, 14, and 15, 2021""",Time provided for the exposure is 8:30am - 12:30pm. (details in attached documentation
