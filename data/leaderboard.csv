@@ -593,6 +593,7 @@ Rank,School,School District,Health Region,Exposures
 42,Janice Churchill Elementary,36,Fraser Health Authority,5
 42,Jessie Lee Elementary,36,Fraser Health Authority,5
 42,Kennedy Trail Elementary,36,Fraser Health Authority,5
+42,Mountainview Montessori,36,Fraser Health Authority,5
 42,North Surrey Learning Centre,36,Fraser Health Authority,5
 42,Pacific Heights Elementary,36,Fraser Health Authority,5
 42,Peace Arch Elementary,36,Fraser Health Authority,5
@@ -714,7 +715,6 @@ Rank,School,School District,Health Region,Exposures
 43,West Langley Elementary,35,Fraser Health Authority,4
 43,Berkshire Park Elementary,36,Fraser Health Authority,4
 43,Invergarry Adult Education Centre,36,Fraser Health Authority,4
-43,Mountainview Montessori,36,Fraser Health Authority,4
 43,William Watson Elementary,36,Fraser Health Authority,4
 43,General Currie Elementary,38,Vancouver Coastal Health,4
 43,James McKinney Elementary,38,Vancouver Coastal Health,4
@@ -936,6 +936,7 @@ Rank,School,School District,Health Region,Exposures
 44,Len Wood Middle School,83,Interior Health Authority,3
 44,David Hoy Elementary,91,Northern Health,3
 44,Decker Lake Elementary,91,Northern Health,3
+44,Ecole des Voyageurs,93,Fraser Health Authority,3
 44,La Passerelle,93,Vancouver Coastal Health,3
 44,du Bois-Joli,93,Fraser Health Authority,3
 44,Immaculate Conception School (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,3
@@ -1039,6 +1040,7 @@ Rank,School,School District,Health Region,Exposures
 45,Twain Sullivan Elementary,54,Northern Health,2
 45,Beaverly Elementary,57,Northern Health,2
 45,Hart Highlands Elementary,57,Northern Health,2
+45,Ron Brent Elementary,57,Northern Health,2
 45,Valemount Secondary,57,Northern Health,2
 45,Vanway Elementary,57,Northern Health,2
 45,Westwood Elementary (Prince George),57,Northern Health,2
@@ -1094,7 +1096,6 @@ Rank,School,School District,Health Region,Exposures
 45,South Broadview Elementary,83,Interior Health Authority,2
 45,Evelyn Dickson Elementary,91,Northern Health,2
 45,Lakes District Secondary,91,Northern Health,2
-45,Ecole des Voyageurs,93,Fraser Health Authority,2
 45,La Vallee,93,Vancouver Coastal Health,2
 45,Rose-des-vents,93,Vancouver Coastal Health,2
 45,des Deux-rives,93,Fraser Health Authority,2
@@ -1283,7 +1284,6 @@ Rank,School,School District,Health Region,Exposures
 46,Malaspina Elementary,57,Northern Health,1
 46,Morfee Elementary,57,Northern Health,1
 46,Pineview Elementary,57,Northern Health,1
-46,Ron Brent Elementary,57,Northern Health,1
 46,Valemount Elementary,57,Northern Health,1
 46,Van Bien Elementary,57,Northern Health,1
 46,Collettville Elementary,58,Interior Health Authority,1
