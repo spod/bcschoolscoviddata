@@ -245,6 +245,7 @@ Rank,School,School District,Health Region,Exposures
 36,Eric Hamber Secondary,39,Vancouver Coastal Health,11
 36,Montecito Elementary,41,Fraser Health Authority,11
 36,Ecole Panorama Heights Elementary,43,Fraser Health Authority,11
+36,Ecole Squamish Elementary,48,Vancouver Coastal Health,11
 36,Prince George Secondary,57,Northern Health,11
 36,Bert Bowes Middle School,60,Northern Health,11
 36,Margaret Ma Murray Community School,60,Northern Health,11
@@ -279,10 +280,10 @@ Rank,School,School District,Health Region,Exposures
 37,Summit Middle School,43,Fraser Health Authority,10
 37,Braemar Elementary,44,Vancouver Coastal Health,10
 37,Sutherland Secondary,44,Vancouver Coastal Health,10
-37,Ecole Squamish Elementary,48,Vancouver Coastal Health,10
 37,Whistler Secondary,48,Vancouver Coastal Health,10
 37,Southridge Elementary,57,Northern Health,10
 37,Pleasant Valley Elementary,68,Vancouver Island Health Authority,10
+37,Ecole Heritage Park Middle School,75,Fraser Health Authority,10
 37,Pleasant Valley Secondary,83,Interior Health Authority,10
 37,Gabrielle-Roy,93,Fraser Health Authority,10
 37,Victor-Brodeur,93,Vancouver Island Health Authority,10
@@ -333,7 +334,6 @@ Rank,School,School District,Health Region,Exposures
 38,Conrad Street Elementary,52,Northern Health,9
 38,Heritage Elementary,57,Northern Health,9
 38,Tillicum Community School,61,Vancouver Island Health Authority,9
-38,Ecole Heritage Park Middle School,75,Fraser Health Authority,9
 38,Mission Central Elementary,75,Fraser Health Authority,9
 38,Secondaire Jules-Verne,93,Vancouver Coastal Health,9
 38,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
@@ -391,6 +391,7 @@ Rank,School,School District,Health Region,Exposures
 39,Juniper Ridge Elementary,73,Interior Health Authority,8
 39,Albert McMahon Elementary,75,Fraser Health Authority,8
 39,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,8
+39,Quamichan School,79,Vancouver Island Health Authority,8
 39,Tansor Elementary,79,Vancouver Island Health Authority,8
 39,Skeena Middle,82,Northern Health,8
 39,Fort St James Secondary,91,Northern Health,8
@@ -472,7 +473,6 @@ Rank,School,School District,Health Region,Exposures
 40,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 40,Haldane Elementary,73,Interior Health Authority,7
 40,Khowhemun Elementary,79,Vancouver Island Health Authority,7
-40,Quamichan School,79,Vancouver Island Health Authority,7
 40,Parkview Elementary School,83,Interior Health Authority,7
 40,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 40,British Columbia Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,7
