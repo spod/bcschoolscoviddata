@@ -1,10 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 10/23/2021,Aldergrove Christian Academy,,35,Fraser Health Authority,"""October 18, 19, and 20, 2021""",Exposure 2
 10/23/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 4
+10/23/2021,George Elliot Secondary,Winfield,23,Interior Health Authority,"""October 13, 14, and 15, 2021""",https://www.castanet.net/news/Kelowna/349506/Schools-across-the-Thompson-Okanagan-region-had-recent-COVID-exposures
 10/23/2021,Oceanside Elementary,Parksville,69,Vancouver Island Health Authority,"""October 18, 19, and 20, 2021""",Exposure 3
 10/23/2021,Betty Huff Elementary,Surrey,36,Fraser Health Authority,"""October 18 and 19, 2021""",Exposure 5
 10/23/2021,Lakewood Elementary,Victoria,62,Vancouver Island Health Authority,"""October 18, 2021""",Exposure 1
-10/23/2021,George Elliot Secondary,Winfield,23,Interior Health Authority,"""October 13, 14, and 15, 2021""",https://www.castanet.net/news/Kelowna/349506/Schools-across-the-Thompson-Okanagan-region-had-recent-COVID-exposures
 10/23/2021,Okanagan Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""October 11, 2021""",https://www.castanet.net/news/Kelowna/349506/Schools-across-the-Thompson-Okanagan-region-had-recent-COVID-exposures
 10/23/2021,Shuswap Middle School,Salmon Arm,83,Interior Health Authority,"""October 12 and 13, 2021""",https://www.castanet.net/news/Kelowna/349506/Schools-across-the-Thompson-Okanagan-region-had-recent-COVID-exposures
 10/22/2021,Tamanawis Secondary,Surrey,36,Fraser Health Authority,"""October 12, 13, and 14, 2021""",Exposure 1
@@ -110,7 +110,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/20/2021,Maywood Community Elementary,Burnaby,41,Fraser Health Authority,"""October 12 and 14, 2021""",Exposure 3
 10/20/2021,Walnut Grove Secondary,Langley,35,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 3
 10/20/2021,Langley Secondary,Langley,35,Fraser Health Authority,"""October 15, 2021""",Exposure 7
-10/20/2021,Betty Huff Elementary,Surrey,36,Fraser Health Authority,"""October 14 and 15, 2021""",Exposure 4
 10/20/2021,Frost Road Elementary,Surrey,36,Fraser Health Authority,"""October 15, 2021""",Exposure 1
 10/20/2021,Highroad Academy,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""October 15, 2021""",Exposure 7
 10/20/2021,Credo Christian Elementary School(Langley),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""October 15, 2021""",Exposure 4
@@ -124,6 +123,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/20/2021,Grindrod Elementary,,83,Interior Health Authority,"""Oct 19, 2021""",Confirmation email on file.
 10/20/2021,Tyson Elementary,Chilliwack,33,Fraser Health Authority,"""October 15, 2021""",Exposure 8
 10/20/2021,Oceanside Elementary,Parksville,69,Vancouver Island Health Authority,"""October 13 and 14, 2021""",Exposure 1
+10/20/2021,Betty Huff Elementary,Surrey,36,Fraser Health Authority,"""October 14 and 15, 2021""",Exposure 4
 10/19/2021,Edgewood Elementary School,Prince George,57,Northern Health,"""Oct 13, 14, 15, 2021""",Confirmation email on file.
 10/19/2021,Martha Currie Elementary,Surrey,36,Fraser Health Authority,"""Oct 15, 2021""",Confirmation email on file.
 10/19/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 13, 14, 15, 2021""",Exposure 7
