@@ -41,6 +41,7 @@ Rank,School,School District,Health Region,Exposures
 24,Langley Secondary,35,Fraser Health Authority,25
 25,Earl Marriott Secondary,36,Fraser Health Authority,24
 25,Burnaby North Secondary,41,Fraser Health Authority,24
+25,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,24
 26,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
 26,Robert Bateman Secondary,34,Fraser Health Authority,23
 26,Delview Secondary,37,Fraser Health Authority,23
@@ -52,7 +53,6 @@ Rank,School,School District,Health Region,Exposures
 26,Terry Fox Secondary,43,Fraser Health Authority,23
 26,Carson Graham Secondary,44,Vancouver Coastal Health,23
 26,Handsworth Secondary,44,Vancouver Coastal Health,23
-26,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,23
 27,Sardis Elementary,33,Fraser Health Authority,22
 27,Abbotsford Middle School,34,Fraser Health Authority,22
 27,Eugene Reimer Middle School,34,Fraser Health Authority,22
@@ -278,6 +278,7 @@ Rank,School,School District,Health Region,Exposures
 39,Sir Richard McBride Elementary (Vancouver),39,Vancouver Coastal Health,10
 39,Templeton Secondary,39,Vancouver Coastal Health,10
 39,Lord Tweedsmuir Elementary,40,Fraser Health Authority,10
+39,Kanaka Creek Elementary,42,Fraser Health Authority,10
 39,Whonnock Elementary,42,Fraser Health Authority,10
 39,Castle Park Elementary,43,Fraser Health Authority,10
 39,Eagle Mountain Middle School,43,Fraser Health Authority,10
@@ -336,7 +337,6 @@ Rank,School,School District,Health Region,Exposures
 40,Brentwood Park Elementary,41,Fraser Health Authority,9
 40,Edmonds Community Elementary,41,Fraser Health Authority,9
 40,Garibaldi Secondary,42,Fraser Health Authority,9
-40,Kanaka Creek Elementary,42,Fraser Health Authority,9
 40,Seycove Secondary Community,44,Vancouver Coastal Health,9
 40,Conrad Street Elementary,52,Northern Health,9
 40,Heritage Elementary,57,Northern Health,9
@@ -355,6 +355,7 @@ Rank,School,School District,Health Region,Exposures
 41,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),23,Interior Health Authority,8
 41,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,8
 41,Rosedale Traditional Community,33,Fraser Health Authority,8
+41,Bothwell Elementary School,36,Fraser Health Authority,8
 41,Bridgeview Elementary,36,Fraser Health Authority,8
 41,H T Thrift Elementary,36,Fraser Health Authority,8
 41,Gibson Elementary (Delta),37,Fraser Health Authority,8
@@ -377,6 +378,7 @@ Rank,School,School District,Health Region,Exposures
 41,Alouette Elementary,42,Fraser Health Authority,8
 41,Edith McDermott Elementary,42,Fraser Health Authority,8
 41,Eric Langton Elementary,42,Fraser Health Authority,8
+41,Pitt Meadows Elementary,42,Fraser Health Authority,8
 41,Ecole Glenayre Elementary,43,Fraser Health Authority,8
 41,Ecole Irvine Elementary,43,Fraser Health Authority,8
 41,Parkland Elementary,43,Fraser Health Authority,8
@@ -426,7 +428,6 @@ Rank,School,School District,Health Region,Exposures
 42,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,7
 42,Noel Booth Elementary,35,Fraser Health Authority,7
 42,Yorkson Creek Middle School,35,Fraser Health Authority,7
-42,Bothwell Elementary School,36,Fraser Health Authority,7
 42,Don Christian Elementary,36,Fraser Health Authority,7
 42,McLeod Road Traditional,36,Fraser Health Authority,7
 42,Sunnyside Elementary,36,Fraser Health Authority,7
@@ -456,7 +457,6 @@ Rank,School,School District,Health Region,Exposures
 42,Blue Mountain Elementary,42,Fraser Health Authority,7
 42,Golden Ears Elementary,42,Fraser Health Authority,7
 42,Highland Park Elementary,42,Fraser Health Authority,7
-42,Pitt Meadows Elementary,42,Fraser Health Authority,7
 42,Cedar Drive Elementary,43,Fraser Health Authority,7
 42,Central Community Elementary (Port Coquitlam),43,Fraser Health Authority,7
 42,Ecole Kilmer Elementary,43,Fraser Health Authority,7
@@ -694,6 +694,7 @@ Rank,School,School District,Health Region,Exposures
 44,Seabird Island Community,Independent Schools in Fraser Health,Fraser Health Authority,5
 44,Urban Academy Junior,Independent Schools in Fraser Health,Fraser Health Authority,5
 44,Vernon Christian School,Independent Schools in Interior Health,Interior Health Authority,5
+44,Cedars Christian School,Independent Schools in Northern Health,Northern Health,5
 44,Chief Matthews School,Independent Schools in Northern Health,Northern Health,5
 44,Mountain Christian School,Independent Schools in Northern Health,Northern Health,5
 44,Sacred Heart (Prince George),Independent Schools in Northern Health,Northern Health,5
@@ -769,6 +770,7 @@ Rank,School,School District,Health Region,Exposures
 45,Pinewood Elementary (Prince George),57,Northern Health,4
 45,Diamond Vale Elementary,58,Interior Health Authority,4
 45,Merritt Bench Elementary,58,Interior Health Authority,4
+45,Chetwynd Secondary,59,Northern Health,4
 45,Alwin Holland Elementary,60,Northern Health,4
 45,Anne Roberts Young Elementary,60,Northern Health,4
 45,Charlie Lake Elementary,60,Northern Health,4
@@ -822,7 +824,6 @@ Rank,School,School District,Health Region,Exposures
 45,Traditional Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 45,Valley Christian School,Independent Schools in Fraser Health,Fraser Health Authority,4
 45,St Michael's Elementary (Trail),Independent Schools in Interior Health,Interior Health Authority,4
-45,Cedars Christian School,Independent Schools in Northern Health,Northern Health,4
 46,Arrow Heights Elementary,19,Interior Health Authority,3
 46,Revelstoke Secondary,19,Interior Health Authority,3
 46,Stanley Humphries Secondary,20,Interior Health Authority,3
@@ -902,7 +903,6 @@ Rank,School,School District,Health Region,Exposures
 46,Spruceland Traditional,57,Northern Health,3
 46,Merritt Central Elementary,58,Interior Health Authority,3
 46,Canalta Elementary,59,Northern Health,3
-46,Chetwynd Secondary,59,Northern Health,3
 46,McKim Middle School,6,Interior Health Authority,3
 46,Robert Ogilvie Elementary,60,Northern Health,3
 46,Upper Pine Elem-Jr Secondary,60,Northern Health,3
