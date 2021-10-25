@@ -341,6 +341,7 @@ Rank,School,School District,Health Region,Exposures
 40,Conrad Street Elementary,52,Northern Health,9
 40,Heritage Elementary,57,Northern Health,9
 40,George Jay Elementary,61,Vancouver Island Health Authority,9
+40,Torquay Elementary,61,Vancouver Island Health Authority,9
 40,Mission Central Elementary,75,Fraser Health Authority,9
 40,Secondaire Jules-Verne,93,Vancouver Coastal Health,9
 40,York House School,Independent Schools in Coastal Health,Vancouver Coastal Health,9
@@ -387,7 +388,6 @@ Rank,School,School District,Health Region,Exposures
 41,College Heights Secondary,57,Northern Health,8
 41,Heather Park Elementary,57,Northern Health,8
 41,Energetic Learning Campus,60,Northern Health,8
-41,Torquay Elementary,61,Vancouver Island Health Authority,8
 41,Dunsmuir Middle School,62,Vancouver Island Health Authority,8
 41,Juniper Ridge Elementary,73,Interior Health Authority,8
 41,Albert McMahon Elementary,75,Fraser Health Authority,8
