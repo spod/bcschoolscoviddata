@@ -1,20 +1,6 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 10/24/2021,Lord Roberts Elementary,Vancouver,39,Vancouver Coastal Health,"""October 15, 16, 17, 18, 19, 20, and 21, 2021""",Exposure 2
 10/24/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""October 18, 2021""",Exposure 5
-10/24/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Oct 19, 20, 21, 2021""",Exposure 3
-10/24/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""October 18, 2021""",Exposure 7
-10/24/2021,Andre-Piolat,North Vancouver,93,Vancouver Coastal Health,"""Oct 18, 19, 20, 2021""",Confirmation email on file.
-10/24/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 15, 2021""",Exposure 10
-10/24/2021,Monterey Middle School,Victoria,61,Vancouver Island Health Authority,"""Oct 18, 19, 20, 21, 2021""",Exposure 2
-10/24/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 7
-10/24/2021,Little Mountain Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 4
-10/24/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,"""Oct 20, 21, 2021""",Exposure 3
-10/24/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 20, 21, 2021""",Confirmation email on file.
-10/24/2021,Watson Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 20, 21, 2021""",Confirmation email on file.
-10/24/2021,Blacklock Fine Arts Elementary,Langley,35,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 3
-10/24/2021,Collines-d'or,Kamloops,93,Interior Health Authority,,Confirmation email on file.
-10/24/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""Oct 19, 2021""",Exposure 9
-10/24/2021,South Poplar Traditional Elementary,Abbotsford,34,Fraser Health Authority,"""October 18 and 19, 2021""",Exposure 2
 10/24/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""October 19 and 20, 2021""",Exposure 2
 10/24/2021,Highland Park Elementary,Pitt Meadows,42,Fraser Health Authority,"""Oct 19, 20, 2021""",Exposure 1
 10/24/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,"""October 19, 2021""",Exposure 1
@@ -49,12 +35,26 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/24/2021,Crescent Park Elementary (Surrey),Surrey,36,Fraser Health Authority,"""October 18, 2021""",Exposure 3
 10/24/2021,Old Yale Road Elementary,Surrey,36,Fraser Health Authority,"""October 12, 13, 14, and 18, 2021""",Exposure 2
 10/24/2021,Urban Academy Junior,New Westminster,Independent Schools in Fraser Health,Fraser Health Authority,"""October 18 and 19, 2021""",Exposure 3
-10/24/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 3
-10/24/2021,Grandview Heights Secondary,Surrey,36,Fraser Health Authority,"""Oct 18, 19, 2021""",Confirmation email on file.
-10/24/2021,Hellings Elementary,Delta,37,Fraser Health Authority,"""October 12, 13, 14, and 15, 2021""",Exposure 2
+10/24/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""Oct 19, 20, 21, 2021""",Exposure 3
+10/24/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""October 18, 2021""",Exposure 7
+10/24/2021,Andre-Piolat,North Vancouver,93,Vancouver Coastal Health,"""Oct 18, 19, 20, 2021""",Confirmation email on file.
+10/24/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 15, 2021""",Exposure 10
+10/24/2021,Monterey Middle School,Victoria,61,Vancouver Island Health Authority,"""Oct 18, 19, 20, 21, 2021""",Exposure 2
+10/24/2021,Belmont Elementary,Langley,35,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 7
+10/24/2021,Little Mountain Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 4
+10/24/2021,Adams Road Elementary,Surrey,36,Fraser Health Authority,"""Oct 20, 21, 2021""",Exposure 3
+10/24/2021,Vedder Middle School,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 20, 21, 2021""",Confirmation email on file.
+10/24/2021,Watson Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 18, 19, 20, 21, 2021""",Confirmation email on file.
+10/24/2021,Blacklock Fine Arts Elementary,Langley,35,Fraser Health Authority,"""Oct 18, 19, 2021""",Exposure 3
+10/24/2021,Collines-d'or,Kamloops,93,Interior Health Authority,,Confirmation email on file.
+10/24/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""Oct 19, 2021""",Exposure 9
+10/24/2021,South Poplar Traditional Elementary,Abbotsford,34,Fraser Health Authority,"""October 18 and 19, 2021""",Exposure 2
 10/24/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 8, 12, 13, 14, 15, 18, 19, 20, 21, and 22, 2021""",This exposure was at the Middle School Campus.
 10/24/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 18, 2021""",This exposure was at the Middle School Campus.
 10/24/2021,Ecole Kilmer Elementary,Port Coquitlam,43,Fraser Health Authority,"""October 18 and 19, 2021""",Exposure 1
+10/24/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 3
+10/24/2021,Grandview Heights Secondary,Surrey,36,Fraser Health Authority,"""Oct 18, 19, 2021""",Confirmation email on file.
+10/24/2021,Hellings Elementary,Delta,37,Fraser Health Authority,"""October 12, 13, 14, and 15, 2021""",Exposure 2
 10/23/2021,Aldergrove Christian Academy,,35,Fraser Health Authority,"""October 18, 19, and 20, 2021""",Exposure 2
 10/23/2021,Mennonite Educational Institute Secondary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 13, 14, and 15, 2021""",Exposure 4
 10/23/2021,George Elliot Secondary,Winfield,23,Interior Health Authority,"""October 13, 14, and 15, 2021""",https://www.castanet.net/news/Kelowna/349506/Schools-across-the-Thompson-Okanagan-region-had-recent-COVID-exposures
