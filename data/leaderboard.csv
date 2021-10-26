@@ -478,6 +478,7 @@ Rank,School,School District,Health Region,Exposures
 43,Dr Kearney Middle School,60,Northern Health,7
 43,Belmont Secondary,62,Vancouver Island Health Authority,7
 43,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,7
+43,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,7
 43,Ucluelet Elementary,70,Vancouver Island Health Authority,7
 43,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 43,Arthur Stevenson Elementary,73,Interior Health Authority,7
@@ -554,7 +555,6 @@ Rank,School,School District,Health Region,Exposures
 44,Oaklands Elementary,61,Vancouver Island Health Authority,6
 44,Bayview Elementary,68,Vancouver Island Health Authority,6
 44,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
-44,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,6
 44,Eric J Dunn Elementary,70,Vancouver Island Health Authority,6
 44,Aberdeen Elementary (Kamloops),73,Interior Health Authority,6
 44,Beattie Elementary,73,Interior Health Authority,6
