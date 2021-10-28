@@ -11,9 +11,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/27/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,"""Oct 20, 21, 2021""",Exposure 10
 10/27/2021,Roberts Creek Elementary,,46,Vancouver Coastal Health,"""Oct 18, 19, 2021""",Confirmation email on file.
 10/27/2021,du Pacifique,Sechelt,93,Vancouver Coastal Health,"""Oct 18, 19, 20, 21, 2021""",Exposure 1
-10/27/2021,Roberts Creek Elementary,,46,Vancouver Coastal Health,"""Oct 18, 19, 2021""",Confirmation email on file.
-10/27/2021,Cedars Christian School,Prince George,Independent Schools in Northern Health,Northern Health,"""October 12, 13, 14, and 15, 2021""",https://www.myprincegeorgenow.com/150068/five-pg-schools-listed-for-covid-19-exposures
-10/27/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""October 21, 2021""",Exposure 3
 10/27/2021,Dr Thomas A Swift Elementary,Abbotsford,34,Fraser Health Authority,"""October 21, 2021""",Exposure 1
 10/27/2021,New Westminster Secondary,New Westminster,40,Fraser Health Authority,"""October 21, 2021""",Exposure 7
 10/27/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""October 21, 2021""",Exposure 4
@@ -24,16 +21,9 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/27/2021,James Park Elementary,Port Coquitlam,43,Fraser Health Authority,"""October 13 and 14, 2021""",Exposure 11
 10/27/2021,Watson Elementary,Chilliwack,33,Fraser Health Authority,"""October 22, 2021""",Exposure 6
 10/27/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""October 21, 2021""",Exposure 9
-10/27/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""October 20, 2021""",Exposure 4
-10/27/2021,Mount Slesse Middle School,Chilliwack,33,Fraser Health Authority,"""Oct. 19, 20, 21, 25, 26, 27, 2021""",Exposure 11
-10/27/2021,Ucluelet Secondary,Ucluelet,70,Vancouver Island Health Authority,"""October 13, 14, 15, and 18, 2021""",Exposure 2
-10/27/2021,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),Lake Country,23,Interior Health Authority,"""October 18, 19, 20, and 21, 2021""",Exposure 9
-10/27/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 18, 19, and 21, 2021""",Exposure 3
-10/27/2021,Ellison Elementary (Vernon),Vernon,22,Interior Health Authority,"""October 20 and 21, 2021""",Exposure 6
-10/27/2021,Vernon Christian School,Vernon,Independent Schools in Interior Health,Interior Health Authority,"""October 20 and 21, 2021""",Exposure 5
-10/27/2021,Trout Creek Elementary,Summerland,67,Interior Health Authority,"""October 19 and 20, 2021""",Exposure 1
-10/27/2021,South Broadview Elementary,Salmon Arm,83,Interior Health Authority,"""October 14 and 15, 2021""",Exposure 3
-10/27/2021,West Bench Elementary,Penticton,67,Interior Health Authority,"""October 19, 2021""",Exposure 1
+10/27/2021,Roberts Creek Elementary,,46,Vancouver Coastal Health,"""Oct 18, 19, 2021""",Confirmation email on file.
+10/27/2021,Cedars Christian School,Prince George,Independent Schools in Northern Health,Northern Health,"""October 12, 13, 14, and 15, 2021""",https://www.myprincegeorgenow.com/150068/five-pg-schools-listed-for-covid-19-exposures
+10/27/2021,Lord Tweedsmuir Secondary,Surrey,36,Fraser Health Authority,"""October 21, 2021""",Exposure 3
 10/27/2021,Coast Meridian Elementary,Surrey,36,Fraser Health Authority,"""October 13, 18, and 19, 2021""",Exposure 1
 10/27/2021,Creekside Elementary,Surrey,36,Fraser Health Authority,"""October 20 and 21, 2021""",Exposure 3
 10/27/2021,White Rock Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 21 and 22, 2021""",Exposure 4
@@ -51,9 +41,19 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/27/2021,Okanagan Waldorf School,Lumby,22,Interior Health Authority,"""October 21 and 22, 2021""",Exposure 1
 10/27/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,"""Oct 19, 20, 21, 22, 2021""",Exposure 3
 10/27/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,"""Oct 25, 2021""",Expsoure 4
-10/27/2021,Constable Neil Bruce Middle School,West Kelowna,23,Interior Health Authority,"""October 18 and 19, 2021""",Exposure 3
 10/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""October 21, 2021""",Exposure 16
 10/27/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,"""October 18 and 19, 2021""",Exposure 1
+10/27/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""October 20, 2021""",Exposure 4
+10/27/2021,Mount Slesse Middle School,Chilliwack,33,Fraser Health Authority,"""Oct. 19, 20, 21, 25, 26, 27, 2021""",Exposure 11
+10/27/2021,Ucluelet Secondary,Ucluelet,70,Vancouver Island Health Authority,"""October 13, 14, 15, and 18, 2021""",Exposure 2
+10/27/2021,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),Lake Country,23,Interior Health Authority,"""October 18, 19, 20, and 21, 2021""",Exposure 9
+10/27/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 18, 19, and 21, 2021""",Exposure 3
+10/27/2021,Ellison Elementary (Vernon),Vernon,22,Interior Health Authority,"""October 20 and 21, 2021""",Exposure 6
+10/27/2021,Vernon Christian School,Vernon,Independent Schools in Interior Health,Interior Health Authority,"""October 20 and 21, 2021""",Exposure 5
+10/27/2021,Trout Creek Elementary,Summerland,67,Interior Health Authority,"""October 19 and 20, 2021""",Exposure 1
+10/27/2021,South Broadview Elementary,Salmon Arm,83,Interior Health Authority,"""October 14 and 15, 2021""",Exposure 3
+10/27/2021,West Bench Elementary,Penticton,67,Interior Health Authority,"""October 19, 2021""",Exposure 1
+10/27/2021,Constable Neil Bruce Middle School,West Kelowna,23,Interior Health Authority,"""October 18 and 19, 2021""",Exposure 3
 10/26/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,"""October 19, 20, and 21, 2021""",Exposure 2
 10/26/2021,Fairview Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""October 21, 2021""",Confirmation email on file.
 10/26/2021,Buckhorn Elementary,Prince George,57,Northern Health,"""October 7 and 8, 2021""",Exposure 3
