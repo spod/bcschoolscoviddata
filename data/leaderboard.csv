@@ -155,6 +155,7 @@ Rank,School,School District,Health Region,Exposures
 34,St John Brebeuf,Independent Schools in Fraser Health,Fraser Health Authority,16
 35,Chief Dan George Middle,34,Fraser Health Authority,15
 35,Clayburn Middle School,34,Fraser Health Authority,15
+35,Bear Creek Elementary,36,Fraser Health Authority,15
 35,Bonaccord Elementary,36,Fraser Health Authority,15
 35,Chimney Hill Elementary,36,Fraser Health Authority,15
 35,Creekside Elementary,36,Fraser Health Authority,15
@@ -170,8 +171,6 @@ Rank,School,School District,Health Region,Exposures
 35,Pitt Meadows Secondary,42,Fraser Health Authority,15
 36,Blue Jay Elementary,34,Fraser Health Authority,14
 36,Peter Ewart Middle School,35,Fraser Health Authority,14
-36,Willoughby Elementary,35,Fraser Health Authority,14
-36,Bear Creek Elementary,36,Fraser Health Authority,14
 36,Boundary Park Elementary,36,Fraser Health Authority,14
 36,Brookside Elementary,36,Fraser Health Authority,14
 36,Cedar Hills Elementary,36,Fraser Health Authority,14
@@ -191,6 +190,7 @@ Rank,School,School District,Health Region,Exposures
 36,Timothy Christian School,Independent Schools in Fraser Health,Fraser Health Authority,14
 37,École Dr. Knox Middle School,23,Interior Health Authority,13
 37,Lynn Fripps Elementary,35,Fraser Health Authority,13
+37,Willoughby Elementary,35,Fraser Health Authority,13
 37,Adams Road Elementary,36,Fraser Health Authority,13
 37,Ecole Salish Secondary,36,Fraser Health Authority,13
 37,Katzie Elementary,36,Fraser Health Authority,13

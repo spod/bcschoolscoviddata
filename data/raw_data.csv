@@ -3,6 +3,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/28/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""October 20 and 21, 2021""",Exposure 1
 10/28/2021,West Heights Elementary,Mission,75,Fraser Health Authority,"""October 21 and 22, 2021""",Exposure 3
 10/28/2021,Walton Elementary,Coquitlam,43,Fraser Health Authority,"""October 25 and 26, 2021""",Exposure 2
+10/28/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,"""October 19, 20, and 21, 2021""",Exposure 5
 10/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""October 21, 2021""",Exposure 16
 10/27/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,"""October 18 and 19, 2021""",Exposure 1
 10/27/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""October 20, 2021""",Exposure 4
@@ -4998,7 +4999,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/11/2021,James McKinney Elementary,Richmond,38,Vancouver Coastal Health,Not provided,Exposure 3
 04/11/2021,Helen Gorman Elementary,West Kelowna,23,Interior Health Authority,April 6 and 8,Exposure 1
 04/11/2021,Esquimalt High,Victoria,61,Vancouver Island Health Authority,"""April 7, 8, and 9""",Exposure 1
-04/11/2021,Willoughby Elementary,Langley,35,Fraser Health Authority,"""April 6, 7""",Exposure 5
 04/11/2021,Willoughby Elementary,Langley,35,Fraser Health Authority,"""April 6, 7""",Exposure 5
 04/11/2021,Terry Fox Secondary,Port Coquitlam,43,Fraser Health Authority,April 7 and 8,Exposure 12
 04/11/2021,Cloverdale Catholic School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,March 31 and April 1,Exposure 3
