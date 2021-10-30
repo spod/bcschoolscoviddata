@@ -490,6 +490,7 @@ Rank,School,School District,Health Region,Exposures
 44,Dr Kearney Middle School,60,Northern Health,7
 44,Belmont Secondary,62,Vancouver Island Health Authority,7
 44,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,7
+44,Oceanside Elementary,69,Vancouver Island Health Authority,7
 44,Ucluelet Elementary,70,Vancouver Island Health Authority,7
 44,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 44,Arthur Stevenson Elementary,73,Interior Health Authority,7
@@ -565,7 +566,6 @@ Rank,School,School District,Health Region,Exposures
 45,Oaklands Elementary,61,Vancouver Island Health Authority,6
 45,Bayview Elementary,68,Vancouver Island Health Authority,6
 45,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
-45,Oceanside Elementary,69,Vancouver Island Health Authority,6
 45,Eric J Dunn Elementary,70,Vancouver Island Health Authority,6
 45,Aberdeen Elementary (Kamloops),73,Interior Health Authority,6
 45,Beattie Elementary,73,Interior Health Authority,6
@@ -849,6 +849,7 @@ Rank,School,School District,Health Region,Exposures
 48,Mountview Elementary,27,Interior Health Authority,3
 48,Lakeview Elementary (Quesnel),28,Northern Health,3
 48,Central Elementary Community (Chilliwack),33,Fraser Health Authority,3
+48,Matsqui Elementary,34,Fraser Health Authority,3
 48,South Poplar Traditional Elementary,34,Fraser Health Authority,3
 48,Chantrell Creek Elementary,36,Fraser Health Authority,3
 48,Erma Stephenson Elementary,36,Fraser Health Authority,3
@@ -999,7 +1000,6 @@ Rank,School,School District,Health Region,Exposures
 49,Voyageur Elementary School,28,Northern Health,2
 49,Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
 49,Jackson Elementary,34,Fraser Health Authority,2
-49,Matsqui Elementary,34,Fraser Health Authority,2
 49,Langley Education Centre,35,Fraser Health Authority,2
 49,Vanguard Secondary,35,Fraser Health Authority,2
 49,Wix-Brown Elementary,35,Fraser Health Authority,2
