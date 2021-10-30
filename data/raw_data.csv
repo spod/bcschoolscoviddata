@@ -1,4 +1,11 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+10/29/2021,Sardis Secondary,Chilliwack,33,Fraser Health Authority,"""October 25, 2021""",Exposure 5
+10/29/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""October 25 and 26, 2021""",Exposure 4
+10/29/2021,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,"""October 25, 2021""",Exposure 1
+10/29/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""October 18 and 19, 2021""",This is a different class that the ones that has the cluster listed as exposure nine and ten.
+10/29/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""October 21, 2021""",Exposure 8
+10/29/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""October 19, 20, 21, 22, 25, 26, 27, 28, and/or 29, 2021""",Exposure 17
+10/29/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""October 21, 22, 23, 24, 25, 26, and 27, 2021""",Exposure 2
 10/28/2021,Maple Bay Elementary,Duncan,79,Vancouver Island Health Authority,,Dates not provided.
 10/28/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 19, 20, 2021""",Exposure 15
 10/28/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,,Dates not provided. This letter indicates a cluster was declared in this school this week. We are adding 2 exposures to the database today since a cluster is a minimum of 2 cases.
@@ -35,7 +42,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/28/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""October 20 and 21, 2021""",Exposure 1
 10/28/2021,West Heights Elementary,Mission,75,Fraser Health Authority,"""October 21 and 22, 2021""",Exposure 3
 10/28/2021,White Rock Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 20, 21, 2021""",Exposure 5
-10/28/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,,Dates not provided. This letter indicates a cluster was declared in this school this week. We are adding 2 exposures to the database today since a cluster is a minimum of 2 cases.
+10/28/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,,This letter indicates a cluster was declared in this school this week. We are adding 2 exposures to the database today since a cluster is a minimum of 2 cases.
 10/27/2021,T M Roberts Elementary,Cranbrook,5,Interior Health Authority,"""October 21, 2021""",Exposure 16
 10/27/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,"""October 18 and 19, 2021""",Exposure 1
 10/27/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""October 20, 2021""",Exposure 4
