@@ -235,6 +235,7 @@ Rank,School,School District,Health Region,Exposures
 40,Pearson Road Elementary,23,Interior Health Authority,11
 40,Cataline Elementary,27,Interior Health Authority,11
 40,Lake City Secondary (Columneetza Campus),27,Interior Health Authority,11
+40,ASIA - North Poplar,34,Fraser Health Authority,11
 40,Dave Kandal Elementary School,34,Fraser Health Authority,11
 40,King Traditional Elementary,34,Fraser Health Authority,11
 40,Margaret Stenersen Elementary,34,Fraser Health Authority,11
@@ -266,7 +267,6 @@ Rank,School,School District,Health Region,Exposures
 41,Springvalley Middle School,23,Interior Health Authority,10
 41,Little Mountain Elementary,33,Fraser Health Authority,10
 41,Tyson Elementary,33,Fraser Health Authority,10
-41,ASIA - North Poplar,34,Fraser Health Authority,10
 41,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
 41,Coghlan Fundamental Elementary,35,Fraser Health Authority,10
 41,Glenwood Elementary (Langley),35,Fraser Health Authority,10
@@ -1146,6 +1146,7 @@ Rank,School,School District,Health Region,Exposures
 49,Brookes Westshore,Independent Schools in Island Health,Vancouver Island Health Authority,2
 49,Discover Montessori School (Nanaimo),Independent Schools in Island Health,Vancouver Island Health Authority,2
 49,Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,2
+49,St Joseph's Catholic (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,2
 49,Annunciation School,Independent Schools in Northern Health,Northern Health,2
 49,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 49,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
@@ -1339,6 +1340,7 @@ Rank,School,School District,Health Region,Exposures
 50,Happy Valley Elementary,62,Vancouver Island Health Authority,1
 50,Ruth King Elementary,62,Vancouver Island Health Authority,1
 50,Keating Elementary,63,Vancouver Island Health Authority,1
+50,Lochside Elementary,63,Vancouver Island Health Authority,1
 50,North Saanich Middle School,63,Vancouver Island Health Authority,1
 50,Regent Christian Online Academy,63,Fraser Health Authority,1
 50,Stelly's Secondary,63,Vancouver Island Health Authority,1
@@ -1462,7 +1464,6 @@ Rank,School,School District,Health Region,Exposures
 50,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,Shawnigan Lake,Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,St Andrew's Regional High,Independent Schools in Island Health,Vancouver Island Health Authority,1
-50,St Joseph's Catholic (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,St Michaels University School - Junior,Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,Haisla Community School,Independent Schools in Northern Health,Northern Health,1
 50,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
