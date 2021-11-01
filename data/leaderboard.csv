@@ -227,6 +227,7 @@ Rank,School,School District,Health Region,Exposures
 39,Ecole Marlborough Elementary,41,Fraser Health Authority,12
 39,Ecole Glen Elementary,43,Fraser Health Authority,12
 39,Ecole Pitt River Middle,43,Fraser Health Authority,12
+39,Tillicum Community School,61,Vancouver Island Health Authority,12
 39,Nanaimo District Secondary,68,Vancouver Island Health Authority,12
 39,Ecole Heritage Park Middle School,75,Fraser Health Authority,12
 39,George Bonner Elementary,79,Vancouver Island Health Authority,12
@@ -261,7 +262,6 @@ Rank,School,School District,Health Region,Exposures
 40,Prince George Secondary,57,Northern Health,11
 40,Bert Bowes Middle School,60,Northern Health,11
 40,Margaret Ma Murray Community School,60,Northern Health,11
-40,Tillicum Community School,61,Vancouver Island Health Authority,11
 40,John Calvin School,Independent Schools in Fraser Health,Fraser Health Authority,11
 40,Surrey Muslim School,Independent Schools in Fraser Health,Fraser Health Authority,11
 40,White Rock Christian Academy,Independent Schools in Fraser Health,Fraser Health Authority,11
@@ -1094,6 +1094,7 @@ Rank,School,School District,Health Region,Exposures
 49,Frank J Ney Elementary,68,Vancouver Island Health Authority,2
 49,North Oyster Elementary,68,Vancouver Island Health Authority,2
 49,Uplands Park Elementary (Nanaimo),68,Vancouver Island Health Authority,2
+49,Alberni Elementary,70,Vancouver Island Health Authority,2
 49,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 49,Ucluelet Secondary,70,Vancouver Island Health Authority,2
 49,Valley View Elementary,71,Vancouver Island Health Authority,2
@@ -1363,7 +1364,6 @@ Rank,School,School District,Health Region,Exposures
 50,Quarterway Elementary,68,Vancouver Island Health Authority,1
 50,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 50,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
-50,Alberni Elementary,70,Vancouver Island Health Authority,1
 50,Bamfield Community School,70,Vancouver Island Health Authority,1
 50,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 50,John Paul II Catholic School,70,Vancouver Island Health Authority,1
