@@ -582,6 +582,7 @@ Rank,School,School District,Health Region,Exposures
 45,Fort Nelson Secondary,81,Northern Health,6
 45,Kildala Elementary,82,Northern Health,6
 45,Thornhill Primary,82,Northern Health,6
+45,Hillcrest Elementary (Salmon Arm),83,Interior Health Authority,6
 45,M.V. Beattie Elementary,83,Interior Health Authority,6
 45,Salmon Arm Secondary (Jackson),83,Interior Health Authority,6
 45,Sorrento Elementary,83,Interior Health Authority,6
@@ -957,7 +958,6 @@ Rank,School,School District,Health Region,Exposures
 48,Hazelton Secondary,82,Northern Health,3
 48,A L Fortune Secondary,83,Interior Health Authority,3
 48,Armstrong Elementary (Armstrong),83,Interior Health Authority,3
-48,Hillcrest Elementary (Salmon Arm),83,Interior Health Authority,3
 48,Len Wood Middle School,83,Interior Health Authority,3
 48,David Hoy Elementary,91,Northern Health,3
 48,Decker Lake Elementary,91,Northern Health,3
