@@ -2,15 +2,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
+11/01/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,"""October 15, 19, 20, 21, and 25, 2021""",Exposure 6
 10/31/2021,Lake Hill Elementary,Victoria,61,Vancouver Island Health Authority,"""Oct 27, 2021""",Exposure 2
 10/31/2021,Nanaimo Christian School,Nanaimo,68,Vancouver Island Health Authority,"""Oct 26, 27, 28, 2021""",Exposure 1 (High school)
 10/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct. 19, 20, 21, 25, 26, 27, 2021""",Exposure 13
 10/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct. 21, 22, 25, 26, 2021""",Exposure 14
-10/31/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""Oct 26, 27, 2021""",Confirmation email on file.
-10/31/2021,Ecole Cedardale,West Vancouver,45,Vancouver Coastal Health,"""Oct 26, 27, 28 2021""",Confirmation email on file.
-10/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct 26, 2021""",Exposure 12
-10/31/2021,Ray Watkins Elementary,Gold River,84,Vancouver Island Health Authority,"""Oct 20, 22, 2021""",Exposure 1
-10/31/2021,Yennadon Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct 27, 2021""",Exposure 5
 10/31/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""Oct 25, 26, 27, 28, 29, 2021""",Confirmation email on file.
 10/31/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 25, 27, 2021""",Exposure 19
 10/31/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Oct 25,26, 27, 28, 29, 2021""",Confirmation email on file.
@@ -40,6 +36,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/31/2021,Fairview Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""October 26, 27, and 28, 2021""",Exposure 9
 10/31/2021,Alexander Elementary (Duncan),Duncan,79,Vancouver Island Health Authority,"""October 26 and 27, 2021""",Exposure 5
 10/31/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""Oct 25, 26, 2021""",Exposure 4
+10/31/2021,H D Stafford Middle,Langley,35,Fraser Health Authority,"""Oct 26, 27, 2021""",Confirmation email on file.
+10/31/2021,Ecole Cedardale,West Vancouver,45,Vancouver Coastal Health,"""Oct 26, 27, 28 2021""",Confirmation email on file.
+10/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct 26, 2021""",Exposure 12
+10/31/2021,Ray Watkins Elementary,Gold River,84,Vancouver Island Health Authority,"""Oct 20, 22, 2021""",Exposure 1
+10/31/2021,Yennadon Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct 27, 2021""",Exposure 5
 10/30/2021,Matsqui Elementary,Abbotsford,34,Fraser Health Authority,"""October 25, 2021""",Exposure 2
 10/30/2021,Oceanside Elementary,Parksville,69,Vancouver Island Health Authority,"""October 25, 26, and 27, 2021""",One full class has been asked to isolate (Documentation on file).
 10/30/2021,Duncan Christian School,Duncan,Independent Schools in Island Health,Vancouver Island Health Authority,"""Oct 25, 26, 27, 2021""",Exposure 2
