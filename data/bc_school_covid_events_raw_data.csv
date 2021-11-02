@@ -1,12 +1,32 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
+11/01/2021,Alberni Elementary,Port Alberni,70,Vancouver Island Health Authority,"""October 27, 28, and 29, 2021""",Exposure 2
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
 11/01/2021,Hillcrest Elementary (Salmon Arm),Salmon Arm,83,Interior Health Authority,"""October 25 and 26, 2021""","""We have added these exposures as Exposure 4, 5, and 6."""
 11/01/2021,Maple Green Elementary,Surrey,36,Fraser Health Authority,"""October 15, 19, 20, 21, and 25, 2021""",Exposure 6
-11/01/2021,Alberni Elementary,Port Alberni,70,Vancouver Island Health Authority,"""October 27, 28, and 29, 2021""",Exposure 2
 11/01/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""October 25, 27, 28, and 29, 2021""",One full class has been asked to self-isolate (documentation on file)
 11/01/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,"""October 25 and 26, 2021""",Exposure 3
 11/01/2021,W J Mouat Secondary,Abbotsford,34,Fraser Health Authority,"""October 27, 28, and 29, 2021""",Exposure 5
+11/01/2021,Eagle River Secondary,Sicamous,83,Interior Health Authority,"""Oct 21, 2021""",Exposure 1
+11/01/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""Oct 27, 28, 29, 2021""",Exposure 12
+11/01/2021,Rose Valley Elementary,West Kelowna,23,Interior Health Authority,"""October 25, 26, and 27, 2021""",Exposure 1
+11/01/2021,Wickaninnish Community School,Tofino,70,Vancouver Island Health Authority,"""October 27, 2021""",Exposure 4
+11/01/2021,Ecole Qayqayt Elementary,New Westminster,40,Fraser Health Authority,"""Oct 25, 26, 2021""",Exposure 9
+11/01/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""October 25, 2021""",Exposure 1
+11/01/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""October 26, 27, 28, and 29, 2021""",Exposure 7
+11/01/2021,R C Garnett Demonstration Elementary,Langley,35,Fraser Health Authority,"""October 20, 2021""",Exposure 6
+11/01/2021,Garibaldi Secondary,Maple Ridge,42,Fraser Health Authority,"""October 25, 2021""",Exposure 6
+11/01/2021,A.D Rundle Middle School - Integrated Arts and Technology,Chilliwack,33,Fraser Health Authority,"""October 25, 26, and 27, 2021""",Exposure 1
+11/01/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""October 27, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle or Secondary Campus. We have listed it as Elementary but if you know differently, please let us know."""
+11/01/2021,Garibaldi Secondary,Maple Ridge,42,Fraser Health Authority,"""October 19, 2021""",Exposure 5
+11/01/2021,Bothwell Elementary School,Surrey,36,Fraser Health Authority,"""October 25, 2021""",Exposure 4
+11/01/2021,Latimer Road Elementary,Surrey,36,Fraser Health Authority,"""October 25, 2021""",Exposure 7
+11/01/2021,Coyote Creek Elementary,Surrey,36,Fraser Health Authority,"""October 21 and 22, 2021""",Exposure 2
+11/01/2021,Chimney Hill Elementary,Surrey,36,Fraser Health Authority,"""October 25, 2021""",Exposure 2
+11/01/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""October 27, 28, and 29, 2021""",Exposure 5
+11/01/2021,Richardson Elementary,Delta,37,Fraser Health Authority,"""October 26 and 27, 2021""",Exposure 4
+11/01/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""October 27, 2021""",Exposure 10
+11/01/2021,Rosedale Traditional Community,Rosedale,33,Fraser Health Authority,"""October 26 and 27, 2021""",Exposure 6
 10/31/2021,Lake Hill Elementary,Victoria,61,Vancouver Island Health Authority,"""Oct 27, 2021""",Exposure 2
 10/31/2021,Nanaimo Christian School,Nanaimo,68,Vancouver Island Health Authority,"""Oct 26, 27, 28, 2021""",Exposure 1 (High school)
 10/31/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""Oct. 19, 20, 21, 25, 26, 27, 2021""",Exposure 13
@@ -978,6 +998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 10/11/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 7, 8, 2021""",Exposure 3
 10/11/2021,Sardis Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 6, 7, 2021""",Exposure 7
 10/11/2021,A E Perry Elementary,Kamloops,73,Interior Health Authority,"""Oct 4, 5, 6, 7, 8, 2021""",Confirmation email on file.
+10/11/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""Oct 8, 2021""",Exposure 3
 10/11/2021,GW Graham Secondary,Chilliwack,33,Fraser Health Authority,"""Oct 8, 2021""",Exposure 3
 10/11/2021,Robertson Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 6, 7, 2021""",Exposure 2
 10/11/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""Oct 7, 2021""",Exposure 5
@@ -8191,7 +8212,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/18/2020,Burnaby Mountain Secondary,Burnaby,41,Fraser Health Authority,"""Dec 7, 8, 9, 10, and 11""",Exposure 1
 12/18/2020,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,Dec 11 and 14,Exposure 1
 12/18/2020,Donald E McKay Elementary (Richmond),Richmond,38,Vancouver Coastal Health,Dec 10 and 11,Exposure 2
-12/18/2020,A.D Rundle Middle School - Integrated Arts and Technology Secondary,Chilliwack,33,Fraser Health Authority,Dec 7 and 14,Email associated with the attached notification indicated that the entire program/cohort of 90 including students and staff has been asked to self-isolate and the program has closed.
 12/18/2020,Khalsa Elementary School Newton,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Dec 4, 9, 10, 11""",Exposure 7
 12/18/2020,Walnut Park Elementary,Smithers,54,Northern Health,"""Dec 9, 10""",Exposure 1
 12/18/2020,Abbotsford Dasmesh Punjabi,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""Dec 4, 7, 8, 9, 10, 11, 14""",Exposure 5
@@ -8206,6 +8226,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 12/18/2020,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""Dec 14, 15""",Exposure 22
 12/18/2020,Khalsa Secondary School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,Dec 4,Exposure 6
 12/18/2020,Holy Cross Regional High School (Surrey),Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""Dec 9, 10""",Exposure 3
+12/18/2020,A.D Rundle Middle School - Integrated Arts and Technology,Chilliwack,33,Fraser Health Authority,Dec 7 and 14,Email associated with the attached notification indicated that the entire program/cohort of 90 including students and staff has been asked to self-isolate and the program has closed.
 12/17/2020,Devon Gardens Elementary,Delta,37,Fraser Health Authority,"""Dec 7, 8""",Exposure 1
 12/17/2020,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,Dec 11,Exposure 2
 12/17/2020,North Surrey Secondary,Surrey,36,Fraser Health Authority,"""Dec 9, 10, and 11""",Exposure 7
