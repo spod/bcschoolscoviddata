@@ -18,7 +18,7 @@ Rank,School,School District,Health Region,Exposures
 13,Maple Ridge Christian School,Independent Schools in Fraser Health,Fraser Health Authority,39
 14,Promontory Heights Community Elementary,33,Fraser Health Authority,38
 15,Abbotsford Senior Secondary School,34,Fraser Health Authority,36
-16,W J Mouat Secondary,34,Fraser Health Authority,35
+15,W J Mouat Secondary,34,Fraser Health Authority,36
 16,Johnston Heights Secondary,36,Fraser Health Authority,35
 17,Rutland Senior Secondary,23,Interior Health Authority,34
 17,R E Mountain Secondary,35,Fraser Health Authority,34
@@ -345,6 +345,7 @@ Rank,School,School District,Health Region,Exposures
 42,Skwo:wech Elementary (formerly Richard McBride Elementary - New Westminster),40,Fraser Health Authority,9
 42,Brentwood Park Elementary,41,Fraser Health Authority,9
 42,Edmonds Community Elementary,41,Fraser Health Authority,9
+42,Pitt Meadows Elementary,42,Fraser Health Authority,9
 42,Walton Elementary,43,Fraser Health Authority,9
 42,Seycove Secondary Community,44,Vancouver Coastal Health,9
 42,Chatelech Secondary,46,Vancouver Coastal Health,9
@@ -391,7 +392,6 @@ Rank,School,School District,Health Region,Exposures
 43,Alouette Elementary,42,Fraser Health Authority,8
 43,Edith McDermott Elementary,42,Fraser Health Authority,8
 43,Eric Langton Elementary,42,Fraser Health Authority,8
-43,Pitt Meadows Elementary,42,Fraser Health Authority,8
 43,Ecole Glenayre Elementary,43,Fraser Health Authority,8
 43,Ecole Irvine Elementary,43,Fraser Health Authority,8
 43,Parkland Elementary,43,Fraser Health Authority,8
