@@ -403,6 +403,7 @@ Rank,School,School District,Health Region,Exposures
 44,Isabella Dicken Elementary,5,Interior Health Authority,8
 44,Mount Baker Secondary,5,Interior Health Authority,8
 44,Lax Kxeen Elementary,52,Northern Health,8
+44,Buckhorn Elementary,57,Northern Health,8
 44,College Heights Secondary,57,Northern Health,8
 44,Heather Park Elementary,57,Northern Health,8
 44,Energetic Learning Campus,60,Northern Health,8
@@ -488,7 +489,6 @@ Rank,School,School District,Health Region,Exposures
 45,Mamquam Elementary,48,Vancouver Coastal Health,7
 45,Parkland Middle School,5,Interior Health Authority,7
 45,Pinewood Elementary (Cranbrook),5,Interior Health Authority,7
-45,Buckhorn Elementary,57,Northern Health,7
 45,Foothills Elementary,57,Northern Health,7
 45,Merritt Secondary,58,Interior Health Authority,7
 45,Ecole Frank Ross Elementary,59,Northern Health,7
@@ -1122,6 +1122,7 @@ Rank,School,School District,Health Region,Exposures
 50,Carlin Elementary Middle,83,Interior Health Authority,2
 50,Eagle River Secondary,83,Interior Health Authority,2
 50,Ranchero Elementary Junior,83,Interior Health Authority,2
+50,Ray Watkins Elementary,84,Vancouver Island Health Authority,2
 50,Evelyn Dickson Elementary,91,Northern Health,2
 50,Lakes District Secondary,91,Northern Health,2
 50,Au Coeur de L'ile,93,Vancouver Island Health Authority,2
@@ -1410,7 +1411,6 @@ Rank,School,School District,Health Region,Exposures
 51,North Okanagan Junior Academy,83,Interior Health Authority,1
 51,Salmon Arm West Elementary,83,Interior Health Authority,1
 51,Silver Creek Elementary Secondary (Salmon Arm),83,Interior Health Authority,1
-51,Ray Watkins Elementary,84,Vancouver Island Health Authority,1
 51,Zeballos Elementary,84,Vancouver Island Health Authority,1
 51,Mouse Mountain Elementary,91,Northern Health,1
 51,Nechako Valley Secondary,91,Northern Health,1
