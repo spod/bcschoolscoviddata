@@ -411,6 +411,7 @@ Rank,School,School District,Health Region,Exposures
 45,Heather Park Elementary,57,Northern Health,8
 45,Energetic Learning Campus,60,Northern Health,8
 45,Dunsmuir Middle School,62,Vancouver Island Health Authority,8
+45,Oceanside Elementary,69,Vancouver Island Health Authority,8
 45,Ucluelet Elementary,70,Vancouver Island Health Authority,8
 45,Juniper Ridge Elementary,73,Interior Health Authority,8
 45,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,8
@@ -499,7 +500,6 @@ Rank,School,School District,Health Region,Exposures
 46,Dr Kearney Middle School,60,Northern Health,7
 46,Belmont Secondary,62,Vancouver Island Health Authority,7
 46,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,7
-46,Oceanside Elementary,69,Vancouver Island Health Authority,7
 46,Eric J Dunn Elementary,70,Vancouver Island Health Authority,7
 46,Georges P Vanier Secondary,71,Vancouver Island Health Authority,7
 46,Aberdeen Elementary (Kamloops),73,Interior Health Authority,7
@@ -583,6 +583,7 @@ Rank,School,School District,Health Region,Exposures
 47,Edwin S Richards Elementary,75,Fraser Health Authority,6
 47,Hatzic Elementary,75,Fraser Health Authority,6
 47,Hillside Traditional Academy,75,Fraser Health Authority,6
+47,Agassiz Elem-Secondary,78,Fraser Health Authority,6
 47,Cowichan Secondary,79,Vancouver Island Health Authority,6
 47,Brent Kennedy Elementary,8,Interior Health Authority,6
 47,Fort Nelson Secondary,81,Northern Health,6
@@ -604,6 +605,7 @@ Rank,School,School District,Health Region,Exposures
 48,J Lloyd Crowe Secondary,20,Interior Health Authority,5
 48,Chute Lake Elementary,23,Interior Health Authority,5
 48,Ellison Elementary (Kelowna),23,Interior Health Authority,5
+48,Mar Jok Elementary,23,Interior Health Authority,5
 48,Quigley Elementary,23,Interior Health Authority,5
 48,Rutland Elementary,23,Interior Health Authority,5
 48,Cultus Lake Community School,33,Fraser Health Authority,5
@@ -660,10 +662,12 @@ Rank,School,School District,Health Region,Exposures
 48,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 48,Valleycliffe Elementary,48,Vancouver Coastal Health,5
 48,Laurie Middle School,5,Interior Health Authority,5
+48,Roosevelt Park Elementary,52,Northern Health,5
 48,Similkameen Elem-Secondary,53,Interior Health Authority,5
 48,Walnut Park Elementary,54,Northern Health,5
 48,D P Todd Secondary,57,Northern Health,5
 48,Peden Hill Elementary,57,Northern Health,5
+48,Chetwynd Secondary,59,Northern Health,5
 48,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 48,Tremblay Elementary,59,Northern Health,5
 48,J Alfred Laird Elementary,6,Interior Health Authority,5
@@ -675,6 +679,7 @@ Rank,School,School District,Health Region,Exposures
 48,Giant's Head Elementary,67,Interior Health Authority,5
 48,Summerland Secondary,67,Interior Health Authority,5
 48,Cedar Elementary (Nanaimo),68,Vancouver Island Health Authority,5
+48,Cinnabar Valley Elementary,68,Vancouver Island Health Authority,5
 48,Park Avenue Elementary,68,Vancouver Island Health Authority,5
 48,Rock City Elementary,68,Vancouver Island Health Authority,5
 48,Wellington Secondary,68,Vancouver Island Health Authority,5
@@ -687,7 +692,6 @@ Rank,School,School District,Health Region,Exposures
 48,Westsyde Secondary,73,Interior Health Authority,5
 48,Christine Morrison Elementary,75,Fraser Health Authority,5
 48,Silverdale Elementary,75,Fraser Health Authority,5
-48,Agassiz Elem-Secondary,78,Fraser Health Authority,5
 48,Hope Secondary,78,Fraser Health Authority,5
 48,Lake Cowichan School,79,Vancouver Island Health Authority,5
 48,Creston Valley Secondary,8,Interior Health Authority,5
@@ -721,7 +725,6 @@ Rank,School,School District,Health Region,Exposures
 49,Bankhead Elementary,23,Interior Health Authority,4
 49,Black Mountain Elementary,23,Interior Health Authority,4
 49,George Pringle Elementary,23,Interior Health Authority,4
-49,Mar Jok Elementary,23,Interior Health Authority,4
 49,Peachland Elementary,23,Interior Health Authority,4
 49,South Kelowna Elementary,23,Interior Health Authority,4
 49,Peter Skene Ogden Secondary,27,Interior Health Authority,4
@@ -779,7 +782,6 @@ Rank,School,School District,Health Region,Exposures
 49,Myrtle Philip Community School,48,Vancouver Coastal Health,4
 49,Spring Creek Community School,48,Vancouver Coastal Health,4
 49,West Boundary Elementary,51,Interior Health Authority,4
-49,Roosevelt Park Elementary,52,Northern Health,4
 49,Bulkley Valley Christian School,54,Northern Health,4
 49,Houston Secondary,54,Northern Health,4
 49,Duchess Park Secondary,57,Northern Health,4
@@ -787,7 +789,6 @@ Rank,School,School District,Health Region,Exposures
 49,Pinewood Elementary (Prince George),57,Northern Health,4
 49,Diamond Vale Elementary,58,Interior Health Authority,4
 49,Merritt Bench Elementary,58,Interior Health Authority,4
-49,Chetwynd Secondary,59,Northern Health,4
 49,Alwin Holland Elementary,60,Northern Health,4
 49,Anne Roberts Young Elementary,60,Northern Health,4
 49,Campus View Elementary,61,Vancouver Island Health Authority,4
@@ -800,7 +801,6 @@ Rank,School,School District,Health Region,Exposures
 49,Summerland Middle School,67,Interior Health Authority,4
 49,Trout Creek Elementary,67,Interior Health Authority,4
 49,Brechin Elementary,68,Vancouver Island Health Authority,4
-49,Cinnabar Valley Elementary,68,Vancouver Island Health Authority,4
 49,Departure Bay Elementary,68,Vancouver Island Health Authority,4
 49,Frank J Ney Elementary,68,Vancouver Island Health Authority,4
 49,John Barsby Secondary School,68,Vancouver Island Health Authority,4
@@ -953,6 +953,7 @@ Rank,School,School District,Health Region,Exposures
 50,Carihi Secondary,72,Vancouver Island Health Authority,3
 50,Ecole Willow Point Elementary,72,Vancouver Island Health Authority,3
 50,Arthur Hatton Elementary,73,Interior Health Authority,3
+50,David Thompson Elementary (Kamloops),73,Interior Health Authority,3
 50,Kay Bingham Elementary,73,Interior Health Authority,3
 50,Marion Schilling Elementary,73,Interior Health Authority,3
 50,Summit Elementary,73,Interior Health Authority,3
@@ -1081,6 +1082,7 @@ Rank,School,School District,Health Region,Exposures
 51,Ecole Willows Elementary,61,Vancouver Island Health Authority,2
 51,Esquimalt High,61,Vancouver Island Health Authority,2
 51,Glanford Middle School,61,Vancouver Island Health Authority,2
+51,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,2
 51,Monterey Middle School,61,Vancouver Island Health Authority,2
 51,Mount Douglas Secondary,61,Vancouver Island Health Authority,2
 51,South Park Family School (Victoria),61,Vancouver Island Health Authority,2
@@ -1105,13 +1107,13 @@ Rank,School,School District,Health Region,Exposures
 51,Ecole Phoenix Middle,72,Vancouver Island Health Authority,2
 51,Barriere Elementary,73,Interior Health Authority,2
 51,Chase Secondary,73,Interior Health Authority,2
-51,David Thompson Elementary,73,Interior Health Authority,2
 51,Ecole Lloyd George Elementary (Kamloops),73,Interior Health Authority,2
 51,Logan Lake Elementary,73,Interior Health Authority,2
 51,Logan Lake Elementary Secondary,73,Interior Health Authority,2
 51,South Sa-hali Elementary,73,Interior Health Authority,2
 51,Kumsheen Elem-Secondary,74,Interior Health Authority,2
 51,Cherry Hill Elementary,75,Fraser Health Authority,2
+51,Deroche Elementary,75,Fraser Health Authority,2
 51,Silver Creek Elementary (Hope),78,Fraser Health Authority,2
 51,Bench Elementary,79,Vancouver Island Health Authority,2
 51,Chemainus Elementary Community School,79,Vancouver Island Health Authority,2
@@ -1268,6 +1270,7 @@ Rank,School,School District,Health Region,Exposures
 52,Outlook Secondary Program,41,Fraser Health Authority,1
 52,Park Crest Elementary,41,Fraser Health Authority,1
 52,Stoney Creek Community Elementary,41,Fraser Health Authority,1
+52,Environmental School Project,42,Fraser Health Authority,1
 52,James Cameron School,42,Fraser Health Authority,1
 52,Maple Ridge Secondary - Outreach Alternate Secondary,42,Fraser Health Authority,1
 52,Riverside Centre,42,Fraser Health Authority,1
@@ -1342,10 +1345,10 @@ Rank,School,School District,Health Region,Exposures
 52,Frank Hobbs Elementary,61,Vancouver Island Health Authority,1
 52,James Bay Community,61,Vancouver Island Health Authority,1
 52,Lambrick Park Secondary,61,Vancouver Island Health Authority,1
-52,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,1
 52,Northridge Elementary (Victoria),61,Vancouver Island Health Authority,1
 52,Strawberry Vale Elementary,61,Vancouver Island Health Authority,1
 52,Victoria High,61,Vancouver Island Health Authority,1
+52,Hans Helgesen Elementary,62,Vancouver Island Health Authority,1
 52,Happy Valley Elementary,62,Vancouver Island Health Authority,1
 52,Ruth King Elementary,62,Vancouver Island Health Authority,1
 52,Keating Elementary,63,Vancouver Island Health Authority,1
@@ -1369,6 +1372,7 @@ Rank,School,School District,Health Region,Exposures
 52,Quarterway Elementary,68,Vancouver Island Health Authority,1
 52,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 52,PASS/Woodwinds Alternate,69,Vancouver Island Health Authority,1
+52,Qualicum Beach Elementary,69,Vancouver Island Health Authority,1
 52,Bamfield Community School,70,Vancouver Island Health Authority,1
 52,Eighth Avenue Learning Centre,70,Vancouver Island Health Authority,1
 52,Maquinna Elementary,70,Vancouver Island Health Authority,1
@@ -1394,7 +1398,6 @@ Rank,School,School District,Health Region,Exposures
 52,Westsyde Elementary,73,Interior Health Authority,1
 52,Cache Creek Elementary,74,Interior Health Authority,1
 52,David Stoddart,74,Interior Health Authority,1
-52,Deroche Elementary,75,Fraser Health Authority,1
 52,Dewdney Elementary,75,Fraser Health Authority,1
 52,Fraserview Learning Centre,75,Fraser Health Authority,1
 52,Stave Falls Elementary,75,Fraser Health Authority,1
