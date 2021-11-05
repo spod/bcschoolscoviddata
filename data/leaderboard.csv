@@ -236,6 +236,7 @@ Rank,School,School District,Health Region,Exposures
 39,Montecito Elementary,41,Fraser Health Authority,12
 39,Garibaldi Secondary,42,Fraser Health Authority,12
 39,Ecole Pitt River Middle,43,Fraser Health Authority,12
+39,Margaret Ma Murray Community School,60,Northern Health,12
 39,Nanaimo District Secondary,68,Vancouver Island Health Authority,12
 39,Ecole Heritage Park Middle School,75,Fraser Health Authority,12
 39,George Bonner Elementary,79,Vancouver Island Health Authority,12
@@ -271,7 +272,6 @@ Rank,School,School District,Health Region,Exposures
 40,Ecole Panorama Heights Elementary,43,Fraser Health Authority,11
 40,Prince George Secondary,57,Northern Health,11
 40,Bert Bowes Middle School,60,Northern Health,11
-40,Margaret Ma Murray Community School,60,Northern Health,11
 40,Albert McMahon Elementary,75,Fraser Health Authority,11
 40,Victor-Brodeur,93,Vancouver Island Health Authority,11
 40,John Calvin School,Independent Schools in Fraser Health,Fraser Health Authority,11
@@ -363,6 +363,7 @@ Rank,School,School District,Health Region,Exposures
 42,Heritage Elementary,57,Northern Health,9
 42,George Jay Elementary,61,Vancouver Island Health Authority,9
 42,Torquay Elementary,61,Vancouver Island Health Authority,9
+42,Oceanside Elementary,69,Vancouver Island Health Authority,9
 42,Juniper Ridge Elementary,73,Interior Health Authority,9
 42,Mission Central Elementary,75,Fraser Health Authority,9
 42,Secondaire Jules-Verne,93,Vancouver Coastal Health,9
@@ -416,9 +417,9 @@ Rank,School,School District,Health Region,Exposures
 43,Buckhorn Elementary,57,Northern Health,8
 43,College Heights Secondary,57,Northern Health,8
 43,Heather Park Elementary,57,Northern Health,8
+43,Charlie Lake Elementary,60,Northern Health,8
 43,Energetic Learning Campus,60,Northern Health,8
 43,Dunsmuir Middle School,62,Vancouver Island Health Authority,8
-43,Oceanside Elementary,69,Vancouver Island Health Authority,8
 43,Ucluelet Elementary,70,Vancouver Island Health Authority,8
 43,Aberdeen Elementary (Kamloops),73,Interior Health Authority,8
 43,Arthur Stevenson Elementary,73,Interior Health Authority,8
@@ -504,7 +505,6 @@ Rank,School,School District,Health Region,Exposures
 44,Merritt Secondary,58,Interior Health Authority,7
 44,Ecole Frank Ross Elementary,59,Northern Health,7
 44,Eileen Madson Primary School,6,Interior Health Authority,7
-44,Charlie Lake Elementary,60,Northern Health,7
 44,Dr Kearney Middle School,60,Northern Health,7
 44,Belmont Secondary,62,Vancouver Island Health Authority,7
 44,Ecole Secondaire Ballenas Secondary,69,Vancouver Island Health Authority,7
@@ -798,6 +798,7 @@ Rank,School,School District,Health Region,Exposures
 47,McKim Middle School,6,Interior Health Authority,4
 47,Alwin Holland Elementary,60,Northern Health,4
 47,Anne Roberts Young Elementary,60,Northern Health,4
+47,Robert Ogilvie Elementary,60,Northern Health,4
 47,Campus View Elementary,61,Vancouver Island Health Authority,4
 47,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,4
 47,Colquitz Middle School,61,Vancouver Island Health Authority,4
@@ -935,7 +936,6 @@ Rank,School,School District,Health Region,Exposures
 48,Merritt Central Elementary,58,Interior Health Authority,3
 48,Canalta Elementary,59,Northern Health,3
 48,Bert Ambrose Elementary,60,Northern Health,3
-48,Robert Ogilvie Elementary,60,Northern Health,3
 48,Upper Pine Elem-Jr Secondary,60,Northern Health,3
 48,Arbutus Global Middle School,61,Vancouver Island Health Authority,3
 48,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,3
