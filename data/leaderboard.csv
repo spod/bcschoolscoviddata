@@ -174,6 +174,7 @@ Rank,School,School District,Health Region,Exposures
 36,David Oppenheimer Elementary,39,Vancouver Coastal Health,15
 36,Cariboo Hill Secondary,41,Fraser Health Authority,15
 36,Pitt Meadows Secondary,42,Fraser Health Authority,15
+36,Tillicum Community School,61,Vancouver Island Health Authority,15
 36,Kelowna Christian School,Independent Schools in Interior Health,Interior Health Authority,15
 37,Blue Jay Elementary,34,Fraser Health Authority,14
 37,Peter Ewart Middle School,35,Fraser Health Authority,14
@@ -195,7 +196,6 @@ Rank,School,School District,Health Region,Exposures
 37,Scott Creek Middle School,43,Fraser Health Authority,14
 37,Ecole Squamish Elementary,48,Vancouver Coastal Health,14
 37,Charles Hays Secondary,52,Northern Health,14
-37,Tillicum Community School,61,Vancouver Island Health Authority,14
 37,Windebank Elementary,75,Fraser Health Authority,14
 37,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
 38,École Dr. Knox Middle School,23,Interior Health Authority,13
@@ -235,6 +235,7 @@ Rank,School,School District,Health Region,Exposures
 39,Ecole Marlborough Elementary,41,Fraser Health Authority,12
 39,Montecito Elementary,41,Fraser Health Authority,12
 39,Garibaldi Secondary,42,Fraser Health Authority,12
+39,Laity View Elementary,42,Fraser Health Authority,12
 39,Ecole Pitt River Middle,43,Fraser Health Authority,12
 39,Margaret Ma Murray Community School,60,Northern Health,12
 39,Nanaimo District Secondary,68,Vancouver Island Health Authority,12
@@ -267,7 +268,6 @@ Rank,School,School District,Health Region,Exposures
 40,John G Diefenbaker Elementary,38,Vancouver Coastal Health,11
 40,Matthew McNair Secondary,38,Vancouver Coastal Health,11
 40,Eric Hamber Secondary,39,Vancouver Coastal Health,11
-40,Laity View Elementary,42,Fraser Health Authority,11
 40,Eagle Mountain Middle School,43,Fraser Health Authority,11
 40,Ecole Panorama Heights Elementary,43,Fraser Health Authority,11
 40,Prince George Secondary,57,Northern Health,11
@@ -541,6 +541,7 @@ Rank,School,School District,Health Region,Exposures
 45,Robertson Elementary,33,Fraser Health Authority,6
 45,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
 45,Dr Thomas A Swift Elementary,34,Fraser Health Authority,6
+45,Alex Hope Elementary,35,Fraser Health Authority,6
 45,James Hill Elementary,35,Fraser Health Authority,6
 45,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,6
 45,City Central Learning Centre,36,Fraser Health Authority,6
@@ -621,7 +622,6 @@ Rank,School,School District,Health Region,Exposures
 46,Auguston Traditional Elementary,34,Fraser Health Authority,5
 46,Matsqui Elementary,34,Fraser Health Authority,5
 46,Upper Sumas Elementary,34,Fraser Health Authority,5
-46,Alex Hope Elementary,35,Fraser Health Authority,5
 46,Blacklock Fine Arts Elementary,35,Fraser Health Authority,5
 46,Fort Langley Elementary,35,Fraser Health Authority,5
 46,Berkshire Park Elementary,36,Fraser Health Authority,5
