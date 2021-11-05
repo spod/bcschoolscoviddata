@@ -1,4 +1,10 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+11/04/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,"""October 25 and 26, 2021""",Exposure 1
+11/04/2021,Bear Creek Elementary,Surrey,36,Fraser Health Authority,"""October 29, 2021""",Exposure 7
+11/04/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""October 27, 2021""",Exposure 6
+11/04/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""November 1, 2021""",Exposure 5
+11/04/2021,Our Lady of Mercy,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""October 26, 27, 28, and 29, 2021""",Exposure 1
+11/04/2021,Suncrest Elementary,Burnaby,41,Fraser Health Authority,"""October 27, 28, and 29, 2021""",Exposure 1
 11/03/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""October 25 and 26, 2021""",Exposure 16
 11/03/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""October 29, 2021""",Exposure 3
 11/03/2021,Margaret Jenkins Elementary,Victoria,61,Vancouver Island Health Authority,"""November 1, 2021""",Exposure 1
@@ -3951,7 +3957,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/30/2021,David Thompson Secondary (Vancouver),Vancouver,39,Vancouver Coastal Health,"""April 19, 20, 21, 22, and 23""",Exposure 14
 04/30/2021,Mountain Elementary,Abbotsford,34,Fraser Health Authority,April 23,Exposure 6
 04/30/2021,R E Mountain Secondary,Langley,35,Fraser Health Authority,April 26,Exposure 24
-04/30/2021,Our Lady of Mercy,Burnaby,41,Fraser Health Authority,"""April 20, 21, and 22""",Exposure 3
+04/30/2021,Our Lady of Mercy,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""April 20, 21, and 22""",Exposure 3
 04/30/2021,Eric Langton Elementary,Maple Ridge,42,Fraser Health Authority,April 21 and 22,Documentation on file showing that the attached letter was for 2 individuals that had tested positive. We have listed these exposures as Exposure 5 and 6.
 04/30/2021,Archibald Blair Elementary,Richmond,38,Vancouver Coastal Health,April 26,Exposure 1
 04/30/2021,Simon Cunningham Elementary,Surrey,36,Fraser Health Authority,"""April 26, 27""",Exposure 10
@@ -4096,7 +4102,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/28/2021,Guru Angand Dev Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""April 16, 19, and 20""",Exposure 15
 04/28/2021,Canada Way Learning Centre,Burnaby,41,Fraser Health Authority,April 22,Exposure 1
 04/28/2021,Steveston-London Secondary School,Richmond,38,Vancouver Coastal Health,April 23 (Date on the BCCDC webpage),Exposure 13
-04/28/2021,Our Lady of Mercy,Burnaby,41,Fraser Health Authority,April 19,Exposure 2
+04/28/2021,Our Lady of Mercy,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,April 19,Exposure 2
 04/28/2021,Nakusp Elementary,Nakusp,10,Interior Health Authority,"""April 16, 19, 20, 21, and 22""",Note: This school has been closed for two week and will resume in-class learning on May 17th because of the number of staff members self-isolating due to covid exposures in the school.
 04/27/2021,Cowichan Valley Open Learning Co-op,Duncan,79,Vancouver Island Health Authority,April 21 and 22,Exposure 1
 04/27/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,April 20,Exposure 10
@@ -4168,7 +4174,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/27/2021,Peter Ewart Middle School,Langley,35,Fraser Health Authority,"""April 21, 22, and 23""",Exposure 10
 04/27/2021,Rocky Mountain Elementary,Elkford,5,Interior Health Authority,April 23 (Date on the BCCDC webpage),Exposure 2
 04/27/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""April 21, 23""",Exposure 24
-04/27/2021,Our Lady of Mercy,Burnaby,41,Fraser Health Authority,April 16,Exposure 1
+04/27/2021,Our Lady of Mercy,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,April 16,Exposure 1
 04/27/2021,St. James and St. Anns Elementary,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,April 20 and 21,Exposure 2
 04/27/2021,ASIA - Sumas Mountain 6-12,Abbotsford,34,Fraser Health Authority,April 20 and 21,Exposure 2
 04/26/2021,Burnaby Central Secondary,Burnaby,41,Fraser Health Authority,April 20 and 21,Exposure 20
