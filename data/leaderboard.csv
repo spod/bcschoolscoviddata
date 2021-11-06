@@ -45,9 +45,9 @@ Rank,School,School District,Health Region,Exposures
 26,Mennonite Educational Institute Elementary School,Independent Schools in Fraser Health,Fraser Health Authority,25
 26,Mennonite Educational Institute Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,25
 27,Sardis Secondary,33,Fraser Health Authority,24
+27,Abbotsford Middle School,34,Fraser Health Authority,24
 27,Burnaby North Secondary,41,Fraser Health Authority,24
 28,Sardis Elementary,33,Fraser Health Authority,23
-28,Abbotsford Middle School,34,Fraser Health Authority,23
 28,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
 28,Delview Secondary,37,Fraser Health Authority,23
 28,Gladstone Secondary,39,Vancouver Coastal Health,23
@@ -66,6 +66,7 @@ Rank,School,School District,Health Region,Exposures
 29,H D Stafford Middle,35,Fraser Health Authority,22
 29,Clayton Heights Secondary,36,Fraser Health Authority,22
 29,Woodward Hill Elementary,36,Fraser Health Authority,22
+29,Kanaka Creek Elementary,42,Fraser Health Authority,22
 29,Gleneagle Secondary,43,Fraser Health Authority,22
 29,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,22
 29,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,22
@@ -85,7 +86,6 @@ Rank,School,School District,Health Region,Exposures
 31,David Brankin Elementary,36,Fraser Health Authority,20
 31,Burnaby South Secondary,41,Fraser Health Authority,20
 31,Moscrop Secondary,41,Fraser Health Authority,20
-31,Kanaka Creek Elementary,42,Fraser Health Authority,20
 31,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,20
 31,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,20
 32,McMillan Elementary,34,Fraser Health Authority,19
@@ -802,6 +802,7 @@ Rank,School,School District,Health Region,Exposures
 47,Campus View Elementary,61,Vancouver Island Health Authority,4
 47,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,4
 47,Colquitz Middle School,61,Vancouver Island Health Authority,4
+47,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,4
 47,Oak Bay Secondary,61,Vancouver Island Health Authority,4
 47,Spectrum Community,61,Vancouver Island Health Authority,4
 47,Columbia Elementary,67,Interior Health Authority,4
@@ -942,7 +943,6 @@ Rank,School,School District,Health Region,Exposures
 48,Ecole Macaulay Elementary,61,Vancouver Island Health Authority,3
 48,Gordon Head Middle School,61,Vancouver Island Health Authority,3
 48,Lake Hill Elementary,61,Vancouver Island Health Authority,3
-48,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,3
 48,Reynolds Secondary,61,Vancouver Island Health Authority,3
 48,Shoreline Community Middle School,61,Vancouver Island Health Authority,3
 48,Victoria West Elementary,61,Vancouver Island Health Authority,3
