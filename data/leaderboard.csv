@@ -49,6 +49,7 @@ Rank,School,School District,Health Region,Exposures
 27,Burnaby North Secondary,41,Fraser Health Authority,24
 28,Sardis Elementary,33,Fraser Health Authority,23
 28,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
+28,H D Stafford Middle,35,Fraser Health Authority,23
 28,Delview Secondary,37,Fraser Health Authority,23
 28,Gladstone Secondary,39,Vancouver Coastal Health,23
 28,Kitsilano Secondary,39,Vancouver Coastal Health,23
@@ -63,7 +64,6 @@ Rank,School,School District,Health Region,Exposures
 29,Mount Slesse Middle School,33,Fraser Health Authority,22
 29,Eugene Reimer Middle School,34,Fraser Health Authority,22
 29,William A. Fraser Middle School,34,Fraser Health Authority,22
-29,H D Stafford Middle,35,Fraser Health Authority,22
 29,Clayton Heights Secondary,36,Fraser Health Authority,22
 29,Woodward Hill Elementary,36,Fraser Health Authority,22
 29,Kanaka Creek Elementary,42,Fraser Health Authority,22
@@ -521,6 +521,7 @@ Rank,School,School District,Health Region,Exposures
 44,Drinkwater Elementary,79,Vancouver Island Health Authority,7
 44,Khowhemun Elementary,79,Vancouver Island Health Authority,7
 44,Hillcrest Elementary (Salmon Arm),83,Interior Health Authority,7
+44,M.V. Beattie Elementary,83,Interior Health Authority,7
 44,Parkview Elementary School,83,Interior Health Authority,7
 44,Salmon Arm Secondary (Jackson),83,Interior Health Authority,7
 44,Shuswap Middle School,83,Interior Health Authority,7
@@ -586,6 +587,7 @@ Rank,School,School District,Health Region,Exposures
 45,David Thompson Secondary (Invermere),6,Interior Health Authority,6
 45,Central Elementary (Ft. St John),60,Northern Health,6
 45,Ecole Quadra Elementary,61,Vancouver Island Health Authority,6
+45,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,6
 45,Oaklands Elementary,61,Vancouver Island Health Authority,6
 45,Bayview Elementary,68,Vancouver Island Health Authority,6
 45,Cinnabar Valley Elementary,68,Vancouver Island Health Authority,6
@@ -603,7 +605,6 @@ Rank,School,School District,Health Region,Exposures
 45,Fort Nelson Secondary,81,Northern Health,6
 45,Kildala Elementary,82,Northern Health,6
 45,Thornhill Primary,82,Northern Health,6
-45,M.V. Beattie Elementary,83,Interior Health Authority,6
 45,Sorrento Elementary,83,Interior Health Authority,6
 45,BC Muslim School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
 45,Our Lady of Sorrows,Independent Schools in Coastal Health,Vancouver Coastal Health,6
@@ -706,6 +707,7 @@ Rank,School,School District,Health Region,Exposures
 46,Suwilaawks Community School,82,Northern Health,5
 46,Bastion Elementary,83,Interior Health Authority,5
 46,Grindrod Elementary,83,Interior Health Authority,5
+46,South Broadview Elementary,83,Interior Health Authority,5
 46,South Canoe Outdoor learning school,83,Interior Health Authority,5
 46,Corpus Christi School,Independent Schools in Coastal Health,Vancouver Coastal Health,5
 46,Crofton House,Independent Schools in Coastal Health,Vancouver Coastal Health,5
@@ -802,7 +804,6 @@ Rank,School,School District,Health Region,Exposures
 47,Campus View Elementary,61,Vancouver Island Health Authority,4
 47,Cloverdale Traditional Elementary (Victoria),61,Vancouver Island Health Authority,4
 47,Colquitz Middle School,61,Vancouver Island Health Authority,4
-47,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,4
 47,Oak Bay Secondary,61,Vancouver Island Health Authority,4
 47,Spectrum Community,61,Vancouver Island Health Authority,4
 47,Columbia Elementary,67,Interior Health Authority,4
@@ -833,7 +834,6 @@ Rank,School,School District,Health Region,Exposures
 47,Thornhill Elementary,82,Northern Health,4
 47,Uplands Elementary (Terrace),82,Northern Health,4
 47,Salmon Arm Secondary  (Sullivan),83,Interior Health Authority,4
-47,South Broadview Elementary,83,Interior Health Authority,4
 47,Fraser Lake Elem-Secondary,91,Northern Health,4
 47,Sinkutview Elementary,91,Northern Health,4
 47,William Konkin Elementary,91,Northern Health,4
