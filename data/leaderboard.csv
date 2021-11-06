@@ -375,6 +375,7 @@ Rank,School,School District,Health Region,Exposures
 42,St Ann's Academy,Independent Schools in Interior Health,Interior Health Authority,9
 42,St. James School (Vernon),Independent Schools in Interior Health,Interior Health Authority,9
 42,Nak'albun Elementary School,Independent Schools in Northern Health,Northern Health,9
+43,Glenmerry Elementary,20,Interior Health Authority,8
 43,Clarence Fulton Secondary,22,Interior Health Authority,8
 43,Davidson Road Elementary,23,Interior Health Authority,8
 43,Glenrosa Middle School,23,Interior Health Authority,8
@@ -413,6 +414,7 @@ Rank,School,School District,Health Region,Exposures
 43,Don Ross Middle School,48,Vancouver Coastal Health,8
 43,Isabella Dicken Elementary,5,Interior Health Authority,8
 43,Mount Baker Secondary,5,Interior Health Authority,8
+43,Steeples Elementary,5,Interior Health Authority,8
 43,Lax Kxeen Elementary,52,Northern Health,8
 43,Buckhorn Elementary,57,Northern Health,8
 43,College Heights Secondary,57,Northern Health,8
@@ -444,7 +446,6 @@ Rank,School,School District,Health Region,Exposures
 43,Duncan Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,8
 43,Sacred Heart (Prince George),Independent Schools in Northern Health,Northern Health,8
 44,Nakusp Elementary,10,Interior Health Authority,7
-44,Glenmerry Elementary,20,Interior Health Authority,7
 44,James L Webster Elementary,20,Interior Health Authority,7
 44,Kalamalka Secondary,22,Interior Health Authority,7
 44,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,7
@@ -502,7 +503,6 @@ Rank,School,School District,Health Region,Exposures
 44,Mamquam Elementary,48,Vancouver Coastal Health,7
 44,Parkland Middle School,5,Interior Health Authority,7
 44,Pinewood Elementary (Cranbrook),5,Interior Health Authority,7
-44,Steeples Elementary,5,Interior Health Authority,7
 44,Foothills Elementary,57,Northern Health,7
 44,Merritt Secondary,58,Interior Health Authority,7
 44,Ecole Frank Ross Elementary,59,Northern Health,7
@@ -534,6 +534,7 @@ Rank,School,School District,Health Region,Exposures
 44,St Joseph Elementary School (Kelowna),Independent Schools in Interior Health,Interior Health Authority,7
 44,Campbell River Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,7
 44,Cedars Christian School,Independent Schools in Northern Health,Northern Health,7
+45,J Lloyd Crowe Secondary,20,Interior Health Authority,6
 45,Ellison Elementary (Vernon),22,Interior Health Authority,6
 45,Harwood Elementary,22,Interior Health Authority,6
 45,Ellison Elementary (Kelowna),23,Interior Health Authority,6
@@ -577,6 +578,7 @@ Rank,School,School District,Health Region,Exposures
 45,Ecole Pauline Johnson Elementary,45,Vancouver Coastal Health,6
 45,Brackendale Elementary,48,Vancouver Coastal Health,6
 45,Signal Hill Elementary,48,Vancouver Coastal Health,6
+45,Laurie Middle School,5,Interior Health Authority,6
 45,Grand Forks Secondary,51,Interior Health Authority,6
 45,Prince Rupert Middle,52,Northern Health,6
 45,Oliver Elementary,53,Interior Health Authority,6
@@ -613,7 +615,6 @@ Rank,School,School District,Health Region,Exposures
 45,Immaculata Regional High School,Independent Schools in Interior Health,Interior Health Authority,6
 45,Our Lady of Perpetual Help (OLPH)-Kamloops,Independent Schools in Interior Health,Interior Health Authority,6
 45,Notre Dame (Dawson Creek),Independent Schools in Northern Health,Northern Health,6
-46,J Lloyd Crowe Secondary,20,Interior Health Authority,5
 46,Mission Hill Elementary,22,Interior Health Authority,5
 46,Chute Lake Elementary,23,Interior Health Authority,5
 46,Quigley Elementary,23,Interior Health Authority,5
@@ -669,7 +670,6 @@ Rank,School,School District,Health Region,Exposures
 46,Elphinstone Secondary,46,Vancouver Coastal Health,5
 46,Garibaldi Highlands Elementary,48,Vancouver Coastal Health,5
 46,Valleycliffe Elementary,48,Vancouver Coastal Health,5
-46,Laurie Middle School,5,Interior Health Authority,5
 46,Roosevelt Park Elementary,52,Northern Health,5
 46,Similkameen Elem-Secondary,53,Interior Health Authority,5
 46,Walnut Park Elementary,54,Northern Health,5
