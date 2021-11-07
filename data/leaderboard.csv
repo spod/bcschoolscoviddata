@@ -111,6 +111,7 @@ Rank,School,School District,Health Region,Exposures
 33,David Thompson Secondary (Vancouver),39,Vancouver Coastal Health,18
 33,Vancouver Technical Secondary,39,Vancouver Coastal Health,18
 33,Fairview Elementary (Maple Ridge),42,Fraser Health Authority,18
+33,Maple Ridge Secondary,42,Fraser Health Authority,18
 33,Yennadon Elementary,42,Fraser Health Authority,18
 33,Ecole Riverside Secondary,43,Fraser Health Authority,18
 33,Capilano Elementary,44,Vancouver Coastal Health,18
@@ -133,7 +134,6 @@ Rank,School,School District,Health Region,Exposures
 34,Simon Cunningham Elementary,36,Fraser Health Authority,17
 34,Burnsview Secondary,37,Fraser Health Authority,17
 34,Britannia Community Secondary,39,Vancouver Coastal Health,17
-34,Maple Ridge Secondary,42,Fraser Health Authority,17
 34,Argyle Secondary,44,Vancouver Coastal Health,17
 34,Sentinel Secondary,45,Vancouver Coastal Health,17
 34,T M Roberts Elementary,5,Interior Health Authority,17
@@ -196,6 +196,7 @@ Rank,School,School District,Health Region,Exposures
 37,Scott Creek Middle School,43,Fraser Health Authority,14
 37,Ecole Squamish Elementary,48,Vancouver Coastal Health,14
 37,Charles Hays Secondary,52,Northern Health,14
+37,Sir James Douglas Elementary (Victoria),61,Vancouver Island Health Authority,14
 37,Windebank Elementary,75,Fraser Health Authority,14
 37,Southpointe Academy,Independent Schools in Fraser Health,Fraser Health Authority,14
 38,École Dr. Knox Middle School,23,Interior Health Authority,13
@@ -213,7 +214,6 @@ Rank,School,School District,Health Region,Exposures
 38,Thomas Haney Secondary,42,Fraser Health Authority,13
 38,Ecole Glen Elementary,43,Fraser Health Authority,13
 38,Rockridge Secondary,45,Vancouver Coastal Health,13
-38,Sir James Douglas Elementary (Victoria),61,Vancouver Island Health Authority,13
 38,Valleyview Secondary,73,Interior Health Authority,13
 38,Notre Dame Regional Secondary (Vancouver),Independent Schools in Coastal Health,Vancouver Coastal Health,13
 38,St Patrick Regional Secondary,Independent Schools in Coastal Health,Vancouver Coastal Health,13
@@ -447,6 +447,7 @@ Rank,School,School District,Health Region,Exposures
 43,Sacred Heart (Prince George),Independent Schools in Northern Health,Northern Health,8
 44,Nakusp Elementary,10,Interior Health Authority,7
 44,James L Webster Elementary,20,Interior Health Authority,7
+44,Harwood Elementary,22,Interior Health Authority,7
 44,Kalamalka Secondary,22,Interior Health Authority,7
 44,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,7
 44,Dorothea Walker Elementary,23,Interior Health Authority,7
@@ -537,7 +538,6 @@ Rank,School,School District,Health Region,Exposures
 44,Cedars Christian School,Independent Schools in Northern Health,Northern Health,7
 45,J Lloyd Crowe Secondary,20,Interior Health Authority,6
 45,Ellison Elementary (Vernon),22,Interior Health Authority,6
-45,Harwood Elementary,22,Interior Health Authority,6
 45,Ellison Elementary (Kelowna),23,Interior Health Authority,6
 45,George Pringle Elementary,23,Interior Health Authority,6
 45,Watson Road Elementary,23,Interior Health Authority,6
@@ -863,6 +863,7 @@ Rank,School,School District,Health Region,Exposures
 48,Stanley Humphries Secondary,20,Interior Health Authority,3
 48,BX Elementary,22,Interior Health Authority,3
 48,Cherryville Elementary,22,Interior Health Authority,3
+48,J W Inglis Elementary,22,Interior Health Authority,3
 48,Glenrosa Elementary,23,Interior Health Authority,3
 48,Helen Gorman Elementary,23,Interior Health Authority,3
 48,Oyama Traditional School,23,Interior Health Authority,3
@@ -1000,7 +1001,6 @@ Rank,School,School District,Health Region,Exposures
 49,Fruitvale Elementary,20,Interior Health Authority,2
 49,Alexis Park Elementary,22,Interior Health Authority,2
 49,Coldstream Elementary,22,Interior Health Authority,2
-49,J W Inglis Elementary,22,Interior Health Authority,2
 49,Kidston Elementary,22,Interior Health Authority,2
 49,Lavington Elementary,22,Interior Health Authority,2
 49,Silver Star Elementary,22,Interior Health Authority,2
