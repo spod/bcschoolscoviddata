@@ -341,6 +341,7 @@ Rank,School,School District,Health Region,Exposures
 42,Ross Elementary,34,Fraser Health Authority,9
 42,Ten Broeck Elementary,34,Fraser Health Authority,9
 42,Dorothy Peacock Elementary,35,Fraser Health Authority,9
+42,Fort Langley Elementary,35,Fraser Health Authority,9
 42,Peterson Road Elementary,35,Fraser Health Authority,9
 42,A H P Matthew Elementary,36,Fraser Health Authority,9
 42,A J McLellan Elementary,36,Fraser Health Authority,9
@@ -369,6 +370,7 @@ Rank,School,School District,Health Region,Exposures
 42,Chatelech Secondary,46,Vancouver Coastal Health,9
 42,Conrad Street Elementary,52,Northern Health,9
 42,Heritage Elementary,57,Northern Health,9
+42,Charlie Lake Elementary,60,Northern Health,9
 42,George Jay Elementary,61,Vancouver Island Health Authority,9
 42,Margaret Jenkins Elementary,61,Vancouver Island Health Authority,9
 42,Torquay Elementary,61,Vancouver Island Health Authority,9
@@ -394,7 +396,6 @@ Rank,School,School District,Health Region,Exposures
 43,McCammon Traditional Elementary,33,Fraser Health Authority,8
 43,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,8
 43,Sandy Hill Elementary,34,Fraser Health Authority,8
-43,Fort Langley Elementary,35,Fraser Health Authority,8
 43,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,8
 43,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,8
 43,Yorkson Creek Middle School,35,Fraser Health Authority,8
@@ -433,7 +434,6 @@ Rank,School,School District,Health Region,Exposures
 43,Buckhorn Elementary,57,Northern Health,8
 43,College Heights Secondary,57,Northern Health,8
 43,Heather Park Elementary,57,Northern Health,8
-43,Charlie Lake Elementary,60,Northern Health,8
 43,Energetic Learning Campus,60,Northern Health,8
 43,Dunsmuir Middle School,62,Vancouver Island Health Authority,8
 43,Ucluelet Elementary,70,Vancouver Island Health Authority,8
@@ -1173,6 +1173,7 @@ Rank,School,School District,Health Region,Exposures
 49,Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 49,St. John Paul II Catholic School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 49,Annunciation School,Independent Schools in Northern Health,Northern Health,2
+49,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,2
 49,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 49,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
 49,Veritas Catholic,Independent Schools in Northern Health,Northern Health,2
@@ -1490,4 +1491,3 @@ Rank,School,School District,Health Region,Exposures
 50,St Andrew's Regional High,Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,St Michaels University School - Junior,Independent Schools in Island Health,Vancouver Island Health Authority,1
 50,Haisla Community School,Independent Schools in Northern Health,Northern Health,1
-50,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,1
