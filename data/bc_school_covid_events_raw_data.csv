@@ -1,4 +1,5 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
+11/09/2021,Margaret Jenkins Elementary,Victoria,61,Vancouver Island Health Authority,"""November 1 and 3, 2021""",Exposure 8
 11/08/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 2
 11/08/2021,Arrowview Elementary,Qualicum Beach,69,Vancouver Island Health Authority,"""November 2, 3, and 4, 2021""",Exposure 1
 11/08/2021,Rogers Elementary,Victoria,61,Vancouver Island Health Authority,"""November 2, 3, 4, and 5, 2021""",Exposure 1
@@ -27,11 +28,13 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/08/2021,Glenwood Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,"""October 28 and 29, 2021""",Exposure 1
 11/08/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""November 2, 2021""",Exposure 7
 11/08/2021,Vernon Secondary,Vernon,22,Interior Health Authority,"""October 28 and 29, 2021""",Exposure 1
+11/08/2021,Beattie Elementary,Kamloops,73,Interior Health Authority,"""October 26, 2021""",Exposure 3
 11/08/2021,David Thompson Secondary (Invermere),Invermere,6,Interior Health Authority,"""November 1 and 2, 2021""",Exposure 5
+11/08/2021,Aberdeen Elementary (Kamloops),Kamloops,73,Interior Health Authority,"""November 1 and 2, 2021""",Exposure 6
+11/08/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 3, 2021""",Exposure 9
 11/08/2021,Chilcotin Road Elementary,Williams Lake,27,Interior Health Authority,"""November 1, 2021""",Exposure 8
 11/08/2021,Simonds Elementary,Langley,35,Fraser Health Authority,"""November 1, 2, and 3, 2021""",Indicates this is also the U-Connect program.
 11/08/2021,Lord Kelvin Elementary,New Westminster,40,Fraser Health Authority,"""November 1, 2, and 3, 2021""",Exposure 5
-11/08/2021,Mountainview Elementary (Williams Lake),Williams Lake,27,Interior Health Authority,"""October 26, 27, 28, and 29, 2021""",Exposure 1
 11/08/2021,Arthur Hatton Elementary,Kamloops,73,Interior Health Authority,"""October 27 and 28, 2021""",Exposure 3
 11/08/2021,Salmon Arm Secondary (Jackson),Salmon Arm,83,Interior Health Authority,"""October 27 and November 1, 2021""",Exposure 3
 11/08/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""October 27 and 28, 2021""",Exposure 7
@@ -50,8 +53,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/08/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 3
 11/08/2021,Davie Jones Elementary,Pitt Meadows,42,Fraser Health Authority,"""November 2, 2021""",Exposure 4
 11/08/2021,Eric Langton Elementary,Maple Ridge,42,Fraser Health Authority,"""November 1, 2021""",Exposure 4
-11/08/2021,Beattie Elementary,Kamloops,73,Interior Health Authority,"""October 26, 2021""",Exposure 3
-11/08/2021,Aberdeen Elementary (Kamloops),Kamloops,73,Interior Health Authority,"""November 1 and 2, 2021""",Exposure 6
+11/08/2021,Bridgeview Elementary,Surrey,36,Fraser Health Authority,"""November 1 and 2, 2021""",Exposure 6
+11/08/2021,Margaret Jenkins Elementary,Victoria,61,Vancouver Island Health Authority,"""Nov 1, 2, 3, 4, 5, 2021""",Exposure 7
+11/08/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,"""October 27, 28. November 1, 2, 4, and 5, 2021""",Exposure 5
+11/08/2021,Earl Marriott Secondary,Surrey,36,Fraser Health Authority,"""November 1, 2, and 4, 2021""",Exposure 4
+11/08/2021,Mountainview Elementary (Williams Lake),Williams Lake,27,Interior Health Authority,"""October 26, 27, 28, and 29, 2021""",Exposure 1
+11/08/2021,Cornerstone Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 2, 3, and 4, 2021""",Exposure 8
+11/08/2021,Grandview Heights Secondary,Surrey,36,Fraser Health Authority,"""November 1, 2, and 3, 2021""",Exposure 2
+11/08/2021,K B Woodward Elementary,Surrey,36,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 2
+11/08/2021,Iqra School,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""November 1, 2, and 3, 2021""",Exposure 8
 11/07/2021,Byrne Creek Community Secondary,Burnaby,41,Fraser Health Authority,"""October 26, 27. 28, and 29, 2021""",Exposure 2
 11/07/2021,Ecole Macaulay Elementary,Victoria,61,Vancouver Island Health Authority,"""Nov 1, 2, 3, 4, 2021""",Exposure 3
 11/07/2021,Tillicum Community School,Victoria,61,Vancouver Island Health Authority,"""Oct 29, Nov 1, 3, 4, 2021""",Whole class in isolation.
