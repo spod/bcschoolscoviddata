@@ -18,6 +18,15 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/09/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""Nov 2, 2021""",Exposure 13
 11/09/2021,Mission Central Elementary,Mission,75,Fraser Health Authority,"""November 3, 4, and 5, 2021""",Exposure 2
 11/09/2021,F G Leary Fine Arts Elementary,Chilliwack,33,Fraser Health Authority,"""Nov 3, 4, 2021""",Exposure 8
+11/09/2021,J Lloyd Crowe Secondary,Trail,20,Interior Health Authority,"""November 2 and 3, 2021""",Exposure 5
+11/09/2021,BC Provincial School for the Deaf Elem,Burnaby,41,Fraser Health Authority,"""November 3, 2021""",Exposure 3
+11/09/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 6
+11/09/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 4 and 5, 2021""",Exposure 7
+11/09/2021,Marion Schilling Elementary,Kamloops,73,Interior Health Authority,"""October 29, 2021""",Exposure 3
+11/09/2021,Beattie Elementary,Kamloops,73,Interior Health Authority,"""October 29 and November 1, 2021""",Exposure 4
+11/09/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""October 27, 28, and 29, 2021""",Exposure 5
+11/09/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""Nov 2, 3, 4, 5, 2021""",Exposure 5
+11/09/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""November 4, 2021""",Exposure 9
 11/09/2021,Connaught Heights Elementary,New Westminster,40,Fraser Health Authority,"""Nov 5, 2021""",Exposure 1
 11/09/2021,Highland Park Elementary (Armstrong),Armstrong,83,Interior Health Authority,"""November 2 and 3, 2021""",Exposure 2
 11/09/2021,F G Leary Fine Arts Elementary,Chilliwack,33,Fraser Health Authority,"""Nov 2, 2021""",Exposure 7
@@ -32,21 +41,12 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/09/2021,Dormick Park Elementary,Abbotsford,34,Fraser Health Authority,"""November 3, 4, and 5, 2021""",Exposure 2
 11/09/2021,Matsqui Elementary,Abbotsford,34,Fraser Health Authority,"""Nov 1, 2021""",Exposure 6
 11/09/2021,Yennadon Elementary,Maple Ridge,42,Fraser Health Authority,"""November 2, 2021""",Exposure 8
-11/09/2021,J Lloyd Crowe Secondary,Trail,20,Interior Health Authority,"""November 2 and 3, 2021""",Exposure 5
-11/09/2021,BC Provincial School for the Deaf Elem,Burnaby,41,Fraser Health Authority,"""November 3, 2021""",Exposure 3
-11/09/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 6
-11/09/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 4 and 5, 2021""",Exposure 7
 11/09/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,,Dates not provided. The letter indicates multiple recent exposures.
 11/09/2021,J W Inglis Elementary,Lumby,22,Interior Health Authority,"""October 27 and 28, 2021""",Exposure 4
 11/09/2021,Clarence Fulton Secondary,Vernon,22,Interior Health Authority,"""November 1, 2, and 3, 2021""",Exposure 1
 11/09/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""November 3, 2021""",)
 11/09/2021,Mount Slesse Middle School,Chilliwack,33,Fraser Health Authority,"""Nov 2, 3, 2021""",Exposure 15
 11/09/2021,Dr D A Perley Elementary,Grand Forks,51,Interior Health Authority,"""November 1, 2021""",Exposure 2
-11/09/2021,Marion Schilling Elementary,Kamloops,73,Interior Health Authority,"""October 29, 2021""",Exposure 3
-11/09/2021,Beattie Elementary,Kamloops,73,Interior Health Authority,"""October 29 and November 1, 2021""",Exposure 4
-11/09/2021,Charles Bloom Elementary Secondary,Lumby,22,Interior Health Authority,"""October 27, 28, and 29, 2021""",Exposure 5
-11/09/2021,East Chilliwack Elementary,Chilliwack,33,Fraser Health Authority,"""Nov 2, 3, 4, 5, 2021""",Exposure 5
-11/09/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""November 4, 2021""",Exposure 9
 11/08/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 2
 11/08/2021,Arrowview Elementary,Qualicum Beach,69,Vancouver Island Health Authority,"""November 2, 3, and 4, 2021""",Exposure 1
 11/08/2021,Rogers Elementary,Victoria,61,Vancouver Island Health Authority,"""November 2, 3, 4, and 5, 2021""",Exposure 1
