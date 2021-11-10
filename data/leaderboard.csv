@@ -281,6 +281,7 @@ Rank,School,School District,Health Region,Exposures
 40,Prince George Secondary,57,Northern Health,11
 40,Bert Bowes Middle School,60,Northern Health,11
 40,Pleasant Valley Elementary,68,Vancouver Island Health Authority,11
+40,Oceanside Elementary,69,Vancouver Island Health Authority,11
 40,Albert McMahon Elementary,75,Fraser Health Authority,11
 40,Victor-Brodeur,93,Vancouver Island Health Authority,11
 40,John Calvin School,Independent Schools in Fraser Health,Fraser Health Authority,11
@@ -315,7 +316,6 @@ Rank,School,School District,Health Region,Exposures
 41,Whistler Secondary,48,Vancouver Coastal Health,10
 41,Southridge Elementary,57,Northern Health,10
 41,Fairview Elementary (Nanaimo),68,Vancouver Island Health Authority,10
-41,Oceanside Elementary,69,Vancouver Island Health Authority,10
 41,Tansor Elementary,79,Vancouver Island Health Authority,10
 41,M.V. Beattie Elementary,83,Interior Health Authority,10
 41,Pleasant Valley Secondary,83,Interior Health Authority,10
