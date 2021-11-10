@@ -227,6 +227,7 @@ Rank,School,School District,Health Region,Exposures
 38,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 38,King's Christian School,Independent Schools in Interior Health,Interior Health Authority,13
 39,Hudson Road Elementary,23,Interior Health Authority,12
+39,Rosedale Traditional Community,33,Fraser Health Authority,12
 39,Tyson Elementary,33,Fraser Health Authority,12
 39,Harry Sayers Elementary,34,Fraser Health Authority,12
 39,Betty Gilbert Middle,35,Fraser Health Authority,12
@@ -252,7 +253,6 @@ Rank,School,School District,Health Region,Exposures
 40,Cataline Elementary,27,Interior Health Authority,11
 40,Marie Sharpe Elementary,27,Interior Health Authority,11
 40,Little Mountain Elementary,33,Fraser Health Authority,11
-40,Rosedale Traditional Community,33,Fraser Health Authority,11
 40,Dave Kandal Elementary School,34,Fraser Health Authority,11
 40,King Traditional Elementary,34,Fraser Health Authority,11
 40,Coghlan Fundamental Elementary,35,Fraser Health Authority,11
@@ -1026,6 +1026,7 @@ Rank,School,School District,Health Region,Exposures
 49,Correlieu Secondary School,28,Northern Health,2
 49,Voyageur Elementary School,28,Northern Health,2
 49,A.D Rundle Middle School - Integrated Arts and Technology,33,Fraser Health Authority,2
+49,Bernard Elementary,33,Fraser Health Authority,2
 49,Yarrow Community School,33,Fraser Health Authority,2
 49,Dr Roberta Bondar Elementary,34,Fraser Health Authority,2
 49,Jackson Elementary,34,Fraser Health Authority,2
@@ -1198,7 +1199,6 @@ Rank,School,School District,Health Region,Exposures
 50,Ecole Red Bluff Lhtako Elementary,28,Northern Health,1
 50,Kersley Elementary School,28,Northern Health,1
 50,McNaughton Centre,28,Northern Health,1
-50,Bernard Elementary,33,Fraser Health Authority,1
 50,Cheam Elementary,33,Interior Health Authority,1
 50,Kwiyeqel Secondary,33,Fraser Health Authority,1
 50,Barrowtown Elementary,34,Fraser Health Authority,1
