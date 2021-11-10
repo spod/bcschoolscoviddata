@@ -29,10 +29,10 @@ Rank,School,School District,Health Region,Exposures
 19,Burnaby Central Secondary,41,Fraser Health Authority,33
 20,North Surrey Secondary,36,Fraser Health Authority,32
 21,John Oliver Secondary,39,Vancouver Coastal Health,31
+22,Robert Bateman Secondary,34,Fraser Health Authority,30
 22,Kwantlen Park Secondary,36,Fraser Health Authority,30
 22,Byrne Creek Community Secondary,41,Fraser Health Authority,30
 23,Rick Hansen Secondary,34,Fraser Health Authority,29
-23,Robert Bateman Secondary,34,Fraser Health Authority,29
 23,Yale Secondary,34,Fraser Health Authority,29
 23,Killarney Secondary,39,Vancouver Coastal Health,29
 23,Centennial Secondary School,43,Fraser Health Authority,29
@@ -524,6 +524,7 @@ Rank,School,School District,Health Region,Exposures
 45,Ecole Frank Ross Elementary,59,Northern Health,7
 45,David Thompson Secondary (Invermere),6,Interior Health Authority,7
 45,Eileen Madson Primary School,6,Interior Health Authority,7
+45,Central Elementary (Ft. St John),60,Northern Health,7
 45,Dr Kearney Middle School,60,Northern Health,7
 45,Belmont Secondary,62,Vancouver Island Health Authority,7
 45,Bayview Elementary (Nanaimo),68,Vancouver Island Health Authority,7
@@ -603,7 +604,6 @@ Rank,School,School District,Health Region,Exposures
 46,Prince Rupert Middle,52,Northern Health,6
 46,Oliver Elementary,53,Interior Health Authority,6
 46,Smithers Secondary,54,Northern Health,6
-46,Central Elementary (Ft. St John),60,Northern Health,6
 46,Ecole Quadra Elementary,61,Vancouver Island Health Authority,6
 46,Oaklands Elementary,61,Vancouver Island Health Authority,6
 46,Cinnabar Valley Elementary,68,Vancouver Island Health Authority,6
@@ -968,6 +968,7 @@ Rank,School,School District,Health Region,Exposures
 49,Journey Middle School,62,Vancouver Island Health Authority,3
 49,Royal Bay Secondary,62,Vancouver Island Health Authority,3
 49,Bayside Middle School,63,Vancouver Island Health Authority,3
+49,Brentwood Elementary,63,Vancouver Island Health Authority,3
 49,Penticton Secondary,67,Interior Health Authority,3
 49,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
 49,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,3
@@ -1112,7 +1113,6 @@ Rank,School,School District,Health Region,Exposures
 50,Lakewood Elementary,62,Vancouver Island Health Authority,2
 50,Spencer Middle School,62,Vancouver Island Health Authority,2
 50,Willway Elementary,62,Vancouver Island Health Authority,2
-50,Brentwood Elementary,63,Vancouver Island Health Authority,2
 50,Cordova Bay Elementary,63,Vancouver Island Health Authority,2
 50,Deep Cove Elementary,63,Vancouver Island Health Authority,2
 50,Gulf Islands Secondary,64,Vancouver Island Health Authority,2
