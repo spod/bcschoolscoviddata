@@ -7,7 +7,7 @@ Rank,School,School District,Health Region,Exposures
 4,Abbotsford Christian School,Independent Schools in Fraser Health,Fraser Health Authority,56
 5,Sullivan Heights Secondary,36,Fraser Health Authority,55
 6,Enver Creek Secondary,36,Fraser Health Authority,54
-7,L A Matheson Secondary,36,Fraser Health Authority,50
+7,L A Matheson Secondary,36,Fraser Health Authority,51
 8,Guildford Park Secondary,36,Fraser Health Authority,46
 9,Khalsa Elementary School Newton,Independent Schools in Fraser Health,Fraser Health Authority,45
 10,Fleetwood Park Secondary,36,Fraser Health Authority,44
@@ -208,6 +208,7 @@ Rank,School,School District,Health Region,Exposures
 39,W L Seaton Secondary,22,Interior Health Authority,13
 39,École Dr. Knox Middle School,23,Interior Health Authority,13
 39,Cheam Elementary,33,Fraser Health Authority,13
+39,Rosedale Traditional Community,33,Fraser Health Authority,13
 39,ASIA - North Poplar,34,Fraser Health Authority,13
 39,Margaret Stenersen Elementary,34,Fraser Health Authority,13
 39,Terry Fox Elementary,34,Fraser Health Authority,13
@@ -228,7 +229,6 @@ Rank,School,School District,Health Region,Exposures
 39,St Thomas Aquinas,Independent Schools in Coastal Health,Vancouver Coastal Health,13
 39,King's Christian School,Independent Schools in Interior Health,Interior Health Authority,13
 40,Hudson Road Elementary,23,Interior Health Authority,12
-40,Rosedale Traditional Community,33,Fraser Health Authority,12
 40,Tyson Elementary,33,Fraser Health Authority,12
 40,Harry Sayers Elementary,34,Fraser Health Authority,12
 40,Betty Gilbert Middle,35,Fraser Health Authority,12
@@ -258,6 +258,7 @@ Rank,School,School District,Health Region,Exposures
 41,King Traditional Elementary,34,Fraser Health Authority,11
 41,Coghlan Fundamental Elementary,35,Fraser Health Authority,11
 41,Douglas Park Community,35,Fraser Health Authority,11
+41,Fort Langley Elementary,35,Fraser Health Authority,11
 41,Glenwood Elementary (Langley),35,Fraser Health Authority,11
 41,Shortreed Community School,35,Fraser Health Authority,11
 41,Betty Huff Elementary,36,Fraser Health Authority,11
@@ -343,9 +344,9 @@ Rank,School,School District,Health Region,Exposures
 43,Centennial Park Elementary,34,Fraser Health Authority,9
 43,Clearbrook Elementary,34,Fraser Health Authority,9
 43,Ross Elementary,34,Fraser Health Authority,9
+43,Sandy Hill Elementary,34,Fraser Health Authority,9
 43,Ten Broeck Elementary,34,Fraser Health Authority,9
 43,Dorothy Peacock Elementary,35,Fraser Health Authority,9
-43,Fort Langley Elementary,35,Fraser Health Authority,9
 43,Peterson Road Elementary,35,Fraser Health Authority,9
 43,A H P Matthew Elementary,36,Fraser Health Authority,9
 43,A J McLellan Elementary,36,Fraser Health Authority,9
@@ -399,7 +400,6 @@ Rank,School,School District,Health Region,Exposures
 44,Rose Valley Elementary,23,Interior Health Authority,8
 44,McCammon Traditional Elementary,33,Fraser Health Authority,8
 44,Aberdeen Elementary (Abbotsford),34,Fraser Health Authority,8
-44,Sandy Hill Elementary,34,Fraser Health Authority,8
 44,Langley Fundamental Middle/Secondary Sch,35,Fraser Health Authority,8
 44,Noel Booth Elementary,35,Fraser Health Authority,8
 44,Parkside Centennial Elementary (Langley),35,Fraser Health Authority,8
