@@ -5,11 +5,14 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/10/2021,Brentwood Elementary,Brentwood Bay,63,Vancouver Island Health Authority,"""November 3 and 4, 2021""",Exposure 3
 11/10/2021,Central Elementary (Ft. St John),Fort St. John,60,Northern Health,"""October 29, and November 1, 2021""",Exposure 1
 11/10/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 14
-11/10/2021,Rosedale Traditional Community,Rosedale,33,Fraser Health Authority,"""November 4 and 5, 2021""",Exposure 9
-11/10/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,"""November 2, 2021""",Exposure 3
-11/10/2021,Sandy Hill Elementary,Abbotsford,34,Fraser Health Authority,"""November 5, 2021""",Exposure 6
 11/10/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""November 5, 2021""",Exposure 9
 11/10/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""October 28, 29, November 2, 3, 4, and 5, 2021""",Exposure 10
+11/10/2021,Sandy Hill Elementary,Abbotsford,34,Fraser Health Authority,"""November 5, 2021""",Exposure 6
+11/10/2021,Rosedale Traditional Community,Rosedale,33,Fraser Health Authority,"""November 4 and 5, 2021""",Exposure 9
+11/10/2021,L A Matheson Secondary,Surrey,36,Fraser Health Authority,"""November 2, 2021""",Exposure 3
+11/10/2021,Alexander Elementary (Abbotsford),Abbotsford,34,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 4
+11/10/2021,Nusatsum Elementary,,49,Vancouver Coastal Health,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 1
+11/10/2021,Hope Secondary,Hope,78,Fraser Health Authority,"""November 1, 2, and 3, 2021""",Exposure 2
 11/09/2021,Bernard Elementary,Chilliwack,33,Fraser Health Authority,"""October 29, November 1, 2, 3, 4, and 5, 2021""",Exposure 1
 11/09/2021,Margaret Jenkins Elementary,Victoria,61,Vancouver Island Health Authority,"""November 1 and 3, 2021""",Exposure 8
 11/09/2021,Peachland Elementary,Peachland,23,Interior Health Authority,"""November 1, 2, 3, and 4, 2021""",Confirmation email on file.
@@ -57,7 +60,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/09/2021,J Lloyd Crowe Secondary,Trail,20,Interior Health Authority,"""November 2 and 3, 2021""",Exposure 5
 11/09/2021,BC Provincial School for the Deaf Elem,Burnaby,41,Fraser Health Authority,"""November 3, 2021""",Exposure 3
 11/09/2021,Ecole Kwayhquitlum Middle,Port Coquitlam,43,Fraser Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 6
-11/09/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 4 and 5, 2021""",Exposure 7
+11/09/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 4 and 5, 2021""",This has been declared a Cluster by Island Health (documentation on file).
 11/08/2021,Golden Ears Elementary,Maple Ridge,42,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 2
 11/08/2021,Arrowview Elementary,Qualicum Beach,69,Vancouver Island Health Authority,"""November 2, 3, and 4, 2021""",Exposure 1
 11/08/2021,Rogers Elementary,Victoria,61,Vancouver Island Health Authority,"""November 2, 3, 4, and 5, 2021""",Exposure 1
@@ -196,7 +199,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/07/2021,Regent Christian Academy,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""October 29 and November 1, 2021""",Exposure 4
 11/07/2021,Pleasant Valley Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 1 and 2, 2021""",Exposure 9
 11/07/2021,Bayview Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""October 28 and 29, 2021""",Bayview Annex
-11/07/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 2 and 3, 2021""",Exposure 6
 11/07/2021,Cheam Elementary,Chilliwack,33,Interior Health Authority,"""Nov 2, 3, 2021""",Exposure 10
 11/07/2021,Arthur Hatton Elementary,Kamloops,73,Interior Health Authority,"""October 29, 2021""",Exposure 2
 11/07/2021,Springvalley Elementary School,Kelowna,23,Interior Health Authority,"""November 1, 2021""",Exposure 1
@@ -209,6 +211,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/07/2021,Mar Jok Elementary,West Kelowna,23,Interior Health Authority,"""Nov 4, 2021""",)
 11/07/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,"""November 1 and 2, 2021""",Exposure dates on the BCCDC webpage
 11/07/2021,Tansor Elementary,Duncan,79,Vancouver Island Health Authority,"""November 1 and 2, 2021""",Dates on the BCCDC webpage
+11/07/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 2 and 3, 2021""",This has been declared a Cluster by Island Health (documentation on file).
 11/06/2021,Margaret Jenkins Elementary,Victoria,61,Vancouver Island Health Authority,"""November 3, and 4, 2021""",Confirmation email on file.
 11/06/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""November 1, 2021""",https://sd83.bc.ca/2021/11/06/covid-19-exposure-2
 11/06/2021,South Broadview Elementary,Salmon Arm,83,Interior Health Authority,"""November 2, 2021""",https://sd83.bc.ca/2021/11/06/covid-19-exposure-2

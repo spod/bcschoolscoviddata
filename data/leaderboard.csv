@@ -254,6 +254,7 @@ Rank,School,School District,Health Region,Exposures
 41,Cataline Elementary,27,Interior Health Authority,11
 41,Marie Sharpe Elementary,27,Interior Health Authority,11
 41,Little Mountain Elementary,33,Fraser Health Authority,11
+41,Alexander Elementary (Abbotsford),34,Fraser Health Authority,11
 41,Dave Kandal Elementary School,34,Fraser Health Authority,11
 41,King Traditional Elementary,34,Fraser Health Authority,11
 41,Coghlan Fundamental Elementary,35,Fraser Health Authority,11
@@ -294,7 +295,6 @@ Rank,School,School District,Health Region,Exposures
 42,Springvalley Middle School,23,Interior Health Authority,10
 42,Lake City Secondary (Williams Lake Campus),27,Interior Health Authority,10
 42,Abbotsford Traditional Middle School,34,Fraser Health Authority,10
-42,Alexander Elementary (Abbotsford),34,Fraser Health Authority,10
 42,Mountain Elementary,34,Fraser Health Authority,10
 42,Langley Fine Arts School,35,Fraser Health Authority,10
 42,Bridgeview Elementary,36,Fraser Health Authority,10
@@ -614,6 +614,7 @@ Rank,School,School District,Health Region,Exposures
 46,Hatzic Elementary,75,Fraser Health Authority,6
 46,Hillside Traditional Academy,75,Fraser Health Authority,6
 46,Silverdale Elementary,75,Fraser Health Authority,6
+46,Hope Secondary,78,Fraser Health Authority,6
 46,Cowichan Secondary,79,Vancouver Island Health Authority,6
 46,Brent Kennedy Elementary,8,Interior Health Authority,6
 46,Erickson Elementary,8,Interior Health Authority,6
@@ -715,7 +716,6 @@ Rank,School,School District,Health Region,Exposures
 47,Marion Schilling Elementary,73,Interior Health Authority,5
 47,Westmount Elementary,73,Interior Health Authority,5
 47,Westsyde Secondary,73,Interior Health Authority,5
-47,Hope Secondary,78,Fraser Health Authority,5
 47,Lake Cowichan School,79,Vancouver Island Health Authority,5
 47,Creston Valley Secondary,8,Interior Health Authority,5
 47,Suwilaawks Community School,82,Northern Health,5
@@ -1085,6 +1085,7 @@ Rank,School,School District,Health Region,Exposures
 50,Gleneagles Elementary,45,Vancouver Coastal Health,2
 50,West Sechelt Elementary,46,Vancouver Coastal Health,2
 50,Pemberton Secondary,48,Vancouver Coastal Health,2
+50,Nusatsum Elementary,49,Vancouver Coastal Health,2
 50,Frank J Mitchell Elementary,5,Interior Health Authority,2
 50,Highlands Elementary (Cranbrook),5,Interior Health Authority,2
 50,Jaffray Elem-Jr Secondary,5,Interior Health Authority,2
@@ -1305,7 +1306,6 @@ Rank,School,School District,Health Region,Exposures
 51,Brooks Secondary,47,Vancouver Coastal Health,1
 51,Partners in Education Program (PIE),47,Vancouver Coastal Health,1
 51,Signal Hill StrongStart Centre,48,Vancouver Coastal Health,1
-51,Nusatsum Elementary,49,Vancouver Coastal Health,1
 51,Gordon Terrace Elementary,5,Interior Health Authority,1
 51,Sparwood Secondary,5,Interior Health Authority,1
 51,Gidgalang Kuuyas Naay,50,Northern Health,1
