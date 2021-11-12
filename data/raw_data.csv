@@ -1,5 +1,14 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-11/11/2021,Parkside Centennial Elementary (Langley),Langley,35,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 4
+11/11/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""November 2, 2021""",Exposure 12
+11/11/2021,Parkside Centennial Elementary (Langley),Langley,35,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 4
+11/11/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,"""November 5, 2021""",Exposure 3
+11/11/2021,A D Rundle Middle School,Chilliwack,33,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 14
+11/11/2021,Chemainus Elementary Community School,Chemainus,79,Vancouver Island Health Authority,"""November 8, 2021""",Exposure 2
+11/11/2021,Columbia Elementary,Penticton,67,Interior Health Authority,"""Nov 8, 2021""",Exposure 6
+11/11/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 6
+11/11/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""Nov 3, 4, 5, 8, 2021""",Exposure 1
+11/11/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 8, 2021""",Exposure 7
+11/11/2021,Windebank Elementary,Mission,75,Fraser Health Authority,"""Nov 8, 2021""",Exposure 16
 11/10/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""November 4, 2021""",Exposure 13
 11/10/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""November 1, 2, 3, 4, and/or 5, 2021""",Exposure 3
 11/10/2021,Merritt Secondary,Merritt,58,Interior Health Authority,"""October 27, 28, and 29, 2021""",Exposure 1
@@ -5989,6 +5998,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 04/05/2021,Guildford Park Secondary,Surrey,36,Fraser Health Authority,"""March 31, April 1""",Exposure 25
 04/05/2021,Mount Pleasant Elementary,Vancouver,39,Vancouver Coastal Health,Documentation on file showing this is a different exposure than the one listed as Exposure 3.,Exposure 4
 04/05/2021,Kitsilano Secondary,Vancouver,39,Vancouver Coastal Health,April 1,Exposure 15
+04/05/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31""",Exposure 8
 04/05/2021,Archbishop Carney Regional Secondary,Port Coquitlam,Independent Schools in Fraser Health,Fraser Health Authority,"""March 30, 31""",Exposure 8
 04/05/2021,Clinton Elementary,Burnaby,41,Fraser Health Authority,March 31 and April 1,Exposure 3
 04/05/2021,York House School,Vancouver,Independent Schools in Coastal Health,Vancouver Coastal Health,"""March 30, 31, April 1""",Exposure 6
