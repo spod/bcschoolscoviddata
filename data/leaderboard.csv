@@ -346,6 +346,7 @@ Rank,School,School District,Health Region,Exposures
 42,Evans Elementary,33,Fraser Health Authority,9
 42,F G Leary Fine Arts Elementary,33,Fraser Health Authority,9
 42,Greendale Elementary,33,Fraser Health Authority,9
+42,Auguston Traditional Elementary,34,Fraser Health Authority,9
 42,Centennial Park Elementary,34,Fraser Health Authority,9
 42,Clearbrook Elementary,34,Fraser Health Authority,9
 42,Matsqui Elementary,34,Fraser Health Authority,9
@@ -486,7 +487,6 @@ Rank,School,School District,Health Region,Exposures
 44,Peachland Elementary,23,Interior Health Authority,7
 44,Shannon Lake Elementary,23,Interior Health Authority,7
 44,Strathcona Elementary,33,Fraser Health Authority,7
-44,Auguston Traditional Elementary,34,Fraser Health Authority,7
 44,Dr Thomas A Swift Elementary,34,Fraser Health Authority,7
 44,John MacLure Community School,34,Fraser Health Authority,7
 44,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,7
@@ -839,6 +839,7 @@ Rank,School,School District,Health Region,Exposures
 47,Twin Rivers Education Centre,73,Interior Health Authority,4
 47,Kent Elementary,78,Fraser Health Authority,4
 47,Alex Aitken Elementary,79,Vancouver Island Health Authority,4
+47,Chemainus Secondary,79,Vancouver Island Health Authority,4
 47,Maple Bay Elementary,79,Vancouver Island Health Authority,4
 47,R L Angus Elementary,81,Northern Health,4
 47,Ecole Mountainview Elementary (Terrace),82,Northern Health,4
@@ -992,7 +993,6 @@ Rank,School,School District,Health Region,Exposures
 48,Summit Elementary,73,Interior Health Authority,3
 48,Deroche Elementary,75,Fraser Health Authority,3
 48,Chemainus Elementary Community School,79,Vancouver Island Health Authority,3
-48,Chemainus Secondary,79,Vancouver Island Health Authority,3
 48,Frances Kelsey Secondary School,79,Vancouver Island Health Authority,3
 48,J V Humphries Elem-Secondary,8,Interior Health Authority,3
 48,Rosemont Elementary School,8,Interior Health Authority,3
