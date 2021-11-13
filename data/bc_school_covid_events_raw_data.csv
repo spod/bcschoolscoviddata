@@ -8,6 +8,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/12/2021,Clayburn Middle School,Abbotsford,34,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 12
 11/12/2021,Queneesh Elementary,Courtenay,71,Vancouver Island Health Authority,"""November 2, 2021""",Exposure 3
 11/12/2021,Ecole Mount Prevost Elementary,Duncan,79,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 5
+11/12/2021,du Pacifique,Sechelt,93,Vancouver Coastal Health,,Dates not provided
+11/12/2021,Upper Sumas Elementary,Abbotsford,34,Fraser Health Authority,"""November 8, 2021""",Exposure 4
 11/11/2021,Ladysmith Intermediate,Ladysmith,68,Vancouver Island Health Authority,"""November 1, 2021""",Exposure 2
 11/11/2021,Bowser Elementary,,69,Vancouver Island Health Authority,"""November 4 and 5, 2021""",Exposure 1
 11/11/2021,Nakusp Secondary,Nakusp,10,Interior Health Authority,"""October 29 and November 2, 2021""",Exposure 1
@@ -18,7 +20,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/11/2021,Yennadon Elementary,Maple Ridge,42,Fraser Health Authority,"""Nov 1, 2, 2021""",Exposure 9
 11/11/2021,Matsqui Elementary,Abbotsford,34,Fraser Health Authority,"""Oct 28, 29, Nov 1, 2, 3, 4, 5, 8, 9, 10, 2021""",Exposure 7
 11/11/2021,Phil & Jennie Gaglardi Academy,Comox,Independent Schools in Island Health,Vancouver Island Health Authority,,Full grade in Isolation and doing online learning.
-11/11/2021,Phil & Jennie Gaglardi Academy,Comox,Independent Schools in Island Health,Vancouver Island Health Authority,,Full grade in isolation and doing online learning.
 11/11/2021,150 Mile Elementary,150 Mile House,27,Interior Health Authority,"""November 4 and 5, 2021""",Exposure 3
 11/11/2021,Summerland Secondary,Summerland,67,Interior Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 1
 11/11/2021,Dr Roberta Bondar Elementary,Abbotsford,34,Fraser Health Authority,"""November 4 and 5, 2021""",Exposure 1
@@ -74,6 +75,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/11/2021,Sacred Heart (Prince George),Prince George,Independent Schools in Northern Health,Northern Health,,This notification letter indicates an increase in cases over the past few days so we have listed this as Exposures 6 and 7. If you have any details on these cases please let us know.
 11/11/2021,Matsqui Elementary,Abbotsford,34,Fraser Health Authority,"""Nov 1, 2, 3, 4, 5, 2021""",Exposure 8
 11/11/2021,Little Prairie Elementary,Chetwynd,59,Northern Health,"""October 28, 29, November 1, 2, 3, and 4, 2021""",Exposure 1
+11/11/2021,Phil & Jennie Gaglardi Academy,Comox,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 2, 2021""",Full grade in isolation and doing online learning.
 11/10/2021,George Bonner Elementary,Mill Bay,79,Vancouver Island Health Authority,"""November 4, 2021""",Exposure 13
 11/10/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""November 1, 2, 3, 4, and/or 5, 2021""",Exposure 3
 11/10/2021,Merritt Secondary,Merritt,58,Interior Health Authority,"""October 27, 28, and 29, 2021""",Exposure 1

@@ -565,6 +565,7 @@ Rank,School,School District,Health Region,Exposures
 45,East Chilliwack Elementary,33,Fraser Health Authority,6
 45,Robertson Elementary,33,Fraser Health Authority,6
 45,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
+45,Upper Sumas Elementary,34,Fraser Health Authority,6
 45,Alex Hope Elementary,35,Fraser Health Authority,6
 45,Blacklock Fine Arts Elementary,35,Fraser Health Authority,6
 45,James Hill Elementary,35,Fraser Health Authority,6
@@ -642,7 +643,6 @@ Rank,School,School District,Health Region,Exposures
 46,Rutland Elementary,23,Interior Health Authority,5
 46,Cultus Lake Community School,33,Fraser Health Authority,5
 46,Dormick Park Elementary,34,Fraser Health Authority,5
-46,Upper Sumas Elementary,34,Fraser Health Authority,5
 46,Gordon Greenwood Elementary,35,Fraser Health Authority,5
 46,Langley Meadows Elementary,35,Fraser Health Authority,5
 46,Clayton Elementary,36,Fraser Health Authority,5
@@ -1161,6 +1161,7 @@ Rank,School,School District,Health Region,Exposures
 49,La Vallee,93,Vancouver Coastal Health,2
 49,Rose-des-vents,93,Vancouver Coastal Health,2
 49,des Deux-rives,93,Fraser Health Authority,2
+49,du Pacifique,93,Vancouver Coastal Health,2
 49,Cousteau L'Ecole Francaise Interna'le,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 49,Holy Trinity School,Independent Schools in Coastal Health,Vancouver Coastal Health,2
 49,Lions Gate Christian Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,2
@@ -1451,7 +1452,6 @@ Rank,School,School District,Health Region,Exposures
 50,des Glaciers,93,Interior Health Authority,1
 50,des Grands-cedres,93,Vancouver Island Health Authority,1
 50,des Navigateurs,93,Vancouver Coastal Health,1
-50,du Pacifique,93,Vancouver Coastal Health,1
 50,Bodwell High School,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 50,Brainboost Education,Independent Schools in Coastal Health,Vancouver Coastal Health,1
 50,Cornerstone Christian Academy,Independent Schools in Coastal Health,Vancouver Coastal Health,1
