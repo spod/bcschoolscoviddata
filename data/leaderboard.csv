@@ -55,6 +55,7 @@ Rank,School,School District,Health Region,Exposures
 28,Sardis Elementary,33,Fraser Health Authority,23
 28,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
 28,McMillan Elementary,34,Fraser Health Authority,23
+28,William A. Fraser Middle School,34,Fraser Health Authority,23
 28,Delview Secondary,37,Fraser Health Authority,23
 28,Gladstone Secondary,39,Vancouver Coastal Health,23
 28,Kitsilano Secondary,39,Vancouver Coastal Health,23
@@ -66,7 +67,6 @@ Rank,School,School District,Health Region,Exposures
 28,Hatzic Middle School,75,Fraser Health Authority,23
 28,Mission Senior Secondary,75,Fraser Health Authority,23
 29,Eugene Reimer Middle School,34,Fraser Health Authority,22
-29,William A. Fraser Middle School,34,Fraser Health Authority,22
 29,Aldergrove Community Secondary,35,Fraser Health Authority,22
 29,Clayton Heights Secondary,36,Fraser Health Authority,22
 29,Fraser Heights Secondary,36,Fraser Health Authority,22
@@ -76,6 +76,7 @@ Rank,School,School District,Health Region,Exposures
 29,Gleneagle Secondary,43,Fraser Health Authority,22
 29,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,22
 29,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,22
+30,Clayburn Middle School,34,Fraser Health Authority,21
 30,Godson Elementary,34,Fraser Health Authority,21
 30,Brookswood Secondary,35,Fraser Health Authority,21
 30,Cougar Creek Elementary,36,Fraser Health Authority,21
@@ -84,7 +85,6 @@ Rank,School,School District,Health Region,Exposures
 30,Seaquam Secondary,37,Fraser Health Authority,21
 30,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,21
 30,Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,21
-31,Clayburn Middle School,34,Fraser Health Authority,20
 31,Walnut Grove Secondary,35,Fraser Health Authority,20
 31,David Brankin Elementary,36,Fraser Health Authority,20
 31,Burnaby South Secondary,41,Fraser Health Authority,20
@@ -452,6 +452,7 @@ Rank,School,School District,Health Region,Exposures
 43,Arthur Stevenson Elementary,73,Interior Health Authority,8
 43,NorKam Secondary School,73,Interior Health Authority,8
 43,Agassiz Elem-Secondary,78,Fraser Health Authority,8
+43,Coquihalla Elementary,78,Fraser Health Authority,8
 43,Discovery Elementary (Shawnigan Lake),79,Vancouver Island Health Authority,8
 43,Quamichan School,79,Vancouver Island Health Authority,8
 43,Skeena Middle,82,Northern Health,8
@@ -544,7 +545,6 @@ Rank,School,School District,Health Region,Exposures
 44,Haldane Elementary,73,Interior Health Authority,7
 44,Silverdale Elementary,75,Fraser Health Authority,7
 44,West Heights Elementary,75,Fraser Health Authority,7
-44,Coquihalla Elementary,78,Fraser Health Authority,7
 44,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,7
 44,Khowhemun Elementary,79,Vancouver Island Health Authority,7
 44,Hillcrest Elementary (Salmon Arm),83,Interior Health Authority,7
@@ -832,6 +832,7 @@ Rank,School,School District,Health Region,Exposures
 47,Seaview Elementary (Lantzville),68,Vancouver Island Health Authority,4
 47,Wickaninnish Community School,70,Vancouver Island Health Authority,4
 47,Highland Secondary,71,Vancouver Island Health Authority,4
+47,Queneesh Elementary,71,Vancouver Island Health Authority,4
 47,A E Perry Elementary,73,Interior Health Authority,4
 47,Barriere Secondary,73,Interior Health Authority,4
 47,Twin Rivers Education Centre,73,Interior Health Authority,4
@@ -984,7 +985,6 @@ Rank,School,School District,Health Region,Exposures
 48,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
 48,Wood Elementary,70,Vancouver Island Health Authority,3
 48,Cumberland Community School,71,Vancouver Island Health Authority,3
-48,Queneesh Elementary,71,Vancouver Island Health Authority,3
 48,Carihi Secondary,72,Vancouver Island Health Authority,3
 48,Ecole Willow Point Elementary,72,Vancouver Island Health Authority,3
 48,Ecole Lloyd George Elementary (Kamloops),73,Interior Health Authority,3
@@ -1135,6 +1135,7 @@ Rank,School,School District,Health Region,Exposures
 49,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 49,Ucluelet Secondary,70,Vancouver Island Health Authority,2
 49,Aspen Park Elementary,71,Vancouver Island Health Authority,2
+49,Royston Elementary,71,Vancouver Island Health Authority,2
 49,Valley View Elementary,71,Vancouver Island Health Authority,2
 49,Barriere Elementary,73,Interior Health Authority,2
 49,Chase Secondary,73,Interior Health Authority,2
@@ -1391,6 +1392,7 @@ Rank,School,School District,Health Region,Exposures
 50,Gabriola Elementary,68,Vancouver Island Health Authority,1
 50,Learning Alternatives (John Barsby site),68,Vancouver Island Health Authority,1
 50,McGirr Elementary,68,Vancouver Island Health Authority,1
+50,Pauline Haarer Elementary,68,Vancouver Island Health Authority,1
 50,Quarterway Elementary,68,Vancouver Island Health Authority,1
 50,"""ROAMS - Rivers, Ocean and Mountain School""",69,Vancouver Island Health Authority,1
 50,Bowser Elementary,69,Vancouver Island Health Authority,1
@@ -1404,7 +1406,6 @@ Rank,School,School District,Health Region,Exposures
 50,Glacier View Secondary Centre,71,Vancouver Island Health Authority,1
 50,Miracle Beach Elementary,71,Vancouver Island Health Authority,1
 50,Navigate - NIDES (DL Program),71,Vancouver Island Health Authority,1
-50,Royston Elementary,71,Vancouver Island Health Authority,1
 50,Ecole des Deux Mondes Elementary,72,Vancouver Island Health Authority,1
 50,Penfield Elementary,72,Vancouver Island Health Authority,1
 50,Sandowne Elementary,72,Vancouver Island Health Authority,1
@@ -1437,6 +1438,8 @@ Rank,School,School District,Health Region,Exposures
 50,Silver Creek Elementary Secondary (Salmon Arm),83,Interior Health Authority,1
 50,Gold River Secondary,84,Vancouver Island Health Authority,1
 50,Zeballos Elementary,84,Vancouver Island Health Authority,1
+50,Fort Rupert Elementary,85,Vancouver Island Health Authority,1
+50,Sunset Elementary,85,Vancouver Island Health Authority,1
 50,Mouse Mountain Elementary,91,Northern Health,1
 50,Nechako Valley Secondary,91,Northern Health,1
 50,Nisga'a Elementary Secondary,92,Northern Health,1
