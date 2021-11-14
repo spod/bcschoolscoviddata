@@ -61,6 +61,7 @@ Rank,School,School District,Health Region,Exposures
 28,Gladstone Secondary,39,Vancouver Coastal Health,23
 28,Kitsilano Secondary,39,Vancouver Coastal Health,23
 28,Sir Charles Tupper Secondary,39,Vancouver Coastal Health,23
+28,Kanaka Creek Elementary,42,Fraser Health Authority,23
 28,Heritage Woods Secondary,43,Fraser Health Authority,23
 28,Terry Fox Secondary,43,Fraser Health Authority,23
 28,Carson Graham Secondary,44,Vancouver Coastal Health,23
@@ -72,7 +73,6 @@ Rank,School,School District,Health Region,Exposures
 29,Fraser Heights Secondary,36,Fraser Health Authority,22
 29,Woodward Hill Elementary,36,Fraser Health Authority,22
 29,Armstrong Elementary (Burnaby),41,Fraser Health Authority,22
-29,Kanaka Creek Elementary,42,Fraser Health Authority,22
 29,Gleneagle Secondary,43,Fraser Health Authority,22
 29,Khalsa Secondary School (Surrey),Independent Schools in Fraser Health,Fraser Health Authority,22
 29,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,22
@@ -617,6 +617,7 @@ Rank,School,School District,Health Region,Exposures
 45,Ladysmith Secondary School,68,Vancouver Island Health Authority,6
 45,Springwood Elementary,69,Vancouver Island Health Authority,6
 45,Brocklehurst Middle School,73,Interior Health Authority,6
+45,Raft River Elementary,73,Interior Health Authority,6
 45,Edwin S Richards Elementary,75,Fraser Health Authority,6
 45,Hatzic Elementary,75,Fraser Health Authority,6
 45,Hillside Traditional Academy,75,Fraser Health Authority,6
@@ -719,7 +720,6 @@ Rank,School,School District,Health Region,Exposures
 46,David Thompson Elementary (Kamloops),73,Interior Health Authority,5
 46,Kamloops School of the Arts,73,Interior Health Authority,5
 46,Marion Schilling Elementary,73,Interior Health Authority,5
-46,Raft River Elementary,73,Interior Health Authority,5
 46,Westmount Elementary,73,Interior Health Authority,5
 46,Westsyde Secondary,73,Interior Health Authority,5
 46,Ecole Mount Prevost Elementary,79,Vancouver Island Health Authority,5
