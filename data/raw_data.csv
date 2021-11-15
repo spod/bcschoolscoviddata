@@ -1,5 +1,4 @@
 Notification Date,School,City,School District,Health Region,Exposure Dates,Extra Info
-11/14/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""November 5, 2021""",Exposure 6
 11/14/2021,Len Wood Middle School,Armstrong,83,Interior Health Authority,,Exposure dates not provided.
 11/14/2021,Unsworth Elementary,Chilliwack,33,Fraser Health Authority,"""Nov 9, 10, 2021""",Expsoure 15
 11/14/2021,Salt Spring Centre School,Salt Spring Island,Independent Schools in Island Health,Vancouver Island Health Authority,,Dates not provided.
@@ -16,35 +15,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/14/2021,North Otter Elementary,,35,Fraser Health Authority,"""Nov 8, 10, 2021""",Exposure 3
 11/14/2021,Kelowna Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""Nov 10, 2021""",Exposure 11
 11/14/2021,South Slope Elementary,Burnaby,41,Fraser Health Authority,"""Nov 8, 2021""",Exposure 2
-11/14/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,"""November 10, 2021""",Exposure 2
-11/14/2021,Pinewood Elementary (Cranbrook),Cranbrook,5,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 8
-11/14/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""November 1, 2, 3, and 4, 2021""",Exposure 9
-11/14/2021,J W Inglis Elementary,Lumby,22,Interior Health Authority,"""November 2, 3, 4, and 5, 2021""",Exposure 5
-11/14/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 9 and 10, 2021""",Dates on the BCCDC webpage.
-11/14/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 6
-11/14/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 5
-11/14/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 2
-11/14/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 6
-11/14/2021,Uplands Park Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""November 8 and 9, 2021""",Exposure 2
-11/14/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 2 and 3, 2021""",Exposure 2
-11/14/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 11
-11/14/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 6, 2021""",Confirmation email on file.
-11/14/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Nov 9, 2021""",Exposure 22
-11/14/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,"""Nov 8, 9, 2021""",Exposure 4
-11/14/2021,ArtsCalibre Academy,Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,,Exposure dates not provided.
-11/14/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 7, 2021""",Confirmation email on file.
-11/14/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 4, 5, 8, and 9, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle or Secondary Campus. We have listed it as Elementary but if you know differently, please let us know."""
-11/14/2021,Heritage Christian Online School (DL),Kelowna,Independent Schools in Fraser Health,Fraser Health Authority,"""November 9, 2021""",Langley location
-11/14/2021,St. Mary's School (Chilliwack),Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 2
-11/14/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 4, 8, 9, and 10, 2021""",Exposure 29
-11/14/2021,Grandview Heights Secondary,Surrey,36,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 4
-11/14/2021,Hillcrest Elementary (Surrey),Surrey,36,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 6
-11/14/2021,St Matthew's Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 1
-11/14/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""November 9 and 10, 2021""",Exposure 4
-11/14/2021,Rosemary Heights Elementary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 3
-11/14/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""November 9, 2021""",Exposure 2
-11/14/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""November 8, 2021""","""Documentation on file showing that the school will be following additional health measures November 15th - 26th, 2021."""
-11/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 7
+11/14/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""November 5, 2021""",Exposure 6
 11/14/2021,Arthur Hatton Elementary,Kamloops,73,Interior Health Authority,"""November 9, 2021""",Exposure 4
 11/14/2021,Juniper Ridge Elementary,Kamloops,73,Interior Health Authority,"""November 1 and 5, 2021""",Exposure 7
 11/14/2021,Mountainview Elementary (Williams Lake),Williams Lake,27,Interior Health Authority,"""November 5, 6, 7, 8, and 9, 2021""",Exposure 3
@@ -86,6 +57,35 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/14/2021,Beairsto Elementary,Vernon,22,Interior Health Authority,"""November 2, 3, 4, 5, 6, and 7, 2021""",Exposure 3
 11/14/2021,Mission Hill Elementary,Vernon,22,Interior Health Authority,"""November 4 and 5, 2021""",Exposure 5
 11/14/2021,BX Elementary,Vernon,22,Interior Health Authority,"""November 3, 4, 5, 8, 9, and 10, 2021""",Exposure 2
+11/14/2021,Fort Langley Elementary,Fort Langley,35,Fraser Health Authority,"""November 8, 2021""","""Documentation on file showing that the school will be following additional health measures November 15th - 26th, 2021."""
+11/14/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,"""November 10, 2021""",Exposure 2
+11/14/2021,Pinewood Elementary (Cranbrook),Cranbrook,5,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 8
+11/14/2021,Glenmerry Elementary,Trail,20,Interior Health Authority,"""November 1, 2, 3, and 4, 2021""",Exposure 9
+11/14/2021,J W Inglis Elementary,Lumby,22,Interior Health Authority,"""November 2, 3, 4, and 5, 2021""",Exposure 5
+11/14/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 9 and 10, 2021""",Dates on the BCCDC webpage.
+11/14/2021,Pitt Meadows Elementary,Pitt Meadows,42,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 6
+11/14/2021,Thomas Haney Secondary,Maple Ridge,42,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 5
+11/14/2021,M B Sanford Elementary,Surrey,36,Fraser Health Authority,"""November 2 and 3, 2021""",Exposure 2
+11/14/2021,H T Thrift Elementary,Surrey,36,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 6
+11/14/2021,Uplands Park Elementary (Nanaimo),Nanaimo,68,Vancouver Island Health Authority,"""November 8 and 9, 2021""",Exposure 2
+11/14/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 2 and 3, 2021""",Exposure 2
+11/14/2021,Drinkwater Elementary,Duncan,79,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 11
+11/14/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 6, 2021""",Confirmation email on file.
+11/14/2021,C'usqunela Elementary,Maple Ridge,42,Fraser Health Authority,"""Nov 9, 2021""",Exposure 22
+11/14/2021,Eugene Reimer Middle School,Abbotsford,34,Fraser Health Authority,"""Nov 8, 9, 2021""",Exposure 4
+11/14/2021,ArtsCalibre Academy,Victoria,Independent Schools in Island Health,Vancouver Island Health Authority,,Exposure dates not provided.
+11/14/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 7, 2021""",Confirmation email on file.
+11/14/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 4, 5, 8, and 9, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle or Secondary Campus. We have listed it as Elementary but if you know differently, please let us know."""
+11/14/2021,Heritage Christian Online School (DL),Kelowna,Independent Schools in Fraser Health,Fraser Health Authority,"""November 9, 2021""",Langley location
+11/14/2021,St. Mary's School (Chilliwack),Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 2
+11/14/2021,Abbotsford Christian School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 4, 8, 9, and 10, 2021""",Exposure 29
+11/14/2021,Grandview Heights Secondary,Surrey,36,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 4
+11/14/2021,Hillcrest Elementary (Surrey),Surrey,36,Fraser Health Authority,"""November 3 and 4, 2021""",Exposure 6
+11/14/2021,St Matthew's Elementary,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 1
+11/14/2021,Queen Elizabeth Secondary,Surrey,36,Fraser Health Authority,"""November 9 and 10, 2021""",Exposure 4
+11/14/2021,Rosemary Heights Elementary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 3
+11/14/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""November 9, 2021""",Exposure 2
+11/14/2021,Semiahmoo Secondary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 7
 11/13/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 1, 2, 4, and 8, 2021""",Exposure 11
 11/13/2021,Chilliwack Secondary,Chilliwack,33,Fraser Health Authority,"""November 8, 2021""",Exposure 12
 11/13/2021,Nanaimo Christian School,Nanaimo,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 1 and 2, 2021""",Exposure 4
@@ -94,8 +94,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/13/2021,Beairsto Elementary,Vernon,22,Interior Health Authority,"""November 8, 2021""",Exposure 2
 11/13/2021,Terry Fox Elementary,Abbotsford,34,Fraser Health Authority,"""November 8 and 10, 2021""",Exposure 10
 11/13/2021,Robert Bateman Secondary,Abbotsford,34,Fraser Health Authority,"""November 8, 2021""",Exposure 15
-11/13/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""November 3, 4, and 5, 2021""",Exposure 21
-11/13/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 9
 11/13/2021,Rosedale Traditional Community,Rosedale,33,Fraser Health Authority,"""November 3 and 9, 2021""",Exposure 10
 11/13/2021,Bakerview Ctr for Learning,Abbotsford,34,Fraser Health Authority,"""November 8 and 10, 2021""",Exposure 2
 11/13/2021,Vedder Elementary,Chilliwack,33,Fraser Health Authority,"""November 5, 2021""",Exposure 10
@@ -110,9 +108,11 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/13/2021,Rosedale Traditional Community,Rosedale,33,Fraser Health Authority,"""November 3, 4, 8 and 9, 2021""",Exposure 11
 11/13/2021,Chute Lake Elementary,Kelowna,23,Interior Health Authority,"""Nov 8, 9, 2021""",Confirmation email on file.
 11/13/2021,Springwood Elementary,Parksville,69,Vancouver Island Health Authority,"""November 1, 4, and 5, 2021""",Exposure 6
+11/13/2021,Kanaka Creek Elementary,Maple Ridge,42,Fraser Health Authority,"""November 3, 4, and 5, 2021""",Exposure 21
+11/13/2021,Discovery Elementary (Shawnigan Lake),Shawnigan Lake,79,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 9
+11/13/2021,Nusatsum Elementary,,49,Vancouver Coastal Health,"""November 8, 2021""",Exposure 2
 11/13/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""Nov 9, 2021""","The school is closed ""based on a surge of Covid cases within [the] school community"". It is closed November 15-19. (Documentation on file)"
 11/13/2021,Eric Langton Elementary,Maple Ridge,42,Fraser Health Authority,"""October 29, 2021""",Documentation on file showing that the school will be following additional health measures.
-11/13/2021,Nusatsum Elementary,,49,Vancouver Coastal Health,"""November 8, 2021""",Exposure 2
 11/12/2021,Fort Rupert Elementary,Port Hardy,85,Vancouver Island Health Authority,"""November 4, 2021""",Exposure 1
 11/12/2021,Pauline Haarer Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 8 and 9, 2021""",Exposure 1
 11/12/2021,Coquihalla Elementary,Hope,78,Fraser Health Authority,"""October 28, 29, November 1, 2, and 3, 2021""",Exposure 5
