@@ -53,6 +53,7 @@ Rank,School,School District,Health Region,Exposures
 28,McMillan Elementary,34,Fraser Health Authority,24
 28,H D Stafford Middle,35,Fraser Health Authority,24
 28,Burnaby North Secondary,41,Fraser Health Authority,24
+28,Terry Fox Secondary,43,Fraser Health Authority,24
 28,Iqra School,Independent Schools in Fraser Health,Fraser Health Authority,24
 28,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,24
 29,Sardis Elementary,33,Fraser Health Authority,23
@@ -64,7 +65,6 @@ Rank,School,School District,Health Region,Exposures
 29,Sir Charles Tupper Secondary,39,Vancouver Coastal Health,23
 29,Kanaka Creek Elementary,42,Fraser Health Authority,23
 29,Heritage Woods Secondary,43,Fraser Health Authority,23
-29,Terry Fox Secondary,43,Fraser Health Authority,23
 29,Carson Graham Secondary,44,Vancouver Coastal Health,23
 29,Handsworth Secondary,44,Vancouver Coastal Health,23
 29,Hatzic Middle School,75,Fraser Health Authority,23
@@ -477,6 +477,7 @@ Rank,School,School District,Health Region,Exposures
 44,Heritage Christian School,Independent Schools in Interior Health,Interior Health Authority,8
 44,Okanagan Christian School,Independent Schools in Interior Health,Interior Health Authority,8
 44,Duncan Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,8
+44,Cedars Christian School,Independent Schools in Northern Health,Northern Health,8
 45,Nakusp Elementary,10,Interior Health Authority,7
 45,J Lloyd Crowe Secondary,20,Interior Health Authority,7
 45,James L Webster Elementary,20,Interior Health Authority,7
@@ -564,7 +565,6 @@ Rank,School,School District,Health Region,Exposures
 45,Aberdeen Hall Preparatory School (Junior School),Independent Schools in Interior Health,Interior Health Authority,7
 45,St Joseph Elementary School (Kelowna),Independent Schools in Interior Health,Interior Health Authority,7
 45,Campbell River Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,7
-45,Cedars Christian School,Independent Schools in Northern Health,Northern Health,7
 46,Beairsto Elementary,22,Interior Health Authority,6
 46,Ellison Elementary (Vernon),22,Interior Health Authority,6
 46,A S Matheson Elementary,23,Interior Health Authority,6
@@ -613,6 +613,7 @@ Rank,School,School District,Health Region,Exposures
 46,Prince Rupert Middle,52,Northern Health,6
 46,Oliver Elementary,53,Interior Health Authority,6
 46,Smithers Secondary,54,Northern Health,6
+46,Crescent Park Elementary (Dawson Creek),59,Northern Health,6
 46,Ecole Quadra Elementary,61,Vancouver Island Health Authority,6
 46,Oaklands Elementary,61,Vancouver Island Health Authority,6
 46,Summerland Middle School,67,Interior Health Authority,6
@@ -705,7 +706,6 @@ Rank,School,School District,Health Region,Exposures
 47,D P Todd Secondary,57,Northern Health,5
 47,Peden Hill Elementary,57,Northern Health,5
 47,Chetwynd Secondary,59,Northern Health,5
-47,Crescent Park Elementary (Dawson Creek),59,Northern Health,5
 47,Tremblay Elementary,59,Northern Health,5
 47,J Alfred Laird Elementary,6,Interior Health Authority,5
 47,Windermere Elementary,6,Interior Health Authority,5
