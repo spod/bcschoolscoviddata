@@ -1040,6 +1040,7 @@ Rank,School,School District,Health Region,Exposures
 49,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Houston Christian School,Independent Schools in Northern Health,Northern Health,3
+49,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,3
 49,Kispiox Community School,Independent Schools in Northern Health,Northern Health,3
 49,St Ann's School,Independent Schools in Northern Health,Northern Health,3
 50,Begbie View Elementary,19,Interior Health Authority,2
@@ -1137,6 +1138,7 @@ Rank,School,School District,Health Region,Exposures
 50,Keating Elementary,63,Vancouver Island Health Authority,2
 50,Gulf Islands Secondary,64,Vancouver Island Health Authority,2
 50,Penticton Christian School,67,Interior Health Authority,2
+50,Coal Tyee Elementary,68,Vancouver Island Health Authority,2
 50,Dover Bay Secondary School,68,Vancouver Island Health Authority,2
 50,Forest Park Elementary,68,Vancouver Island Health Authority,2
 50,Pauline Haarer Elementary,68,Vancouver Island Health Authority,2
@@ -1202,7 +1204,6 @@ Rank,School,School District,Health Region,Exposures
 50,Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,St. John Paul II Catholic School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,Annunciation School,Independent Schools in Northern Health,Northern Health,2
-50,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,2
 50,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 50,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
 50,Veritas Catholic,Independent Schools in Northern Health,Northern Health,2
@@ -1396,7 +1397,6 @@ Rank,School,School District,Health Region,Exposures
 51,Unisus School,67,Interior Health Authority,1
 51,Uplands Elementary (Penticton),67,Interior Health Authority,1
 51,West Bench Elementary,67,Interior Health Authority,1
-51,Coal Tyee Elementary,68,Vancouver Island Health Authority,1
 51,Dover Bay Secondary,68,Vancouver Island Health Authority,1
 51,Gabriola Elementary,68,Vancouver Island Health Authority,1
 51,Learning Alternatives (John Barsby site),68,Vancouver Island Health Authority,1
