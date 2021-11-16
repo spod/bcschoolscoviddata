@@ -51,6 +51,7 @@ Rank,School,School District,Health Region,Exposures
 28,Mount Slesse Middle School,33,Fraser Health Authority,24
 28,Eugene Reimer Middle School,34,Fraser Health Authority,24
 28,McMillan Elementary,34,Fraser Health Authority,24
+28,William A. Fraser Middle School,34,Fraser Health Authority,24
 28,H D Stafford Middle,35,Fraser Health Authority,24
 28,Burnaby North Secondary,41,Fraser Health Authority,24
 28,Terry Fox Secondary,43,Fraser Health Authority,24
@@ -58,7 +59,6 @@ Rank,School,School District,Health Region,Exposures
 28,Langley Christian (Elementary),Independent Schools in Fraser Health,Fraser Health Authority,24
 29,Sardis Elementary,33,Fraser Health Authority,23
 29,Abbotsford Traditional Senior Secondary,34,Fraser Health Authority,23
-29,William A. Fraser Middle School,34,Fraser Health Authority,23
 29,Delview Secondary,37,Fraser Health Authority,23
 29,Gladstone Secondary,39,Vancouver Coastal Health,23
 29,Kitsilano Secondary,39,Vancouver Coastal Health,23
@@ -86,6 +86,7 @@ Rank,School,School District,Health Region,Exposures
 31,Ecole Kwayhquitlum Middle,43,Fraser Health Authority,21
 31,Abbotsford Dasmesh Punjabi,Independent Schools in Fraser Health,Fraser Health Authority,21
 32,Unsworth Elementary,33,Fraser Health Authority,20
+32,D W Poppy Secondary,35,Fraser Health Authority,20
 32,Walnut Grove Secondary,35,Fraser Health Authority,20
 32,David Brankin Elementary,36,Fraser Health Authority,20
 32,Burnaby South Secondary,41,Fraser Health Authority,20
@@ -94,7 +95,6 @@ Rank,School,School District,Health Region,Exposures
 32,Ecole Dr Charles Best Secondary,43,Fraser Health Authority,20
 33,Colleen and Gordie Howe Middle School,34,Fraser Health Authority,19
 33,Alice Brown Elementary,35,Fraser Health Authority,19
-33,D W Poppy Secondary,35,Fraser Health Authority,19
 33,Richard Bulpitt Elementary,35,Fraser Health Authority,19
 33,Simonds Elementary,35,Fraser Health Authority,19
 33,Green Timbers Elementary,36,Fraser Health Authority,19
@@ -346,6 +346,7 @@ Rank,School,School District,Health Region,Exposures
 43,Glenmerry Elementary,20,Interior Health Authority,9
 43,Clarence Fulton Secondary,22,Interior Health Authority,9
 43,Casorso Elementary School,23,Interior Health Authority,9
+43,Chute Lake Elementary,23,Interior Health Authority,9
 43,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),23,Interior Health Authority,9
 43,Shannon Lake Elementary,23,Interior Health Authority,9
 43,Nesika Elementary,27,Interior Health Authority,9
@@ -485,7 +486,6 @@ Rank,School,School District,Health Region,Exposures
 45,Harwood Elementary,22,Interior Health Authority,7
 45,Kalamalka Secondary,22,Interior Health Authority,7
 45,"""Central School (Central Program and Services, Richter Site)""",23,Interior Health Authority,7
-45,Chute Lake Elementary,23,Interior Health Authority,7
 45,Dorothea Walker Elementary,23,Interior Health Authority,7
 45,George Pringle Elementary,23,Interior Health Authority,7
 45,Helen Gorman Elementary,23,Interior Health Authority,7
@@ -534,6 +534,7 @@ Rank,School,School District,Health Region,Exposures
 45,Blueridge Elementary,44,Vancouver Coastal Health,7
 45,Seymour Heights Elementary,44,Vancouver Coastal Health,7
 45,Ecole Cedardale,45,Vancouver Coastal Health,7
+45,Ecole Pauline Johnson Elementary,45,Vancouver Coastal Health,7
 45,Mamquam Elementary,48,Vancouver Coastal Health,7
 45,Parkland Middle School,5,Interior Health Authority,7
 45,Foothills Elementary,57,Northern Health,7
@@ -556,6 +557,7 @@ Rank,School,School District,Health Region,Exposures
 45,Alexander Elementary (Duncan),79,Vancouver Island Health Authority,7
 45,Khowhemun Elementary,79,Vancouver Island Health Authority,7
 45,Hillcrest Elementary (Salmon Arm),83,Interior Health Authority,7
+45,Len Wood Middle School,83,Interior Health Authority,7
 45,Andre-Piolat,93,Vancouver Coastal Health,7
 45,King David High School,Independent Schools in Coastal Health,Vancouver Coastal Health,7
 45,Cornerstone Montessori School,Independent Schools in Fraser Health,Fraser Health Authority,7
@@ -605,7 +607,6 @@ Rank,School,School District,Health Region,Exposures
 46,Smiling Creek Elementary,43,Fraser Health Authority,6
 46,Canyon Heights Elementary,44,Vancouver Coastal Health,6
 46,Chartwell Elementary,45,Vancouver Coastal Health,6
-46,Ecole Pauline Johnson Elementary,45,Vancouver Coastal Health,6
 46,Brackendale Elementary,48,Vancouver Coastal Health,6
 46,Signal Hill Elementary,48,Vancouver Coastal Health,6
 46,Laurie Middle School,5,Interior Health Authority,6
@@ -633,7 +634,6 @@ Rank,School,School District,Health Region,Exposures
 46,Fort Nelson Secondary,81,Northern Health,6
 46,Kildala Elementary,82,Northern Health,6
 46,Thornhill Primary,82,Northern Health,6
-46,Len Wood Middle School,83,Interior Health Authority,6
 46,Sorrento Elementary,83,Interior Health Authority,6
 46,South Broadview Elementary,83,Interior Health Authority,6
 46,BC Muslim School,Independent Schools in Coastal Health,Vancouver Coastal Health,6
@@ -884,6 +884,7 @@ Rank,School,School District,Health Region,Exposures
 48,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,4
 48,Traditional Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 48,St Michael's Elementary (Trail),Independent Schools in Interior Health,Interior Health Authority,4
+48,Phil & Jennie Gaglardi Academy,Independent Schools in Island Health,Vancouver Island Health Authority,4
 48,St Joseph's Catholic (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,4
 49,Lucerne Elem-Secondary,10,Interior Health Authority,3
 49,Arrow Heights Elementary,19,Interior Health Authority,3
@@ -894,6 +895,7 @@ Rank,School,School District,Health Region,Exposures
 49,Coldstream Elementary,22,Interior Health Authority,3
 49,Kidston Elementary,22,Interior Health Authority,3
 49,Anne McClymont Elementary,23,Interior Health Authority,3
+49,Belgo Elementary School,23,Interior Health Authority,3
 49,Ecole Glenmore Elementary,23,Interior Health Authority,3
 49,Oyama Traditional School,23,Interior Health Authority,3
 49,Peter Greer Elementary,23,Interior Health Authority,3
@@ -962,6 +964,7 @@ Rank,School,School District,Health Region,Exposures
 49,Queensbury Elementary,44,Vancouver Coastal Health,3
 49,Ridgeway Elementary,44,Vancouver Coastal Health,3
 49,Westview Elementary (North Vancouver),44,Vancouver Coastal Health,3
+49,Gleneagles Elementary,45,Vancouver Coastal Health,3
 49,Roberts Creek Elementary,46,Vancouver Coastal Health,3
 49,Nusatsum Elementary,49,Vancouver Coastal Health,3
 49,Kootenay Orchards Elementary,5,Interior Health Authority,3
@@ -996,6 +999,7 @@ Rank,School,School District,Health Region,Exposures
 49,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
 49,Ladysmith Intermediate,68,Vancouver Island Health Authority,3
 49,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,3
+49,North Oyster Elementary,68,Vancouver Island Health Authority,3
 49,Uplands Park Elementary (Nanaimo),68,Vancouver Island Health Authority,3
 49,Kwalikum Secondary School,69,Vancouver Island Health Authority,3
 49,Wood Elementary,70,Vancouver Island Health Authority,3
@@ -1031,7 +1035,7 @@ Rank,School,School District,Health Region,Exposures
 49,Purpose Independent Secondary School,Independent Schools in Fraser Health,Fraser Health Authority,3
 49,Sacred Heart Elementary (Delta),Independent Schools in Fraser Health,Fraser Health Authority,3
 49,Shuswap SDA,Independent Schools in Interior Health,Interior Health Authority,3
-49,Phil & Jennie Gaglardi Academy,Independent Schools in Island Health,Vancouver Island Health Authority,3
+49,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Houston Christian School,Independent Schools in Northern Health,Northern Health,3
 49,Kispiox Community School,Independent Schools in Northern Health,Northern Health,3
@@ -1041,7 +1045,6 @@ Rank,School,School District,Health Region,Exposures
 50,Lavington Elementary,22,Interior Health Authority,2
 50,Okanagan Waldorf School,22,Interior Health Authority,2
 50,Silver Star Elementary,22,Interior Health Authority,2
-50,Belgo Elementary School,23,Interior Health Authority,2
 50,Chief Tomat Elementary,23,Interior Health Authority,2
 50,Horse Lake Elementary,27,Interior Health Authority,2
 50,Skyline Alternate School,27,Interior Health Authority,2
@@ -1096,7 +1099,6 @@ Rank,School,School District,Health Region,Exposures
 50,Ross Road Elementary,44,Vancouver Coastal Health,2
 50,Sherwood Park Elementary,44,Vancouver Coastal Health,2
 50,Bowen Island Community School,45,Vancouver Coastal Health,2
-50,Gleneagles Elementary,45,Vancouver Coastal Health,2
 50,West Sechelt Elementary,46,Vancouver Coastal Health,2
 50,Pemberton Secondary,48,Vancouver Coastal Health,2
 50,Frank J Mitchell Elementary,5,Interior Health Authority,2
@@ -1136,7 +1138,6 @@ Rank,School,School District,Health Region,Exposures
 50,Penticton Christian School,67,Interior Health Authority,2
 50,Dover Bay Secondary School,68,Vancouver Island Health Authority,2
 50,Forest Park Elementary,68,Vancouver Island Health Authority,2
-50,North Oyster Elementary,68,Vancouver Island Health Authority,2
 50,Pauline Haarer Elementary,68,Vancouver Island Health Authority,2
 50,Arrowview Elementary,69,Vancouver Island Health Authority,2
 50,Alberni Elementary,70,Vancouver Island Health Authority,2
@@ -1198,7 +1199,6 @@ Rank,School,School District,Health Region,Exposures
 50,Brookes Westshore,Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,Discover Montessori School (Nanaimo),Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,Lakeview Christian School,Independent Schools in Island Health,Vancouver Island Health Authority,2
-50,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,St. John Paul II Catholic School,Independent Schools in Island Health,Vancouver Island Health Authority,2
 50,Annunciation School,Independent Schools in Northern Health,Northern Health,2
 50,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,2
