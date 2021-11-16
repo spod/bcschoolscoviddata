@@ -98,6 +98,7 @@ Rank,School,School District,Health Region,Exposures
 33,Richard Bulpitt Elementary,35,Fraser Health Authority,19
 33,Simonds Elementary,35,Fraser Health Authority,19
 33,Green Timbers Elementary,36,Fraser Health Authority,19
+33,Katzie Elementary,36,Fraser Health Authority,19
 33,Chalmers Elementary,37,Fraser Health Authority,19
 33,Ecole Glenbrook Middle School,40,Fraser Health Authority,19
 33,Samuel Robertson Technical Secondary,42,Fraser Health Authority,19
@@ -111,7 +112,6 @@ Rank,School,School District,Health Region,Exposures
 34,Langley Fundamental Elementary,35,Fraser Health Authority,18
 34,Beaver Creek Elementary,36,Fraser Health Authority,18
 34,Ecole Riverdale Elementary,36,Fraser Health Authority,18
-34,Katzie Elementary,36,Fraser Health Authority,18
 34,Martha Currie Elementary,36,Fraser Health Authority,18
 34,Rosemary Heights Elementary,36,Fraser Health Authority,18
 34,T E Scott Elementary,36,Fraser Health Authority,18
@@ -1142,6 +1142,7 @@ Rank,School,School District,Health Region,Exposures
 50,Tsuma-as Elementary (formerly AW Neill),70,Vancouver Island Health Authority,2
 50,Ucluelet Secondary,70,Vancouver Island Health Authority,2
 50,Aspen Park Elementary,71,Vancouver Island Health Authority,2
+50,Huband Park Elementary,71,Vancouver Island Health Authority,2
 50,Royston Elementary,71,Vancouver Island Health Authority,2
 50,Valley View Elementary,71,Vancouver Island Health Authority,2
 50,Barriere Elementary,73,Interior Health Authority,2
