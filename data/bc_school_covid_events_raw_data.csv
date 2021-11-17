@@ -7,7 +7,33 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/16/2021,Ecole Red Bluff Lhtako Elementary,Quesnel,28,Northern Health,"""November 8, 9, and 10, 2021""",Exposure 2
 11/16/2021,BX Elementary,Vernon,22,Interior Health Authority,"""November 10, 2021""",Exposure 3
 11/16/2021,Sunset Elementary,Port McNeill,85,Vancouver Island Health Authority,"""November 1, 2, 3, 4, and 5, 2021""",Exposure 2
+11/16/2021,Skyridge Montessori,Squamish,Independent Schools in Coastal Health,Vancouver Coastal Health,"""November 8, 9, and 10, 2021""",Exposure 1
+11/16/2021,Acwsalcta Band School,,Independent Schools in Coastal Health,Vancouver Coastal Health,"""November 8, 9, and 10, 2021""",Exposure 1
+11/16/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""November 15, 2021""",Exposure 10
+11/16/2021,Deer Lake SDA School,Burnaby,Independent Schools in Fraser Health,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 2
+11/16/2021,Cilaire Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 9, 2021""",Exposure 1
+11/16/2021,Brechin Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 10, 2021""",Exposure 3
+11/16/2021,Cowichan Secondary,Duncan,79,Vancouver Island Health Authority,"""Nov 3, 4, 5, 8, 9, 10, 2021""",Exposure 5
+11/16/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""Nov 5, 8, 9, 10, 2021""",Exposure 13
+11/16/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 5, 2021""",Exposure 12
+11/16/2021,Reynolds Secondary,Victoria,61,Vancouver Island Health Authority,"""November 8, 9, and 10, 2021""",Exposure 4
+11/16/2021,Ecole Heritage Park Middle School,Mission,75,Fraser Health Authority,"""November 4, 5, 8, 9, and 10, 2021""",Exposure 8
+11/16/2021,Berkshire Park Elementary,Surrey,36,Fraser Health Authority,"""November 10, 2021""",Exposure 3
+11/16/2021,James Ardiel Elementary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 2
+11/16/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 4
+11/16/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""Nov 12, 2021""",Confirmation email on file.
+11/16/2021,Gordon Head Middle School,Victoria,61,Vancouver Island Health Authority,"""November 10, 2021""",Exposure 3
 11/16/2021,Coal Tyee Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 9, 10, and 12, 2021""",Exposure 3
+11/16/2021,Cheslakees Elementary,Port McNeill,85,Vancouver Island Health Authority,"""November 10, 2021""",Exposure 1
+11/16/2021,Nanaimo Christian School,Nanaimo,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 6, 2021""",Exposure 6
+11/16/2021,Errington Elementary,Errington,69,Vancouver Island Health Authority,"""November 4 and 5, 2021""",Exposure 5
+11/16/2021,Ucluelet Elementary,Ucluelet,70,Vancouver Island Health Authority,"""November 3, 2021""",Exposure 9
+11/16/2021,Phil & Jennie Gaglardi Academy,Comox,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 5, 2021""",Exposure 5
+11/16/2021,ASIA - North Poplar,Abbotsford,34,Fraser Health Authority,"""November 9, 2021""",Exposure 6
+11/16/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""November 8, 2021""",Exposure 7
+11/16/2021,Brantford Elementary,Burnaby,41,Fraser Health Authority,"""November 12, 2021""",Exposure 3
+11/16/2021,Aldergrove Community Secondary,Aldergrove,35,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 4
+11/16/2021,Hatzic Middle School,Mission,75,Fraser Health Authority,"""November 10, 2021""",Exposure 5
 11/15/2021,Huband Park Elementary,Courtenay,71,Vancouver Island Health Authority,"""November 8 and 9, 2021""",Exposure 1
 11/15/2021,Huband Park Elementary,Courtenay,71,Vancouver Island Health Authority,"""November 10, 2021""",Exposure 2
 11/15/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""Nobember 9, 2021""",Exposure 9
@@ -87,7 +113,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/14/2021,Whonnock Elementary,Maple Ridge,42,Fraser Health Authority,"""Nov 8, 9, 10, 2021""",Exposure 11
 11/14/2021,Keating Elementary,Victoria,63,Vancouver Island Health Authority,"""Nov 8, 9, 10, 2021""",Exposure 2
 11/14/2021,Kelset Elementary,North Saanich,63,Vancouver Island Health Authority,"""Nov 9, 10, 2021""",Exposure 2
-11/14/2021,Kelset Elementary,North Saanich,63,Vancouver Island Health Authority,"""Nov 8, 9, 10, 2021""",Confirmation email on file.
 11/14/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""Nov 10, 12, 2021""",Confirmation email on file.
 11/14/2021,Langley Christian (Middle and High),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""Nov 5, 8, 2021""",Exposure 10
 11/14/2021,Glenwood Elementary (Maple Ridge),Maple Ridge,42,Fraser Health Authority,"""Nov 5, 2021""",Exposure 2
@@ -141,6 +166,7 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/14/2021,Langley Fine Arts School,Langley,35,Fraser Health Authority,"""November 2, 2021""","""Documentation on file showing that the school will be following additional health measures November 15th - 26th, 2021."""
 11/14/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""November 3, 4, 5, 7, and 8, 2021""",)
 11/14/2021,McMillan Elementary,Abbotsford,34,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 13
+11/14/2021,Kelset Elementary,North Saanich,63,Vancouver Island Health Authority,"""Nov 8, 9, 10, 2021""",Documentation on file showing that one full class has been asked to self-isolate.
 11/13/2021,Eric Langton Elementary,Maple Ridge,42,Fraser Health Authority,"""October 29, 2021""",Documentation on file showing that the school will be following additional health measures.
 11/13/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 1, 2, 4, and 8, 2021""",Exposure 11
 11/13/2021,Chilliwack Secondary,Chilliwack,33,Fraser Health Authority,"""November 8, 2021""",Exposure 12
