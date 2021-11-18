@@ -289,6 +289,7 @@ Rank,School,School District,Health Region,Exposures
 41,Matthew McNair Secondary,38,Vancouver Coastal Health,11
 41,Eric Hamber Secondary,39,Vancouver Coastal Health,11
 41,Eagle Mountain Middle School,43,Fraser Health Authority,11
+41,Ecole Maple Creek Middle,43,Fraser Health Authority,11
 41,Ecole Panorama Heights Elementary,43,Fraser Health Authority,11
 41,Prince George Secondary,57,Northern Health,11
 41,Bert Bowes Middle School,60,Northern Health,11
@@ -325,7 +326,6 @@ Rank,School,School District,Health Region,Exposures
 42,Skwo:wech Elementary (formerly Richard McBride Elementary - New Westminster),40,Fraser Health Authority,10
 42,Alexander Robinson Elementary,42,Fraser Health Authority,10
 42,Castle Park Elementary,43,Fraser Health Authority,10
-42,Ecole Maple Creek Middle,43,Fraser Health Authority,10
 42,Summit Middle School,43,Fraser Health Authority,10
 42,Braemar Elementary,44,Vancouver Coastal Health,10
 42,Sutherland Secondary,44,Vancouver Coastal Health,10
@@ -496,6 +496,7 @@ Rank,School,School District,Health Region,Exposures
 45,Dr Thomas A Swift Elementary,34,Fraser Health Authority,7
 45,John MacLure Community School,34,Fraser Health Authority,7
 45,Prince Charles Elementary (Abbotsford),34,Fraser Health Authority,7
+45,Upper Sumas Elementary,34,Fraser Health Authority,7
 45,Alex Hope Elementary,35,Fraser Health Authority,7
 45,James Kennedy Elementary,35,Fraser Health Authority,7
 45,Berkshire Park Elementary,36,Fraser Health Authority,7
@@ -577,7 +578,6 @@ Rank,School,School District,Health Region,Exposures
 46,East Chilliwack Elementary,33,Fraser Health Authority,6
 46,Robertson Elementary,33,Fraser Health Authority,6
 46,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
-46,Upper Sumas Elementary,34,Fraser Health Authority,6
 46,Blacklock Fine Arts Elementary,35,Fraser Health Authority,6
 46,James Hill Elementary,35,Fraser Health Authority,6
 46,City Central Learning Centre,36,Fraser Health Authority,6
@@ -1169,6 +1169,7 @@ Rank,School,School District,Health Region,Exposures
 50,Highland Park Elementary (Armstrong),83,Interior Health Authority,2
 50,Ranchero Elementary Junior,83,Interior Health Authority,2
 50,Salmon Arm West Elementary,83,Interior Health Authority,2
+50,Fort Rupert Elementary,85,Vancouver Island Health Authority,2
 50,Sunset Elementary,85,Vancouver Island Health Authority,2
 50,Evelyn Dickson Elementary,91,Northern Health,2
 50,Lakes District Secondary,91,Northern Health,2
@@ -1448,7 +1449,6 @@ Rank,School,School District,Health Region,Exposures
 51,Gold River Secondary,84,Vancouver Island Health Authority,1
 51,Zeballos Elementary,84,Vancouver Island Health Authority,1
 51,Cheslakees Elementary,85,Vancouver Island Health Authority,1
-51,Fort Rupert Elementary,85,Vancouver Island Health Authority,1
 51,Mouse Mountain Elementary,91,Northern Health,1
 51,Nechako Valley Secondary,91,Northern Health,1
 51,Nisga'a Elementary Secondary,92,Northern Health,1
