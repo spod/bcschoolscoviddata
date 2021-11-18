@@ -891,6 +891,7 @@ Rank,School,School District,Health Region,Exposures
 48,Surrey Christian (Cloverdale Campus),Independent Schools in Fraser Health,Fraser Health Authority,4
 48,Traditional Learning Academy,Independent Schools in Fraser Health,Fraser Health Authority,4
 48,St Michael's Elementary (Trail),Independent Schools in Interior Health,Interior Health Authority,4
+48,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,4
 48,St Joseph's Catholic (Victoria),Independent Schools in Island Health,Vancouver Island Health Authority,4
 49,Lucerne Elem-Secondary,10,Interior Health Authority,3
 49,Arrow Heights Elementary,19,Interior Health Authority,3
@@ -1038,12 +1039,12 @@ Rank,School,School District,Health Region,Exposures
 49,Sacred Heart Elementary (Delta),Independent Schools in Fraser Health,Fraser Health Authority,3
 49,Pleasant Valley Christian Academy,Independent Schools in Interior Health,Interior Health Authority,3
 49,Shuswap SDA,Independent Schools in Interior Health,Interior Health Authority,3
-49,Salt Spring Centre School,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Victoria School for Ideal Education,Independent Schools in Island Health,Vancouver Island Health Authority,3
 49,Houston Christian School,Independent Schools in Northern Health,Northern Health,3
 49,Immaculate Conception (Prince George),Independent Schools in Northern Health,Northern Health,3
 49,Kispiox Community School,Independent Schools in Northern Health,Northern Health,3
 49,St Ann's School,Independent Schools in Northern Health,Northern Health,3
+49,Veritas Catholic,Independent Schools in Northern Health,Northern Health,3
 50,Begbie View Elementary,19,Interior Health Authority,2
 50,Fruitvale Elementary,20,Interior Health Authority,2
 50,Lavington Elementary,22,Interior Health Authority,2
@@ -1088,6 +1089,7 @@ Rank,School,School District,Health Region,Exposures
 50,Academic Night School at New Westminster Secondary,40,Fraser Health Authority,2
 50,F W Howay Elementary,40,Fraser Health Authority,2
 50,Aubrey Elementary,41,Fraser Health Authority,2
+50,Buckingham Elementary,41,Fraser Health Authority,2
 50,Burnaby Youth HUB,41,Fraser Health Authority,2
 50,Rosser Elementary,41,Fraser Health Authority,2
 50,St Francis de Sales,41,Fraser Health Authority,2
@@ -1209,7 +1211,6 @@ Rank,School,School District,Health Region,Exposures
 50,Annunciation School,Independent Schools in Northern Health,Northern Health,2
 50,Mountain View Christian Academy,Independent Schools in Northern Health,Northern Health,2
 50,St Joseph's School (Smithers),Independent Schools in Northern Health,Northern Health,2
-50,Veritas Catholic,Independent Schools in Northern Health,Northern Health,2
 51,Burton Elementary,10,Interior Health Authority,1
 51,Nakusp Secondary,10,Interior Health Authority,1
 51,Kinnaird Elementary,20,Interior Health Authority,1
@@ -1303,7 +1304,6 @@ Rank,School,School District,Health Region,Exposures
 51,Home Learners Program,40,Fraser Health Authority,1
 51,POWER Alternate Secondary School,40,Fraser Health Authority,1
 51,Queen Elizabeth Elementary (New Westminster),40,Vancouver Coastal Health,1
-51,Buckingham Elementary,41,Fraser Health Authority,1
 51,Burnaby South Community & Continuing Education,41,Fraser Health Authority,1
 51,Canada Way Learning Centre,41,Fraser Health Authority,1
 51,Lyndhurst Elementary,41,Fraser Health Authority,1
