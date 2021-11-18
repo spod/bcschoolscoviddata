@@ -5,13 +5,6 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/17/2021,Buckingham Elementary,Burnaby,41,Fraser Health Authority,"""November 12, 2021""",Exposure 2
 11/17/2021,Veritas Catholic,Terrace,Independent Schools in Northern Health,Northern Health,"""November 8, 9, and 10, 2021""",Exposure 2
 11/17/2021,Salt Spring Centre School,Salt Spring Island,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 3, 4, 5, 9, 10, and 12, 2021""",Exposure 3
-11/17/2021,Kelset Elementary,North Saanich,63,Vancouver Island Health Authority,"""November 5, 2021""",Exposure 4
-11/17/2021,Sandy Hill Elementary,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 8
-11/17/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""November 10, 2021""",Exposure 2
-11/17/2021,Moody Elementary,Port Moody,43,Fraser Health Authority,"""November 12, 2021""",Exposure 1
-11/17/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 9 and 10, 2021""",Exposure 12
-11/17/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,"""Nov 8, 9, 2021""",Confirmation email on file.
-11/17/2021,Sperling Elementary,Burnaby,41,Fraser Health Authority,"""November 15, 2021""",Exposure 2
 11/17/2021,Clayton Heights Secondary,Surrey,36,Fraser Health Authority,"""November 10, 2021""",Exposure 5
 11/17/2021,Maddaugh Road Elementary,Surrey,36,Fraser Health Authority,"""November 10, 2021""",Exposure 3
 11/17/2021,Pacific Heights Elementary,Surrey,36,Fraser Health Authority,"""November 8, 9, and 10, 2021""",Exposure 4
@@ -20,6 +13,13 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/17/2021,Mennonite Educational Institute Elementary School,Abbotsford,Independent Schools in Fraser Health,Fraser Health Authority,"""November 10 and 12, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle or Secondary Campus. We have listed it as Elementary but if you know differently, please let us know."""
 11/17/2021,Langley Christian (Elementary),Langley,Independent Schools in Fraser Health,Fraser Health Authority,"""November 10 and 12, 2021""","""The BCCDC does not specify if this is the Elementary Campus or the Middle/High Campus. We have listed it as Elementary but if you know differently, please let us know."""
 11/17/2021,Star of the Sea,Surrey,Independent Schools in Fraser Health,Fraser Health Authority,"""November 12, 2021""",Exposure 7
+11/17/2021,Kelset Elementary,North Saanich,63,Vancouver Island Health Authority,"""November 5, 2021""",Exposure 4
+11/17/2021,Sandy Hill Elementary,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 8
+11/17/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""November 10, 2021""",Exposure 2
+11/17/2021,Moody Elementary,Port Moody,43,Fraser Health Authority,"""November 12, 2021""",Exposure 1
+11/17/2021,Unity Christian School,Chilliwack,Independent Schools in Fraser Health,Fraser Health Authority,"""November 9 and 10, 2021""",Exposure 12
+11/17/2021,Kerrisdale Elementary,Vancouver,39,Vancouver Coastal Health,"""Nov 8, 9, 2021""",Confirmation email on file.
+11/17/2021,Sperling Elementary,Burnaby,41,Fraser Health Authority,"""November 15, 2021""",Exposure 2
 11/17/2021,Eagle Ridge Elementary,Coquitlam,43,Fraser Health Authority,"""November 10, 2021""",Exposure 3
 11/16/2021,Coal Tyee Elementary,Nanaimo,68,Vancouver Island Health Authority,"""November 2, 3, and 4, 2021""",Exposure 2
 11/16/2021,Immaculate Conception (Prince George),Prince George,Independent Schools in Northern Health,Northern Health,"""November 8, 9, and 10, 2021""",Exposure 2
@@ -54,8 +54,8 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/16/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 5, 2021""",Exposure 12
 11/16/2021,Skyridge Montessori,Squamish,Independent Schools in Coastal Health,Vancouver Coastal Health,"""November 8, 9, and 10, 2021""",Exposure 1
 11/16/2021,Acwsalcta Band School,,Independent Schools in Coastal Health,Vancouver Coastal Health,"""November 8, 9, and 10, 2021""",Exposure 1
-11/16/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 3, 4, 5, 8, 9, 10, 15, and 16, 2021""",Documentation on file showing that one class is in isolation. This has also been declared a cluster.
 11/16/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""Nov 12, 2021""",Confirmation email on file.
+11/16/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""November 3, 4, 5, 8, 9, 10, 15, and 16, 2021""",Documentation on file showing that one class is in isolation. This has also been declared a cluster.
 11/15/2021,Huband Park Elementary,Courtenay,71,Vancouver Island Health Authority,"""November 8 and 9, 2021""",Exposure 1
 11/15/2021,Huband Park Elementary,Courtenay,71,Vancouver Island Health Authority,"""November 10, 2021""",Exposure 2
 11/15/2021,Katzie Elementary,Surrey,36,Fraser Health Authority,"""Nobember 9, 2021""",Exposure 9
