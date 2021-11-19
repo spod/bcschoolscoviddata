@@ -9,14 +9,19 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/18/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""Nov 12, 2021.""",Exposure 8
 11/18/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""Nov 12, 2021""",Exposure 10
 11/18/2021,Raft River Elementary,Clearwater,73,Interior Health Authority,"""Nov 8, 9, 10, 11""",Exposure 9
-11/18/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 7
-11/18/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 14
-11/18/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""November 12 and 15, 2021""",Exposure 8
-11/18/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""November 8, 9, and 12, 2021""",Exposure 3
-11/18/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 2
-11/18/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 5
-11/18/2021,Nanaimo Christian School,Nanaimo,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 5, 2021""",Documentation on file showing that this school's K-5 classes are moving to online learning until end of day November 29th.
-11/18/2021,Kelowna Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""November 12, 2021""",Exposure 12
+11/18/2021,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),Lake Country,23,Interior Health Authority,"""November 12, 2021""",Exposure 10
+11/18/2021,Peter Greer Elementary,Winfield,23,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 3
+11/18/2021,North Glenmore Elementary,Kelowna,23,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 3
+11/18/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""November 11, 2021""",Exposure 5
+11/18/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""November 10, 2021""",Exposure 11
+11/18/2021,Westsyde Secondary,Kamloops,73,Interior Health Authority,"""November 8, 2021""",Exposure 2
+11/18/2021,Glenrosa Elementary,West Kelowna,23,Interior Health Authority,"""November 12, 2021""",Exposure 5
+11/18/2021,Constable Neil Bruce Middle School,West Kelowna,23,Interior Health Authority,"""November 8, 9, 10, and 12, 2021""",Exposure 7
+11/18/2021,Chute Lake Elementary,Kelowna,23,Interior Health Authority,"""November 11 and 12, 2021""",Exposure 6
+11/18/2021,Chute Lake Elementary,Kelowna,23,Interior Health Authority,"""November 5, 2021""",Exposure 5
+11/18/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 15, 2021""",Document indicates that 2 'pods' are to self-isolate and may return to school on November 29th.
+11/18/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,"""November 8, 9, 10, 11, and 12, 2021""",Exposure 7
+11/18/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,"""November 12, 2021""",Exposure 4
 11/18/2021,Ocean Cliff Elementary,Surrey,36,Fraser Health Authority,"""November 15, 2021""",Exposure 1
 11/18/2021,Panorama Ridge Secondary,Surrey,36,Fraser Health Authority,"""November 15, 2021""",Exposure 3
 11/18/2021,Gordon Terrace Elementary,Cranbrook,5,Interior Health Authority,"""November 8, 9, 10, 11, and 12, 2021""",Exposure 2
@@ -37,19 +42,14 @@ Notification Date,School,City,School District,Health Region,Exposure Dates,Extra
 11/18/2021,Arthur Stevenson Elementary,Kamloops,73,Interior Health Authority,"""November 8, 9, and 10, 2021""",Exposure 6
 11/18/2021,Dorothea Walker Elementary,Kelowna,23,Interior Health Authority,"""November 9 and 10, 2021""",Exposure 5
 11/18/2021,Nesika Elementary,Williams Lake,27,Interior Health Authority,"""November 12, 2021""",Exposure 6
-11/18/2021,H.S. Grenda Jr. Middle School (Formerly Lake Country Middle School),Lake Country,23,Interior Health Authority,"""November 12, 2021""",Exposure 10
-11/18/2021,Peter Greer Elementary,Winfield,23,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 3
-11/18/2021,North Glenmore Elementary,Kelowna,23,Interior Health Authority,"""November 8 and 9, 2021""",Exposure 3
-11/18/2021,Ecole Glenmore Elementary,Kelowna,23,Interior Health Authority,"""November 11, 2021""",Exposure 5
-11/18/2021,M.V. Beattie Elementary,Enderby,83,Interior Health Authority,"""November 10, 2021""",Exposure 11
-11/18/2021,Westsyde Secondary,Kamloops,73,Interior Health Authority,"""November 8, 2021""",Exposure 2
-11/18/2021,Glenrosa Elementary,West Kelowna,23,Interior Health Authority,"""November 12, 2021""",Exposure 5
-11/18/2021,Constable Neil Bruce Middle School,West Kelowna,23,Interior Health Authority,"""November 8, 9, 10, and 12, 2021""",Exposure 7
-11/18/2021,Chute Lake Elementary,Kelowna,23,Interior Health Authority,"""November 11 and 12, 2021""",Exposure 6
-11/18/2021,Chute Lake Elementary,Kelowna,23,Interior Health Authority,"""November 5, 2021""",Exposure 5
-11/18/2021,Mount Boucherie Secondary School,West Kelowna,23,Interior Health Authority,"""November 12, 2021""",Exposure 4
-11/18/2021,Shannon Lake Elementary,West Kelowna,23,Interior Health Authority,"""November 8, 9, 10, 11, and 12, 2021""",Exposure 7
-11/18/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 15, 2021""",Document indicates that 2 'pods' are to self-isolate and may return to school on November 29th.
+11/18/2021,Colleen and Gordie Howe Middle School,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 7
+11/18/2021,William A. Fraser Middle School,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 14
+11/18/2021,Abbotsford Senior Secondary School,Abbotsford,34,Fraser Health Authority,"""November 12 and 15, 2021""",Exposure 8
+11/18/2021,Blue Jay Elementary,Abbotsford,34,Fraser Health Authority,"""November 8, 9, and 12, 2021""",Exposure 3
+11/18/2021,Lakeview Elementary,Burnaby,41,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 2
+11/18/2021,Yale Secondary,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 5
+11/18/2021,Nanaimo Christian School,Nanaimo,Independent Schools in Island Health,Vancouver Island Health Authority,"""November 5, 2021""",Documentation on file showing that this school's K-5 classes are moving to online learning until end of day November 29th.
+11/18/2021,Kelowna Christian School,Kelowna,Independent Schools in Interior Health,Interior Health Authority,"""November 12, 2021""",Exposure 12
 11/17/2021,Ecole Maple Creek Middle,Port Coquitlam,43,Fraser Health Authority,"""November 8 and 9, 2021""",Exposure 4
 11/17/2021,Upper Sumas Elementary,Abbotsford,34,Fraser Health Authority,"""November 12, 2021""",Exposure 5
 11/17/2021,Fort Rupert Elementary,Port Hardy,85,Vancouver Island Health Authority,"""November 8, 2021""",Exposure 2
