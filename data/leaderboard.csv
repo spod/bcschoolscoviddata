@@ -581,6 +581,7 @@ Rank,School,School District,Health Region,Exposures
 46,ASIA - Sumas Mountain 6-12,34,Fraser Health Authority,6
 46,Blacklock Fine Arts Elementary,35,Fraser Health Authority,6
 46,James Hill Elementary,35,Fraser Health Authority,6
+46,North Otter Elementary,35,Fraser Health Authority,6
 46,City Central Learning Centre,36,Fraser Health Authority,6
 46,Douglas Elementary,36,Fraser Health Authority,6
 46,Ocean Cliff Elementary,36,Fraser Health Authority,6
@@ -661,7 +662,6 @@ Rank,School,School District,Health Region,Exposures
 47,Dormick Park Elementary,34,Fraser Health Authority,5
 47,Gordon Greenwood Elementary,35,Fraser Health Authority,5
 47,Langley Meadows Elementary,35,Fraser Health Authority,5
-47,North Otter Elementary,35,Fraser Health Authority,5
 47,Clayton Elementary,36,Fraser Health Authority,5
 47,Janice Churchill Elementary,36,Fraser Health Authority,5
 47,Jessie Lee Elementary,36,Fraser Health Authority,5
@@ -847,6 +847,7 @@ Rank,School,School District,Health Region,Exposures
 48,KVR Middle School,67,Interior Health Authority,4
 48,Skaha Lake Middle School,67,Interior Health Authority,4
 48,Trout Creek Elementary,67,Interior Health Authority,4
+48,Coal Tyee Elementary,68,Vancouver Island Health Authority,4
 48,Frank J Ney Elementary,68,Vancouver Island Health Authority,4
 48,John Barsby Secondary School,68,Vancouver Island Health Authority,4
 48,Qwam Qwum Stuwixwulh Community School,68,Vancouver Island Health Authority,4
@@ -1001,7 +1002,6 @@ Rank,School,School District,Health Region,Exposures
 49,Brentwood Elementary,63,Vancouver Island Health Authority,3
 49,Penticton Secondary,67,Interior Health Authority,3
 49,Princess Margaret Secondary (Penticton),67,Interior Health Authority,3
-49,Coal Tyee Elementary,68,Vancouver Island Health Authority,3
 49,Ladysmith Intermediate,68,Vancouver Island Health Authority,3
 49,Mountain View Elementary (Nanaimo),68,Vancouver Island Health Authority,3
 49,North Oyster Elementary,68,Vancouver Island Health Authority,3
